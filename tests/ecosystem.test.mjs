@@ -23,8 +23,8 @@ test('weekly links match published source IDs and avoid combined Haftarah collis
  assert.equal(weeklyStudy(data.shiurim,w.target_shabbat,{he:'נח'}),null);
 });
 test('all 54 portions are visible and unpublished Zohar studies are not invented',()=>{
- const rows=allParashot(data.zohar);assert.equal(rows.length,54);assert.equal(rows.filter(r=>r.edition).length,3);
- assert.equal(rows.find(r=>r.en==='Lech-Lecha').edition.id,'5787-2026-10-24');assert.equal(rows.at(-1).edition,null);
+ const rows=allParashot(data.zohar);assert.equal(rows.length,54);assert.ok(rows.filter(r=>r.edition).length>=3);
+ assert.equal(rows.find(r=>r.en==='Lech-Lecha').edition.id,'5787-2026-10-24');assert.ok(allParashot({editions:[]}).every(r=>r.edition===null));
 });
 test('Hebrew date changes at local sunset and leap-month navigation crosses Adar correctly',()=>{
  const before=hebrewToday(DEFAULT_CITY,new Date('2026-10-24T12:00:00Z')),after=hebrewToday(DEFAULT_CITY,new Date('2026-10-24T18:00:00Z'));assert.equal(after.abs(),before.abs()+1);

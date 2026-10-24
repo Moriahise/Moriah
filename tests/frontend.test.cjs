@@ -7,6 +7,7 @@ const root=path.join(__dirname,'..');
 async function setup(){
  const dom=new JSDOM(fs.readFileSync(path.join(root,'web/index.html'),'utf8'),{url:'https://moriah.test/',runScripts:'outside-only',pretendToBeVisual:true});
  const w=dom.window;
+ const NativeDate=w.Date;w.Date=class extends NativeDate{constructor(...args){super(...(args.length?args:["2026-10-24T12:00:00Z"]));}static now(){return new NativeDate("2026-10-24T12:00:00Z").getTime();}};
  w.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(path.join(root,url),'utf8'))});
  w.HTMLElement.prototype.scrollIntoView=()=>{};
  w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};
