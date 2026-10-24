@@ -1,8 +1,8 @@
 ## MORIAH
 
-Collected: 282 recent news links and 72 videos.
+Collected: 338 recent news links and 72 videos.
 
-Working feeds: 23/41. Fully bilingual headlines: 268/282.
+Working feeds: 23/41. Fully bilingual headlines: 322/338.
 
 Automated compilation; no human or rabbinic review claimed.
 
