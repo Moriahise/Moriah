@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-24T20:00:23Z",
+  "checked_at": "2026-10-24T20:04:48Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-10-24T20:00:23Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-24T20:00:23Z"
+      "checked_at": "2026-10-24T20:04:48Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-24T20:00:23Z"
+      "checked_at": "2026-10-24T20:04:48Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-10-24T20:00:23Z"
+      "checked_at": "2026-10-24T20:04:48Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-10-24T20:04:48Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-24T20:00:23Z"
+      "checked_at": "2026-10-24T20:04:48Z"
     }
   },
   "music": [
