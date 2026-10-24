@@ -11,6 +11,7 @@ async function setup(){
  w.HTMLElement.prototype.scrollIntoView=()=>{};
  w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};
  w.HTMLDialogElement.prototype.close=function(){this.open=false;};
+ w.eval(fs.readFileSync(path.join(root,'assets/integrations.js'),'utf8'));
  w.eval(fs.readFileSync(path.join(root,'assets/app.js'),'utf8'));
  await new Promise(r=>setTimeout(r,70));
  return {dom,w,d:w.document};
@@ -36,4 +37,35 @@ test('load more expands only the news list',async()=>{
 
 test('front-page focus gives original-language reports priority',async()=>{
  const {dom,d}=await setup();const first=[...d.querySelectorAll('#front-news .compact-item')];assert.ok(first.length>0);assert.ok(first.every(n=>!n.querySelector('.machine-label')));dom.window.close();
+});
+
+
+test('all seven integrations render and weekly source links open exact studies',async()=>{
+ const {dom,d}=await setup();
+ for(const id of ['jewish-calendar','niggunim','questions','zohar','dictionary','daily-daf'])assert.ok(d.getElementById(id));
+ assert.equal(d.querySelectorAll('#daily-cards .daily-card').length,3);
+ assert.match(d.querySelector('#parashah-name a').href,/Shiurim\/shiur\//);assert.match(d.querySelector('#haftarah-name a').href,/Shiurim\/haftarot\/haftarah-/);
+ assert.equal(d.querySelectorAll('.zohar-row').length,54);assert.equal(d.querySelectorAll('.qa-card').length,3);assert.equal(d.querySelectorAll('.collection-chip').length,9);
+ assert.equal(d.querySelector('#error').hidden,true);dom.window.close();
+});
+test('calendar navigation and selected-city daily times work in both languages',async()=>{
+ const {dom,w,d}=await setup();const first=d.querySelector('#calendar-month-title').textContent;d.querySelector('#calendar-actions button:last-child').click();assert.notEqual(d.querySelector('#calendar-month-title').textContent,first);
+ d.querySelector('#calendar-grid button').click();assert.equal(d.querySelectorAll('.zman-row').length>=8,true);
+ const city=d.querySelector('#city-select');city.value='vienna';city.dispatchEvent(new w.Event('change'));assert.match(d.querySelector('#calendar-local-date').textContent,/Europe\/Vienna/);
+ d.querySelector('[data-lang="he"]').click();assert.match(d.querySelector('#calendar-month-title').textContent,/[א-ת]/);assert.match(d.querySelector('#calendar-today').textContent,/[א-ת]/);dom.window.close();
+});
+test('Niggunim rotate and create a real playlist player only after user choice',async()=>{
+ const {dom,d}=await setup();assert.equal(d.querySelectorAll('#music-player iframe,#music-player audio').length,0);
+ const before=d.querySelector('#music-feature h3').textContent;d.querySelector('#music-rotation button:last-child').click();assert.notEqual(d.querySelector('#music-feature h3').textContent,before);
+ d.querySelector('#music-feature button').click();assert.ok(d.querySelector('#music-player iframe,#music-player audio'));assert.ok(d.querySelectorAll('#music-player button').length>=3);
+ [...d.querySelectorAll('#music-player button')].at(-1).click();assert.equal(d.querySelectorAll('#music-player iframe,#music-player audio').length,0);dom.window.close();
+});
+test('dictionary submits supported hash search and Q&A cards rotate',async()=>{
+ const {dom,w,d}=await setup();d.querySelector('#dictionary-query').value='תורה';d.querySelector('#dictionary-form').dispatchEvent(new w.Event('submit',{cancelable:true}));
+ const u=new URL(d.querySelector('#dictionary-frame iframe').src),params=new URLSearchParams(u.hash.slice(1));assert.equal(u.pathname,'/Jastrow/');assert.equal(params.get('view'),'dictionary');assert.equal(params.get('q'),'תורה');
+ d.querySelector('#dictionary-close').click();assert.equal(d.querySelector('#dictionary-embed').hidden,true);
+ const before=d.querySelector('#qa-cards h3').textContent;d.querySelector('#qa-actions button').click();assert.notEqual(d.querySelector('#qa-cards h3').textContent,before);dom.window.close();
+});
+test('selected Daf date has its own reader while today card retains today',async()=>{
+ const {dom,w,d}=await setup();const today=d.querySelector('.daf-feature h3 a').href;const input=d.querySelector('#daf-current input');input.value='2026-10-25';input.dispatchEvent(new w.Event('change'));assert.match(d.querySelector('#daf-current h3 a').href,/bekhorot-37/);assert.equal(d.querySelector('.daf-feature h3 a').href,today);dom.window.close();
 });

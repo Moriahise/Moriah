@@ -11,6 +11,9 @@ Public newspaper: https://moriahise.github.io/Moriah/
 - Hebrew ↔ English headline translation using locally executed OPUS/Argos models; no paid AI key required. Arabic and Russian video titles can be translated through English.
 - Attributed source links, official-channel video metadata, searchable headlines and a 24-section bilingual learning library.
 - Location-specific Shabbat/Parashah/Haftarah data for Jerusalem, Tel Aviv, Haifa, Vienna, London and New York. Hebcal attribution and calculation settings remain visible.
+- A navigable Hebrew/civil month calendar with local zmanim, holidays and readings, calculated in the browser.
+- Direct weekly Shiurim and Haftarah links, all 54 Zohar portions, the actual daily Daf and embedded Jastrow search.
+- Nine real Niggunim collections with rotating playlists/series, and daily Sanhedrin question cards linked to existing answers. [Integration details](docs/INTEGRATIONS.md).
 - Frozen weekly editions after Wednesday 18:00 **Asia/Jerusalem**, with missed-run catch-up and correct daylight-saving conversion.
 - Hebrew and English **16-page PDFs**, online reading editions, an archive and RSS.
 - Data, interface, PDF and local-link checks before publishing. Last successful collection is retained if every live source fails.
@@ -28,7 +31,7 @@ The normal public pipeline needs no personal token and no OpenAI secret. The wor
 - **Moriah**: independently operating public newspaper, current published configuration, pipeline and website.
 - **Moriah-Redaktion**: private configuration, drafts, private twice-daily previews and reports. Private drafts never enter the public build.
 
-A public repository’s `GITHUB_TOKEN` cannot read a different private repository. Therefore the public newspaper deliberately continues autonomously using its own publishable configuration. To make private configuration edits flow automatically to the public repository, the owner can optionally add **`MORIAH_PUBLISH_TOKEN`** in the private repository. Its export script transmits only five explicitly allowlisted configuration/content files; it never exports drafts, private state, reviewer notes or secrets. Setup is documented in the private repo. Without this connection the public newspaper still updates and publishes; private configuration edits remain private.
+A public repository’s `GITHUB_TOKEN` cannot read a different private repository. Therefore the public newspaper deliberately continues autonomously using its own publishable configuration. To make private configuration edits flow automatically to the public repository, the owner can optionally add **`MORIAH_PUBLISH_TOKEN`** in the private repository. Its export script transmits only six explicitly allowlisted configuration/content files; it never exports drafts, private state, reviewer notes or secrets. Setup is documented in the private repo. Without this connection the public newspaper still updates and publishes; private configuration edits remain private.
 
 ## Source availability
 
@@ -44,6 +47,8 @@ Python 3.12 and Node 22:
 pip install -r requirements.txt
 npm ci --ignore-scripts
 python scripts/pipeline.py
+python scripts/ecosystem.py
+npm run build:integrations
 python -m unittest discover -s tests -v
 npm test
 python scripts/build.py
@@ -67,3 +72,4 @@ Use `python scripts/pipeline.py --offline` to rebuild from saved data without po
 - `_site/`: generated deployment artifact, not committed.
 
 Before any significant PDF layout change, render both languages and inspect the resulting pages. Do not rewrite archived snapshots to make old news look new. See [OPERATIONS.md](docs/OPERATIONS.md) for maintenance and correction procedures.
+

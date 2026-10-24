@@ -1,1 +1,16 @@
-{"name":"moriah-newspaper","private":true,"version":"1.0.0","scripts":{"test":"node --test tests/frontend.test.cjs"},"devDependencies":{"jsdom":"^26.1.0"}}
+{
+  "name": "moriah-newspaper",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test tests/frontend.test.cjs tests/ecosystem.test.mjs",
+    "build:integrations": "node scripts/bundle-integrations.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^26.1.0"
+  },
+  "dependencies": {
+    "@hebcal/core": "6.14.6",
+    "esbuild": "0.28.2"
+  }
+}

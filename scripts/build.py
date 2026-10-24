@@ -86,7 +86,7 @@ def build(out,pdfs):
     shutil.copytree(ROOT/'data',out/'data',ignore=shutil.ignore_patterns('translations.json','run-report.md'))
     index=(ROOT/'web/index.html').read_text()
     fallback='<ul>'+''.join(f'<li><a href="{esc(x["url"])}">{esc(x["title"])}</a></li>' for x in data['news'][:10])+'</ul>'
-    index=index.replace('__NOSCRIPT__',fallback).replace('assets/app.js','assets/app.js?v='+asset_version('app.js')).replace('assets/style.css','assets/style.css?v='+asset_version('style.css'))
+    index=index.replace('__NOSCRIPT__',fallback).replace('assets/app.js','assets/app.js?v='+asset_version('app.js')).replace('assets/integrations.js','assets/integrations.js?v='+asset_version('integrations.js')).replace('assets/style.css','assets/style.css?v='+asset_version('style.css'))
     (out/'index.html').write_text(index)
     (out/'.nojekyll').touch()
     (out/'policies.html').write_text(page('Sources & policy',POLICIES))
@@ -128,3 +128,4 @@ def build(out,pdfs):
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--output',default=str(ROOT/'_site'));p.add_argument('--no-pdf',action='store_true');a=p.parse_args();build(Path(a.output).resolve(),not a.no_pdf)
+
