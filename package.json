@@ -1,0 +1,1 @@
+{"name":"moriah-newspaper","private":true,"version":"1.0.0","scripts":{"test":"node --test tests/frontend.test.cjs"},"devDependencies":{"jsdom":"^26.1.0"}}

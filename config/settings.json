@@ -1,0 +1,61 @@
+{
+  "name": "MORIAH",
+  "launch_date": "2026-10-24",
+  "base_url": "https://moriahise.github.io/Moriah/",
+  "timezone": "Asia/Jerusalem",
+  "refresh_hours": 4,
+  "weekly_day": "Wednesday",
+  "weekly_hour": 18,
+  "retention_days": 21,
+  "max_news": 360,
+  "max_translations_per_run": 240,
+  "translate": true,
+  "public_repository": "Moriahise/Moriah",
+  "editorial_repository": "Moriahise/Moriah-Redaktion",
+  "default_language": "en",
+  "contact_url": "https://github.com/Moriahise/Moriah/issues",
+  "cities": [
+    {
+      "id": "jerusalem",
+      "en": "Jerusalem",
+      "he": "ירושלים",
+      "geonameid": 281184,
+      "israel": true
+    },
+    {
+      "id": "tel-aviv",
+      "en": "Tel Aviv",
+      "he": "תל אביב",
+      "geonameid": 293397,
+      "israel": true
+    },
+    {
+      "id": "haifa",
+      "en": "Haifa",
+      "he": "חיפה",
+      "geonameid": 294801,
+      "israel": true
+    },
+    {
+      "id": "vienna",
+      "en": "Vienna",
+      "he": "וינה",
+      "geonameid": 2761369,
+      "israel": false
+    },
+    {
+      "id": "london",
+      "en": "London",
+      "he": "לונדון",
+      "geonameid": 2643743,
+      "israel": false
+    },
+    {
+      "id": "new-york",
+      "en": "New York",
+      "he": "ניו יורק",
+      "geonameid": 5128581,
+      "israel": false
+    }
+  ]
+}

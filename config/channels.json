@@ -1,0 +1,302 @@
+[
+  {
+    "id": "yt-kan11",
+    "name": {
+      "en": "Kan 11",
+      "he": "כאן 11"
+    },
+    "homepage": "https://www.youtube.com/channel/UCKqFqiCe1dCUxRe0_YNZ6gg",
+    "language": "he",
+    "section": "culture",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "kan11",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCKqFqiCe1dCUxRe0_YNZ6gg",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@KAN11",
+    "channel_title": "כאן 11 - תאגיד השידור הישראלי"
+  },
+  {
+    "id": "yt-kannews",
+    "name": {
+      "en": "Kan News",
+      "he": "כאן חדשות"
+    },
+    "homepage": "https://www.youtube.com/channel/UC_HwfTAcjBESKZRJq6BTCpg",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "kannews",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UC_HwfTAcjBESKZRJq6BTCpg",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@kan11news",
+    "channel_title": "כאן | חדשות - תאגיד השידור הישראלי"
+  },
+  {
+    "id": "yt-kankids",
+    "name": {
+      "en": "Kan Educational",
+      "he": "כאן חינוכית"
+    },
+    "homepage": "https://www.youtube.com/channel/UC_fUfLFo31WTFZPxgr1EcLA",
+    "language": "he",
+    "section": "young",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "kankids",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UC_fUfLFo31WTFZPxgr1EcLA",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@kankids",
+    "channel_title": "כאן חינוכית"
+  },
+  {
+    "id": "yt-makan33",
+    "name": {
+      "en": "Makan 33",
+      "he": "מכאן 33"
+    },
+    "homepage": "https://www.youtube.com/channel/UC0_B_wGJuCn9YktQ0mEuHAQ",
+    "language": "ar",
+    "section": "culture",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "makan33",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UC0_B_wGJuCn9YktQ0mEuHAQ",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@kan33.official",
+    "channel_title": "مكان - هيئة البث العامة"
+  },
+  {
+    "id": "yt-reshet13",
+    "name": {
+      "en": "Reshet 13",
+      "he": "רשת 13"
+    },
+    "homepage": "https://www.youtube.com/channel/UCOyYs3ZtsGMmt3L5eaywsXA",
+    "language": "he",
+    "section": "culture",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "reshet13",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCOyYs3ZtsGMmt3L5eaywsXA",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/user/reshettv",
+    "channel_title": "רשת 13"
+  },
+  {
+    "id": "yt-channel9",
+    "name": {
+      "en": "Channel 9",
+      "he": "ערוץ 9"
+    },
+    "homepage": "https://www.youtube.com/channel/UCixtbfonx_QIjS1DB96zcFg",
+    "language": "ru",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "channel9",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCixtbfonx_QIjS1DB96zcFg",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@israel9tv",
+    "channel_title": "9 канал | Channel 9"
+  },
+  {
+    "id": "yt-i24en",
+    "name": {
+      "en": "i24NEWS English",
+      "he": "i24NEWS אנגלית"
+    },
+    "homepage": "https://www.youtube.com/channel/UCvHDpsWKADrDia0c99X37vg",
+    "language": "en",
+    "section": "security",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "i24en",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCvHDpsWKADrDia0c99X37vg",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@i24NEWS_EN",
+    "channel_title": "i24NEWS English"
+  },
+  {
+    "id": "yt-knesset",
+    "name": {
+      "en": "The Knesset · Parliament",
+      "he": "הכנסת · הפרלמנט"
+    },
+    "homepage": "https://www.youtube.com/channel/UC4elaDPpw25TipG2U33paLA",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "knesset",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UC4elaDPpw25TipG2U33paLA",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@Knesset",
+    "channel_title": "The Knesset"
+  },
+  {
+    "id": "yt-n12",
+    "name": {
+      "en": "N12 / Keshet 12 News",
+      "he": "חדשות 12"
+    },
+    "homepage": "https://www.youtube.com/channel/UCZH1ZFHSLSZEh_Ek2L-vrgA",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCZH1ZFHSLSZEh_Ek2L-vrgA"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "n12",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCZH1ZFHSLSZEh_Ek2L-vrgA",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@N12News",
+    "channel_title": "החדשות"
+  },
+  {
+    "id": "yt-now14",
+    "name": {
+      "en": "C14 / Now 14",
+      "he": "עכשיו 14"
+    },
+    "homepage": "https://www.youtube.com/channel/UCKEImtWikw9usC1pl_9m1nQ",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "now14",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCKEImtWikw9usC1pl_9m1nQ",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@C14news",
+    "channel_title": "C14"
+  },
+  {
+    "id": "yt-knesset-tv",
+    "name": {
+      "en": "Knesset Channel 99",
+      "he": "ערוץ כנסת 99"
+    },
+    "homepage": "https://www.youtube.com/channel/UCpjNXONNE-JUz7QACB1Cgcw",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "knesset-tv",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCpjNXONNE-JUz7QACB1Cgcw",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@KnessetTV",
+    "channel_title": "ערוץ כנסת 99"
+  },
+  {
+    "id": "yt-i24he",
+    "name": {
+      "en": "i24NEWS Hebrew",
+      "he": "i24NEWS עברית"
+    },
+    "homepage": "https://www.youtube.com/channel/UCisowXt5wZkp2sR3rFh9lnQ",
+    "language": "he",
+    "section": "security",
+    "feed_urls": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ"
+    ],
+    "enabled": true,
+    "max_items": 6,
+    "family": "i24he",
+    "rights_mode": "official_embed",
+    "type": "video",
+    "channel_id": "UCisowXt5wZkp2sR3rFh9lnQ",
+    "allowed_domains": [
+      "youtube.com"
+    ],
+    "identity_checked_at": "2026-10-24",
+    "identity_evidence": "https://www.youtube.com/@i24NEWS_HE",
+    "channel_title": "i24NEWS עברית"
+  }
+]

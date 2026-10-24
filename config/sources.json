@@ -1,0 +1,494 @@
+[
+  {
+    "id": "jpost",
+    "name": {
+      "en": "The Jerusalem Post",
+      "he": "ג׳רוזלם פוסט"
+    },
+    "homepage": "https://www.jpost.com/",
+    "language": "en",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.jpost.com/rss/rssfeedsisraelnews.aspx"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "jpost",
+    "rights_mode": "headline_link",
+    "terms_url": "https://www.jpost.com/landedpages/termsofservice.aspx"
+  },
+  {
+    "id": "jpost-judaism",
+    "name": {
+      "en": "JPost · Judaism",
+      "he": "ג׳רוזלם פוסט · יהדות"
+    },
+    "homepage": "https://www.jpost.com/judaism",
+    "language": "en",
+    "section": "parashah",
+    "feed_urls": [
+      "https://www.jpost.com/rss/rssfeedsjudaism"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "jpost",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "jpost-culture",
+    "name": {
+      "en": "JPost · Culture",
+      "he": "ג׳רוזלם פוסט · תרבות"
+    },
+    "homepage": "https://www.jpost.com/",
+    "language": "en",
+    "section": "culture",
+    "feed_urls": [
+      "https://www.jpost.com/rss/rssfeedsculture.aspx"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "jpost",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "toi",
+    "name": {
+      "en": "The Times of Israel",
+      "he": "טיימס אוף ישראל"
+    },
+    "homepage": "https://www.timesofisrael.com/",
+    "language": "en",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.timesofisrael.com/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "toi",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "zman",
+    "name": {
+      "en": "Zman Yisrael",
+      "he": "זמן ישראל"
+    },
+    "homepage": "https://www.zman.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.zman.co.il/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "toi",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "ynet",
+    "name": {
+      "en": "Ynet / Yedioth Ahronoth group",
+      "he": "ynet / קבוצת ידיעות אחרונות"
+    },
+    "homepage": "https://www.ynet.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.ynet.co.il/Integration/StoryRss2.xml"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "yedioth",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "ynetnews",
+    "name": {
+      "en": "Ynetnews",
+      "he": "ynetnews"
+    },
+    "homepage": "https://www.ynetnews.com/",
+    "language": "en",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.ynetnews.com/Integration/StoryRss3082.xml"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "yedioth",
+    "rights_mode": "headline_link",
+    "allowed_domains": [
+      "ynetnews.com",
+      "ynet.co.il"
+    ]
+  },
+  {
+    "id": "yedioth",
+    "name": {
+      "en": "Yedioth Ahronoth · newspaper",
+      "he": "ידיעות אחרונות · העיתון"
+    },
+    "homepage": "https://www.yediot.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "yedioth",
+    "rights_mode": "headline_link",
+    "directory_note": {
+      "en": "Print/digital newspaper; Ynet feeds are listed separately.",
+      "he": "העיתון המודפס והדיגיטלי; עדכוני ynet מוצגים בנפרד."
+    }
+  },
+  {
+    "id": "maariv",
+    "name": {
+      "en": "Maariv",
+      "he": "מעריב"
+    },
+    "homepage": "https://www.maariv.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.maariv.co.il/Rss/RssFeedsNews"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "maariv",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "globes",
+    "name": {
+      "en": "Globes",
+      "he": "גלובס"
+    },
+    "homepage": "https://www.globes.co.il/",
+    "language": "he",
+    "section": "economy",
+    "feed_urls": [
+      "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "globes",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "calcalist",
+    "name": {
+      "en": "Calcalist",
+      "he": "כלכליסט"
+    },
+    "homepage": "https://www.calcalist.co.il/",
+    "language": "he",
+    "section": "economy",
+    "feed_urls": [
+      "https://www.calcalist.co.il/GeneralRSS/0,16335,L-6,00.xml",
+      "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "calcalist",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "themarker",
+    "name": {
+      "en": "TheMarker",
+      "he": "דה מרקר"
+    },
+    "homepage": "https://www.themarker.com/",
+    "language": "he",
+    "section": "economy",
+    "feed_urls": [
+      "https://www.themarker.com/cmlink/1.144"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "themarker",
+    "rights_mode": "headline_link",
+    "directory_note": {
+      "en": "Publisher link; subscription content stays at the publisher.",
+      "he": "קישור למו״ל; תכנים למנויים נשארים באתר המקור."
+    }
+  },
+  {
+    "id": "israelhayom",
+    "name": {
+      "en": "Israel Hayom",
+      "he": "ישראל היום"
+    },
+    "homepage": "https://www.israelhayom.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.israelhayom.co.il/rss"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "israelhayom",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "hamodia",
+    "name": {
+      "en": "Hamodia",
+      "he": "המודיע"
+    },
+    "homepage": "https://hamodia.com/",
+    "language": "en",
+    "section": "community",
+    "feed_urls": [
+      "https://hamodia.com/category/israel/feed/",
+      "https://hamodia.com/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "hamodia",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "yated",
+    "name": {
+      "en": "Yated Ne’eman · English",
+      "he": "יתד נאמן · אנגלית"
+    },
+    "homepage": "https://yated.com/",
+    "language": "en",
+    "section": "thought",
+    "feed_urls": [
+      "https://yated.com/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "yated",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "besheva",
+    "name": {
+      "en": "B’Sheva",
+      "he": "בשבע"
+    },
+    "homepage": "https://www.inn.co.il/bsheva",
+    "language": "he",
+    "section": "traditions",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "arutz7",
+    "rights_mode": "headline_link",
+    "directory_note": {
+      "en": "B’Sheva magazine; Arutz Sheva news is a separate feed.",
+      "he": "מגזין בשבע; חדשות ערוץ 7 הן מקור עדכונים נפרד."
+    }
+  },
+  {
+    "id": "arutz7",
+    "name": {
+      "en": "Arutz Sheva",
+      "he": "ערוץ 7"
+    },
+    "homepage": "https://www.inn.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.inn.co.il/Rss.aspx?act=.1"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "arutz7",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "inn-en",
+    "name": {
+      "en": "Israel National News",
+      "he": "ערוץ 7 · אנגלית"
+    },
+    "homepage": "https://www.israelnationalnews.com/",
+    "language": "en",
+    "section": "diaspora",
+    "feed_urls": [
+      "https://www.israelnationalnews.com/Rss.aspx"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "arutz7",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "makorrishon",
+    "name": {
+      "en": "Makor Rishon",
+      "he": "מקור ראשון"
+    },
+    "homepage": "https://www.makorrishon.co.il/",
+    "language": "he",
+    "section": "thought",
+    "feed_urls": [
+      "https://www.makorrishon.co.il/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "makorrishon",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "kan",
+    "name": {
+      "en": "Kan 11 / Kan News",
+      "he": "כאן 11 / כאן חדשות"
+    },
+    "homepage": "https://www.kan.org.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "kan",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "keshet12",
+    "name": {
+      "en": "Keshet 12 / N12",
+      "he": "קשת 12 / N12"
+    },
+    "homepage": "https://www.n12.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "keshet12",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "reshet13",
+    "name": {
+      "en": "Reshet 13",
+      "he": "רשת 13"
+    },
+    "homepage": "https://13tv.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "reshet13",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "now14",
+    "name": {
+      "en": "Now 14 / C14",
+      "he": "עכשיו 14"
+    },
+    "homepage": "https://www.c14.co.il/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [
+      "https://www.c14.co.il/feed/"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "now14",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "kankids",
+    "name": {
+      "en": "Kan Educational",
+      "he": "כאן חינוכית"
+    },
+    "homepage": "https://www.kankids.org.il/",
+    "language": "he",
+    "section": "young",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "kankids",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "makan",
+    "name": {
+      "en": "Makan 33",
+      "he": "מכאן 33"
+    },
+    "homepage": "https://www.makan.org.il/",
+    "language": "ar",
+    "section": "culture",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "makan",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "knesset-tv",
+    "name": {
+      "en": "Knesset Channel",
+      "he": "ערוץ כנסת"
+    },
+    "homepage": "https://www.knesset.tv/",
+    "language": "he",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "knesset-tv",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "i24news",
+    "name": {
+      "en": "i24NEWS",
+      "he": "i24NEWS"
+    },
+    "homepage": "https://www.i24news.tv/en",
+    "language": "en",
+    "section": "security",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "i24news",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "channel9",
+    "name": {
+      "en": "Channel 9",
+      "he": "ערוץ 9"
+    },
+    "homepage": "https://www.9tv.co.il/",
+    "language": "ru",
+    "section": "israel",
+    "feed_urls": [],
+    "enabled": true,
+    "max_items": 15,
+    "family": "channel9",
+    "rights_mode": "headline_link"
+  },
+  {
+    "id": "jta",
+    "name": {
+      "en": "Jewish Telegraphic Agency",
+      "he": "הסוכנות הטלגרפית היהודית"
+    },
+    "homepage": "https://www.jta.org/",
+    "language": "en",
+    "section": "diaspora",
+    "feed_urls": [
+      "https://www.jta.org/feed"
+    ],
+    "enabled": true,
+    "max_items": 15,
+    "family": "jta",
+    "rights_mode": "headline_link"
+  }
+]

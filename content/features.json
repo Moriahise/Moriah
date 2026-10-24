@@ -1,0 +1,906 @@
+[
+  {
+    "id": "one-stone-jerusalem",
+    "section": "jerusalem",
+    "title": {
+      "en": "One stone, a whole world",
+      "he": "אבן אחת — עולם שלם"
+    },
+    "deck": {
+      "en": "Three ways to look at Jerusalem: a source, an object and a living city.",
+      "he": "שלוש דרכים להביט בירושלים: מקור, ממצא ועיר חיה."
+    },
+    "body": {
+      "en": [
+        "A stone in Jerusalem can belong to several stories. A biblical passage may connect a place with memory and longing; an archaeologist may ask when a wall was built; a resident may describe the street as part of an ordinary journey. These are different kinds of knowledge. Reading them together begins by asking what each can establish.",
+        "Psalm 122 presents Jerusalem as a destination of pilgrimage and a focus of prayer for peace. Read the whole poem before selecting one familiar line. Notice the speaker, the people being addressed and the movement between arrival, memory and hope. A literary reading gives the words room to speak without using them as a dating method for a particular structure.",
+        "An inscription or excavated building asks different questions. Where was it found? Was the context disturbed? Which part of the proposed date rests on pottery, a written source or comparison with another site? A photograph without a documented location cannot answer these questions. A digital reconstruction should show where evidence ends and interpretation begins.",
+        "Finally, Jerusalem is home to people. A responsible portrait includes daily work, worship, transport, schools and the experience of different communities. The three perspectives enrich one another when their boundaries remain visible. At the Shabbat table, choose a single place and ask: what do we know from the text, what do we know from evidence, and what would we still like to learn?"
+      ],
+      "he": [
+        "אבן בירושלים יכולה להשתייך לכמה סיפורים. פסוק מקראי קושר מקום לזיכרון ולכיסופים; ארכאולוג שואל מתי נבנה קיר; ותושב מתאר רחוב שהוא חלק מדרכו היומית. אלה סוגים שונים של ידיעה. כדי לקרוא אותם יחד, צריך תחילה לשאול מה כל אחד מהם יכול ללמד.",
+        "מזמור קכ״ב בתהילים מציג את ירושלים כיעד של עלייה וכמוקד של תפילה לשלום. כדאי לקרוא את המזמור כולו לפני שבוחרים שורה מוכרת. מי הדובר? למי הוא פונה? כיצד נעים הדברים בין הגעה לעיר, זיכרון ותקווה? הקריאה הספרותית מאפשרת למילים לדבר, בלי להפוך אותן לכלי לתיארוך מבנה מסוים.",
+        "כתובת או מבנה שנחשפו בחפירה מעוררים שאלות אחרות. היכן בדיוק נמצאו? האם ההקשר השתבש? על מה מבוסס התיארוך — כלי חרס, מקור כתוב או השוואה לאתר אחר? צילום שאין לו תיעוד של מקום המציאה אינו יכול להשיב על כך. גם שחזור דיגיטלי צריך להראות היכן מסתיימת העדות והיכן מתחילה הפרשנות.",
+        "ירושלים היא גם ביתם של בני אדם. תיאור אחראי של העיר כולל עבודה, תפילה, תחבורה, בתי ספר וחוויות של קהילות שונות. שלוש נקודות המבט מעשירות זו את זו כאשר גבולותיהן ברורים. לשיחה בשולחן שבת: בחרו מקום אחד ושאלו מה אנו יודעים מן הכתוב, מה אנו יודעים מן הממצאים ומה עדיין נרצה ללמוד."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Psalms 122",
+        "url": "https://www.sefaria.org/Psalms.122"
+      },
+      {
+        "label": "National Library of Israel",
+        "url": "https://www.nli.org.il/en"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "read-a-responsum",
+    "section": "halakhah",
+    "title": {
+      "en": "How to read a responsum",
+      "he": "כיצד קוראים תשובה הלכתית?"
+    },
+    "deck": {
+      "en": "A question, its circumstances and a chain of reasoning belong together.",
+      "he": "השאלה, נסיבותיה ודרך ההכרעה נקראות יחד."
+    },
+    "body": {
+      "en": [
+        "A responsum is an answer to a question asked in particular circumstances. A short quotation can hide the detail that makes the answer intelligible: the place, the time, the custom of a community, or a fact supplied by the questioner. Begin with the question and read through to the conclusion.",
+        "Write down the author, the work, the section and the precise reference. Then distinguish a cited earlier opinion from the author’s own conclusion. A text may present an argument in order to reject it, or mention a permission that depends on conditions stated elsewhere in the same passage.",
+        "When several authorities disagree, a useful learning note records the disagreement and its stated reasons. It does not turn the first answer found in a search into a universal rule. Translation is another layer: technical terms may carry meanings that ordinary English does not preserve.",
+        "MORIAH’s learning links are starting points for study. A practical question needs its actual circumstances and an appropriate qualified authority. For a source-based discussion, ask three questions: What facts were assumed? Which earlier sources were used? What limits did the author place on the conclusion?"
+      ],
+      "he": [
+        "תשובה הלכתית נכתבת כמענה לשאלה בנסיבות מסוימות. ציטוט קצר עלול להעלים פרט שמסביר את התשובה: המקום, התקופה, מנהג הקהילה או עובדה שמסר השואל. לכן מתחילים בשאלה וקוראים עד לסיכום.",
+        "רושמים את שם המחבר, הספר, הסימן והמראה המדויק. אחר כך מבחינים בין דעה קדומה המצוטטת בדיון לבין מסקנת המחבר עצמו. לעיתים מוצגת טענה כדי לדחות אותה, או מוזכר היתר שתלוי בתנאים המופיעים במקום אחר באותה תשובה.",
+        "כאשר פוסקים חולקים, דף לימוד מועיל מציג את המחלוקת ואת נימוקיה. הוא אינו הופך את התשובה הראשונה שנמצאה בחיפוש לכלל המחייב בכל מצב. גם תרגום הוא רובד נוסף: מונח הלכתי עשוי לשאת משמעות שאינה נשמרת במילה אנגלית רגילה.",
+        "קישורי הלימוד של מוריה הם נקודת מוצא לעיון. שאלה מעשית דורשת בירור נסיבות ופנייה לסמכות מוסמכת המתאימה לעניין. לשיחה על המקורות נשאל: אילו עובדות הונחו? באילו מקורות השתמש המחבר? ומהם גבולות המסקנה שקבע?"
+      ]
+    },
+    "sources": [
+      {
+        "label": "Sefaria · texts and references",
+        "url": "https://www.sefaria.org/texts"
+      },
+      {
+        "label": "Sanhedrin · source collection",
+        "url": "https://shekhina.org/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "two-languages-one-conversation",
+    "section": "language",
+    "title": {
+      "en": "Two languages, one conversation",
+      "he": "שתי שפות, שיחה אחת"
+    },
+    "deck": {
+      "en": "Start with a sentence. Keep the source in sight.",
+      "he": "מתחילים במשפט ושומרים על קשר עם המקור."
+    },
+    "body": {
+      "en": [
+        "A useful translation helps a reader enter a text while leaving a path back to the original. Begin with one short sentence. Identify the verb, the speaker and the person being addressed before deciding how to express the sentence in another language.",
+        "A dictionary offers possibilities, not a verdict detached from context. Biblical Hebrew, rabbinic Hebrew and Jewish Aramaic do not share every meaning. BDB, Jastrow, Klein and Strong’s serve different purposes. A numbered concordance entry can help locate a word; the surrounding passage still matters.",
+        "Keep a small vocabulary notebook with three columns: the word as it appears, its form or root where identifiable, and its meaning in this sentence. Record the source reference. If the form is uncertain, preserve the uncertainty instead of assigning an attractive but unsupported root.",
+        "Try the exercise in both directions. Read the Hebrew sentence, draft the English, then compare the draft with the Hebrew again. What became clearer? What was lost? MORIAH keeps original headlines visible alongside machine translations for the same reason: a translated line should never conceal the text from which it came."
+      ],
+      "he": [
+        "תרגום מועיל מכניס את הקורא אל הטקסט ומשאיר דרך חזרה אל המקור. מתחילים במשפט קצר. מזהים את הפועל, את הדובר ואת הנמען, ורק אחר כך בוחרים כיצד להביע את המשפט בשפה אחרת.",
+        "מילון מציע אפשרויות; הוא אינו מכריע במקום ההקשר. עברית מקראית, לשון חז״ל וארמית יהודית אינן חולקות כל משמעות. BDB, יסטרוב, קליין וקונקורדנציית סטרונג נועדו למטרות שונות. מספר בקונקורדנציה מסייע לאתר מילה, אך אינו מחליף את קריאת הקטע שסביבה.",
+        "אפשר להכין פנקס קטן ובו שלושה טורים: המילה כפי שהיא כתובה, צורתה או שורשה כאשר הם מזוהים, ומשמעותה במשפט הזה. מוסיפים מראה מקום. אם זיהוי הצורה אינו בטוח, משמרים את הספק במקום לבחור שורש נאה שאין לו בסיס.",
+        "מנסים את התרגיל בשני הכיוונים: קוראים את המשפט העברי, מנסחים אנגלית ומשווים שוב למקור. מה התבהר ומה אבד? מאותה סיבה מוריה מציגה כותרת מקור לצד תרגום מכונה. השורה המתורגמת צריכה להשאיר את הטקסט שממנו באה גלוי לקורא."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Sefaria Dictionaries",
+        "url": "https://www.sefaria.org/texts/Reference/Dictionary"
+      },
+      {
+        "label": "Shiurim · sources",
+        "url": "https://moriahise.github.io/Shiurim/sources/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "learn-the-daf",
+    "section": "daf",
+    "title": {
+      "en": "A window into the Daf",
+      "he": "חלון אל הדף"
+    },
+    "deck": {
+      "en": "Follow one question before trying to master an entire page.",
+      "he": "עוקבים אחר שאלה אחת לפני שמנסים להקיף דף שלם."
+    },
+    "body": {
+      "en": [
+        "A page of Talmud contains several voices and often several stages of an argument. A first reading becomes easier when it follows a single question. What problem begins the discussion? Which answer is proposed? What objection changes the direction?",
+        "Mark the boundaries between a Mishnah, a quoted teaching and the Gemara’s discussion. Keep the precise tractate and folio reference, including a or b. A summary should tell the reader where to return to the text, not replace that return.",
+        "A productive study note may be only four lines: the question, the first answer, the difficulty and the conclusion or open issue. If the discussion remains unresolved, write that down. A neat ending supplied by the learner is not evidence that the text itself reached one.",
+        "The current Daf Yomi reference in MORIAH comes from the calendar data and links to further learning. When revisiting this library article later, use the current calendar rather than assuming a saved PDF still points to today’s folio. Learning gains depth through repetition, comparison and conversation."
+      ],
+      "he": [
+        "בדף גמרא נשמעים קולות שונים, ולעיתים כמה שלבים של טיעון. בקריאה ראשונה קל יותר לעקוב אחר שאלה אחת: מה פותח את הסוגיה? איזו תשובה מוצעת? ואיזו קושיה משנה את כיוון הדיון?",
+        "מסמנים את הגבולות בין משנה, ברייתא או מקור מצוטט ובין דיון הגמרא. שומרים מראה מקום מדויק: מסכת, דף ועמוד. סיכום טוב מפנה את הלומד בחזרה אל הטקסט ואינו בא במקומו.",
+        "דף לימוד מועיל יכול לכלול ארבע שורות: השאלה, התשובה הראשונה, הקושי והמסקנה או הנקודה שנותרה פתוחה. אם הדיון לא הוכרע, רושמים זאת. סיום מסודר שהלומד הוסיף אינו מעיד שהסוגיה עצמה הגיעה אליו.",
+        "ההפניה העדכנית לדף היומי במוריה נלקחת מנתוני הלוח ומקשרת להמשך לימוד. כשחוזרים למאמר הזה מן הארכיון, בודקים את הלוח העדכני ולא מניחים שקובץ PDF ישן עדיין מציג את הדף של היום. העיון מעמיק בחזרה, בהשוואה ובשיחה."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Sefaria · Talmud",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      {
+        "label": "Daf Yomi learning",
+        "url": "https://moriahise.github.io/Daf-Yomi/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "israel-in-numbers",
+    "section": "economy",
+    "title": {
+      "en": "Reading Israel through its numbers",
+      "he": "קוראים את ישראל דרך המספרים"
+    },
+    "deck": {
+      "en": "A statistic needs a date, a definition and a comparison.",
+      "he": "נתון דורש תאריך, הגדרה והשוואה."
+    },
+    "body": {
+      "en": [
+        "A number becomes informative when the reader knows what it measures. Is a price figure monthly or annual? Does an employment series describe people, jobs or hours? Does a chart show a percentage change or percentage points? Small differences in wording can change the meaning of a report.",
+        "Before drawing a conclusion, locate the original release and its reference period. A publication date is not necessarily the month in which the activity occurred. Some series are revised, and seasonal adjustment can make a current figure differ from the raw total.",
+        "The Bank of Israel publishes research, statistical information and monetary-policy material. A newspaper can help by explaining a definition and showing a well-labelled comparison. It should preserve the source, unit and date so a reader can check the claim.",
+        "For a family discussion, find one economic headline and ask what evidence would support it. A change in a national average does not describe every household. A clear explanation leaves space for that difference and distinguishes data from a forecast or an opinion. This article is a guide to reading data, not an assessment of current market conditions."
+      ],
+      "he": [
+        "מספר נעשה מועיל כאשר ברור מה הוא מודד. האם שינוי המחירים הוא חודשי או שנתי? האם נתוני תעסוקה מתארים אנשים, משרות או שעות עבודה? האם מדובר בשינוי באחוזים או בנקודות אחוז? הבדל קטן בניסוח עשוי לשנות את משמעות הדיווח.",
+        "לפני מסקנה מאתרים את הפרסום המקורי ואת התקופה שאליה הנתון מתייחס. תאריך הפרסום אינו בהכרח החודש שבו התרחשה הפעילות. סדרות מסוימות מתעדכנות בדיעבד, וניכוי עונתיות עשוי להבדיל בין הנתון המעובד לספירה הגולמית.",
+        "בנק ישראל מפרסם מחקר, מידע סטטיסטי וחומר על מדיניות מוניטרית. עיתון מסייע לקורא כאשר הוא מסביר הגדרה ומציג השוואה מסומנת היטב. חשוב לשמור את המקור, היחידה והתאריך כדי שאפשר יהיה לבדוק את הטענה.",
+        "לשיחה משפחתית בוחרים כותרת כלכלית ושואלים אילו ראיות תומכות בה. שינוי בממוצע ארצי אינו מתאר כל משק בית. הסבר בהיר מכיר בפער הזה ומבחין בין נתון, תחזית ודעה. זהו מדריך לקריאת נתונים ולא הערכה של מצב השווקים כיום."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Bank of Israel · data and publications",
+        "url": "https://www.boi.org.il/en/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "communities-and-customs",
+    "section": "traditions",
+    "title": {
+      "en": "Many traditions, a shared conversation",
+      "he": "מסורות רבות, שיחה משותפת"
+    },
+    "deck": {
+      "en": "Learn a custom through the people who keep it.",
+      "he": "מכירים מנהג באמצעות האנשים המקיימים אותו."
+    },
+    "body": {
+      "en": [
+        "A melody, a pronunciation or a dish may carry the memory of a family and a community. To understand a custom, begin by asking who practises it, where the description comes from and whether the account describes one household or a wider tradition.",
+        "Labels such as Sephardi, Ashkenazi or Mizrahi can be useful starting points, but each contains many histories. Migration, teaching, local conditions and contact with neighbouring communities shape practice over time. A single attractive story should not be made to stand for everyone.",
+        "A respectful community portrait includes a person’s own words and a checkable context. Distinguish an interview from an inherited anecdote and a documented source. When a practice has halakhic implications, a cultural description is only the beginning of the inquiry.",
+        "Invite someone at the Shabbat table to describe a remembered tune or phrase. Record the place and the person associated with it, with permission. If nobody knows its origin, that uncertainty is part of the family record. Curiosity can preserve a tradition without inventing a history for it."
+      ],
+      "he": [
+        "מנגינה, הגייה או מאכל עשויים לשאת זיכרון של משפחה וקהילה. כדי להבין מנהג מתחילים בשאלה מי מקיים אותו, מה מקור התיאור והאם מדובר בבית אחד או במסורת רחבה יותר.",
+        "כינויים כמו ספרדי, אשכנזי או מזרחי הם נקודות מוצא, אך כל אחד מהם כולל היסטוריות רבות. נדידה, לימוד, תנאי המקום ומפגש בין קהילות מעצבים את המנהגים לאורך זמן. סיפור נאה אחד אינו יכול לייצג את כולם.",
+        "דיוקן קהילתי מכבד כולל את דברי האדם עצמו והקשר שניתן לבדיקה. מבחינים בין ריאיון, סיפור שעבר במשפחה ומקור מתועד. כאשר יש למנהג משמעות הלכתית, התיאור התרבותי הוא רק תחילת הבירור.",
+        "אפשר להזמין אדם בשולחן שבת לספר על מנגינה או ביטוי שהוא זוכר. ברשותו מתעדים את המקום ואת האדם הקשורים בזיכרון. אם איש אינו יודע מה מקור המנהג, גם אי־הידיעה היא חלק מן התיעוד. סקרנות יכולה לשמר מסורת בלי להמציא לה היסטוריה."
+      ]
+    },
+    "sources": [
+      {
+        "label": "National Library · Jewish heritage",
+        "url": "https://www.nli.org.il/en"
+      },
+      {
+        "label": "MORIAH music gateway",
+        "url": "https://moriahise.github.io/Niggun/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "family-source-detectives",
+    "section": "young",
+    "title": {
+      "en": "Become a source detective",
+      "he": "היו בלשי מקורות"
+    },
+    "deck": {
+      "en": "A family activity about questions, evidence and memory.",
+      "he": "פעילות משפחתית על שאלות, ראיות וזיכרון."
+    },
+    "body": {
+      "en": [
+        "Choose an ordinary object: a key, a postcard, an old photograph or a book. Give everyone one minute to look closely. Each person then writes one observation and one question. An observation is something visible; a question is something you would need to investigate.",
+        "Now separate what you see from what you suppose. “There is a date written on the back” is an observation. “That must be the day the photograph was taken” is an explanation to test. Ask what other evidence could confirm or change it.",
+        "Try the same method with a short biblical passage. Who speaks? Which words are repeated? What happened immediately before? Read the next few lines before offering an answer. Younger readers can draw the scene and label which details come from the words and which they imagined.",
+        "Finish with a family rule: a good question is an achievement. It is fine to write “we do not know yet.” Keep the questions and return to them another week. The aim is to practise attention, patience and conversation, rather than to reward the quickest confident answer."
+      ],
+      "he": [
+        "בוחרים חפץ פשוט: מפתח, גלויה, צילום ישן או ספר. נותנים לכולם דקה להתבונן. כל משתתף רושם דבר אחד שהוא רואה ושאלה אחת. תצפית היא פרט גלוי; שאלה היא דבר שדורש בירור.",
+        "כעת מפרידים בין מה שרואים למה שמשערים. ״יש תאריך בגב הצילום״ היא תצפית. ״זה ודאי היום שבו צולם״ היא הסברה שצריך לבדוק. אילו ראיות נוספות יכולות לאשר אותה או לשנות אותה?",
+        "מנסים אותה שיטה על קטע מקראי קצר. מי מדבר? אילו מילים חוזרות? מה התרחש מיד קודם? קוראים גם את השורות הבאות לפני שמשיבים. קוראים צעירים יכולים לצייר את הסצנה ולסמן אילו פרטים נלקחו מן הכתוב ואילו הוסיפו בדמיון.",
+        "מסיימים בכלל משפחתי: גם שאלה טובה היא הישג. מותר לכתוב ״עדיין איננו יודעים״. שומרים את השאלות וחוזרים אליהן בשבוע אחר. מטרת הפעילות היא תשומת לב, סבלנות ושיחה, ולא תחרות על התשובה הבטוחה והמהירה ביותר."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Tanakh · reading sources",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "a-melody-and-its-journey",
+    "section": "culture",
+    "title": {
+      "en": "A melody and its journey",
+      "he": "מנגינה והדרך שעברה"
+    },
+    "deck": {
+      "en": "Listen closely, identify the text, and follow the evidence.",
+      "he": "מקשיבים, מזהים את הטקסט ועוקבים אחר העדויות."
+    },
+    "body": {
+      "en": [
+        "A tune can travel between a home, a synagogue, a recording and a concert stage. Its words and melody may have different histories. Begin with the text: who is named as the poet, where is the poem printed, and which version is being sung?",
+        "Then ask about the melody. A recording gives evidence of a performance at a particular time. It does not, by itself, identify the original composer. A community’s association with a tune deserves to be recorded, while a disputed attribution should remain visibly disputed.",
+        "Listening becomes richer when the reader can compare versions. Notice rhythm, ornament, pronunciation and the relation between a musical phrase and the words. Similarity is an invitation to investigate; it is not proof that one version borrowed directly from another.",
+        "For a Shabbat conversation, choose a familiar piyyut and read its words before singing. Ask which line the melody makes you notice. If you share a recording, preserve the performer’s name and the original link. An account of a musical tradition should honour both its people and its sources."
+      ],
+      "he": [
+        "מנגינה יכולה לעבור בין בית, בית כנסת, הקלטה ובימת קונצרטים. למילים וללחן עשויות להיות היסטוריות שונות. מתחילים בטקסט: מי מצוין כמחבר הפיוט, היכן נדפס ואיזו נוסחה מושרת?",
+        "אחר כך שואלים על הלחן. הקלטה מעידה על ביצוע בזמן מסוים, אך אינה מזהה כשלעצמה את המלחין הראשון. חשוב לתעד את הקשר שבין קהילה למנגינה, ולהשאיר ייחוס שנוי במחלוקת כשנוי במחלוקת.",
+        "האזנה נעשית עשירה יותר כשמשווים גרסאות. שמים לב למשקל, לקישוטים, להגייה ולקשר בין המשפט המוזיקלי למילים. דמיון הוא הזמנה לחקור; הוא אינו מוכיח שגרסה אחת הועתקה ישירות מאחרת.",
+        "לשיחה בשבת בוחרים פיוט מוכר וקוראים את מילותיו לפני ששרים. איזו שורה המנגינה מדגישה? כשמשתפים הקלטה, שומרים את שם המבצע ואת הקישור המקורי. תיאור של מסורת מוזיקלית צריך לכבד גם את האנשים וגם את המקורות."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Niggun · listening and study",
+        "url": "https://moriahise.github.io/Niggun/"
+      },
+      {
+        "label": "National Library of Israel",
+        "url": "https://www.nli.org.il/en"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "reading-the-jewish-calendar",
+    "section": "parashah",
+    "title": {
+      "en": "One calendar, different places",
+      "he": "לוח אחד, מקומות שונים"
+    },
+    "deck": {
+      "en": "Dates, readings and Shabbat times need a location.",
+      "he": "תאריכים, קריאות וזמני שבת דורשים מקום."
+    },
+    "body": {
+      "en": [
+        "A Jewish calendar joins dates, seasons and the rhythm of communal life. A useful calendar display states the place and the method behind a time. A time calculated for Jerusalem cannot simply be carried over to Vienna or New York.",
+        "Weekly readings can differ between Israel and the Diaspora around certain festival arrangements. A publication serving both audiences should identify the cycle it is showing and let readers select the appropriate one. A saved issue also needs its own date so its reading list is not mistaken for the current week.",
+        "MORIAH uses location-specific calendar data and names the calculation settings for candle lighting and Havdalah. A cached response can become old, even while the page still looks fresh. For that reason, an expired weekly time is not presented as a current instruction.",
+        "Use the calendar as an invitation to prepare: read the weekly passage, find the Haftarah and note questions for further learning. Where a practical custom or a calculation method matters, follow the appropriate local guidance. A calendar is most useful when it makes its assumptions visible."
+      ],
+      "he": [
+        "הלוח היהודי מחבר בין תאריכים, עונות וקצב החיים הקהילתיים. תצוגת זמנים מועילה מציינת את המקום ואת דרך החישוב. זמן שחושב לירושלים אינו מועבר כפי שהוא לווינה או לניו יורק.",
+        "קריאות השבוע עשויות להיות שונות בין ישראל לתפוצות בעקבות סידורם של חגים מסוימים. עיתון לשני הקהלים צריך לציין איזה מחזור מוצג ולאפשר לבחור את המתאים. גם גיליון שמור צריך לשאת תאריך ברור, כדי שלא יטעו לחשוב שרשימת הקריאה שלו שייכת לשבוע הנוכחי.",
+        "מוריה משתמשת בנתוני לוח לפי מקום ומציינת את ההגדרות להדלקת נרות ולהבדלה. מידע שמור עלול להתיישן גם כשהעמוד נראה חדש. משום כך זמן משבוע שעבר אינו מוצג כהנחיה עדכנית.",
+        "הלוח הוא הזמנה להתכונן: לקרוא את הפרשה, למצוא את ההפטרה ולרשום שאלות להמשך עיון. כאשר למנהג מעשי או לשיטת חישוב יש חשיבות, פועלים לפי ההנחיה המקומית המתאימה. לוח מועיל חושף לקורא את הנחותיו."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Hebcal · calendar documentation",
+        "url": "https://www.hebcal.com/home/developer-apis"
+      },
+      {
+        "label": "Hebcal · Shabbat methods",
+        "url": "https://www.hebcal.com/home/197/shabbat-times-rest-api"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "reading-news-with-care",
+    "section": "week",
+    "title": {
+      "en": "Reading the week with care",
+      "he": "קוראים את השבוע בתשומת לב"
+    },
+    "deck": {
+      "en": "The source, the time and the kind of claim matter.",
+      "he": "המקור, הזמן וסוג הטענה חשובים."
+    },
+    "body": {
+      "en": [
+        "A headline is an invitation to read, not the whole account. Before sharing it, open the original report, check when it was published and ask whether the event itself happened at the same time. An old report can circulate again without becoming a new event.",
+        "Notice the kind of claim. A statement attributed to an official establishes that the official said it. Independent confirmation is a further question. Analysis explains an interpretation; opinion argues for a position. Several outlets repeating the same agency report are not necessarily several independent sources.",
+        "This newspaper’s automated news desk collects dated links from publishers’ feeds. It preserves attribution and shows the original headline. Translated headlines are machine-generated and may contain errors. Collection and formatting are not evidence that MORIAH independently confirmed every claim.",
+        "The most useful habit is to keep a path back to the evidence. Check the source link, compare responsible accounts where available and leave uncertainty visible. When a fact changes, a correction should say what changed and when. Attention to these details makes a reader more informed without requiring constant exposure to every breaking alert."
+      ],
+      "he": [
+        "כותרת מזמינה לקרוא, אך אינה הדיווח כולו. לפני שיתוף פותחים את הכתבה המקורית, בודקים מתי פורסמה ושואלים אם גם האירוע התרחש באותו זמן. דיווח ישן שחוזר להסתובב אינו הופך לאירוע חדש.",
+        "בודקים את סוג הטענה. הודעה המיוחסת לבעל תפקיד מעידה שהוא אמר אותה; אישור בלתי תלוי הוא שאלה נוספת. פרשנות מציעה הסבר, ודעה טוענת לטובת עמדה. כמה כלי תקשורת החוזרים על אותו דיווח סוכנות אינם בהכרח כמה מקורות עצמאיים.",
+        "דסק החדשות האוטומטי של העיתון אוסף קישורים מתוארכים מעדכוני המו״לים. הוא שומר ייחוס ומציג את כותרת המקור. כותרות מתורגמות מופקות במכונה ועלולות לכלול שגיאות. עצם האיסוף והעיצוב אינם מוכיחים שמוריה אימתה באופן עצמאי כל טענה.",
+        "הרגל מועיל הוא להשאיר דרך חזרה לראיות. פותחים את המקור, משווים דיווחים אחראיים כאשר הם זמינים ומשאירים את אי־הוודאות גלויה. כאשר פרט משתנה, תיקון צריך לציין מה השתנה ומתי. תשומת לב לפרטים האלה מאפשרת להיות קוראים מודעים בלי להיחשף ללא הרף לכל מבזק."
+      ]
+    },
+    "sources": [
+      {
+        "label": "MORIAH · source registry",
+        "url": "https://moriahise.github.io/Moriah/#sources"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 4
+  },
+  {
+    "id": "read-a-tanakh-chapter",
+    "section": "tanakh",
+    "title": {
+      "en": "A chapter before a quotation",
+      "he": "פרק שלם לפני ציטוט"
+    },
+    "deck": {
+      "en": "Give a familiar verse its surrounding story.",
+      "he": "נותנים לפסוק המוכר את הסיפור שסביבו."
+    },
+    "body": {
+      "en": [
+        "Choose a short chapter of Tanakh and read it once without stopping at a familiar phrase. On the second reading, mark who speaks, where the scene changes and which words recur. A chapter heading supplied by an editor is a helpful tool, but it is not always part of the ancient text.",
+        "Now compare two commentators on one question. Note what each is trying to explain before deciding whether they disagree. A grammatical observation, a narrative interpretation and a homiletic teaching may address different aspects of the same verse.",
+        "Keep the full reference and distinguish a quotation from your own paraphrase. For a family conversation, invite everyone to bring one question that can be answered by reading the surrounding passage again. The purpose is attention to the text rather than a competition to recall the most quotations."
+      ],
+      "he": [
+        "בוחרים פרק קצר בתנ״ך וקוראים אותו פעם אחת בלי לעצור בביטוי מוכר. בקריאה השנייה מסמנים מי מדבר, היכן הסצנה משתנה ואילו מילים חוזרות. כותרת שהוסיף עורך היא כלי מועיל, אך אינה תמיד חלק מן הטקסט הקדום.",
+        "משווים שני מפרשים על שאלה אחת. בודקים תחילה מה כל אחד מבקש להסביר, לפני שמחליטים שהם חולקים. הערה דקדוקית, פירוש סיפורי ודרשה עשויים לעסוק בהיבטים שונים של אותו פסוק.",
+        "שומרים מראה מקום מלא ומבחינים בין ציטוט לניסוח שלנו. לשיחה משפחתית מביא כל אחד שאלה שאפשר לברר באמצעות קריאה נוספת בקטע שסביב הפסוק. המטרה היא תשומת לב לטקסט ולא תחרות בזכירת ציטוטים."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Tanakh · source texts",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "ethics-of-listening",
+    "section": "thought",
+    "title": {
+      "en": "The discipline of listening",
+      "he": "המשמעת שבהקשבה"
+    },
+    "deck": {
+      "en": "An ethical conversation begins before the reply.",
+      "he": "שיחה מוסרית מתחילה עוד לפני התשובה."
+    },
+    "body": {
+      "en": [
+        "An argument can become clearer when each participant first states the other person’s position in words that person recognises. This exercise does not require agreement. It requires enough patience to distinguish a claim from the feeling it provokes.",
+        "Study a teaching from Pirkei Avot together with its context and a commentary. Ask what behaviour it is trying to cultivate and which difficult situation might test it. A short ethical saying becomes more demanding when applied to an actual conversation.",
+        "At the table, let one person speak without interruption. The next person summarises the point before adding a question. Avoid turning a general teaching into a judgment about someone else’s character. The useful measure is whether the conversation has become more precise, more attentive and more responsible."
+      ],
+      "he": [
+        "מחלוקת עשויה להתבהר כאשר כל משתתף מציג תחילה את עמדת האחר במילים שהאחר מזהה כעמדתו. התרגיל אינו דורש הסכמה; הוא דורש סבלנות להבחין בין טענה לבין התחושה שהיא מעוררת.",
+        "לומדים משנה מפרקי אבות עם הקשרה ופירוש. איזו התנהגות היא מבקשת לטפח? איזה מצב קשה עשוי להעמיד אותה במבחן? אמרה מוסרית קצרה נעשית תובענית כאשר מחילים אותה על שיחה ממשית.",
+        "בשולחן נותנים לאדם אחד לדבר בלי הפרעה. הבא אחריו מסכם את הדברים לפני שהוא מוסיף שאלה. נמנעים מהפיכת הוראה כללית לפסק דין על אופיו של הזולת. המדד המועיל הוא אם השיחה נעשתה מדויקת, קשובה ואחראית יותר."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Pirkei Avot",
+        "url": "https://www.sefaria.org/Pirkei_Avot"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "institutions-and-decisions",
+    "section": "israel",
+    "title": {
+      "en": "Who made the decision?",
+      "he": "מי קיבל את ההחלטה?"
+    },
+    "deck": {
+      "en": "Identify the institution before interpreting the headline.",
+      "he": "מזהים את המוסד לפני שמפרשים את הכותרת."
+    },
+    "body": {
+      "en": [
+        "A proposal, a committee discussion and a final decision are different stages. When reading a public-affairs report, identify the institution involved and the document that records what happened. A politician’s announcement may describe an intention rather than a completed act.",
+        "Follow a source link to the original text when it is available. Check its date, scope and whether it has been amended. A short news item may omit exceptions or a later stage still required before implementation.",
+        "An informed discussion can then separate three questions: what happened, what may happen next, and whether the decision is desirable. Each deserves its own evidence. MORIAH links to parliamentary and publisher sources so readers can continue that inquiry without mistaking a headline for the entire public record."
+      ],
+      "he": [
+        "הצעה, דיון בוועדה והחלטה סופית הם שלבים שונים. בקריאת דיווח ציבורי מזהים את המוסד המעורב ואת המסמך המתעד מה אירע. הצהרה של פוליטיקאי עשויה לתאר כוונה ולא מעשה שכבר הושלם.",
+        "כשאפשר, פותחים את הטקסט המקורי. בודקים תאריך, תחולה ותיקונים. ידיעה קצרה עשויה להשמיט חריגים או שלב נוסף הנדרש לפני יישום.",
+        "לאחר מכן אפשר להפריד שלוש שאלות: מה קרה, מה עשוי לקרות בהמשך והאם ההחלטה רצויה. לכל אחת נדרשות ראיות מתאימות. מוריה מקשרת למקורות פרלמנטריים ועיתונאיים כדי להמשיך את הבירור, בלי לטעות ולראות בכותרת את התיעוד הציבורי כולו."
+      ]
+    },
+    "sources": [
+      {
+        "label": "The Knesset",
+        "url": "https://main.knesset.gov.il/EN/"
+      },
+      {
+        "label": "Knesset Channel",
+        "url": "https://www.knesset.tv/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "security-reporting-and-uncertainty",
+    "section": "security",
+    "title": {
+      "en": "Reporting under uncertainty",
+      "he": "דיווח בתנאי אי־ודאות"
+    },
+    "deck": {
+      "en": "Keep an attributed statement distinct from an established fact.",
+      "he": "מבחינים בין הודעה מיוחסת לעובדה מבוססת."
+    },
+    "body": {
+      "en": [
+        "Early reports about security events can change. A careful reader checks the timestamp, the named source and what the report explicitly says is still unknown. A video appearing today may have been recorded at another time or place.",
+        "Several websites may rely on the same statement, witness or agency dispatch. Counting headlines is therefore not the same as counting independent confirmations. When accounts differ, preserve the disagreement instead of selecting the most dramatic version.",
+        "For immediate safety information, use the competent official service for the relevant location. A weekly newspaper and a cached news page are not an emergency-warning system. MORIAH’s source desk provides attributed links for understanding developments; its collection time is shown so readers can judge how current the saved material is."
+      ],
+      "he": [
+        "דיווחים ראשונים על אירוע ביטחוני עשויים להשתנות. קורא זהיר בודק חותמת זמן, מקור מזוהה ומה הדיווח אומר במפורש שעדיין אינו ידוע. סרטון המופיע היום עשוי להיות מצולם בזמן או במקום אחר.",
+        "כמה אתרים עשויים להסתמך על אותה הודעה, עדות או ידיעת סוכנות. לכן ספירת כותרות אינה ספירת אישורים בלתי תלויים. כאשר הדיווחים שונים, משמרים את המחלוקת במקום לבחור את הגרסה הדרמטית ביותר.",
+        "למידע בטיחותי מיידי פונים לשירות הרשמי המוסמך למקום הרלוונטי. עיתון שבועי ועמוד חדשות שמור אינם מערכת התרעה. דסק מוריה מספק קישורים מיוחסים להבנת ההתפתחויות, ומועד האיסוף מוצג כדי שהקורא יוכל לשפוט את עדכניות החומר."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Israeli government services",
+        "url": "https://www.gov.il/en/"
+      },
+      {
+        "label": "Kan News",
+        "url": "https://www.kan.org.il/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "science-beyond-the-headline",
+    "section": "science",
+    "title": {
+      "en": "A discovery is the beginning of a question",
+      "he": "תגלית היא תחילתה של שאלה"
+    },
+    "deck": {
+      "en": "Look for the study behind the promise.",
+      "he": "מחפשים את המחקר שמאחורי ההבטחה."
+    },
+    "body": {
+      "en": [
+        "A scientific headline may describe a laboratory result, an animal study, an early human trial or a large body of evidence. These are not interchangeable. Look for the original publication and ask what was actually measured.",
+        "Who took part, how many observations were made and what comparison was used? A result can be interesting while still uncertain. Notice whether the report describes an association or claims that one thing caused another.",
+        "A useful newspaper explanation makes those limits understandable. It also distinguishes a research finding from an available treatment. Personal medical decisions require an appropriately qualified clinician and current information; a headline or automatic translation cannot supply an individual assessment."
+      ],
+      "he": [
+        "כותרת מדעית עשויה לתאר תוצאה במעבדה, מחקר בבעלי חיים, ניסוי מוקדם בבני אדם או גוף ראיות רחב. אלה אינם דברים זהים. מחפשים את הפרסום המקורי ושואלים מה נמדד בפועל.",
+        "מי השתתף, כמה תצפיות נעשו ולאיזו קבוצה השוו? תוצאה יכולה להיות מעניינת ועדיין לא ודאית. שמים לב אם מתואר קשר בין דברים או נטען שאחד מהם גרם לאחר.",
+        "הסבר עיתונאי מועיל הופך את הגבולות האלה למובנים. הוא גם מבחין בין ממצא מחקרי לטיפול זמין. החלטות רפואיות אישיות דורשות איש מקצוע מוסמך ומידע עדכני; כותרת או תרגום אוטומטי אינם מספקים הערכה פרטנית."
+      ]
+    },
+    "sources": [
+      {
+        "label": "PubMed · original research search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "landscape-as-a-source",
+    "section": "nature",
+    "title": {
+      "en": "Learning to read a landscape",
+      "he": "לומדים לקרוא נוף"
+    },
+    "deck": {
+      "en": "Observe carefully before attaching a story to a place.",
+      "he": "מתבוננים היטב לפני שמחברים למקום סיפור."
+    },
+    "body": {
+      "en": [
+        "A hillside can show water channels, cultivation, paths and changes in vegetation. Begin with a description of what is visible and record the place and date. Seasonal conditions can make the same landscape look very different.",
+        "A historical explanation needs more than resemblance to a familiar picture. Compare maps, documented surveys and the limits of your own observation. If identifying a plant or animal matters for safety, food or conservation, use qualified identification rather than a newspaper illustration.",
+        "For a family walk, choose one feature to observe again on another visit. Note what changed and what stayed the same. A small, accurate field notebook can teach more than a confident story assembled from an attractive photograph."
+      ],
+      "he": [
+        "מדרון עשוי להראות תעלות מים, עיבוד חקלאי, שבילים ושינויים בצמחייה. מתחילים בתיאור של מה שנראה ורושמים מקום ותאריך. עונות השנה יכולות לשנות מאוד את מראהו של אותו נוף.",
+        "הסבר היסטורי דורש יותר מדמיון לתמונה מוכרת. משווים מפות, סקרים מתועדים ואת גבולות התצפית שלנו. כאשר זיהוי צמח או בעל חיים חשוב לבטיחות, לאכילה או לשמירת טבע, נדרשת זיהוי מוסמך ולא איור בעיתון.",
+        "בטיול משפחתי בוחרים פרט אחד וחוזרים להתבונן בו בביקור נוסף. מה השתנה ומה נשאר? פנקס תצפיות קטן ומדויק עשוי ללמד יותר מסיפור בטוח שנבנה סביב צילום יפה."
+      ]
+    },
+    "sources": [
+      {
+        "label": "National Library · maps and heritage",
+        "url": "https://www.nli.org.il/en"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "planning-a-life-in-israel",
+    "section": "aliyah",
+    "title": {
+      "en": "A new beginning, one document at a time",
+      "he": "התחלה חדשה, מסמך אחר מסמך"
+    },
+    "deck": {
+      "en": "A practical way to organise questions before a move.",
+      "he": "דרך מעשית לארגן שאלות לקראת מעבר."
+    },
+    "body": {
+      "en": [
+        "A move becomes easier to plan when questions are separated by the authority responsible for them. Make a table of the issue, the official service, the documents requested and the date on which you checked the information.",
+        "Keep copies of submitted forms and written responses. A useful personal account can suggest questions to ask, but it does not establish the current requirements for a different person. Eligibility, family circumstances and deadlines may differ.",
+        "Before paying for a service or relying on an old guide, return to the competent authority’s current instructions. MORIAH’s role is to help readers locate and understand sources. It does not determine a reader’s immigration, residency, insurance or tax position."
+      ],
+      "he": [
+        "קל יותר לתכנן מעבר כאשר מפרידים שאלות לפי הרשות האחראית. מכינים טבלה ובה הנושא, השירות הרשמי, המסמכים הנדרשים והתאריך שבו נבדק המידע.",
+        "שומרים עותקים של טפסים שהוגשו ושל תשובות בכתב. ניסיון אישי מועיל עשוי להציע שאלות, אך אינו קובע מהן הדרישות העדכניות לאדם אחר. זכאות, נסיבות משפחתיות ומועדים עשויים להיות שונים.",
+        "לפני תשלום לשירות או הסתמכות על מדריך ישן חוזרים להוראות העדכניות של הרשות המוסמכת. מוריה מסייעת לאתר ולהבין מקורות; היא אינה קובעת את מעמד העלייה, התושבות, הביטוח או המס של הקורא."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Israeli government · services and authorities",
+        "url": "https://www.gov.il/en/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "community-beyond-the-map",
+    "section": "diaspora",
+    "title": {
+      "en": "A community beyond a point on the map",
+      "he": "קהילה היא יותר מנקודה במפה"
+    },
+    "deck": {
+      "en": "Start with people, institutions and everyday life.",
+      "he": "מתחילים באנשים, במוסדות ובחיי היום־יום."
+    },
+    "body": {
+      "en": [
+        "A Jewish community can be introduced through its schools, places of worship, languages, volunteer organisations and cultural life. An accurate portrait asks how people describe their own community and which sources support a historical account.",
+        "Avoid treating one spokesperson as the voice of every member. Generations, levels of observance and family histories can differ within the same city. A respectful report makes those differences visible without reducing people to labels.",
+        "For a community feature, prepare questions before requesting an interview. Ask about a current initiative, a challenge and a source of continuity. Publish names, photographs and personal stories with appropriate permission. Everyday life deserves attention alongside major public events."
+      ],
+      "he": [
+        "אפשר להכיר קהילה יהודית דרך בתי הספר, בתי התפילה, השפות, ארגוני ההתנדבות וחיי התרבות שלה. דיוקן מדויק שואל כיצד האנשים מתארים את קהילתם ואילו מקורות תומכים בסיפור ההיסטורי.",
+        "אין להפוך דובר אחד לקולם של כל בני הקהילה. דורות, רמות שמירת מצוות וסיפורי משפחה עשויים להיות שונים באותה עיר. דיווח מכבד חושף את ההבדלים בלי לצמצם אנשים לתוויות.",
+        "לקראת כתבה קהילתית מכינים שאלות לפני בקשת הריאיון. שואלים על יוזמה, על אתגר ועל מקור של המשכיות. שמות, צילומים וסיפורים אישיים מתפרסמים ברשות מתאימה. גם חיי היום־יום ראויים לתשומת לב לצד אירועים ציבוריים גדולים."
+      ]
+    },
+    "sources": [
+      {
+        "label": "JTA · Jewish communities reporting",
+        "url": "https://www.jta.org/"
+      },
+      {
+        "label": "National Library of Israel",
+        "url": "https://www.nli.org.il/en"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "history-in-an-old-newspaper",
+    "section": "history",
+    "title": {
+      "en": "An old newspaper, a new question",
+      "he": "עיתון ישן, שאלה חדשה"
+    },
+    "deck": {
+      "en": "Read an archive page as a document of its own time.",
+      "he": "קוראים דף ארכיון כתעודה של זמנו."
+    },
+    "body": {
+      "en": [
+        "A historical newspaper records what an editor chose to print for a particular audience. Its vocabulary, advertisements and page arrangement can be as revealing as its lead article. Begin by noting the title, place, language and issue date.",
+        "A contemporary report is evidence of what was reported, not automatic proof that every claim was correct. Compare accounts and distinguish an event from a later recollection of it. Optical character recognition can also misread names and dates, so return to the scanned page.",
+        "Choose one small item from an archive and ask what additional source would help explain it. Preserve the issue and page reference. Historical curiosity grows stronger when a striking quotation remains connected to the document in which it appeared."
+      ],
+      "he": [
+        "עיתון היסטורי מתעד מה בחר עורך להדפיס לקהל מסוים. אוצר המילים, המודעות וסידור העמוד עשויים ללמד לא פחות מן הכתבה הראשית. מתחילים בשם העיתון, במקום, בשפה ובתאריך הגיליון.",
+        "דיווח בן התקופה מעיד מה דווח, אך אינו הוכחה אוטומטית שכל טענה בו נכונה. משווים תיאורים ומבחינים בין אירוע לזיכרון מאוחר שלו. גם זיהוי תווים ממוחשב עשוי לטעות בשמות ובתאריכים, ולכן חוזרים לסריקת העמוד.",
+        "בוחרים ידיעה קטנה ושואלים איזה מקור נוסף יסייע להבינה. שומרים מראה מקום של גיליון ועמוד. הסקרנות ההיסטורית מתחזקת כאשר ציטוט מרשים נשאר מחובר למסמך שבו הופיע."
+      ]
+    },
+    "sources": [
+      {
+        "label": "National Library · newspaper collection",
+        "url": "https://www.nli.org.il/en/discover/newspapers"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "archaeology-evidence-and-reconstruction",
+    "section": "archaeology",
+    "title": {
+      "en": "Evidence and reconstruction",
+      "he": "ממצא ושחזור"
+    },
+    "deck": {
+      "en": "Ask which part of the picture was actually found.",
+      "he": "שואלים איזה חלק מן התמונה נמצא בפועל."
+    },
+    "body": {
+      "en": [
+        "An archaeological illustration can combine excavated remains, comparisons with other sites and a designer’s decisions. Its clarity can make the uncertain parts seem more certain than they are. Look for a legend that identifies each level of evidence.",
+        "A find needs a documented context: where it was found, how the excavation was recorded and what supports the proposed date. An object sold without a secure provenance cannot answer the same historical questions as a find recovered in a controlled excavation.",
+        "When reading a discovery report, distinguish the excavator’s findings from the headline’s larger interpretation. A good reconstruction helps the reader imagine possibilities while preserving uncertainty. MORIAH’s temple and Jerusalem models should be read with that distinction in mind."
+      ],
+      "he": [
+        "איור ארכאולוגי עשוי לשלב שרידים שנחפרו, השוואות לאתרים אחרים והחלטות של המעצב. הבהירות שלו עלולה לגרום לחלקים המשוערים להיראות ודאיים. מחפשים מקרא המבחין בין דרגות העדות.",
+        "ממצא דורש הקשר מתועד: היכן נמצא, כיצד תועדה החפירה ומה תומך בתיארוך המוצע. חפץ שנמכר ללא מקור בטוח אינו יכול להשיב על אותן שאלות היסטוריות כמו ממצא מחפירה מבוקרת.",
+        "בדיווח על תגלית מבחינים בין ממצאי החופר לבין הפרשנות הרחבה של הכותרת. שחזור טוב מסייע לדמיין אפשרויות ומשמר את אי־הוודאות. כך יש לקרוא גם מודלים של ירושלים והמקדש במוריה."
+      ]
+    },
+    "sources": [
+      {
+        "label": "National Library · research collections",
+        "url": "https://www.nli.org.il/en"
+      },
+      {
+        "label": "Temple visualisation project",
+        "url": "https://moriahise.github.io/Minhal-haMikdash/"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "a-family-learning-routine",
+    "section": "family",
+    "title": {
+      "en": "A small rhythm for learning together",
+      "he": "קצב קטן ללימוד משותף"
+    },
+    "deck": {
+      "en": "Choose a short passage and leave room for every voice.",
+      "he": "בוחרים קטע קצר ומשאירים מקום לכל קול."
+    },
+    "body": {
+      "en": [
+        "A shared learning routine does not have to be long. Choose a short passage, one clear question and a time that suits the household. Younger and older participants can contribute in different ways.",
+        "Read the words aloud, explain unfamiliar terms and let each person notice one detail. A child may draw the scene; an older reader may compare a commentary. Keep the difference between what the text says and what each person imagines.",
+        "End by recording an unanswered question for another day. Regular attention can matter more than covering many pages. The aim is a conversation in which people can ask, listen and return to the source together."
+      ],
+      "he": [
+        "לימוד משותף אינו חייב להיות ארוך. בוחרים קטע קצר, שאלה ברורה וזמן המתאים לבית. צעירים ומבוגרים יכולים לתרום בדרכים שונות.",
+        "קוראים בקול, מסבירים מילים לא מוכרות ונותנים לכל משתתף להבחין בפרט אחד. ילד יכול לצייר את הסצנה וקורא מבוגר יכול להשוות פירוש. מבחינים בין דברי הטקסט לבין מה שכל אחד מדמיין.",
+        "מסיימים ברישום שאלה פתוחה ליום אחר. תשומת לב קבועה עשויה להיות חשובה מהספק רב. המטרה היא שיחה שבה אפשר לשאול, להקשיב ולחזור יחד למקור."
+      ]
+    },
+    "sources": [
+      {
+        "label": "Tanakh · a starting point for shared reading",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "a-dish-with-a-family-story",
+    "section": "food",
+    "title": {
+      "en": "A dish with a family story",
+      "he": "מאכל עם סיפור משפחתי"
+    },
+    "deck": {
+      "en": "Write down a recipe and the memory that comes with it.",
+      "he": "רושמים מתכון ואת הזיכרון הנלווה אליו."
+    },
+    "body": {
+      "en": [
+        "Ask a relative to describe a familiar Shabbat dish. Record ingredients, quantities, the order of preparation and the person from whom the recipe was learned. A family version may differ from a recipe with the same name in another household.",
+        "For an easy conversation starter, describe a simple chopped vegetable salad: tomatoes, cucumber, lemon juice and olive oil, adjusted to the household’s taste. Note which ingredients are actually being used rather than supplying an imagined traditional origin. Ingredient inspection, preparation and timing follow the household’s applicable kashrut and Shabbat guidance.",
+        "Photograph the finished dish with permission and keep the storyteller’s name. A recipe becomes a small piece of family documentation when practical details and remembered experience remain together."
+      ],
+      "he": [
+        "מבקשים מקרוב משפחה לתאר מאכל שבת מוכר. רושמים מרכיבים, כמויות, סדר הכנה וממי נלמד המתכון. גרסה משפחתית עשויה להיות שונה ממתכון בעל אותו שם בבית אחר.",
+        "לפתיחת שיחה פשוטה אפשר לתאר סלט ירקות קצוץ: עגבניות, מלפפון, מיץ לימון ושמן זית לפי טעם הבית. מציינים מה באמת משתמשים בו ולא ממציאים מקור מסורתי. בדיקת המרכיבים, אופן ההכנה והעיתוי נעשים לפי הנחיות הכשרות והשבת החלות בבית.",
+        "ברשות המתאימה מצלמים את המאכל ושומרים את שם המספר. מתכון נעשה תיעוד משפחתי קטן כאשר הפרטים המעשיים והזיכרון נשארים יחד."
+      ]
+    },
+    "sources": [
+      {
+        "label": "National Library · food and cultural memory",
+        "url": "https://www.nli.org.il/en"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "community-work-in-focus",
+    "section": "community",
+    "title": {
+      "en": "The quiet work of community",
+      "he": "העבודה השקטה של הקהילה"
+    },
+    "deck": {
+      "en": "Good reporting notices the people who keep things going.",
+      "he": "דיווח טוב מבחין באנשים שמחזיקים את החיים יחד."
+    },
+    "body": {
+      "en": [
+        "A community’s work often happens away from a podium: a volunteer coordinates visits, a teacher prepares a lesson, or neighbours arrange practical support. A useful portrait explains what the initiative does and how the account was checked.",
+        "Before publishing a request for help, verify the organisation, the contact route and permission to share the details. Personal hardship should not be turned into publicity without consent. A newspaper can describe a service without exposing the people who use it.",
+        "Ask volunteers what would help readers understand their work. Include the ordinary tasks as well as exceptional moments. Respectful attention gives readers a concrete picture of community life and a reliable place to ask further questions."
+      ],
+      "he": [
+        "עבודת הקהילה מתרחשת לעיתים רחוק מן הבמה: מתנדב מתאם ביקורים, מורה מכין שיעור ושכנים מארגנים עזרה. דיוקן מועיל מסביר מה היוזמה עושה וכיצד נבדק התיאור.",
+        "לפני פרסום בקשת סיוע מאמתים את הארגון, את דרך הקשר ואת הרשות לשתף פרטים. אין להפוך מצוקה אישית לפרסום ללא הסכמה. אפשר לתאר שירות בלי לחשוף את מקבליו.",
+        "שואלים מתנדבים מה יסייע לקוראים להבין את עבודתם. כוללים את המשימות השגרתיות לצד הרגעים יוצאי הדופן. תשומת לב מכבדת מציגה תמונה ממשית של חיי קהילה וכתובת אמינה להמשך בירור."
+      ]
+    },
+    "sources": [
+      {
+        "label": "MORIAH · feedback and proposals",
+        "url": "https://github.com/Moriahise/Moriah/issues"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  },
+  {
+    "id": "disagreement-and-a-good-letter",
+    "section": "opinion",
+    "title": {
+      "en": "A disagreement worth reading",
+      "he": "מחלוקת שכדאי לקרוא"
+    },
+    "deck": {
+      "en": "A strong opinion explains its reasons and respects the evidence.",
+      "he": "דעה חזקה מסבירה נימוקים ומכבדת ראיות."
+    },
+    "body": {
+      "en": [
+        "An opinion piece should tell readers which question it addresses and why its conclusion follows. Evidence, interpretation and preference do different jobs. A forceful sentence does not remove the need for a checkable factual foundation.",
+        "Before writing a response, identify the argument you actually disagree with. Quote briefly and accurately, include the source, and avoid attributing motives that the evidence cannot establish. A fair account of the opposing position makes your own reasoning more useful.",
+        "A good reader’s letter can be short: one claim, one supporting reason and one question for further discussion. MORIAH’s public feedback route is suitable for corrections and topic suggestions. Personal or sensitive information should remain out of public submissions."
+      ],
+      "he": [
+        "מאמר דעה צריך להבהיר באיזו שאלה הוא עוסק ומדוע נובעת ממנה המסקנה. ראיה, פרשנות והעדפה ממלאות תפקידים שונים. משפט נחרץ אינו מבטל את הצורך בבסיס עובדתי הניתן לבדיקה.",
+        "לפני תגובה מזהים את הטיעון שעליו חולקים. מצטטים בקצרה ובדיוק, מציינים מקור ונמנעים מייחוס מניעים שאין להם ראיות. תיאור הוגן של העמדה האחרת הופך גם את הנימוק שלנו למועיל יותר.",
+        "מכתב קורא טוב יכול להיות קצר: טענה אחת, נימוק תומך ושאלה להמשך שיחה. מסלול המשוב הציבורי של מוריה מתאים לתיקונים ולהצעות נושא. אין לכלול בפנייה ציבורית מידע אישי או רגיש."
+      ]
+    },
+    "sources": [
+      {
+        "label": "MORIAH · corrections and topic proposals",
+        "url": "https://github.com/Moriahise/Moriah/issues"
+      }
+    ],
+    "kind": "study",
+    "origin": "MORIAH learning library",
+    "human_reviewed": false,
+    "published_at": "2026-10-24",
+    "reading_minutes": 3
+  }
+]
