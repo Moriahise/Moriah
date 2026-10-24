@@ -4,11 +4,11 @@ const fs=require('node:fs');
 const path=require('node:path');
 const {JSDOM}=require('jsdom');
 const root=path.join(__dirname,'..');
-async function setup(){
+async function setup({withoutTracks}={}){
  const dom=new JSDOM(fs.readFileSync(path.join(root,'web/index.html'),'utf8'),{url:'https://moriah.test/',runScripts:'outside-only',pretendToBeVisual:true});
  const w=dom.window;
  const NativeDate=w.Date;w.Date=class extends NativeDate{constructor(...args){super(...(args.length?args:["2026-10-24T12:00:00Z"]));}static now(){return new NativeDate("2026-10-24T12:00:00Z").getTime();}};
- w.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(path.join(root,url),'utf8'))});
+ w.fetch=async url=>({ok:true,json:async()=>{const value=JSON.parse(fs.readFileSync(path.join(root,url),'utf8'));if(withoutTracks&&url==='data/ecosystem.json'){const collection=value.music.find(c=>c.id===withoutTracks);collection.tracks=[];collection.playlists=[];collection.series=[];}return value;}});
  w.HTMLElement.prototype.scrollIntoView=()=>{};
  w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};
  w.HTMLDialogElement.prototype.close=function(){this.open=false;};
@@ -69,4 +69,21 @@ test('dictionary submits supported hash search and Q&A cards rotate',async()=>{
 });
 test('selected Daf date has its own reader while today card retains today',async()=>{
  const {dom,w,d}=await setup();const today=d.querySelector('.daf-feature h3 a').href;const input=d.querySelector('#daf-current input');input.value='2026-10-25';input.dispatchEvent(new w.Event('change'));assert.match(d.querySelector('#daf-current h3 a').href,/bekhorot-37/);assert.equal(d.querySelector('.daf-feature h3 a').href,today);dom.window.close();
+});
+
+test('Beit haMikdash haShlishi opens its collection when no parsed tracks exist',async()=>{
+ const {dom,d}=await setup({withoutTracks:'Beit-haMikdash-haShlishi'});const link=[...d.querySelectorAll('#music-collections a')].find(n=>n.textContent.includes('Beit haMikdash haShlishi'));
+ assert.ok(link);assert.equal(link.href,'https://moriahise.github.io/Beit-haMikdash-haShlishi/');assert.equal(link.target,'_blank');
+ const other=d.querySelector('#music-collections button'),selectedTitle=other.textContent;other.click();assert.equal(d.querySelector('#music-feature h3').textContent,selectedTitle);
+ assert.ok([...d.querySelectorAll('#music-collections button')].some(n=>n.getAttribute('aria-pressed')==='true'));
+ dom.window.close();
+});
+test('Minhal opens inline on request, preserves the scene across language changes and unloads on close',async()=>{
+ const {dom,d}=await setup();const open=d.querySelector('#minhal-open');
+ assert.equal(d.querySelectorAll('#minhal-frame iframe').length,0);assert.equal(d.querySelector('#minhal-embed').hidden,true);
+ const overview=d.querySelector('#minhal-mikdash a[data-extra-label="minhalOverview"]');assert.equal(overview.href,'https://moriahise.github.io/Minhal-haMikdash/app/');assert.equal(overview.target,'_blank');
+ open.click();const frame=d.querySelector('#minhal-frame iframe');assert.equal(frame.src,'https://moriahise.github.io/Minhal-haMikdash/app/Minhal_HaMikdash_Lebendiges_13.1.html');assert.equal(d.querySelector('#minhal-embed').hidden,false);assert.equal(open.getAttribute('aria-expanded'),'true');
+ open.click();assert.equal(d.querySelectorAll('#minhal-frame iframe').length,1);
+ d.querySelector('[data-lang="he"]').click();assert.equal(d.querySelector('#minhal-frame iframe'),frame);assert.match(frame.title,/מנהל המקדש/);assert.equal(open.textContent,'פתיחה בתוך מוריה');
+ d.querySelector('#minhal-close').click();assert.equal(d.querySelectorAll('#minhal-frame iframe').length,0);assert.equal(d.querySelector('#minhal-embed').hidden,true);assert.equal(open.getAttribute('aria-expanded'),'false');assert.equal(d.activeElement,open);dom.window.close();
 });
