@@ -25,7 +25,11 @@ export function findHaftarah(ecosystem,week){
   if(has('Shabbat HaChodesh'))special.push(rosh?'shabbat-hachodesh-on-rosh-chodesh':'shabbat-hachodesh');
   if(has('Shabbat HaGadol'))special.push('shabbat-hagadol');
   if(has('Shabbat Shuva'))special.push(en===clean('Haazinu')?'shabbat-shuva-with-ha-azinu':en===clean('Vayeilech')?'shabbat-shuva-with-vayeilech':'shabbat-shuva');
-  if(names.some(n=>n.startsWith('Chanukah:')))special.push(rosh?'shabbat-rosh-chodesh-chanukah':'chanukah-first-shabbat');
+  if(names.some(n=>n.startsWith('Chanukah:'))){
+   const day=h.abs()-new HDate(25,9,h.getFullYear()).abs();
+   if(day===7)return all.find(x=>x.id==='haftarah-chanukah-second-shabbat')||null;
+   special.push(rosh?'shabbat-rosh-chodesh-chanukah':'chanukah-first-shabbat');
+  }
   for(const n of names){
    if(/^Pesach .*CH/.test(n))special.push('pesach-shabbat-chol-ha-moed');
    if(/^Sukkot .*CH/.test(n))special.push('sukkot-shabbat-chol-ha-moed');
@@ -68,7 +72,7 @@ export function monthModel(system,year,month,city){
  if(system==='hebrew'){const first=new HDate(1,month,year);days=Array.from({length:first.daysInMonth()},(_,i)=>new HDate(i+1,month,year));}
  else {const count=new Date(year,month,0,12).getDate();days=Array.from({length:count},(_,i)=>new HDate(new Date(year,month-1,i+1,12)));}
  const events=[...new Set(days.map(h=>h.getFullYear()))].flatMap(y=>yearEvents(y,city));const byDate=new Map();
- for(const e of events){const n=e.getDate().abs();if(!byDate.has(n))byDate.set(n,[]);byDate.get(n).push(e);}
+ const seen=new Set();for(const e of events){const n=e.getDate().abs(),key=n+'|'+e.getDesc()+'|'+(e.eventTime?.getTime()||'');if(seen.has(key))continue;seen.add(key);if(!byDate.has(n))byDate.set(n,[]);byDate.get(n).push(e);}
  return {offset:days[0].getDay(),days:days.map(h=>({h,civil:isoHDate(h),events:byDate.get(h.abs())||[]}))};
 }
 export function monthStep(system,year,month,delta){if(system==='hebrew'){const h=new HDate(1,month,year).add(delta,'month');return {year:h.getFullYear(),month:h.getMonth()};}const d=new Date(year,month-1+delta,1,12);return {year:d.getFullYear(),month:d.getMonth()+1};}

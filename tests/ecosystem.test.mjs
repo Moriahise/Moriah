@@ -45,3 +45,13 @@ test('music playlists refer to real tracks across all nine collections',()=>{
 test('question rotation uses answered native-language records with actual reader deep links',()=>{
  for(const lang of ['he','en']){const cards=qaSelection(data.qa.cards,lang,1,3);assert.equal(cards.length,3);assert.ok(cards.every(q=>q.language===lang&&q.answer_count>0&&q.url.startsWith('https://shekhina.org/qa.html?id=')));assert.notDeepEqual(cards,qaSelection(data.qa.cards,lang,4,3));}
 });
+
+test('civil month crossing Rosh Hashanah does not duplicate eve events from adjacent Hebrew years',()=>{
+ const eve=monthModel('civil',2026,9,DEFAULT_CITY).days.find(d=>d.civil==='2026-09-11');
+ const keys=eve.events.map(e=>e.getDesc()+'|'+e.eventTime?.getTime());assert.equal(keys.length,new Set(keys).size);
+});
+
+test('special Shabbat selects its own Haftarah and missing second Chanukah study never opens the first',()=>{
+ assert.equal(findHaftarah(data,weeklyRecord(data,'2027-03-20')).id,'haftarah-shabbat-zachor');
+ assert.notEqual(findHaftarah(data,weeklyRecord(data,'2026-12-12'))?.id,'haftarah-chanukah-first-shabbat');
+});
