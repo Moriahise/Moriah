@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build static web pages and the frozen, bilingual 16-page weekly PDFs."""
 from __future__ import annotations
-import argparse,html,json,re,shutil,sys
+import argparse,html,json,re,shutil,sys,hashlib
 from datetime import datetime,timezone
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -9,10 +9,11 @@ from xml.sax.saxutils import escape as xml_escape
 from pipeline import ROOT,load,validate,safe_url
 
 def esc(s):return html.escape(str(s or ''),quote=True)
+def asset_version(name):return hashlib.sha256((ROOT/'assets'/name).read_bytes()).hexdigest()[:12]
 def tr(lang,en,he):return he if lang=='he' else en
 
 def page(title,body,lang='en',prefix='',extra=''):
-    return f'''<!doctype html><html lang="{lang}" dir="{'rtl' if lang=='he' else 'ltr'}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | MORIAH</title><link rel="icon" href="{prefix}assets/mark.svg"><link rel="stylesheet" href="{prefix}assets/style.css">{extra}</head><body><div class="policy-page"><a class="footer-brand" href="{prefix}index.html?lang={lang}">MORIAH · מוריה</a>{body}</div></body></html>'''
+    return f'''<!doctype html><html lang="{lang}" dir="{'rtl' if lang=='he' else 'ltr'}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | MORIAH</title><link rel="icon" href="{prefix}assets/mark.svg"><link rel="stylesheet" href="{prefix}assets/style.css?v={asset_version('style.css')}">{extra}</head><body><div class="policy-page"><a class="footer-brand" href="{prefix}index.html?lang={lang}">MORIAH · מוריה</a>{body}</div></body></html>'''
 
 def source_names(issue,lang):return {s['id']:s['name'][lang] for s in issue['sources']}
 def item_title(x,lang):return x['titles'].get(lang,x['title'])
@@ -85,7 +86,7 @@ def build(out,pdfs):
     shutil.copytree(ROOT/'data',out/'data',ignore=shutil.ignore_patterns('translations.json','run-report.md'))
     index=(ROOT/'web/index.html').read_text()
     fallback='<ul>'+''.join(f'<li><a href="{esc(x["url"])}">{esc(x["title"])}</a></li>' for x in data['news'][:10])+'</ul>'
-    index=index.replace('__NOSCRIPT__',fallback)
+    index=index.replace('__NOSCRIPT__',fallback).replace('assets/app.js','assets/app.js?v='+asset_version('app.js')).replace('assets/style.css','assets/style.css?v='+asset_version('style.css'))
     (out/'index.html').write_text(index)
     (out/'.nojekyll').touch()
     (out/'policies.html').write_text(page('Sources & policy',POLICIES))
