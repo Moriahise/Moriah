@@ -33,3 +33,7 @@ test('reading a feature opens a bilingual accessible dialog',async()=>{
 test('load more expands only the news list',async()=>{
  const {dom,d}=await setup();const before=d.querySelectorAll('.news-card').length;d.querySelector('#load-more').click();assert.ok(d.querySelectorAll('.news-card').length>before);dom.window.close();
 });
+
+test('front-page focus gives original-language reports priority',async()=>{
+ const {dom,d}=await setup();const first=[...d.querySelectorAll('#front-news .compact-item')];assert.ok(first.length>0);assert.ok(first.every(n=>!n.querySelector('.machine-label')));dom.window.close();
+});
