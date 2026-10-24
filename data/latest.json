@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T20:04:40Z",
+  "generated_at": "2026-10-24T20:06:05Z",
   "timezone": "Asia/Jerusalem",
   "news": [
     {
@@ -16,7 +16,27 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912714",
       "published_at": "2026-10-24T20:11:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "29781d6c9354f03173d8",
+      "title": "Iran reportedly ready to target submarine cables if war resumes",
+      "titles": {
+        "en": "Iran reportedly ready to target submarine cables if war resumes",
+        "he": "איראן מוכנה למקד את כבלי הצוללות אם המלחמה תחדש"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695965",
+      "published_at": "2026-10-24T20:00:55Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -36,7 +56,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/opinions/article/21698464",
       "published_at": "2026-10-24T19:57:48Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -56,7 +76,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21698460",
       "published_at": "2026-10-24T19:56:30Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -76,7 +96,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/crime/article/21698374",
       "published_at": "2026-10-24T19:53:19Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -116,10 +136,30 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/sport/offside/article/21698462",
       "published_at": "2026-10-24T19:52:07Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "f68ca1b8183e144fae42",
+      "title": "US intelligence warns of advanced Iranian assassination plots",
+      "titles": {
+        "en": "US intelligence warns of advanced Iranian assassination plots",
+        "he": "המודיעין האמריקאי מזהיר מפני מזימה מתקדמת של חיסולים איראנים"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695964",
+      "published_at": "2026-10-24T19:48:02Z",
+      "observed_at": "2026-10-24T20:06:05Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
       },
       "provenance": "publisher_feed"
     },
@@ -136,7 +176,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/opinions/article/21696564",
       "published_at": "2026-10-24T19:47:12Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -156,7 +196,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/elections-2026/article-1380814",
       "published_at": "2026-10-24T19:42:59Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -196,7 +236,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/sycsj005hfg",
       "published_at": "2026-10-24T19:36:14Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -216,7 +256,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/politics/article/21696012",
       "published_at": "2026-10-24T19:33:05Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -236,7 +276,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx",
       "published_at": "2026-10-24T19:33:03Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -256,7 +296,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/local/article/21698361",
       "published_at": "2026-10-24T19:30:53Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -276,7 +316,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/sjgurf5hml",
       "published_at": "2026-10-24T19:27:52Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -316,7 +356,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/bj0yxycngl",
       "published_at": "2026-10-24T19:17:05Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -336,7 +376,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21698037",
       "published_at": "2026-10-24T19:14:57Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -376,7 +416,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/sport/offside/article/21698294",
       "published_at": "2026-10-24T19:10:09Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -396,7 +436,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709224",
       "published_at": "2026-10-24T19:08:38Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -416,7 +456,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/opinions/article/21698292",
       "published_at": "2026-10-24T19:07:53Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -456,7 +496,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/opinions/article/21697969",
       "published_at": "2026-10-24T19:05:39Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -476,7 +516,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21698044",
       "published_at": "2026-10-24T19:05:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -496,7 +536,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21698216",
       "published_at": "2026-10-24T18:59:40Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -516,7 +556,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/hybu279hzg",
       "published_at": "2026-10-24T18:48:27Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -536,7 +576,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709222",
       "published_at": "2026-10-24T18:48:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -556,7 +596,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/culture/films/article/21698035",
       "published_at": "2026-10-24T18:47:48Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -576,7 +616,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695963",
       "published_at": "2026-10-24T18:46:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -596,7 +636,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21697754",
       "published_at": "2026-10-24T18:44:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -616,7 +656,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709221",
       "published_at": "2026-10-24T18:41:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -636,7 +676,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709220",
       "published_at": "2026-10-24T18:38:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -656,7 +696,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709121",
       "published_at": "2026-10-24T18:27:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -676,7 +716,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709215",
       "published_at": "2026-10-24T18:25:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -696,7 +736,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709218",
       "published_at": "2026-10-24T18:20:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -756,7 +796,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380785",
       "published_at": "2026-10-24T18:10:03Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -776,7 +816,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912711",
       "published_at": "2026-10-24T18:09:11Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -816,7 +856,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695962",
       "published_at": "2026-10-24T18:01:44Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -836,7 +876,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695961",
       "published_at": "2026-10-24T18:00:05Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -856,7 +896,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695960",
       "published_at": "2026-10-24T17:59:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -876,7 +916,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912708",
       "published_at": "2026-10-24T17:59:30Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -896,7 +936,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709217",
       "published_at": "2026-10-24T17:55:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1030,7 +1070,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/s14c00p5hme",
       "published_at": "2026-10-24T17:33:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1050,7 +1090,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/military/article-1380779",
       "published_at": "2026-10-24T17:33:27Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1110,7 +1150,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560615",
       "published_at": "2026-10-24T17:20:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1130,7 +1170,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/708482",
       "published_at": "2026-10-24T17:19:08Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1150,7 +1190,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695959",
       "published_at": "2026-10-24T17:18:43Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1170,7 +1210,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709216",
       "published_at": "2026-10-24T17:18:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1189,8 +1229,8 @@
       "section": "israel",
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709214",
-      "published_at": "2026-10-24T17:17:31Z",
-      "observed_at": "2026-10-24T18:47:08Z",
+      "published_at": "2026-10-24T17:17:00Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1210,7 +1250,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/byic8v92gx",
       "published_at": "2026-10-24T17:16:59Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1270,7 +1310,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/s1h7bdq2me",
       "published_at": "2026-10-24T17:08:51Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1310,7 +1350,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/b1nbbpchfg",
       "published_at": "2026-10-24T17:07:25Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1350,7 +1390,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709213",
       "published_at": "2026-10-24T17:01:00Z",
-      "observed_at": "2026-10-24T18:47:08Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1370,7 +1410,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695958",
       "published_at": "2026-10-24T16:59:09Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1390,7 +1430,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/ryd2ju93zx",
       "published_at": "2026-10-24T16:56:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1410,7 +1450,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/military/article-1380753",
       "published_at": "2026-10-24T16:36:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1430,7 +1470,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709212",
       "published_at": "2026-10-24T16:35:00Z",
-      "observed_at": "2026-10-24T18:47:08Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1450,7 +1490,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709211",
       "published_at": "2026-10-24T16:30:20Z",
-      "observed_at": "2026-10-24T18:47:08Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1470,7 +1510,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912705",
       "published_at": "2026-10-24T16:30:15Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1490,7 +1530,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/hjdjfaw3fg",
       "published_at": "2026-10-24T16:26:53Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1510,7 +1550,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709210",
       "published_at": "2026-10-24T16:26:09Z",
-      "observed_at": "2026-10-24T18:47:08Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1530,7 +1570,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/israel/article-1380739",
       "published_at": "2026-10-24T16:24:53Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1570,7 +1610,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/opinions/article-1380751",
       "published_at": "2026-10-24T16:21:52Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1590,7 +1630,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/opinions/article-1380748",
       "published_at": "2026-10-24T16:18:11Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1610,7 +1650,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1380744",
       "published_at": "2026-10-24T16:17:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1650,7 +1690,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560619",
       "published_at": "2026-10-24T16:14:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1690,7 +1730,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695957",
       "published_at": "2026-10-24T16:10:03Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1710,7 +1750,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560461",
       "published_at": "2026-10-24T16:10:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1750,7 +1790,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912703",
       "published_at": "2026-10-24T16:08:16Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1790,7 +1830,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/rjfp4i92me",
       "published_at": "2026-10-24T16:05:36Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1810,7 +1850,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560236",
       "published_at": "2026-10-24T16:03:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1830,7 +1870,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/g6v9at2rh",
       "published_at": "2026-10-24T16:01:12Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1870,7 +1910,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560240",
       "published_at": "2026-10-24T16:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1890,7 +1930,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695956",
       "published_at": "2026-10-24T15:57:43Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1950,7 +1990,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/military/article-1380741",
       "published_at": "2026-10-24T15:55:06Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2050,7 +2090,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912618",
       "published_at": "2026-10-24T15:46:50Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2070,7 +2110,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/opinions/article-1380738",
       "published_at": "2026-10-24T15:44:55Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2090,7 +2130,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912701",
       "published_at": "2026-10-24T15:43:27Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2190,7 +2230,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/health/article-1380733",
       "published_at": "2026-10-24T15:37:05Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2250,7 +2290,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380728",
       "published_at": "2026-10-24T15:26:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2310,7 +2350,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/ry9t11rq2gx",
       "published_at": "2026-10-24T15:21:57Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2330,7 +2370,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1380729",
       "published_at": "2026-10-24T15:19:18Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2390,7 +2430,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/byn4gh53gl",
       "published_at": "2026-10-24T15:02:17Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2410,7 +2450,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560614",
       "published_at": "2026-10-24T15:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2430,7 +2470,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/israel/article-1380724",
       "published_at": "2026-10-24T14:48:09Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2550,7 +2590,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912697",
       "published_at": "2026-10-24T14:35:15Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2630,7 +2670,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380708",
       "published_at": "2026-10-24T14:25:08Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2870,7 +2910,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560553",
       "published_at": "2026-10-24T13:02:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2950,7 +2990,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560429",
       "published_at": "2026-10-24T13:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2990,7 +3030,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912692",
       "published_at": "2026-10-24T12:41:41Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3110,7 +3150,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912559",
       "published_at": "2026-10-24T11:22:51Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3130,7 +3170,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912607",
       "published_at": "2026-10-24T11:21:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3306,7 +3346,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001559407",
       "published_at": "2026-10-24T10:30:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -3524,7 +3564,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560618",
       "published_at": "2026-10-24T09:32:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3964,7 +4004,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560192",
       "published_at": "2026-10-24T08:05:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -4084,7 +4124,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560228",
       "published_at": "2026-10-24T07:27:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -4263,7 +4303,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560616",
       "published_at": "2026-10-24T06:17:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -4538,7 +4578,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912675",
       "published_at": "2026-10-24T00:41:23Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4638,7 +4678,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ny/a-chabad-jew-was-stabbed-in-nyc-he-returned-the-next-day-to-continue-wrapping-tefillin",
       "published_at": "2026-10-23T22:31:34Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4878,7 +4918,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912571",
       "published_at": "2026-10-23T18:48:48Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4898,7 +4938,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560613",
       "published_at": "2026-10-23T18:41:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -4918,7 +4958,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ny/jewish-institutions-face-pressure-from-increased-security-costs",
       "published_at": "2026-10-23T18:10:25Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4978,7 +5018,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912622",
       "published_at": "2026-10-23T16:50:09Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4998,7 +5038,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912657",
       "published_at": "2026-10-23T15:33:03Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5018,7 +5058,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ideas/why-both-sides-are-ducking-settler-violence-ahead-of-israels-elections",
       "published_at": "2026-10-23T15:23:17Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5038,7 +5078,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912651",
       "published_at": "2026-10-23T14:51:47Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5078,7 +5118,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912652",
       "published_at": "2026-10-23T14:37:47Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5338,7 +5378,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/united-states/i-wanna-blow-up-a-synagogue-online-posts-lead-to-hate-crime-charge-against-utah-man",
       "published_at": "2026-10-23T12:27:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5418,7 +5458,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/torah-portion/article-912542",
       "published_at": "2026-10-23T12:10:51Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5438,7 +5478,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/torah-portion/article-912540",
       "published_at": "2026-10-23T12:10:27Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5458,7 +5498,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/article-912647",
       "published_at": "2026-10-23T12:09:54Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5731,7 +5771,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/israel/two-israelis-critically-wounded-by-palestinian-gunfire-in-west-bank",
       "published_at": "2026-10-23T10:48:39Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -5749,7 +5789,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/israel/will-this-election-end-the-battle-over-drafting-haredi-men-into-the-israeli-army",
       "published_at": "2026-10-23T10:36:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5769,7 +5809,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/israel/why-a-new-ultra-orthodox-party-supports-drafting-haredi-men-to-the-idf",
       "published_at": "2026-10-23T10:33:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5809,7 +5849,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/sports/the-discovery-of-a-jewish-negro-league-star-forces-a-rewrite-of-jewish-baseball-history",
       "published_at": "2026-10-23T10:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5969,7 +6009,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560555",
       "published_at": "2026-10-23T03:53:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -6009,7 +6049,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/politics/while-aipacs-critics-rejoice-as-lobby-shifts-strategy-its-defenders-push-back",
       "published_at": "2026-10-23T02:41:48Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6106,7 +6146,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/ny/orthodox-jewish-man-stabbed-in-midtown-manhattan",
       "published_at": "2026-10-22T21:14:50Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6126,7 +6166,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/ny/bronx-officials-blast-anti-zionist-groups-planned-protest-in-riverdale",
       "published_at": "2026-10-22T21:04:15Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6146,7 +6186,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/global/uk-adopts-sweeping-measures-against-antisemitism-in-schools",
       "published_at": "2026-10-22T17:38:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6166,7 +6206,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912516",
       "published_at": "2026-10-22T10:44:46Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6186,7 +6226,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/israel/the-missing-peace-in-israels-election-campaign",
       "published_at": "2026-10-22T08:09:07Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6206,7 +6246,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/ideas/is-nobody-wants-this-season-3-kosher-to-watch-after-adam-brodys-genocide-comments",
       "published_at": "2026-10-22T07:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6226,7 +6266,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/22/politics/in-final-michigan-senate-debate-rogers-says-jewish-democrats-afraid-of-el-sayed",
       "published_at": "2026-10-22T04:34:59Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6246,7 +6286,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912477",
       "published_at": "2026-10-22T03:41:42Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6286,7 +6326,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912475",
       "published_at": "2026-10-22T02:10:10Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6306,7 +6346,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912473",
       "published_at": "2026-10-22T01:52:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6446,7 +6486,7 @@
       "source_language": "en",
       "url": "https://yated.com/a-perfect-life",
       "published_at": "2026-10-21T19:54:16Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6466,7 +6506,7 @@
       "source_language": "en",
       "url": "https://yated.com/how-el-sayed-can-help-us-cultivate-our-emunah",
       "published_at": "2026-10-21T19:51:54Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6485,7 +6525,7 @@
       "source_language": "en",
       "url": "https://yated.com/in-tribute-to-the-noshim-tzidkaniyos",
       "published_at": "2026-10-21T19:49:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -6502,7 +6542,7 @@
       "source_language": "en",
       "url": "https://yated.com/a-different-pitch",
       "published_at": "2026-10-21T19:48:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -6520,7 +6560,7 @@
       "source_language": "en",
       "url": "https://yated.com/following-ilhan-omar-raid-washington-braces-for-indictments",
       "published_at": "2026-10-21T19:44:52Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6540,7 +6580,7 @@
       "source_language": "en",
       "url": "https://yated.com/my-take-on-the-news-449",
       "published_at": "2026-10-21T19:43:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6559,7 +6599,7 @@
       "source_language": "en",
       "url": "https://yated.com/the-chazon-ish",
       "published_at": "2026-10-21T19:40:34Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -6577,7 +6617,7 @@
       "source_language": "en",
       "url": "https://yated.com/the-midterm-elections-an-analysis",
       "published_at": "2026-10-21T19:37:50Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6757,7 +6797,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912358",
       "published_at": "2026-10-21T09:13:42Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6777,7 +6817,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/rkjawel2ml",
       "published_at": "2026-10-21T08:32:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6797,7 +6837,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/by0aq1ungl",
       "published_at": "2026-10-21T08:06:19Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6817,7 +6857,7 @@
       "source_language": "en",
       "url": "https://yated.com/help-save-this-little-boy",
       "published_at": "2026-10-21T07:46:37Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6837,7 +6877,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/hyrtvas3ml",
       "published_at": "2026-10-21T07:37:01Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6857,7 +6897,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/bkws4y8nzl",
       "published_at": "2026-10-21T07:13:50Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6877,7 +6917,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912355",
       "published_at": "2026-10-21T05:54:28Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6897,7 +6937,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/hjqbypb2fl",
       "published_at": "2026-10-21T05:16:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6917,7 +6957,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/hkbuyph2fx",
       "published_at": "2026-10-21T04:33:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6937,7 +6977,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912347",
       "published_at": "2026-10-21T03:46:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6957,7 +6997,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/rjyr1ihhfe",
       "published_at": "2026-10-21T00:47:42Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6977,7 +7017,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/hkhmplhhme",
       "published_at": "2026-10-20T22:25:13Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6997,7 +7037,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/sysy4rs2fx",
       "published_at": "2026-10-20T20:40:20Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7017,7 +7057,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/bkvng7vnmg",
       "published_at": "2026-10-20T20:37:46Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7037,7 +7077,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/bjqmfsh3zg",
       "published_at": "2026-10-20T19:42:52Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7057,7 +7097,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/skuzeeh3zx",
       "published_at": "2026-10-20T18:53:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7077,7 +7117,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/bk3zfxrhme",
       "published_at": "2026-10-20T17:57:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7097,7 +7137,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/by456zh2zg",
       "published_at": "2026-10-20T17:49:58Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7117,47 +7157,7 @@
       "source_language": "en",
       "url": "https://www.ynetnews.com/article/hyw1wmh3zg",
       "published_at": "2026-10-20T17:34:18Z",
-      "observed_at": "2026-10-24T20:04:40Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "f950858a2ab3d34cc8db",
-      "title": "Be’eri inaugurates new bike park as kibbutz works toward recovery",
-      "titles": {
-        "en": "Be’eri inaugurates new bike park as kibbutz works toward recovery",
-        "he": "Be'eri חנכה את פארק האופניים החדש כקיבוץ עובד לקראת שיקום"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912247",
-      "published_at": "2026-10-20T09:23:17Z",
-      "observed_at": "2026-10-24T20:04:40Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "7e29e01a964e295912fb",
-      "title": "Tel Aviv's Zemack Gallery goes on an American Dream ‘Road Trip’ with artist Yigal Ozeri",
-      "titles": {
-        "en": "Tel Aviv's Zemack Gallery goes on an American Dream ‘Road Trip’ with artist Yigal Ozeri",
-        "he": "גלריית Zemack של תל אביב הולכת על חלום אמריקאי \"Road Trip\" עם האמן יגאל אוילרי"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912205",
-      "published_at": "2026-10-19T22:53:07Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -7179,7 +7179,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=_QLEI0SGzEc",
       "published_at": "2026-10-24T19:50:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7200,7 +7200,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/geGCFTKDnXc",
       "published_at": "2026-10-24T19:47:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7221,7 +7221,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=YMgan0rVEMs",
       "published_at": "2026-10-24T19:46:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7242,7 +7242,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=E6c-Z6HdkFs",
       "published_at": "2026-10-24T19:43:29Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7263,7 +7263,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=rS3Lr3TdUKw",
       "published_at": "2026-10-24T19:41:34Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7284,7 +7284,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=SKGe1fBGm1g",
       "published_at": "2026-10-24T19:39:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7305,7 +7305,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/J96laKaPAR8",
       "published_at": "2026-10-24T19:34:18Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7326,7 +7326,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=Phn2dRD2Cl0",
       "published_at": "2026-10-24T19:30:11Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7347,7 +7347,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/j0h1xKvyP_M",
       "published_at": "2026-10-24T19:13:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7368,7 +7368,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=eNBXeue7PIs",
       "published_at": "2026-10-24T19:08:48Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7389,7 +7389,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=OzWQ0K5KC8Y",
       "published_at": "2026-10-24T19:00:51Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7411,7 +7411,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/watch?v=MQpvTewWFKU",
       "published_at": "2026-10-24T19:00:15Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -7433,7 +7433,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=MpXQccc3QdA",
       "published_at": "2026-10-24T18:53:56Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7454,7 +7454,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=8GWH-9XqkDc",
       "published_at": "2026-10-24T18:45:10Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7475,7 +7475,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/6S_5kKExzTI",
       "published_at": "2026-10-24T18:37:34Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7496,7 +7496,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=1beYOgG11Oc",
       "published_at": "2026-10-24T18:36:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7517,7 +7517,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=Vxaxhe1Eg_w",
       "published_at": "2026-10-24T18:34:38Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7593,8 +7593,8 @@
       "title": "Миф о «Моссаде» во Франции: разбор фейков #разоблачение #Франция #факты",
       "titles": {
         "ru": "Миф о «Моссаде» во Франции: разбор фейков #разоблачение #Франция #факты",
-        "he": "המיתוס של המוסד בצרפת: מחיקת זיופים #exposure # France #facts",
-        "en": "The myth of the Mossad in France: debunking fakes #exposure #France #facts"
+        "en": "The myth of the Mossad in France: debunking fakes #exposure #France #facts",
+        "he": "המיתוס של המוסד בצרפת: מחיקת זיופים #exposure # France #facts"
       },
       "source_id": "yt-channel9",
       "family": "channel9",
@@ -7602,11 +7602,11 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/shorts/faT4g9D8V-g",
       "published_at": "2026-10-24T18:18:13Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
-        "he": "machine",
-        "en": "machine"
+        "en": "machine",
+        "he": "machine"
       },
       "provenance": "publisher_feed",
       "video_id": "faT4g9D8V-g"
@@ -7645,7 +7645,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=hqYqqPXroSU",
       "published_at": "2026-10-24T18:14:10Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7666,7 +7666,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=_DWcE8eowAw",
       "published_at": "2026-10-24T18:14:04Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7687,7 +7687,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=CEF0zXBshJs",
       "published_at": "2026-10-24T18:13:59Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7708,7 +7708,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=d0TOncSBVJw",
       "published_at": "2026-10-24T17:51:24Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7729,7 +7729,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=waB5LkOx-Zo",
       "published_at": "2026-10-24T17:51:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7771,7 +7771,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/UicUhdHhE14",
       "published_at": "2026-10-24T17:15:16Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7792,7 +7792,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/tHHoqc1Wrxs",
       "published_at": "2026-10-24T16:28:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7812,7 +7812,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/PweamC6km3A",
       "published_at": "2026-10-24T15:00:14Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -7853,7 +7853,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/UwpX_2n9_hc",
       "published_at": "2026-10-24T13:15:35Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -7875,7 +7875,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/sMWLAQgbgZo",
       "published_at": "2026-10-24T13:00:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7897,7 +7897,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/Lh_KOgUljLM",
       "published_at": "2026-10-24T09:05:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -7919,7 +7919,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=yB3zVb8JC5w",
       "published_at": "2026-10-24T09:00:22Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7940,7 +7940,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/r1vcBSS_Ksk",
       "published_at": "2026-10-24T09:00:14Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7961,7 +7961,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=okBvRs4CP6c",
       "published_at": "2026-10-24T06:00:17Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7983,7 +7983,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=1gfDCtZyyRI",
       "published_at": "2026-10-23T22:36:29Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8005,7 +8005,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=iKBDronZqr8",
       "published_at": "2026-10-23T21:56:52Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -8026,7 +8026,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=d-QwAfkTgMw",
       "published_at": "2026-10-23T20:06:37Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8047,7 +8047,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=Hg0kYIfsBuo",
       "published_at": "2026-10-23T20:06:11Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8068,7 +8068,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=opmVw60F4oQ",
       "published_at": "2026-10-23T19:23:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8090,7 +8090,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/shorts/l6Nepy8Wkg0",
       "published_at": "2026-10-23T18:45:30Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8111,7 +8111,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/watch?v=9sOaUzlrLuk",
       "published_at": "2026-10-23T16:30:37Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -8130,7 +8130,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=b1gFL-rN_tA",
       "published_at": "2026-10-23T16:15:10Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8152,7 +8152,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/Eaq5qGNTgKA",
       "published_at": "2026-10-23T14:00:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8174,7 +8174,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=lpT_3ngwMIs",
       "published_at": "2026-10-23T13:59:34Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -8216,7 +8216,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=tyqCyuFgJoc",
       "published_at": "2026-10-23T13:00:08Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8237,7 +8237,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/zOWfPmEkVfI",
       "published_at": "2026-10-23T11:00:18Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8258,7 +8258,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=TFS48W5dH98",
       "published_at": "2026-10-23T09:30:00Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8300,7 +8300,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=0x0pn2iSZpQ",
       "published_at": "2026-10-23T08:46:24Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -8339,7 +8339,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=3e5r1C6nIRU",
       "published_at": "2026-10-23T06:00:37Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8359,7 +8359,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=bPJDGSJmvto",
       "published_at": "2026-10-23T04:01:02Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -8378,7 +8378,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=zrcVdU6aQEQ",
       "published_at": "2026-10-23T02:00:44Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -8400,7 +8400,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=Z2G6U49tKCE",
       "published_at": "2026-10-22T23:32:43Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8422,7 +8422,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=TItqCBxwDcg",
       "published_at": "2026-10-22T23:00:39Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -8443,7 +8443,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=T6CtOtVJUCI",
       "published_at": "2026-10-22T21:53:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8509,7 +8509,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/watch?v=rlpEVBXHAI8",
       "published_at": "2026-10-22T18:00:10Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8554,7 +8554,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/9w1roBGMi8s",
       "published_at": "2026-10-22T15:45:33Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8597,7 +8597,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=EEKI2zcCESM",
       "published_at": "2026-10-22T11:05:31Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -8616,7 +8616,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/cZZMoFFkZGk",
       "published_at": "2026-10-22T09:58:06Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8637,7 +8637,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/m79As-eToV8",
       "published_at": "2026-10-22T08:21:44Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8658,7 +8658,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/i_ELUCA6b8w",
       "published_at": "2026-10-22T08:20:57Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8679,7 +8679,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/fA2tbe09tvM",
       "published_at": "2026-10-22T08:04:53Z",
-      "observed_at": "2026-10-24T20:04:40Z",
+      "observed_at": "2026-10-24T20:06:05Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -9595,7 +9595,7 @@
     }
   ],
   "learning_calendar": {
-    "fetched_at": "2026-10-24T20:04:40Z",
+    "fetched_at": "2026-10-24T20:06:05Z",
     "items": [
       {
         "title": "Bechorot 36",
@@ -10576,37 +10576,37 @@
   "source_status": [
     {
       "id": "jpost",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
-      "items": 28,
+      "items": 27,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T20:11:56Z"
     },
     {
       "id": "jpost-judaism",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 12,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-23T12:10:51Z"
     },
     {
       "id": "jpost-culture",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T16:30:15Z"
     },
     {
       "id": "toi",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10614,7 +10614,7 @@
     },
     {
       "id": "zman",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10622,150 +10622,150 @@
     },
     {
       "id": "ynet",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:36:14Z"
     },
     {
       "id": "ynetnews",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-21T08:32:20Z"
     },
     {
       "id": "yedioth",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "maariv",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:42:59Z"
     },
     {
       "id": "globes",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T17:20:00Z"
     },
     {
       "id": "calcalist",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "themarker",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "No dated entries from the last 21 days"
     },
     {
       "id": "israelhayom",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 100,
       "error": null,
       "feed_url": "https://www.israelhayom.co.il/rss",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:57:48Z"
     },
     {
       "id": "hamodia",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "yated",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://yated.com/feed/",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-21T19:54:16Z"
     },
     {
       "id": "besheva",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "arutz7",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-      "last_success_at": "2026-10-24T20:04:40Z",
-      "latest_at": "2026-10-24T19:52:19Z"
+      "last_success_at": "2026-10-24T20:06:05Z",
+      "latest_at": "2026-10-24T19:08:38Z"
     },
     {
       "id": "inn-en",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-      "last_success_at": "2026-10-24T20:04:40Z",
-      "latest_at": "2026-10-24T18:46:20Z"
+      "last_success_at": "2026-10-24T20:06:05Z",
+      "latest_at": "2026-10-24T20:00:55Z"
     },
     {
       "id": "makorrishon",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "error": "ValueError: DTD/entity XML rejected"
     },
     {
       "id": "kan",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "keshet12",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "reshet13",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "now14",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10773,164 +10773,164 @@
     },
     {
       "id": "kankids",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "makan",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "knesset-tv",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "i24news",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "channel9",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "jta",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.jta.org/feed",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-23T22:31:34Z"
     },
     {
       "id": "yt-kan11",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:30:11Z"
     },
     {
       "id": "yt-kannews",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:08:48Z"
     },
     {
       "id": "yt-kankids",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T09:00:22Z"
     },
     {
       "id": "yt-makan33",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:00:15Z"
     },
     {
       "id": "yt-reshet13",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T17:15:16Z"
     },
     {
       "id": "yt-channel9",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:50:33Z"
     },
     {
       "id": "yt-i24en",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-23T21:56:52Z"
     },
     {
       "id": "yt-knesset",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 12,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-22T08:20:57Z"
     },
     {
       "id": "yt-n12",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "unavailable",
       "items": 0,
       "error": "No dated entries from the last 21 days"
     },
     {
       "id": "yt-now14",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:46:31Z"
     },
     {
       "id": "yt-knesset-tv",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-22T11:05:31Z"
     },
     {
       "id": "yt-i24he",
-      "checked_at": "2026-10-24T20:04:40Z",
+      "checked_at": "2026-10-24T20:06:05Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-      "last_success_at": "2026-10-24T20:04:40Z",
+      "last_success_at": "2026-10-24T20:06:05Z",
       "latest_at": "2026-10-24T19:47:31Z"
     }
   ],
@@ -10943,7 +10943,7 @@
         "geonameid": 281184,
         "israel": true
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
@@ -11030,12 +11030,12 @@
         "geonameid": 293397,
         "israel": true
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
         "title": "Hebcal Tel Aviv October 2026",
-        "date": "2026-10-24T11:07:45.665Z",
+        "date": "2026-10-24T10:58:08.522Z",
         "version": "v1.17.0",
         "location": {
           "title": "Tel Aviv, Israel",
@@ -11117,7 +11117,7 @@
         "geonameid": 294801,
         "israel": true
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
@@ -11204,12 +11204,12 @@
         "geonameid": 2761369,
         "israel": false
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
         "title": "Hebcal Vienna October 2026",
-        "date": "2026-10-24T11:12:16.149Z",
+        "date": "2026-10-24T10:58:18.013Z",
         "version": "v1.17.0",
         "location": {
           "title": "Vienna, Austria",
@@ -11291,12 +11291,12 @@
         "geonameid": 2643743,
         "israel": false
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
         "title": "Hebcal London October 2026",
-        "date": "2026-10-24T10:58:22.098Z",
+        "date": "2026-10-24T11:20:23.111Z",
         "version": "v1.17.0",
         "location": {
           "title": "London, England, UK",
@@ -11378,7 +11378,7 @@
         "geonameid": 5128581,
         "israel": false
       },
-      "fetched_at": "2026-10-24T20:04:40Z",
+      "fetched_at": "2026-10-24T20:06:05Z",
       "shabbat_date": "2026-10-24",
       "stale": false,
       "data": {
