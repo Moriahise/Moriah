@@ -16,7 +16,7 @@ Automated compilation; no human or rabbinic review claimed.
 
 - hamodia: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
 
-- makorrishon: HTTPError: HTTP Error 403: Forbidden
+- makorrishon: ValueError: DTD/entity XML rejected
 
 - now14: HTTPError: HTTP Error 403: Forbidden
 
