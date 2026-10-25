@@ -1,8 +1,1019 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T22:28:14Z",
+  "generated_at": "2026-10-25T04:37:21Z",
   "timezone": "Asia/Jerusalem",
   "news": [
+    {
+      "id": "af116b65f210729a1fbd",
+      "title": "Suspect detained after Hitler's former retreat in Germany is torched",
+      "titles": {
+        "en": "Suspect detained after Hitler's former retreat in Germany is torched",
+        "he": "החשודים שנעצרו לאחר הנסיגה לשעבר של היטלר בגרמניה"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695976",
+      "published_at": "2026-10-25T04:06:07Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "cfea185a03e043268e52",
+      "title": "הוא רק בן 14.5 וכבר הכפיל את ההשקעה \"ברוב המניות בתיק\"",
+      "titles": {
+        "he": "הוא רק בן 14.5 וכבר הכפיל את ההשקעה \"ברוב המניות בתיק\"",
+        "en": "He’s only 14.5 years old and has already doubled the investment “in most of the shares in the bag.”"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560365",
+      "published_at": "2026-10-25T04:03:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "6ff93f56cfd567c12204",
+      "title": "איפה שאתם רואים משבר בתחבורה הציבורית, כרישי השוק מצאו השקעה נהדרת",
+      "titles": {
+        "he": "איפה שאתם רואים משבר בתחבורה הציבורית, כרישי השוק מצאו השקעה נהדרת",
+        "en": "Where you see a crisis in public transport, market sharks have found a great investment."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560524",
+      "published_at": "2026-10-25T04:03:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "0294387e642785961c8e",
+      "title": "המוצר החדש של חברת המל\"טים הישראלית",
+      "titles": {
+        "he": "המוצר החדש של חברת המל\"טים הישראלית",
+        "en": "The new product of Israeli drones."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560104",
+      "published_at": "2026-10-25T04:01:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "afa9e8095da4b83491d3",
+      "title": "מר כלכלה הפך לסכנה לכלכלה: מה לעזאזל עובר על נתניהו? | בן כספית",
+      "titles": {
+        "he": "מר כלכלה הפך לסכנה לכלכלה: מה לעזאזל עובר על נתניהו? | בן כספית",
+        "en": "Mr. Economics has become a danger to economics: What the hell is going through Netanyahu?"
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1380825",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "21b04199246651ad75de",
+      "title": "חשד לגיהינום במעון באריאל: \"דברים כמו כרמל מעודה, חונקים ילדים עד שהם נרדמים\"| קשה לקריאה",
+      "titles": {
+        "he": "חשד לגיהינום במעון באריאל: \"דברים כמו כרמל מעודה, חונקים ילדים עד שהם נרדמים\"| קשה לקריאה",
+        "en": "Suffering to hell in the Barriel cave: “Things like Carmel Goda are choking children until they fall asleep.”"
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/law/article-1380817",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b98a20022705d8a8ee3c",
+      "title": "אנשים עם ADHD בסיכון תמותה גבוה יותר - אבל יש גם פתרון",
+      "titles": {
+        "he": "אנשים עם ADHD בסיכון תמותה גבוה יותר - אבל יש גם פתרון",
+        "en": "People with ADHD at higher mortality risk, but there is also a solution."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/health/article-1380790",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "361509710bdad5a7e74e",
+      "title": "המבנים שלא נהרסו והפעולות שבאו מאוחר מדי: השאלות הקשות אחרי הפיגוע בצומת יהודה | אבי אשכנזי",
+      "titles": {
+        "he": "המבנים שלא נהרסו והפעולות שבאו מאוחר מדי: השאלות הקשות אחרי הפיגוע בצומת יהודה | אבי אשכנזי",
+        "en": "The structures that have not been destroyed and the actions that came too late: the difficult questions after the attack at the Judean intersection."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/military/article-1380784",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "3ab5b0ddf2f39c7a5834",
+      "title": "70 שנה אחרי: הלוחמים חושפים מה באמת קרה בקרב ששינה את צה\"ל",
+      "titles": {
+        "he": "70 שנה אחרי: הלוחמים חושפים מה באמת קרה בקרב ששינה את צה\"ל",
+        "en": "70 years after: The fighters reveal what really happened in the battle that changed the IDF."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/israel/article-1380776",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b2e70f566c40d07ef689",
+      "title": "הנשים שייכנסו לכנסת הבאה חייבות לזכור דבר אחד | יפעת סלע",
+      "titles": {
+        "he": "הנשים שייכנסו לכנסת הבאה חייבות לזכור דבר אחד | יפעת סלע",
+        "en": "The women who will enter the next Knesset must remember one thing."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1380772",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "6cd20bda5b763ed26586",
+      "title": "אחרי שלוש שנות מלחמה, ציפיתי לבחירות אחרות - וקיבלתי את אותו הדבר",
+      "titles": {
+        "he": "אחרי שלוש שנות מלחמה, ציפיתי לבחירות אחרות - וקיבלתי את אותו הדבר",
+        "en": "After three years of war, I expected other elections and got the same."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1380771",
+      "published_at": "2026-10-25T04:00:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "0e41551a6fe588bfc5e6",
+      "title": "ביל אקמן: \"יהיו חברות שיתרסקו, גם מקצועות מסוימים\"",
+      "titles": {
+        "he": "ביל אקמן: \"יהיו חברות שיתרסקו, גם מקצועות מסוימים\"",
+        "en": "Bill Eckman: “There will be companies that will crash, some professions too.”"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560617",
+      "published_at": "2026-10-25T04:00:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "2589e70e707b61a6d57f",
+      "title": "\"נזק בלתי הפיך\": קיש עצר את הבמחנים הבינלאומיים - והמחיר עלול להיות כבד",
+      "titles": {
+        "he": "\"נזק בלתי הפיך\": קיש עצר את הבמחנים הבינלאומיים - והמחיר עלול להיות כבד",
+        "en": "irreversible damage: Kish has stopped international interns – and the price may be heavy."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/education/article/21697233",
+      "published_at": "2026-10-25T03:57:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "434dab962e44fbda66f9",
+      "title": "הזמינו טיול מאורגן וביטלו באותו היום - האם ישלמו דמי ביטול?",
+      "titles": {
+        "he": "הזמינו טיול מאורגן וביטלו באותו היום - האם ישלמו דמי ביטול?",
+        "en": "Book an organized trip and look at the same day - will they pay a cancellation fee?"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560474",
+      "published_at": "2026-10-25T03:55:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "c45b0da29d9c53b3ee6c",
+      "title": "\"הציבור לא אהבל\": נשיא לשכת סוכני הביטוח משוכנע שאין שום בעיה במודל התגמול",
+      "titles": {
+        "he": "\"הציבור לא אהבל\": נשיא לשכת סוכני הביטוח משוכנע שאין שום בעיה במודל התגמול",
+        "en": "“The public has not loved,” the president of the Insurance Agency’s office is convinced there is no problem with the compensation model."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560526",
+      "published_at": "2026-10-25T03:53:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1bf3ba34a90cdfc33bee",
+      "title": "קפיצה של 70% מתחילת שנה: ענקית האופנה שהפכה את תצוגות האופנה למכונת מכירות",
+      "titles": {
+        "he": "קפיצה של 70% מתחילת שנה: ענקית האופנה שהפכה את תצוגות האופנה למכונת מכירות",
+        "en": "A 70% jump from the beginning of a year: the fashion giant that has made fashion shows a sales machine."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560606",
+      "published_at": "2026-10-25T03:51:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "f9c2ef92c874d2f067da",
+      "title": "העסקה בוטלה אחרי שנתיים, והפנטהאוז נמכר שוב באותו מחיר",
+      "titles": {
+        "he": "העסקה בוטלה אחרי שנתיים, והפנטהאוז נמכר שוב באותו מחיר",
+        "en": "The deal was cancelled after two years, and the penthouse was sold again at the same price."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560212",
+      "published_at": "2026-10-25T03:50:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "48836c4754a30d01a2a9",
+      "title": "100 אלף שקל בחודש: מי שוכר את דירות היוקרה",
+      "titles": {
+        "he": "100 אלף שקל בחודש: מי שוכר את דירות היוקרה"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560210",
+      "published_at": "2026-10-25T03:48:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {},
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "d322278e2971fd6aa137",
+      "title": "שיקום עזה יחכה לאחרי הבחירות: נתניהו דחה שורת מהלכים ברצועה",
+      "titles": {
+        "he": "שיקום עזה יחכה לאחרי הבחירות: נתניהו דחה שורת מהלכים ברצועה",
+        "en": "Gaza Rehabilitation will wait after the elections: Netanyahu rejected a number of moves in the Strip."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/defense/article/21697827",
+      "published_at": "2026-10-25T03:45:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ed55c50df7ccfa596695",
+      "title": "נוהרים מחו\"ל להצביע? בדקנו את המספרים",
+      "titles": {
+        "he": "נוהרים מחו\"ל להצביע? בדקנו את המספרים",
+        "en": "Are we looking at the numbers?"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560622",
+      "published_at": "2026-10-25T03:43:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "4a02c7151a45af0dfa08",
+      "title": "המדע קובע: \"חוק 5 השניות\" הוא שקר מוחלט",
+      "titles": {
+        "he": "המדע קובע: \"חוק 5 השניות\" הוא שקר מוחלט",
+        "en": "Science states: “The 5 Second Rule” is a complete lie."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/tech/space/article/21696089",
+      "published_at": "2026-10-25T03:38:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7e7dd6787975b1d4d00f",
+      "title": "טראמפ על איראן: \"עלינו לוודא שלעולם לא יהיה להם נשק גרעיני\"",
+      "titles": {
+        "he": "טראמפ על איראן: \"עלינו לוודא שלעולם לא יהיה להם נשק גרעיני\"",
+        "en": "Trump on Iran: “We must make sure they never have nuclear weapons.”"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709237",
+      "published_at": "2026-10-25T03:30:28Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "fc3430ec4839114f2b15",
+      "title": "בצה\"ל מעלים כוננות: סגר מוחלט ביום הבחירות ביו\"ש",
+      "titles": {
+        "he": "בצה\"ל מעלים כוננות: סגר מוחלט ביום הבחירות ביו\"ש",
+        "en": "In the IDF, there is an absolute closure on Election Day."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001560621",
+      "published_at": "2026-10-25T03:30:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "a45fd9d8459dbacd85d5",
+      "title": "התחזית: הטמפרטורות ירדו, צפי לגשם ושיטפונות חריגים ביום הבחירות",
+      "titles": {
+        "he": "התחזית: הטמפרטורות ירדו, צפי לגשם ושיטפונות חריגים ביום הבחירות",
+        "en": "The forecast: temperatures decreased, rainfall and unusual floods on Election Day"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/rjfp4i92me",
+      "published_at": "2026-10-25T03:14:40Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1d7d0c5e18dab1b06c01",
+      "title": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+      "titles": {
+        "en": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+        "he": "טראמפ על איראן: אנחנו צריכים לוודא שאין להם נשק גרעיני"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695975",
+      "published_at": "2026-10-25T03:14:27Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b0f81951b94ae7a4ea42",
+      "title": "איך מערכת בחירות כל כך גורלית הפכה למוצר טלוויזיוני משעמם? | עם עינב שיף",
+      "titles": {
+        "he": "איך מערכת בחירות כל כך גורלית הפכה למוצר טלוויזיוני משעמם? | עם עינב שיף",
+        "en": "How has such a fateful campaign become a boring TV product?"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/theheadline/article/4wwe7b5vl",
+      "published_at": "2026-10-25T03:00:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ca4ab4152a04328c3e2c",
+      "title": "Hitler's 'Mein Kampf' found at home of suspect in Paris-area shooting",
+      "titles": {
+        "en": "Hitler's 'Mein Kampf' found at home of suspect in Paris-area shooting",
+        "he": "\"מיין קאמפף\" של היטלר נמצא בביתו של החשוד בפריז-מארה"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695974",
+      "published_at": "2026-10-25T02:17:41Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1af4b95671a05e367419",
+      "title": "חולצה קצרה או מטרייה? המערכת ההפכפכה שמבלבלת את הסתיו",
+      "titles": {
+        "he": "חולצה קצרה או מטרייה? המערכת ההפכפכה שמבלבלת את הסתיו",
+        "en": "A short shirt or umbrella? the hypnotic system that confuses autumn"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/weather/article/21698812",
+      "published_at": "2026-10-25T02:13:11Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "021a8f03e70eb44cc475",
+      "title": "Camille Cottin elevates French family drama 'Out of Love' as it opens in Israeli theaters - review",
+      "titles": {
+        "en": "Camille Cottin elevates French family drama 'Out of Love' as it opens in Israeli theaters - review",
+        "he": "קמיל קוטטין מעלה את הדרמה המשפחתית הצרפתית \"מחוץ לאהבה\" כשהיא נפתחת בתיאטראות ישראליים - ביקורת"
+      },
+      "source_id": "jpost-culture",
+      "family": "jpost",
+      "section": "culture",
+      "source_language": "en",
+      "url": "https://www.jpost.com/israel-news/culture/article-912611",
+      "published_at": "2026-10-25T01:59:49Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "5f1e6071d9a60e7a48d7",
+      "title": "Sacha Baron Cohen’s Ali G returns in two-day screening of 'Who Iz I?' amid pushback campaign",
+      "titles": {
+        "en": "Sacha Baron Cohen’s Ali G returns in two-day screening of 'Who Iz I?' amid pushback campaign"
+      },
+      "source_id": "jpost-culture",
+      "family": "jpost",
+      "section": "culture",
+      "source_language": "en",
+      "url": "https://www.jpost.com/israel-news/culture/article-912608",
+      "published_at": "2026-10-25T01:59:40Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {},
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7512c73af53b307aa56f",
+      "title": "שוחררו בטענה שאין חשש לשיבוש - ושדדו שוב תוך 4 ימים",
+      "titles": {
+        "he": "שוחררו בטענה שאין חשש לשיבוש - ושדדו שוב תוך 4 ימים",
+        "en": "They were released on the grounds that there was no fear of disruption, and they were robbed again in 4 days."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/other/article/21698805",
+      "published_at": "2026-10-25T01:58:16Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "c50d35d7e74b50ca5e32",
+      "title": "דיווח על גניבת 650 כבשים, גרף 28,220 ליש\"ט - ונתפס עם העדר",
+      "titles": {
+        "he": "דיווח על גניבת 650 כבשים, גרף 28,220 ליש\"ט - ונתפס עם העדר"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21698794",
+      "published_at": "2026-10-25T01:49:33Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {},
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "2021b776dda1fbf43218",
+      "title": "Riyadh airport to resume flights despite renewed Houthi threats",
+      "titles": {
+        "en": "Riyadh airport to resume flights despite renewed Houthi threats",
+        "he": "נמל התעופה ריאד לחדש את הטיסות למרות איומים חדשים של Houthi"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695973",
+      "published_at": "2026-10-25T01:19:24Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "8965185921831e1a6567",
+      "title": "היא רק רצתה לפתוח עסק לקייטרינג, אבל התחילה לפענח מקרי רצח: מה חדש בטלוויזיה",
+      "titles": {
+        "he": "היא רק רצתה לפתוח עסק לקייטרינג, אבל התחילה לפענח מקרי רצח: מה חדש בטלוויזיה",
+        "en": "She just wanted to start a business for Kettering, but began to decipher murders: What's new on TV."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/culture/tv/article/21687281",
+      "published_at": "2026-10-25T01:00:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1970c05a85f4b1887261",
+      "title": "14 קילו בחצי שנה: תרופת ההרזיה רטטרוטיד נבדקה על חולי כליות",
+      "titles": {
+        "he": "14 קילו בחצי שנה: תרופת ההרזיה רטטרוטיד נבדקה על חולי כליות",
+        "en": "14 kilos in half a year: the strata drug was tested on kidney patients."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/health/article/21698782",
+      "published_at": "2026-10-25T00:40:00Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "fdd29a53414df470e229",
+      "title": "דיווח: צבא ארה\"ב הכין תוכניות לתקיפות נוספות באיראן",
+      "titles": {
+        "he": "דיווח: צבא ארה\"ב הכין תוכניות לתקיפות נוספות באיראן",
+        "en": "Report: The U.S. Army has prepared further attacks in Iran"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709236",
+      "published_at": "2026-10-25T00:29:04Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "08037f4ec791af6a9d51",
+      "title": "מחקר על 50 מיליון אשפוזים: מה קרה ללב של האמריקנים אחרי שהקנאביס הפך לחוקי",
+      "titles": {
+        "he": "מחקר על 50 מיליון אשפוזים: מה קרה ללב של האמריקנים אחרי שהקנאביס הפך לחוקי",
+        "en": "50 million hospitalizations: What happened to the heart of Americans after cannabis became legal."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "science",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/health/article/21698770",
+      "published_at": "2026-10-25T00:23:19Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "6cb4197b790c5d70b515",
+      "title": "Report: US military has strike plans ready for Iran",
+      "titles": {
+        "en": "Report: US military has strike plans ready for Iran",
+        "he": "דיווח: צבא ארה\"ב שביתה תוכניות לאיראן"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695972",
+      "published_at": "2026-10-25T00:22:34Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "215c940ef3cb1ac0fa04",
+      "title": "הטריק עם המגבת: ככה תקלפו ערמונים בשניות",
+      "titles": {
+        "he": "הטריק עם המגבת: ככה תקלפו ערמונים בשניות",
+        "en": "The trick with the grove: This is how you shower abominations in seconds."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/trending-online/article/21698761",
+      "published_at": "2026-10-25T00:14:43Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "daf50547a870774f3ba1",
+      "title": "כולם עושים את זה לא נכון: ככה תפטרו מהאדים על השמשה תוך דקה",
+      "titles": {
+        "he": "כולם עושים את זה לא נכון: ככה תפטרו מהאדים על השמשה תוך דקה",
+        "en": "Everyone is doing this wrong: that’s how you get rid of the ad on the sun in a minute."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/trending-online/article/21698752",
+      "published_at": "2026-10-25T00:04:43Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "f783dc8a262d2565487d",
+      "title": "לקראת הבחירות: צה\"ל מגביל כניסת פועלים פלסטינים ליישובים ביהודה ושומרון",
+      "titles": {
+        "he": "לקראת הבחירות: צה\"ל מגביל כניסת פועלים פלסטינים ליישובים ביהודה ושומרון",
+        "en": "Towards the elections, the IDF restricts Palestinian workers entering communities in Judea and Samaria."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709235",
+      "published_at": "2026-10-24T23:59:42Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "3e7fc2e0b010e3cb632c",
+      "title": "בישראל מקווים למהפך: ברזיל תכריע היום - לולה או בולסונארו ג'וניור",
+      "titles": {
+        "he": "בישראל מקווים למהפך: ברזיל תכריע היום - לולה או בולסונארו ג'וניור",
+        "en": "In Israel, I hope for the revolution: Brazil will decide today – Lola or Bolsonaro Jr."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/other/article/21698718",
+      "published_at": "2026-10-24T23:46:18Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "add6eb44d6a913fe4287",
+      "title": "פסיקת ועדת הבחירות: קמפיין הליכוד יוסר, קמפיין ישר! נקנס",
+      "titles": {
+        "he": "פסיקת ועדת הבחירות: קמפיין הליכוד יוסר, קמפיין ישר! נקנס",
+        "en": "The Election Commission's ruling: the Likud campaign will be lifted, a straight campaign!"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/politics/article/21698741",
+      "published_at": "2026-10-24T23:27:43Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "3ca0bed0050eb7272ec9",
+      "title": "באישור הדרג המדיני: ההנחיות שהוטלו לקראת הבחירות",
+      "titles": {
+        "he": "באישור הדרג המדיני: ההנחיות שהוטלו לקראת הבחירות",
+        "en": "With the approval of the political level: the instructions imposed on the elections"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/defense/article/21698707",
+      "published_at": "2026-10-24T23:24:54Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "18ac278e3ab3b501443e",
+      "title": "Did you remember to turn back your clocks? Israel 'falls back' to Winter Time",
+      "titles": {
+        "en": "Did you remember to turn back your clocks? Israel 'falls back' to Winter Time",
+        "he": "\"זוכרת להחזיר את השעונים?\", חזרה ישראל לחורף"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695971",
+      "published_at": "2026-10-24T23:20:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "3902bb3be279bedfe96b",
+      "title": "\"המוח\" מאחורי המהומות באיטליה: פעיל פרו-פלסטיני תומך חמאס",
+      "titles": {
+        "he": "\"המוח\" מאחורי המהומות באיטליה: פעיל פרו-פלסטיני תומך חמאס",
+        "en": "\"The Brain\" behind the riots in Italy: a pro-Palestinian activist supports Hamas"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21698731",
+      "published_at": "2026-10-24T23:12:15Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "d9878bd57c2dafa3b590",
+      "title": "זכרתם להזיז את השעון? ישראל עברה לשעון חורף",
+      "titles": {
+        "he": "זכרתם להזיז את השעון? ישראל עברה לשעון חורף",
+        "en": "Did you remember to move the clock?"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709234",
+      "published_at": "2026-10-24T23:11:18Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7a3ee4a19194bfff383f",
+      "title": "Israel to restrict Palestinian Arab workers' entry, close land crossings on Election Day",
+      "titles": {
+        "en": "Israel to restrict Palestinian Arab workers' entry, close land crossings on Election Day",
+        "he": "ישראל תגביל את כניסתם של העובדים הערבים הפלסטינים, מעברי קרקע קרובים ביום הבחירות"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695970",
+      "published_at": "2026-10-24T23:10:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "eeee827ce82f82ec4444",
+      "title": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
+      "titles": {
+        "en": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
+        "he": "המשטרה עצרה חשודה בת 23 לתקוף את אחד שומרי הראש של בנט בתל אביב"
+      },
+      "source_id": "jpost",
+      "family": "jpost",
+      "section": "israel",
+      "source_language": "en",
+      "url": "https://www.jpost.com/israel-news/article-912722",
+      "published_at": "2026-10-24T23:04:11Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "25aac05bee96632c69f0",
+      "title": "Is Tom Barrack fit to represent America in the Middle East?",
+      "titles": {
+        "en": "Is Tom Barrack fit to represent America in the Middle East?",
+        "he": "האם טום ברוק מתאים לייצג את אמריקה במזרח התיכון?"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/695969",
+      "published_at": "2026-10-24T23:03:48Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "34e77f03b5627380ff8c",
+      "title": "ישראל עברה לשעון חורף | כל מה שצריך לדעת",
+      "titles": {
+        "he": "ישראל עברה לשעון חורף | כל מה שצריך לדעת",
+        "en": "Israel has gone to the winter clock."
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/g6v9at2rh",
+      "published_at": "2026-10-24T22:07:04Z",
+      "observed_at": "2026-10-25T04:37:21Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
     {
       "id": "82ebbfa95bd340f8fcd2",
       "title": "Israeli-Arab influencer behind ‘Nas Daily’: Anti-Zionism is antisemitism",
@@ -16,7 +1027,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/24/israel/israeli-arab-influencer-behind-nas-daily-anti-zionism-is-antisemitism",
       "published_at": "2026-10-24T21:56:57Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -56,7 +1067,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912718",
       "published_at": "2026-10-24T21:51:28Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -76,7 +1087,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380836",
       "published_at": "2026-10-24T21:40:18Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -96,7 +1107,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709233",
       "published_at": "2026-10-24T21:20:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -116,7 +1127,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717",
       "published_at": "2026-10-24T21:04:17Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -136,7 +1147,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936356",
       "published_at": "2026-10-24T21:04:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -156,7 +1167,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936682",
       "published_at": "2026-10-24T21:03:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -176,7 +1187,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936621",
       "published_at": "2026-10-24T21:03:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -196,7 +1207,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936924",
       "published_at": "2026-10-24T21:03:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -216,7 +1227,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936432",
       "published_at": "2026-10-24T21:03:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -236,7 +1247,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380831",
       "published_at": "2026-10-24T21:02:57Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -256,7 +1267,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695968",
       "published_at": "2026-10-24T21:02:26Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -276,7 +1287,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709232",
       "published_at": "2026-10-24T21:01:37Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -296,7 +1307,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14936876",
       "published_at": "2026-10-24T21:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -316,7 +1327,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380829",
       "published_at": "2026-10-24T20:59:45Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -336,7 +1347,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/695967",
       "published_at": "2026-10-24T20:51:21Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -356,7 +1367,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/h1zxi8c2fe",
       "published_at": "2026-10-24T20:44:05Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -376,7 +1387,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709231",
       "published_at": "2026-10-24T20:43:49Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -396,7 +1407,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/military/article-1380824",
       "published_at": "2026-10-24T20:39:29Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -456,7 +1467,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/b1i11af53fx",
       "published_at": "2026-10-24T20:30:23Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -716,7 +1727,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/bkzjjeqnze",
       "published_at": "2026-10-24T20:25:12Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -756,7 +1767,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709230",
       "published_at": "2026-10-24T20:24:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -796,7 +1807,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912714",
       "published_at": "2026-10-24T20:11:56Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -816,7 +1827,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709229",
       "published_at": "2026-10-24T20:09:49Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -836,7 +1847,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1380818",
       "published_at": "2026-10-24T20:07:28Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -936,7 +1947,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709219",
       "published_at": "2026-10-24T19:52:19Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1016,7 +2027,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/elections-2026/article-1380814",
       "published_at": "2026-10-24T19:42:59Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1036,7 +2047,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709228",
       "published_at": "2026-10-24T19:38:25Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1056,7 +2067,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/sycsj005hfg",
       "published_at": "2026-10-24T19:36:14Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1096,7 +2107,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx",
       "published_at": "2026-10-24T19:33:03Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1136,7 +2147,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/sjgurf5hml",
       "published_at": "2026-10-24T19:27:52Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1156,7 +2167,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709227",
       "published_at": "2026-10-24T19:22:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1216,7 +2227,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709226",
       "published_at": "2026-10-24T19:12:14Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1256,7 +2267,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709224",
       "published_at": "2026-10-24T19:08:38Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1296,7 +2307,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709225",
       "published_at": "2026-10-24T19:07:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1616,7 +2627,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1380785",
       "published_at": "2026-10-24T18:10:03Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1636,7 +2647,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912711",
       "published_at": "2026-10-24T18:09:11Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1736,7 +2747,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912708",
       "published_at": "2026-10-24T17:59:30Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1910,7 +2921,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/military/article-1380779",
       "published_at": "2026-10-24T17:33:27Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2330,7 +3341,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912705",
       "published_at": "2026-10-24T16:30:15Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2570,7 +3581,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560461",
       "published_at": "2026-10-24T16:10:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2610,7 +3621,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912703",
       "published_at": "2026-10-24T16:08:16Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2638,26 +3649,6 @@
       "provenance": "publisher_feed"
     },
     {
-      "id": "a45fd9d8459dbacd85d5",
-      "title": "צפי לגשם ושיטפונות חריגים ביום הבחירות: התחזית המלאה",
-      "titles": {
-        "he": "צפי לגשם ושיטפונות חריגים ביום הבחירות: התחזית המלאה",
-        "en": "The rainfall and unusual floods on Election Day: Full forecast"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/rjfp4i92me",
-      "published_at": "2026-10-24T16:05:36Z",
-      "observed_at": "2026-10-24T20:41:06Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
       "id": "530cedbf2c045651f597",
       "title": "למה התקיפות האמריקאיות לא מצליחות לעצור את שגשוג תעשיית הקוקאין העולמית",
       "titles": {
@@ -2671,26 +3662,6 @@
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560236",
       "published_at": "2026-10-24T16:03:00Z",
       "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "34e77f03b5627380ff8c",
-      "title": "הלילה עוברים לשעון חורף | כל מה שצריך לדעת - ואיך תוודאו שהטלפון יתעדכן?",
-      "titles": {
-        "he": "הלילה עוברים לשעון חורף | כל מה שצריך לדעת - ואיך תוודאו שהטלפון יתעדכן?",
-        "en": "The night goes through the winter clock, all you need to know – and how will you make sure your phone is updated?"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/g6v9at2rh",
-      "published_at": "2026-10-24T16:01:12Z",
-      "observed_at": "2026-10-24T20:41:06Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2730,7 +3701,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560240",
       "published_at": "2026-10-24T16:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2910,7 +3881,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912618",
       "published_at": "2026-10-24T15:46:50Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2950,7 +3921,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912701",
       "published_at": "2026-10-24T15:43:27Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3270,7 +4241,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560614",
       "published_at": "2026-10-24T15:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3410,7 +4381,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912697",
       "published_at": "2026-10-24T14:35:15Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3790,7 +4761,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560429",
       "published_at": "2026-10-24T13:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3830,7 +4801,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-912692",
       "published_at": "2026-10-24T12:41:41Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3950,7 +4921,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912559",
       "published_at": "2026-10-24T11:22:51Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3970,7 +4941,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912607",
       "published_at": "2026-10-24T11:21:35Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5378,7 +6349,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912675",
       "published_at": "2026-10-24T00:41:23Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5478,7 +6449,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ny/a-chabad-jew-was-stabbed-in-nyc-he-returned-the-next-day-to-continue-wrapping-tefillin",
       "published_at": "2026-10-23T22:31:34Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5718,7 +6689,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-912571",
       "published_at": "2026-10-23T18:48:48Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5758,7 +6729,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ny/jewish-institutions-face-pressure-from-increased-security-costs",
       "published_at": "2026-10-23T18:10:25Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5818,7 +6789,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912622",
       "published_at": "2026-10-23T16:50:09Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5858,7 +6829,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/ideas/why-both-sides-are-ducking-settler-violence-ahead-of-israels-elections",
       "published_at": "2026-10-23T15:23:17Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6178,7 +7149,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/23/united-states/i-wanna-blow-up-a-synagogue-online-posts-lead-to-hate-crime-charge-against-utah-man",
       "published_at": "2026-10-23T12:27:56Z",
-      "observed_at": "2026-10-24T22:28:14Z",
+      "observed_at": "2026-10-25T04:37:21Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6199,974 +7170,6 @@
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912646",
       "published_at": "2026-10-23T12:20:28Z",
       "observed_at": "2026-10-24T15:55:21Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "e9a8ea87f4e15ebcf3db",
-      "title": "טבח במהלך הלוויה בכנסייה בירדן",
-      "titles": {
-        "he": "טבח במהלך הלוויה בכנסייה בירדן",
-        "en": "A massacre during the funeral in Jordan"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709194",
-      "published_at": "2026-10-23T12:12:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "dab3d6f1150ae23e211e",
-      "title": "מפלגת אח\"י תודיע על פרישה: זו המפלגה לה בוחריה יצביעו במקום",
-      "titles": {
-        "he": "מפלגת אח\"י תודיע על פרישה: זו המפלגה לה בוחריה יצביעו במקום",
-        "en": "The Party will announce retirement: this is the party to which its voters vote instead."
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751216",
-      "published_at": "2026-10-23T12:11:46Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "5678a308f597f459c971",
-      "title": "Parashat Lech Lecha: Having the courage to stand alone",
-      "titles": {
-        "en": "Parashat Lech Lecha: Having the courage to stand alone",
-        "he": "Parashat Lech Lecha: יש את האומץ לעמוד לבד"
-      },
-      "source_id": "jpost-judaism",
-      "family": "jpost",
-      "section": "parashah",
-      "source_language": "en",
-      "url": "https://www.jpost.com/judaism/torah-portion/article-912542",
-      "published_at": "2026-10-23T12:10:51Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "89640330e3ccdf37451d",
-      "title": "Parashat Lech Lecha: There is no wisdom like that gained through experience",
-      "titles": {
-        "en": "Parashat Lech Lecha: There is no wisdom like that gained through experience",
-        "he": "Parashat Lech Lecha: אין חוכמה כמו זה שנצבר באמצעות ניסיון"
-      },
-      "source_id": "jpost-judaism",
-      "family": "jpost",
-      "section": "parashah",
-      "source_language": "en",
-      "url": "https://www.jpost.com/judaism/torah-portion/article-912540",
-      "published_at": "2026-10-23T12:10:27Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "6da5eee1d259c8a7c372",
-      "title": "Shabbat candle lighting times for Israel and US",
-      "titles": {
-        "en": "Shabbat candle lighting times for Israel and US",
-        "he": "שעת הדלקת נרות לישראל ולארה\"ב"
-      },
-      "source_id": "jpost-judaism",
-      "family": "jpost",
-      "section": "parashah",
-      "source_language": "en",
-      "url": "https://www.jpost.com/judaism/article-912647",
-      "published_at": "2026-10-23T12:09:54Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "161553c3759d99f8f8a4",
-      "title": "מחקר חדש חושף: הקפה שמצעיר אתכם – וזה שעלול להאיץ הזדקנות",
-      "titles": {
-        "he": "מחקר חדש חושף: הקפה שמצעיר אתכם – וזה שעלול להאיץ הזדקנות",
-        "en": "New Study Reveals: The Coffee That Youngs You – And This Is Possible to accelerate Ageing"
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "science",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751207",
-      "published_at": "2026-10-23T12:05:28Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "6398273c9dfa693b9bc0",
-      "title": "חמושים ביצעו ירי במהלך הלוויה בכנסייה, לפחות 7 הרוגים במקום",
-      "titles": {
-        "he": "חמושים ביצעו ירי במהלך הלוויה בכנסייה, לפחות 7 הרוגים במקום",
-        "en": "Armed men took fire during the church funeral, at least 7 dead instead."
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751208",
-      "published_at": "2026-10-23T12:03:31Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "97a40b43c4759703508a",
-      "title": "אחיה של מייגן מרקל הגיש תלונה נגד אביו עם האשמות קשות ביותר",
-      "titles": {
-        "he": "אחיה של מייגן מרקל הגיש תלונה נגד אביו עם האשמות קשות ביותר",
-        "en": "Meghan Markle’s brother filed a complaint against his father with the most serious accusations."
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751196",
-      "published_at": "2026-10-23T11:55:16Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "83c1da2752b6de83606e",
-      "title": "\"הוא רצה לגרום לטבח\": הרוג ו-4 פצועים במסע ירי ליד פריז",
-      "titles": {
-        "he": "\"הוא רצה לגרום לטבח\": הרוג ו-4 פצועים במסע ירי ליד פריז"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709191",
-      "published_at": "2026-10-23T11:53:42Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {},
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "f5412fd1b357d78c8d3f",
-      "title": "הדרכון הזר הגיע, אבל הבית נשאר כאן",
-      "titles": {
-        "he": "הדרכון הזר הגיע, אבל הבית נשאר כאן",
-        "en": "The foreign passport came, but the house stayed here."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709190",
-      "published_at": "2026-10-23T11:49:39Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ed6ef6eaf4750d9f11d3",
-      "title": "המחבלים חוסלו | שני פצועים אנוש בפיגוע ירי בצומת יהודה",
-      "titles": {
-        "he": "המחבלים חוסלו | שני פצועים אנוש בפיגוע ירי בצומת יהודה",
-        "en": "The terrorists were killed | two human injuries in a shooting attack at the Judean intersection"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709152",
-      "published_at": "2026-10-23T11:42:19Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "f33dfbd95d1d0014cc03",
-      "title": "רה\"מ נתניהו בחברון: \"צה\"ל ייכנס לשכונות שמהן יצאו המחבלים\"",
-      "titles": {
-        "he": "רה\"מ נתניהו בחברון: \"צה\"ל ייכנס לשכונות שמהן יצאו המחבלים\"",
-        "en": "Netanyahu in Hebron: “The IDF will enter the neighborhoods from which the terrorists have come out.”"
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751189",
-      "published_at": "2026-10-23T11:35:48Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "b6b896929898b163bffb",
-      "title": "אורי אגוז: לך לך אל הארץ – ברית חלוציות הקיבוצניקים ואנשי החוות",
-      "titles": {
-        "he": "אורי אגוז: לך לך אל הארץ – ברית חלוציות הקיבוצניקים ואנשי החוות",
-        "en": "Ori Agusz: Go to the Land – The Kovnik Slave Alliance and the Farmers"
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735275",
-      "published_at": "2026-10-23T11:30:02Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "a81aa5897a5accaf414b",
-      "title": "כמו בג'נין וטולכרם: נתניהו מכריז על שינוי שיטת הפעולה בחברון",
-      "titles": {
-        "he": "כמו בג'נין וטולכרם: נתניהו מכריז על שינוי שיטת הפעולה בחברון",
-        "en": "As in Jenin and Tulkarm: Netanyahu announces the change of the method of action in Hebron."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709188",
-      "published_at": "2026-10-23T11:25:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "caa12540cf6861ee8cce",
-      "title": "ערוץ 14 ניצח בעתירה ויתרום את הכסף למאבק המשפטי של כוח 100",
-      "titles": {
-        "he": "ערוץ 14 ניצח בעתירה ויתרום את הכסף למאבק המשפטי של כוח 100",
-        "en": "Channel 14 won the petition and donated money to the legal struggle of power 100"
-      },
-      "source_id": "now14",
-      "family": "now14",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.c14.co.il/article/1751174",
-      "published_at": "2026-10-23T11:23:44Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ffa6b71197a19cdb16f5",
-      "title": "בקו האש: תיעוד ממצלמת הקסדה של קב\"ט קריית ארבע",
-      "titles": {
-        "he": "בקו האש: תיעוד ממצלמת הקסדה של קב\"ט קריית ארבע"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709187",
-      "published_at": "2026-10-23T11:15:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {},
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "fc1bda9792976d2382ab",
-      "title": "הרב טאו והרב אבינר בקריאה משותפת: להצביע למפלגת נעם לישראל",
-      "titles": {
-        "he": "הרב טאו והרב אבינר בקריאה משותפת: להצביע למפלגת נעם לישראל",
-        "en": "Rabbi Tao and Rabbi Avigner in a joint reading: voting for the party moved to Israel."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709186",
-      "published_at": "2026-10-23T11:13:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "b84bd7e9cc38e379dd6c",
-      "title": "\"אל תמיט על עם ישראל אסון\": ראשי ארגוני ימין בקריאה חריפה לווינטר",
-      "titles": {
-        "he": "\"אל תמיט על עם ישראל אסון\": ראשי ארגוני ימין בקריאה חריפה לווינטר",
-        "en": "“Don’t underestimate Israel as a disaster”: Right-wing organizational leaders in a strong call to Winter"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709184",
-      "published_at": "2026-10-23T11:12:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "15eca7ffab31ed6a2f63",
-      "title": "IDF planning major West Bank campaign after 2 soldiers killed, Netanyahu says",
-      "titles": {
-        "en": "IDF planning major West Bank campaign after 2 soldiers killed, Netanyahu says"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/23/israel/two-israelis-critically-wounded-by-palestinian-gunfire-in-west-bank",
-      "published_at": "2026-10-23T10:48:39Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {},
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "fa9491b6d9d459756e64",
-      "title": "Will this election end the battle over drafting haredi men into the Israeli army?",
-      "titles": {
-        "en": "Will this election end the battle over drafting haredi men into the Israeli army?",
-        "he": "האם הבחירות האלה יסתיימו את הקרב על גיבוש אנשי החרדים לצבא הישראלי?"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/23/israel/will-this-election-end-the-battle-over-drafting-haredi-men-into-the-israeli-army",
-      "published_at": "2026-10-23T10:36:22Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "b1caf8f51af220444f85",
-      "title": "Why a new ultra-Orthodox party supports drafting haredi men to the IDF",
-      "titles": {
-        "en": "Why a new ultra-Orthodox party supports drafting haredi men to the IDF",
-        "he": "מדוע מפלגה חרדית חדשה תומכת בגיוס גברים חרדים לצה\"ל"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/23/israel/why-a-new-ultra-orthodox-party-supports-drafting-haredi-men-to-the-idf",
-      "published_at": "2026-10-23T10:33:35Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "63c5d728337004fb403d",
-      "title": "קריסת יצוא הנפט דוחקת את איראן לפשרה אפשרית מול ארצות הברית",
-      "titles": {
-        "he": "קריסת יצוא הנפט דוחקת את איראן לפשרה אפשרית מול ארצות הברית",
-        "en": "The collapse of oil exports is pushing Iran into a possible compromise against the United States."
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735739",
-      "published_at": "2026-10-23T10:00:03Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "7b0a6e7c7e6aeaa2a011",
-      "title": "The discovery of a Jewish Negro League star forces a rewrite of Jewish baseball history",
-      "titles": {
-        "en": "The discovery of a Jewish Negro League star forces a rewrite of Jewish baseball history",
-        "he": "התגלית של כוכב ליגת הכושי יהודי מאלצת את סיפור הבייסבול היהודי"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/23/sports/the-discovery-of-a-jewish-negro-league-star-forces-a-rewrite-of-jewish-baseball-history",
-      "published_at": "2026-10-23T10:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3613baa8a7a942342ed6",
-      "title": "ד\"ר איריס סורוקר: לא לסגור את המיקרופון",
-      "titles": {
-        "he": "ד\"ר איריס סורוקר: לא לסגור את המיקרופון",
-        "en": "Dr. Iris Sorker: Do not close the microphone"
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735063",
-      "published_at": "2026-10-23T08:30:03Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2367f755e40253afb5aa",
-      "title": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-      "titles": {
-        "en": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
-        "he": "נתניהו מצווה על חברון להיסגר, לסגור את הגדה המערבית המלאה לאחר פיגוע הטרור של חמאס"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "economy",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912642",
-      "published_at": "2026-10-23T07:29:39Z",
-      "observed_at": "2026-10-24T15:55:21Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "16726ea97d9cdebc2549",
-      "title": "המוקש של \"חוק הנאשם\"",
-      "titles": {
-        "he": "המוקש של \"חוק הנאשם\"",
-        "en": "The Accused of “The defendant’s Law”"
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735734",
-      "published_at": "2026-10-23T07:00:03Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "afdf6fc2b47c63000535",
-      "title": "הרשימה המשותפת: המפלגה היחידה שמצהירה - צריך להגדיל את החוב",
-      "titles": {
-        "he": "הרשימה המשותפת: המפלגה היחידה שמצהירה - צריך להגדיל את החוב",
-        "en": "The Joint List: The only party that declares - should increase debt"
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001560539",
-      "published_at": "2026-10-23T06:08:00Z",
-      "observed_at": "2026-10-24T15:55:21Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c70445d2d8f0b6d47289",
-      "title": "ד\"ר דן סגיר: התקפה על היהדות ההומניסטית",
-      "titles": {
-        "he": "ד\"ר דן סגיר: התקפה על היהדות ההומניסטית",
-        "en": "Dr. Dan Seger: Attack on Humanistic Judaism"
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735587",
-      "published_at": "2026-10-23T05:30:03Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "1217eb433b5b5686c676",
-      "title": "צרפת וגרמניה לא ראו נתון כזה כבר 15 שנה",
-      "titles": {
-        "he": "צרפת וגרמניה לא ראו נתון כזה כבר 15 שנה",
-        "en": "France and Germany have not seen such a thing for 15 years."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001560499",
-      "published_at": "2026-10-23T04:37:00Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "a247879748aa468a799e",
-      "title": "יומן בחירות: יום שישי, 23 באוקטובר 2026",
-      "titles": {
-        "he": "יומן בחירות: יום שישי, 23 באוקטובר 2026",
-        "en": "Election Diary: Friday, October 23, 2026"
-      },
-      "source_id": "zman",
-      "family": "toi",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.zman.co.il/735745",
-      "published_at": "2026-10-23T04:28:43Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "7abec14bd5c452916b98",
-      "title": "נדל״ן מסים ותקציב הביטחון: מה חושבים במפלגות בנושאים כלכליים?",
-      "titles": {
-        "he": "נדל״ן מסים ותקציב הביטחון: מה חושבים במפלגות בנושאים כלכליים?",
-        "en": "Paying taxes and the security budget: What do you think about parties on economic issues?"
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001560555",
-      "published_at": "2026-10-23T03:53:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "96936b3f3d4476142601",
-      "title": "'Grave incitement': Heckler throws glass bottle at Netanyahu's motorcade near Mahaneh Yehuda market",
-      "titles": {
-        "en": "'Grave incitement': Heckler throws glass bottle at Netanyahu's motorcade near Mahaneh Yehuda market",
-        "he": "\"הסתה גדולה\": היקלר זורק בקבוק זכוכית במשלחתו של נתניהו ליד שוק Mahaneh יהודה"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "israel",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/article-912634",
-      "published_at": "2026-10-23T03:18:25Z",
-      "observed_at": "2026-10-24T15:55:21Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "8248859b6e0eaf7e1d04",
-      "title": "While AIPAC’s critics rejoice as lobby shifts strategy, its defenders push back",
-      "titles": {
-        "en": "While AIPAC’s critics rejoice as lobby shifts strategy, its defenders push back",
-        "he": "בעוד שמבקרי AIPAC שמחים כאסטרטגיה של הלובי, המגינים שלה דוחקים בחזרה"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/politics/while-aipacs-critics-rejoice-as-lobby-shifts-strategy-its-defenders-push-back",
-      "published_at": "2026-10-23T02:41:48Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "5a447e305cf16040a670",
-      "title": "Former hostage Elkana Bohbot recalls how faith, family helped him survive Hamas captivity",
-      "titles": {
-        "en": "Former hostage Elkana Bohbot recalls how faith, family helped him survive Hamas captivity",
-        "he": "בן ערובה לשעבר אלקאנה בוהבוט נזכר כיצד אמונה, המשפחה עזרה לו לשרוד את השבי של חמאס"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "security",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/article-912632",
-      "published_at": "2026-10-23T02:30:41Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "0d32b669d688030b2665",
-      "title": "Hilltop Youth filmed waving weapons, singing anti-Zionist song at West Bank wedding - report",
-      "titles": {
-        "en": "Hilltop Youth filmed waving weapons, singing anti-Zionist song at West Bank wedding - report",
-        "he": "Hilltop Youth צילם כלי נשק, שירה בשירה נגד ציונית בחתונת הגדה המערבית - דו\"ח"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "economy",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/article-912628",
-      "published_at": "2026-10-23T00:27:14Z",
-      "observed_at": "2026-10-24T11:22:37Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "6c933e1b59974929ed54",
-      "title": "Hapoel Tel Aviv rallies in Euroleague basketball, Jerusalem stays perfect in EuroCup",
-      "titles": {
-        "en": "Hapoel Tel Aviv rallies in Euroleague basketball, Jerusalem stays perfect in EuroCup"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "jerusalem",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/sports/article-912626",
-      "published_at": "2026-10-22T22:55:22Z",
-      "observed_at": "2026-10-24T11:07:07Z",
-      "type": "news",
-      "translation": {},
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3ca97fafc55dc8e9c2f2",
-      "title": "From preseason disaster to title contender: How Barak Bachar turned Maccabi Haifa around",
-      "titles": {
-        "en": "From preseason disaster to title contender: How Barak Bachar turned Maccabi Haifa around",
-        "he": "מאסון טרום העונה ועד לכותרת: Howברק באךר הפך את מכבי חיפה סביב מכבי חיפה"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "israel",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/sports/article-912625",
-      "published_at": "2026-10-22T22:47:16Z",
-      "observed_at": "2026-10-24T10:57:06Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3b03467a385b7acf5e68",
-      "title": "Orthodox Jewish man stabbed in midtown Manhattan",
-      "titles": {
-        "en": "Orthodox Jewish man stabbed in midtown Manhattan",
-        "he": "יהודי אורתודוכסי נדקר באמצע העיר מנהטן"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/ny/orthodox-jewish-man-stabbed-in-midtown-manhattan",
-      "published_at": "2026-10-22T21:14:50Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "a348b211a13042873d4b",
-      "title": "Bronx officials blast anti-Zionist groups’ planned protest in Riverdale",
-      "titles": {
-        "en": "Bronx officials blast anti-Zionist groups’ planned protest in Riverdale",
-        "he": "בכירים בברונקס מפצפים את המחאה המתוכננת של קבוצות אנטי-ציוניות בנהרדייל"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/ny/bronx-officials-blast-anti-zionist-groups-planned-protest-in-riverdale",
-      "published_at": "2026-10-22T21:04:15Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "f55f5ae6b0e86751f727",
-      "title": "UK adopts sweeping measures against antisemitism in schools",
-      "titles": {
-        "en": "UK adopts sweeping measures against antisemitism in schools",
-        "he": "בריטניה נוקטת בצעדים גורפים נגד האנטישמיות בבתי הספר"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/global/uk-adopts-sweeping-measures-against-antisemitism-in-schools",
-      "published_at": "2026-10-22T17:38:31Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "dfc9e3a0cfb673be5bb3",
-      "title": "Mark Wilf at The Jewish Agency: Building connection, unity, and trust",
-      "titles": {
-        "en": "Mark Wilf at The Jewish Agency: Building connection, unity, and trust",
-        "he": "מארק וילף בסוכנות היהודית: בניית קשר, אחדות ואמון"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912516",
-      "published_at": "2026-10-22T10:44:46Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2c6a912c7390e7dda096",
-      "title": "The Palestinian issue once defined Israeli elections. Now no one’s talking about it.",
-      "titles": {
-        "en": "The Palestinian issue once defined Israeli elections. Now no one’s talking about it.",
-        "he": "הסוגיה הפלסטינית הגדירה פעם בחירות ישראליות, עכשיו אף אחד לא מדבר על זה."
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/israel/the-missing-peace-in-israels-election-campaign",
-      "published_at": "2026-10-22T08:09:07Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "4512863c7b9da50c712d",
-      "title": "Is ‘Nobody Wants This’ Season 3 kosher to watch after Adam Brody’s genocide comments?",
-      "titles": {
-        "en": "Is ‘Nobody Wants This’ Season 3 kosher to watch after Adam Brody’s genocide comments?",
-        "he": "האם \"אף אחד לא רוצה את זה\" עונה 3 כשרה לצפייה אחרי דבריו של אדם ברודי?"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/ideas/is-nobody-wants-this-season-3-kosher-to-watch-after-adam-brodys-genocide-comments",
-      "published_at": "2026-10-22T07:00:00Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "84273c014117e840c76e",
-      "title": "In Michigan Senate debate, Rogers claims Jewish Democrats are ‘afraid’ of El-Sayed",
-      "titles": {
-        "en": "In Michigan Senate debate, Rogers claims Jewish Democrats are ‘afraid’ of El-Sayed",
-        "he": "בדיון בסנאט של מישיגן, רוג'רס טוען כי הדמוקרטים היהודים הם \"פחדים\" של אל-סייד"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/10/22/politics/in-final-michigan-senate-debate-rogers-says-jewish-democrats-afraid-of-el-sayed",
-      "published_at": "2026-10-22T04:34:59Z",
-      "observed_at": "2026-10-24T20:41:06Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c7534dc4da81ac7cae38",
-      "title": "Israeli designer Arik Weiss discusses contribution to Marvel’s ‘Spider-Noir’ series",
-      "titles": {
-        "en": "Israeli designer Arik Weiss discusses contribution to Marvel’s ‘Spider-Noir’ series",
-        "he": "מעצב ישראלי אריק וייס מדבר על תרומה לסדרת \"ספייד-נור\" של מארוול"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912477",
-      "published_at": "2026-10-22T03:41:42Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "eb36c2d66924c6833642",
-      "title": "Three years into the Gaza war, Israeli commander reflects on the price of defending his country",
-      "titles": {
-        "en": "Three years into the Gaza war, Israeli commander reflects on the price of defending his country",
-        "he": "שלוש שנים למלחמת עזה, המפקד הישראלי משקף את מחיר ההגנה על ארצו."
-      },
-      "source_id": "ynetnews",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "en",
-      "url": "https://www.ynetnews.com/article/skjq40uhgg",
-      "published_at": "2026-10-22T02:30:08Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "a5c1a9a65f5efa6696c7",
-      "title": "'Sheep in the Box': A pointless, sweet story of grief, robots - review",
-      "titles": {
-        "en": "'Sheep in the Box': A pointless, sweet story of grief, robots - review",
-        "he": "\"Sheep in the Box\": סיפור חסר טעם ומתוק של צער, רובוטים - ביקורת"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912475",
-      "published_at": "2026-10-22T02:10:10Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "28824369db0ef3372dd2",
-      "title": "Nathan Fielder's Elizabeth Holmes documentary ‘You Can See Everything’ coming to Israel",
-      "titles": {
-        "en": "Nathan Fielder's Elizabeth Holmes documentary ‘You Can See Everything’ coming to Israel",
-        "he": "הסרט התיעודי אליזבת הולמס \"You Can See Everything\" מגיע לישראל"
-      },
-      "source_id": "jpost-culture",
-      "family": "jpost",
-      "section": "culture",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/culture/article-912473",
-      "published_at": "2026-10-22T01:52:20Z",
-      "observed_at": "2026-10-24T22:28:14Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c5cb7b9db3d5b9584da9",
-      "title": "US, Israel prepare for renewed strikes on Iran after midterms, report says",
-      "titles": {
-        "en": "US, Israel prepare for renewed strikes on Iran after midterms, report says",
-        "he": "ארה\"ב, ישראל מתכוננת להתקפות מחודשות על איראן אחרי אמצע השבוע."
-      },
-      "source_id": "ynetnews",
-      "family": "yedioth",
-      "section": "security",
-      "source_language": "en",
-      "url": "https://www.ynetnews.com/article/hk111url2mx",
-      "published_at": "2026-10-22T00:35:45Z",
-      "observed_at": "2026-10-24T22:28:14Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -9604,7 +9607,7 @@
     }
   ],
   "learning_calendar": {
-    "fetched_at": "2026-10-24T22:28:14Z",
+    "fetched_at": "2026-10-25T04:37:21Z",
     "items": [
       {
         "title": "Bechorot 37",
@@ -10585,37 +10588,37 @@
   "source_status": [
     {
       "id": "jpost",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 29,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:51:28Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T01:59:49Z"
     },
     {
       "id": "jpost-judaism",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 12,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-      "last_success_at": "2026-10-24T22:28:14Z",
+      "last_success_at": "2026-10-25T04:37:21Z",
       "latest_at": "2026-10-23T12:10:51Z"
     },
     {
       "id": "jpost-culture",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T16:30:15Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T01:59:49Z"
     },
     {
       "id": "toi",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10623,7 +10626,7 @@
     },
     {
       "id": "zman",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10631,150 +10634,150 @@
     },
     {
       "id": "ynet",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:04:00Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T03:14:40Z"
     },
     {
       "id": "ynetnews",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-22T02:30:08Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-21T08:32:20Z"
     },
     {
       "id": "yedioth",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "maariv",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:40:18Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T04:00:54Z"
     },
     {
       "id": "globes",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T17:20:00Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T04:03:00Z"
     },
     {
       "id": "calcalist",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "themarker",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "No dated entries from the last 21 days"
     },
     {
       "id": "israelhayom",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
-      "items": 99,
+      "items": 100,
       "error": null,
       "feed_url": "https://www.israelhayom.co.il/rss",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:54:34Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T03:57:00Z"
     },
     {
       "id": "hamodia",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "yated",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://yated.com/feed/",
-      "last_success_at": "2026-10-24T22:28:14Z",
+      "last_success_at": "2026-10-25T04:37:21Z",
       "latest_at": "2026-10-21T19:54:16Z"
     },
     {
       "id": "besheva",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "arutz7",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:20:00Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T03:30:28Z"
     },
     {
       "id": "inn-en",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T21:02:26Z"
+      "last_success_at": "2026-10-25T04:37:21Z",
+      "latest_at": "2026-10-25T04:06:07Z"
     },
     {
       "id": "makorrishon",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "kan",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "keshet12",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "reshet13",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "now14",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10782,165 +10785,143 @@
     },
     {
       "id": "kankids",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "makan",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "knesset-tv",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "i24news",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "channel9",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "jta",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.jta.org/feed",
-      "last_success_at": "2026-10-24T22:28:14Z",
+      "last_success_at": "2026-10-25T04:37:21Z",
       "latest_at": "2026-10-24T21:56:57Z"
     },
     {
       "id": "yt-kan11",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T19:30:11Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-kannews",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T19:08:48Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-kankids",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T09:00:22Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-makan33",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T19:00:15Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-reshet13",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T17:15:16Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-channel9",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T19:50:33Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-i24en",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T20:12:46Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-knesset",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 12,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-22T08:20:57Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-n12",
-      "checked_at": "2026-10-24T22:28:14Z",
+      "checked_at": "2026-10-25T04:37:21Z",
       "state": "unavailable",
       "items": 0,
-      "error": "No dated entries from the last 21 days"
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "yt-now14",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T20:54:03Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-knesset-tv",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-22T11:05:31Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     },
     {
       "id": "yt-i24he",
-      "checked_at": "2026-10-24T22:28:14Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-      "last_success_at": "2026-10-24T22:28:14Z",
-      "latest_at": "2026-10-24T20:55:12Z"
+      "checked_at": "2026-10-25T04:37:21Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-24T22:28:14Z"
     }
   ],
   "calendars": {
@@ -10952,12 +10933,12 @@
         "geonameid": 281184,
         "israel": true
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
         "title": "Hebcal Jerusalem October 2026",
-        "date": "2026-10-24T21:05:22.925Z",
+        "date": "2026-10-25T04:37:26.293Z",
         "version": "v1.17.0",
         "location": {
           "title": "Jerusalem, Israel",
@@ -11041,7 +11022,7 @@
         "geonameid": 293397,
         "israel": true
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
@@ -11130,7 +11111,7 @@
         "geonameid": 294801,
         "israel": true
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
@@ -11219,12 +11200,12 @@
         "geonameid": 2761369,
         "israel": false
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
         "title": "Hebcal Vienna October 2026",
-        "date": "2026-10-24T22:28:20.281Z",
+        "date": "2026-10-24T21:05:23.573Z",
         "version": "v1.17.0",
         "location": {
           "title": "Vienna, Austria",
@@ -11308,7 +11289,7 @@
         "geonameid": 2643743,
         "israel": false
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
@@ -11397,12 +11378,12 @@
         "geonameid": 5128581,
         "israel": false
       },
-      "fetched_at": "2026-10-24T22:28:14Z",
+      "fetched_at": "2026-10-25T04:37:21Z",
       "shabbat_date": "2026-10-31",
       "stale": false,
       "data": {
         "title": "Hebcal New York City October 2026",
-        "date": "2026-10-24T22:28:20.368Z",
+        "date": "2026-10-24T21:05:23.942Z",
         "version": "v1.17.0",
         "location": {
           "title": "New York City, New York, USA",
@@ -11484,8 +11465,8 @@
   "counts": {
     "news": 360,
     "videos": 72,
-    "active_sources": 23,
+    "active_sources": 12,
     "configured_sources": 41,
-    "translated_news": 350
+    "translated_news": 351
   }
 }
