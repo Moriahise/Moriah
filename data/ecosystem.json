@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-25T04:37:27Z",
+  "checked_at": "2026-10-25T13:10:53Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-25T04:37:27Z"
+      "checked_at": "2026-10-25T13:10:53Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-25T04:37:27Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-10-25T04:37:27Z"
+      "checked_at": "2026-10-25T13:10:53Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-10-25T04:37:27Z"
+      "checked_at": "2026-10-25T13:10:53Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-10-25T13:10:53Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-25T04:37:27Z"
+      "checked_at": "2026-10-25T13:10:53Z"
     }
   },
   "music": [
@@ -32020,197 +32020,197 @@
     ]
   },
   "qa": {
-    "release": "v1-fd6c81e50b152e2b2e66f6dd",
-    "total": 70911,
+    "release": "v1-3cc9c238b9abad98d45e3efc",
+    "total": 70916,
     "cards": [
       {
-        "id": "ye-140739",
-        "title": "What does tzir mean?",
+        "id": "ye-141600",
+        "title": "If someone repeats a secret can I tell the person whose secret it is",
         "titles": {
-          "en": "What does tzir mean?",
+          "en": "If someone repeats a secret can I tell the person whose secret it is",
           "he": ""
         },
         "language": "en",
-        "question": "In Ovadiah 1:1 we see the word tzir. Ovadiah 1:1 On Sefaria it is translated envoy. In the ArtScroll as messenger. When I asked an Israeli friend of mine he didn’t seem to be familiar with the word or",
-        "answer": "It does indeed mean \"envoy\" or \"messenger\" or the like, and is used in several other places in Tanach with the same meaning. Of the Giveonites who came to Yehoshua it says ויצטירו ( Yehoshua 9:4 ), which the commentaries understand as a verbal form o",
-        "answer_count": 2,
+        "question": "If Person A tells something to Person B in confidence, but without explicitly asking him not to repeat it, and Person B repeats it to Person C, can Person C inform Person A about this, so he knows not",
+        "answer": "This is the classic case of rechilus - i.e. tailbearing/gossiping. The Gemoro in Arachin 15b famously notes about such a scenario: במערבא אמרי לשון תליתאי קטיל תליתאי הורג למספרו ולמקבלו ולאומרו In the West, Eretz Yisrael, they say: Third speech, (se",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-140739",
-        "source_url": "https://judaism.stackexchange.com/questions/140739/what-does-tzir-mean",
-        "author": "Meir",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-141600",
+        "source_url": "https://judaism.stackexchange.com/questions/141600/if-someone-repeats-a-secret-can-i-tell-the-person-whose-secret-it-is",
+        "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
-        "id": "ye-124118",
-        "title": "A few Questions about Machir ben Menashe and Gilad",
+        "id": "ye-125835",
+        "title": "Question on Moshiach times",
         "titles": {
-          "en": "A few Questions about Machir ben Menashe and Gilad",
+          "en": "Question on Moshiach times",
           "he": ""
         },
         "language": "en",
-        "question": "A few questions in regards to the Bnei Machir ben Menashe; In Numbers 32:39-40 וַיֵּ֨לְכ֜וּ בְּנֵ֨י מָכִ֧יר בֶּן־מְנַשֶּׁ֛ה גִּלְעָ֖דָה וַֽיִּלְכְּדֻ֑הָ וַיּ֖וֹרֶשׁ אֶת־הָאֱמֹרִ֥י אֲשֶׁר־בָּֽהּ׃ The d",
-        "answer": "Q1: Your first question is a good one. I can suggest a couple of possible answers: אין מוקדם ומאוחר בתורה - It's possible that the story of Menashe's conquest of Gilad happened prior to the two tribes talking to Moshe. This is another piece of eviden",
+        "question": "When Moshiach comes (may it be speedily in our days) the posuk says: there will be no more death, does that mean that people are not going to die? Meaning everyone is going to live forever?",
+        "answer": "According to the Rambam on his Iggeret Techiet Hameitim: \"The individuals who will return to their bodies will eat, drink, marry, and procreate, and they will die after a long life, like those who live during the messianic age. The life, however, tha",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-124118",
-        "source_url": "https://judaism.stackexchange.com/questions/124118/a-few-questions-about-machir-ben-menashe-and-gilad",
-        "author": "Harel13",
+        "url": "https://shekhina.org/qa.html?id=ye-125835",
+        "source_url": "https://judaism.stackexchange.com/questions/125835/question-on-moshiach-times",
+        "author": "Yishai De Costa",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
-        "id": "ye-103999",
-        "title": "How could anybody confuse moonlight and sunlight?",
+        "id": "ye-105062",
+        "title": "Did G-d command or not on sending the spies?",
         "titles": {
-          "en": "How could anybody confuse moonlight and sunlight?",
+          "en": "Did G-d command or not on sending the spies?",
           "he": ""
         },
         "language": "en",
-        "question": "The mishna in Yoma 3:1 talks about watching for dawn to know if it's time for the morning offering, and then Yoma 3:2 asks: וְלָמָה הֻצְרְכוּ לְכָךְ, שֶׁפַּעַם אַחַת עָלָה מְאוֹר הַלְּבָנָה וְדִמּוּ ש",
-        "answer": "When I'm sick during the winter (happens a lot unfortunately), I daven vasikin at home. I use the myzmanim + cell phone clock method, but also have a window nearby with the shades open. I've noticed that there's a substantial variation in the amount ",
+        "question": "The Torah's Pshat in P. Shlach is very straightforward - G-d commands Moses to send the spies. There are plenty of other places where Moses (and Bney Israel) are commanded using לך language (e.g. ועשו",
+        "answer": "Rashi in Shlach 13:2 explains that Bnai Yisrael had approached Moshe because they were supposed to conquer as a normal way of war. Thus, they asked to send men to determine which parts were most appropriate for the tribes. This seemed proper to Moshe",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-105062",
+        "source_url": "https://judaism.stackexchange.com/questions/105062/did-g-d-command-or-not-on-sending-the-spies",
+        "author": "sabbahillel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+      },
+      {
+        "id": "ye-88468",
+        "title": "Embarrasing others (eternal gehinnom at face value?)",
+        "titles": {
+          "en": "Embarrasing others (eternal gehinnom at face value?)",
+          "he": ""
+        },
+        "language": "en",
+        "question": "\"The gemara says all who descend into Gehenna (hell) eventually leave. Except for one who publicly shames his neighbour\" halachipedia Then it says the methods for atoning for such embarrasment. If one",
+        "answer": "To those parts of your question which refer to when he “does not ask his friend for forgiveness”, the Rambam says in Hilchos Teshuva 2 (9) Teshuvah and Yom Kippur only atone for sins between man and God; for example, a person who ate a forbidden food",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-103999",
-        "source_url": "https://judaism.stackexchange.com/questions/103999/how-could-anybody-confuse-moonlight-and-sunlight",
-        "author": "Heshy",
+        "url": "https://shekhina.org/qa.html?id=ye-88468",
+        "source_url": "https://judaism.stackexchange.com/questions/88468/embarrasing-others-eternal-gehinnom-at-face-value",
+        "author": "Avrohom Yitzchok",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
-        "id": "ye-87610",
-        "title": "Throwing to vs. Throwing into the pit",
+        "id": "ye-71342",
+        "title": "How could Abijam and Asa both have the same mother if Asa was Abijam's son?",
         "titles": {
-          "en": "Throwing to vs. Throwing into the pit",
+          "en": "How could Abijam and Asa both have the same mother if Asa was Abijam's son?",
           "he": ""
         },
         "language": "en",
-        "question": "I would need some help to answer a grammar question in order to understand the exact meaning a critical piece of the selling of Yosef. The Torah says in Bereshit 37:20 (from www.chabad.org): \"וְעַתָּ֣",
-        "answer": "One writer who makes something of the difference, is R. Betsalel Safran who writes (Shu\"t HaRabaz: Notes to 1:57) that אל הבור would mean, into the pit that Reuven suggested that they throw Yosef into, (as Reuven specified אל הבור הזה; a particular p",
+        "question": "As the title. In Melachim chapter 15 it goes through the kings of Judah and it speaks about how Abijam was king and then he dies and his son Asa takes over but twice it says \"and his mother was Maacah",
+        "answer": "Maacah the daughter of Avishalom is the grandmother of Asa, and the text call her his \"mother\" because the Scripture sometimes call a grandmother a mother (see Radak on Melachim I 15:10 ).",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-87610",
-        "source_url": "https://judaism.stackexchange.com/questions/87610/throwing-to-vs-throwing-into-the-pit",
-        "author": "mevaqesh",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
-      },
-      {
-        "id": "ye-70500",
-        "title": "Accepting charity from a non-Jew",
-        "titles": {
-          "en": "Accepting charity from a non-Jew",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If a person sends out a group email to solicit funds to help needy families and inadvertently includes non-Jews on the email - Is it permitted to use the funds that the non-Jews donate towards helping",
-        "answer": "There are Rabbi's that permit it but from the simple reading of the Shulchan Aruch it seems you should give it to poor non-Jews in such a case Unless they have no other choice (they really need the money) Unless no one knows that you got it from the ",
-        "answer_count": 3,
-        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-70500",
-        "source_url": "https://judaism.stackexchange.com/questions/70500/accepting-charity-from-a-non-jew",
-        "author": "hazoriz",
+        "url": "https://shekhina.org/qa.html?id=ye-71342",
+        "source_url": "https://judaism.stackexchange.com/questions/71342/how-could-abijam-and-asa-both-have-the-same-mother-if-asa-was-abijams-son",
+        "author": "Renato S. Grun",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
-        "id": "ye-55090",
-        "title": "Are there any halachic recommendations or prohibitions regarding the shape or form of a chuppah?",
+        "id": "ye-55812",
+        "title": "Barbeque grill tevila",
         "titles": {
-          "en": "Are there any halachic recommendations or prohibitions regarding the shape or form of a chuppah?",
+          "en": "Barbeque grill tevila",
           "he": ""
         },
         "language": "en",
-        "question": "I have been to various weddings having different structures and shapes to the chuppah (wedding canopy). Among the more notable chuppot that I have seen are: a plain white cloth on wooden poles held by",
-        "answer": "Nitei Gavriel Nisuin1 - 16:2 says it is best that the poles should be anchored into the ground, however in note 3 at the bottom he brings from Igros Moshe OC4 70:7 that it is not necessary to delay a Chupa if it is not anchored and people may hold th",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-55090",
-        "source_url": "https://judaism.stackexchange.com/questions/55090/are-there-any-halachic-recommendations-or-prohibitions-regarding-the-shape-or-fo",
-        "author": "Gershon Gold",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
-      },
-      {
-        "id": "ye-34690",
-        "title": "Could a religious man be an anarchist?",
-        "titles": {
-          "en": "Could a religious man be an anarchist?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Could a religious man be an anarchist ? Because by praying you becoming a slave to whatever you pray to. But anarchism (except of some small branches) do not support master-slave relationships. Could ",
-        "answer": "Avot 3:2: רבי חנינא סגן הכהנים אומר, הוי מתפלל בשלומה של מלכותז, שאלמלא מוראה, איש את רעהו חיים בלעו Rabbi Chanina, deputy to the kohanim, would say: Pray for the integrity of the government; for were it not for the fear of its authority, a man would",
-        "answer_count": 4,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-34690",
-        "source_url": "https://judaism.stackexchange.com/questions/34690/could-a-religious-man-be-an-anarchist",
-        "author": "Ephraim",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
-      },
-      {
-        "id": "ye-17557",
-        "title": "Reasons for the laws of the prayers in Aramaic",
-        "titles": {
-          "en": "Reasons for the laws of the prayers in Aramaic",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Parts of the davenning are in Aramaic. I understood that the Malochim (Angels) do not understand Aramaic. Since HKB”H does not “attend” prayers with less than a Minyan, one does not say the Aramaic pa",
-        "answer": "The Rama in Orach Chaim siman 132 seif 1 says that in Uvah LeTzion (kedusha de'sidra) the parts of the kedusha that are translated into Aramaic should not be said aloud. The Mishnah Berurah sk4 says that the Aramaic should be said as an individual si",
+        "question": "It seems the popular opinion of Kashrus organizations is to require dipping the actual grill. See here by footnote 48 in the name of OU. http://www.kof-k.org/articles/040108090413W-3%20Tevilas%20Keili",
+        "answer": "As far as I can tell from the Star-K and the Kof-K you linked to, an overwhelming collection of traditional Jewish sources would obligate the grill in tevilah. Thus I would be very surprised to find such a leniency, and it would be hard to rely on it",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-17557",
-        "source_url": "https://judaism.stackexchange.com/questions/17557/reasons-for-the-laws-of-the-prayers-in-aramaic",
-        "author": "Gavriel",
+        "url": "https://shekhina.org/qa.html?id=ye-55812",
+        "source_url": "https://judaism.stackexchange.com/questions/55812/barbeque-grill-tevila",
+        "author": "Isaac Kotlicky",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
-        "id": "aish-url-1042df756dae89562c2e841c",
-        "title": "Studying History (Weekday and Shabbat)",
+        "id": "ye-35529",
+        "title": "Status of a Cohen Who Intermarries",
+        "titles": {
+          "en": "Status of a Cohen Who Intermarries",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What is the status of a cohen who intermarries? He would not be able to eat Trumah, but does he continue to receive the first aliyah, and can he duchan (assuming he observes all other mitzvot)?",
+        "answer": "A Kohein who marries a woman who is forbidden to him because he is a Kohein or a Kohein who defiles himself with corpse-related impurity does not bless the people and does not get any of the special privileges of being a Kohein (eg. called to the Tor",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-35529",
+        "source_url": "https://judaism.stackexchange.com/questions/35529/status-of-a-cohen-who-intermarries",
+        "author": "Double AA",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+      },
+      {
+        "id": "ye-18213",
+        "title": "How to fix Mamzeirim",
+        "titles": {
+          "en": "How to fix Mamzeirim",
+          "he": ""
+        },
+        "language": "en",
+        "question": "There is a Gemara in Kesuvos ( 2b – 3a ) where it says that if someone divorced someone on condition and then didn't fulfill the condition, the woman doesn't become divorced, she becomes un-married re",
+        "answer": "Fist of all, making women un-married retroactively is possible due to gzeira (decree) of Hazal (the rabbis), and gzeira has strength because \"כל דמקדש אדעתא דרבנן מקדש\" (\"anyone effecting kidushin (marriage) does so intending it to be effective only ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-18213",
+        "source_url": "https://judaism.stackexchange.com/questions/18213/how-to-fix-mamzeirim",
+        "author": "jutky",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+      },
+      {
+        "id": "my-1014",
+        "title": "Shemona Asar - mi yodeya?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "I’ve heard that some classic Jewish sources write that the study of history is a waste of time and should not be done, in particular on Shabbat. Is this true?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "aish",
-        "category": "history",
+        "question": "Who knows eighteen? Please cite/link your sources, if possible. After about one business day, I will: Upvote all interesting answers. Accept the best answer. Go on to the next number.",
+        "answer": "Eighteen are the years before one gets hitched. (Ben Shemonah Esrei LiChupah: Avos 5:21 )",
+        "answer_count": 15,
+        "provider": "miyodeya",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=aish-url-1042df756dae89562c2e841c",
-        "source_url": "https://aish.com/studying-history-weekday-and-shabbat/",
-        "author": "Rabbi Dovid Rosenfeld",
+        "url": "https://shekhina.org/qa.html?id=my-1014",
+        "source_url": "https://judaism.stackexchange.com/questions/1014/shemona-asar-mi-yodeya",
+        "author": "Yahu",
         "author_url": null,
-        "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "up-din-202003089724210",
@@ -32231,7 +32231,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "ye-138615",
@@ -32252,7 +32252,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "yeshiva-151592",
@@ -32273,7 +32273,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "din-url-de7b75c7feb17af794c70e76",
@@ -32294,7 +32294,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "yeshiva-153927",
@@ -32315,7 +32315,7 @@
         "author": "הרב חגי בר גיורא",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "up-din-233354",
@@ -32336,7 +32336,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "up-din-2017121913662277",
@@ -32357,7 +32357,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "up-din-202007263000589",
@@ -32378,7 +32378,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       },
       {
         "id": "up-din-202103094790831",
@@ -32399,7 +32399,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-fd6c81e50b152e2b2e66f6dd"
+        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
       }
     ]
   }
