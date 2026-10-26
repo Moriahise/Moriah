@@ -15,6 +15,14 @@ Der erste Lauf erzeugt eine als Eröffnung gekennzeichnete Ausgabe. Eine einmal 
 5. Tests für RSS/Atom, Datum, Sommerzeit, Quellenfilter, Sprachwechsel und Suche.
 6. Vollständiger Websitebuild, auflösbare interne Links und exakt 16 Seiten pro PDF.
 
+## Wenn ein Prüflauf fehlschlägt
+
+Die Startseite bevorzugt Quellen in der gewählten Sprache und zeigt höchstens eine Meldung je Medienfamilie. Sind weniger als vier passende Familien verfügbar, dürfen andere Sprachen die Auswahl ergänzen; vorhandene maschinelle Übersetzungen bleiben gekennzeichnet. Die Tests prüfen diese Regel mit festen Beispielen und mit dem aktuellen Datenbestand.
+
+Jeder simulierte Browser wird über den Test-Aufräummechanismus geschlossen, auch nach einer fehlgeschlagenen Prüfung. Einzelne Node-Tests haben 15 Sekunden Zeit; der gesamte Frontend-Prüfschritt ist auf drei Minuten begrenzt. Fehler lassen den Workflow dadurch mit einer klaren Fehlermeldung abbrechen. Die Veröffentlichung bleibt von erfolgreichen Prüfungen abhängig.
+
+Ein neuer Quellcode-Push ersetzt einen noch laufenden älteren öffentlichen Workflow. Zeitgesteuerte und manuell gestartete Läufe bleiben untereinander serialisiert. So kann eine Reparatur einen festhängenden alten Lauf ablösen.
+
 ## Quellenausfälle
 
 Ein fehlgeschlagener Feed blockiert die übrigen Quellen nicht. Vorhandene Beiträge bleiben nur innerhalb ihrer Aufbewahrungsfrist erhalten und tragen ihr ursprüngliches Datum. Ein vollständiger Ausfall ersetzt keine bereits gute Sammlung durch eine leere Ausgabe. `data/health.json`, der Workflowbericht und die öffentliche Statusseite zeigen den Zustand. Nach 36 Stunden ohne erfolgreiche Gesamtaktualisierung weist die Website auf den gespeicherten Stand hin.
@@ -43,3 +51,4 @@ Der öffentliche Standardbetrieb benötigt keine bezahlten KI-Aufrufe. Öffentli
 - CTranslate2: https://opennmt.net/CTranslate2/
 - GitHub Pages Aktivierung: `actions/configure-pages` verlangt zur erstmaligen automatischen Aktivierung einen anderen Token als GITHUB_TOKEN. Deshalb Aktivierung über Settings → Pages oder vorhandenen Administratorzugang.
 - GitHub Models wurde eingestellt; der Standardbetrieb verwendet diesen Dienst nicht: https://docs.github.com/en/github-models
+

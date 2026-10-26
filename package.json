@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "test": "node --test tests/frontend.test.cjs tests/ecosystem.test.mjs",
+    "test": "node --test --test-timeout=15000 tests/frontend.test.cjs tests/ecosystem.test.mjs",
     "build:integrations": "node scripts/bundle-integrations.mjs"
   },
   "devDependencies": {

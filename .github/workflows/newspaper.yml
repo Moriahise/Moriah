@@ -15,7 +15,8 @@ permissions:
   id-token: write
 concurrency:
   group: moriah-publication
-  cancel-in-progress: false
+  # A source fix replaces an older runtime; scheduled collections remain serialized.
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -61,6 +62,7 @@ jobs:
       - name: Validate source and edition logic
         run: python -m unittest discover -s tests -v
       - name: Check bilingual interface, search and filters
+        timeout-minutes: 3
         run: npm test
       - name: Build newspaper and both print editions
         run: python scripts/build.py
@@ -93,4 +95,5 @@ jobs:
           echo '::warning::Activate Settings → Pages → Source: GitHub Actions once. The newspaper data and downloadable website artifact have been built successfully.'
           echo '## One-time Pages activation' >> "$GITHUB_STEP_SUMMARY"
           echo 'Settings → Pages → Build and deployment → Source: GitHub Actions. Then rerun this workflow.' >> "$GITHUB_STEP_SUMMARY"
+
 
