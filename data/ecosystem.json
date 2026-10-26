@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-25T13:10:53Z",
+  "checked_at": "2026-10-26T23:54:50Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-25T13:10:53Z"
+      "checked_at": "2026-10-26T23:54:50Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-25T13:10:53Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-10-25T13:10:53Z"
+      "checked_at": "2026-10-26T23:54:50Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-25T13:10:53Z"
+      "checked_at": "2026-10-26T23:54:50Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-10-26T23:54:50Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-25T13:10:53Z"
+      "checked_at": "2026-10-26T23:54:50Z"
     }
   },
   "music": [
@@ -32020,386 +32020,386 @@
     ]
   },
   "qa": {
-    "release": "v1-3cc9c238b9abad98d45e3efc",
-    "total": 70916,
+    "release": "v1-79b37fd1a9d8d6278707ba57",
+    "total": 70921,
     "cards": [
       {
-        "id": "ye-141600",
-        "title": "If someone repeats a secret can I tell the person whose secret it is",
+        "id": "ye-144223",
+        "title": "Significance of the Temple in the Days of the Messiah",
         "titles": {
-          "en": "If someone repeats a secret can I tell the person whose secret it is",
+          "en": "Significance of the Temple in the Days of the Messiah",
           "he": ""
         },
         "language": "en",
-        "question": "If Person A tells something to Person B in confidence, but without explicitly asking him not to repeat it, and Person B repeats it to Person C, can Person C inform Person A about this, so he knows not",
-        "answer": "This is the classic case of rechilus - i.e. tailbearing/gossiping. The Gemoro in Arachin 15b famously notes about such a scenario: במערבא אמרי לשון תליתאי קטיל תליתאי הורג למספרו ולמקבלו ולאומרו In the West, Eretz Yisrael, they say: Third speech, (se",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-141600",
-        "source_url": "https://judaism.stackexchange.com/questions/141600/if-someone-repeats-a-secret-can-i-tell-the-person-whose-secret-it-is",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-125835",
-        "title": "Question on Moshiach times",
-        "titles": {
-          "en": "Question on Moshiach times",
-          "he": ""
-        },
-        "language": "en",
-        "question": "When Moshiach comes (may it be speedily in our days) the posuk says: there will be no more death, does that mean that people are not going to die? Meaning everyone is going to live forever?",
-        "answer": "According to the Rambam on his Iggeret Techiet Hameitim: \"The individuals who will return to their bodies will eat, drink, marry, and procreate, and they will die after a long life, like those who live during the messianic age. The life, however, tha",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-125835",
-        "source_url": "https://judaism.stackexchange.com/questions/125835/question-on-moshiach-times",
-        "author": "Yishai De Costa",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-105062",
-        "title": "Did G-d command or not on sending the spies?",
-        "titles": {
-          "en": "Did G-d command or not on sending the spies?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The Torah's Pshat in P. Shlach is very straightforward - G-d commands Moses to send the spies. There are plenty of other places where Moses (and Bney Israel) are commanded using לך language (e.g. ועשו",
-        "answer": "Rashi in Shlach 13:2 explains that Bnai Yisrael had approached Moshe because they were supposed to conquer as a normal way of war. Thus, they asked to send men to determine which parts were most appropriate for the tribes. This seemed proper to Moshe",
-        "answer_count": 1,
+        "question": "Contemplating the 9th of Av aspirations, I understand that the main reason for our yearning for the Days of the Messiah is to solve the inherent condition of human suffering: poverty, sickness, wars, ",
+        "answer": "When someone is in love, they feel a need to give. For example, a husband could buy his wife flowers that she looks at for a few minutes while putting them in a vase and a couple of glances at Shabbos dinner, but basically ignores. The flowers aren't",
+        "answer_count": 2,
         "provider": "miyodeya",
         "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-105062",
-        "source_url": "https://judaism.stackexchange.com/questions/105062/did-g-d-command-or-not-on-sending-the-spies",
-        "author": "sabbahillel",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-144223",
+        "source_url": "https://judaism.stackexchange.com/questions/144223/significance-of-the-temple-in-the-days-of-the-messiah",
+        "author": "Micha Berger",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "ye-88468",
-        "title": "Embarrasing others (eternal gehinnom at face value?)",
+        "id": "ye-128393",
+        "title": "Some questions on the Mizbeach(s)",
         "titles": {
-          "en": "Embarrasing others (eternal gehinnom at face value?)",
+          "en": "Some questions on the Mizbeach(s)",
           "he": ""
         },
         "language": "en",
-        "question": "\"The gemara says all who descend into Gehenna (hell) eventually leave. Except for one who publicly shames his neighbour\" halachipedia Then it says the methods for atoning for such embarrasment. If one",
-        "answer": "To those parts of your question which refer to when he “does not ask his friend for forgiveness”, the Rambam says in Hilchos Teshuva 2 (9) Teshuvah and Yom Kippur only atone for sins between man and God; for example, a person who ate a forbidden food",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-88468",
-        "source_url": "https://judaism.stackexchange.com/questions/88468/embarrasing-others-eternal-gehinnom-at-face-value",
-        "author": "Avrohom Yitzchok",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-71342",
-        "title": "How could Abijam and Asa both have the same mother if Asa was Abijam's son?",
-        "titles": {
-          "en": "How could Abijam and Asa both have the same mother if Asa was Abijam's son?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "As the title. In Melachim chapter 15 it goes through the kings of Judah and it speaks about how Abijam was king and then he dies and his son Asa takes over but twice it says \"and his mother was Maacah",
-        "answer": "Maacah the daughter of Avishalom is the grandmother of Asa, and the text call her his \"mother\" because the Scripture sometimes call a grandmother a mother (see Radak on Melachim I 15:10 ).",
-        "answer_count": 2,
+        "question": "In this week's Parsha, Pikudei, we read about the Mizbeach ha'Olah and Mizbeach for the Ketores. I have some thoughts and questions... Were there only ever two? Why is the Mizbeach ha'Olah called that",
+        "answer": "There were supposed to be two. The book of Kings records that at least one of the wicked kings added another altar for idolatrous sacrifices. Probably because the Olah is the most important type of Korban. It is the only Korban we are commanded to br",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-71342",
-        "source_url": "https://judaism.stackexchange.com/questions/71342/how-could-abijam-and-asa-both-have-the-same-mother-if-asa-was-abijams-son",
-        "author": "Renato S. Grun",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-55812",
-        "title": "Barbeque grill tevila",
-        "titles": {
-          "en": "Barbeque grill tevila",
-          "he": ""
-        },
-        "language": "en",
-        "question": "It seems the popular opinion of Kashrus organizations is to require dipping the actual grill. See here by footnote 48 in the name of OU. http://www.kof-k.org/articles/040108090413W-3%20Tevilas%20Keili",
-        "answer": "As far as I can tell from the Star-K and the Kof-K you linked to, an overwhelming collection of traditional Jewish sources would obligate the grill in tevilah. Thus I would be very surprised to find such a leniency, and it would be hard to rely on it",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-55812",
-        "source_url": "https://judaism.stackexchange.com/questions/55812/barbeque-grill-tevila",
-        "author": "Isaac Kotlicky",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-35529",
-        "title": "Status of a Cohen Who Intermarries",
-        "titles": {
-          "en": "Status of a Cohen Who Intermarries",
-          "he": ""
-        },
-        "language": "en",
-        "question": "What is the status of a cohen who intermarries? He would not be able to eat Trumah, but does he continue to receive the first aliyah, and can he duchan (assuming he observes all other mitzvot)?",
-        "answer": "A Kohein who marries a woman who is forbidden to him because he is a Kohein or a Kohein who defiles himself with corpse-related impurity does not bless the people and does not get any of the special privileges of being a Kohein (eg. called to the Tor",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-35529",
-        "source_url": "https://judaism.stackexchange.com/questions/35529/status-of-a-cohen-who-intermarries",
-        "author": "Double AA",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "ye-18213",
-        "title": "How to fix Mamzeirim",
-        "titles": {
-          "en": "How to fix Mamzeirim",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There is a Gemara in Kesuvos ( 2b – 3a ) where it says that if someone divorced someone on condition and then didn't fulfill the condition, the woman doesn't become divorced, she becomes un-married re",
-        "answer": "Fist of all, making women un-married retroactively is possible due to gzeira (decree) of Hazal (the rabbis), and gzeira has strength because \"כל דמקדש אדעתא דרבנן מקדש\" (\"anyone effecting kidushin (marriage) does so intending it to be effective only ",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-18213",
-        "source_url": "https://judaism.stackexchange.com/questions/18213/how-to-fix-mamzeirim",
-        "author": "jutky",
+        "url": "https://shekhina.org/qa.html?id=ye-128393",
+        "source_url": "https://judaism.stackexchange.com/questions/128393/some-questions-on-the-mizbeachs",
+        "author": "N.T.",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "my-1014",
-        "title": "Shemona Asar - mi yodeya?",
+        "id": "ye-108414",
+        "title": "What happens to Converts and Chalalim once the Moshiach comes?",
         "titles": {
-          "en": "",
+          "en": "What happens to Converts and Chalalim once the Moshiach comes?",
           "he": ""
         },
         "language": "en",
-        "question": "Who knows eighteen? Please cite/link your sources, if possible. After about one business day, I will: Upvote all interesting answers. Accept the best answer. Go on to the next number.",
-        "answer": "Eighteen are the years before one gets hitched. (Ben Shemonah Esrei LiChupah: Avos 5:21 )",
-        "answer_count": 15,
+        "question": "As per the answers to this question , there is a general consensus that when Moshiach comes, we will find out who belongs to what tribe, and the 12 tribes will revert to their original landholdings. W",
+        "answer": "As far as gerim, see Yechezkel 47:22-23 : וְהָיָ֗ה תַּפִּ֣לוּ אוֹתָהּ֮ בְּנַחֲלָה֒ לָכֶ֗ם וּלְהַגֵּרִים֙ הַגָּרִ֣ים בְּתוֹכְכֶ֔ם אֲשֶׁר־הוֹלִ֥דוּ בָנִ֖ים בְּתֽוֹכְכֶ֑ם וְהָי֣וּ לָכֶ֗ם כְּאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל אִתְּכֶם֙ יִפְּל֣וּ בְנַחֲלָ֔ה ב",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=my-1014",
-        "source_url": "https://judaism.stackexchange.com/questions/1014/shemona-asar-mi-yodeya",
-        "author": "Yahu",
+        "url": "https://shekhina.org/qa.html?id=ye-108414",
+        "source_url": "https://judaism.stackexchange.com/questions/108414/what-happens-to-converts-and-chalalim-once-the-moshiach-comes",
+        "author": "Meir",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "ye-90991",
+        "title": "What defines a halachik tzadik?",
+        "titles": {
+          "en": "What defines a halachik tzadik?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Is there a halachik definition of a tzadik? There is the rambam's definition in hilchos teshuva 3:1 That it's someone who is 51% mitzvos. But according to this definition basically everyone is a tzadi",
+        "answer": "The Rokeah defines Tzaddik by the Notrikon of the middle letters צדיק, דרך ישר a person who abides by the straight path of Mitzvot, not 51% I am afraid as RAMBAM said. (appears in Sefer Az Yashir Moshe, Page Kaf Hey, Parashat Noach)",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-90991",
+        "source_url": "https://judaism.stackexchange.com/questions/90991/what-defines-a-halachik-tzadik",
+        "author": "Oudi Singer",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "up-din-202003089724210",
-        "title": "מתנות לאביונים ומחצית השקל – כמה נותנים?",
+        "id": "ye-75737",
+        "title": "The Rambam on distracting others from concentrating on their tefillos",
         "titles": {
-          "en": "",
+          "en": "The Rambam on distracting others from concentrating on their tefillos",
           "he": ""
         },
-        "language": "he",
-        "question": "שלום כבוד הרב, כמה צריך לתת מחצית השקל ומתנות לאביונים? מתי נותנים? האם אפשר לתת לבן משפחה עני בן תורה את שני הדברים?",
-        "answer": "",
+        "language": "en",
+        "question": "I heard someone state the following: The Rambam (Hilchos Teshuvah) says, \"Those who speak and distract others from concentrating on their tefillos are guilty of the serious crime of 'hindering others ",
+        "answer": "I have learned Hilchos Teshuva numerous times, and nowhere does the Rambam say such a thing in Hilchos Teshuva.",
         "answer_count": 1,
-        "provider": "din",
+        "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202003089724210",
-        "source_url": "https://din.org.il/2020/03/08/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%95%d7%9e%d7%97%d7%a6%d7%99%d7%aa-%d7%94%d7%a9%d7%a7%d7%9c-%d7%9b%d7%9e%d7%94-%d7%a0%d7%95%d7%aa%d7%a0%d7%99%d7%9d/",
-        "author": "רבני בית הוראה",
+        "url": "https://shekhina.org/qa.html?id=ye-75737",
+        "source_url": "https://judaism.stackexchange.com/questions/75737/the-rambam-on-distracting-others-from-concentrating-on-their-tefillos",
+        "author": "Chaim",
         "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "ye-138615",
-        "title": "ברכת הריח על מרק ותבשיל",
+        "id": "ye-57563",
+        "title": "Tachanun on 'erev Yom Ha'Atzmaut'",
         "titles": {
-          "en": "",
-          "he": "ברכת הריח על מרק ותבשיל"
+          "en": "Tachanun on 'erev Yom Ha'Atzmaut'",
+          "he": ""
         },
-        "language": "he",
-        "question": "האם מברכים על ריח טוב של מרק? או של שאר ריחות טובים? אני מדבר על מקרה שהרחתי בכוונה להנות מהריח. אם כן מה לברך? מדובר שאני לא אוכל את המרק, אלא רק מריח. אשמח גם להסבר הטעם. אודה למקורות. תודה! שלום וב",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
+        "language": "en",
+        "question": "For those that hold Yom Ha'Atzmaut to be a 'chag' or 'pseudo-chag' (to whatever extent, see here ), does it directly follow that tachanun is not said at mincha on erev Yom Ha'Atzmaut?",
+        "answer": "[Collected from the writings of Ha-Rav Aviner] Tachanun on Erev Yom Ha-Atzmaut It is proper to recite Tachanun at Minchah of Erev Yom Ha-Atzamaut, as the Chief Rabbinate of Israel has decreed this day \"Remembrance Day for the Fallen Soldiers of Tzaha",
+        "answer_count": 6,
+        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-138615",
-        "source_url": "https://www.yeshiva.org.il/ask/138615",
-        "author": "הרב דניאל קירש",
+        "url": "https://shekhina.org/qa.html?id=ye-57563",
+        "source_url": "https://judaism.stackexchange.com/questions/57563/tachanun-on-erev-yom-haatzmaut",
+        "author": "Raf",
         "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "yeshiva-151592",
-        "title": "האם אפשר לקנות ממעשר ציוד מילה למוהל מתנדב?",
+        "id": "ye-37677",
+        "title": "Why is mevushal wine good enough for kiddush, but not good enough for avoda zara?",
         "titles": {
-          "en": "",
+          "en": "Why is mevushal wine good enough for kiddush, but not good enough for avoda zara?",
           "he": ""
         },
-        "language": "he",
-        "question": "שלום כבוד הרב, רציתי לשאול האם אני יכולה להשתמש בכספי המעשר בשביל לקנות ציוד מילה וסטריליזציה לאבא שלי שהוא מוהל ואינו לוקח כסף על השירותים שלו. בנוסף האם אני יכולה לקנות במחשבה שאולי בעתיד אוכל להשתמ",
-        "answer": "",
+        "language": "en",
+        "question": "So the reason why we use mevushal (cooked) wine is that it's seen as a wine inferior and incapable of being offered to an idol (Shulchan Aruch, YD 123). I understand why one can drink mevushal wine in",
+        "answer": "The Rosh ,based on the two sevaras given in Avoda Zara for the issur, explains that the issur of yayin nesech is not solely an issue of avoda zara but additionally an issue of mingling with non-Jews (משום בנותיהן). If this is so, he asks, why would m",
         "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
+        "provider": "miyodeya",
+        "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-151592",
-        "source_url": "https://www.yeshiva.org.il/ask/151592",
-        "author": "הרב דניאל קירש",
+        "url": "https://shekhina.org/qa.html?id=ye-37677",
+        "source_url": "https://judaism.stackexchange.com/questions/37677/why-is-mevushal-wine-good-enough-for-kiddush-but-not-good-enough-for-avoda-zara",
+        "author": "Vtr",
         "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "din-url-de7b75c7feb17af794c70e76",
-        "title": "דין קורי עכביש בשבת – המשך",
+        "id": "ye-22003",
+        "title": "Halachic justification to not pray the amidah before zman t'filah?",
+        "titles": {
+          "en": "Halachic justification to not pray the amidah before zman t'filah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Some Chassidic courts are not makpid (careful) to daven the morning Amidah before z'man tefilah, although this seems to be a clear halacha. Are there any opinions they are relying on? I was once told ",
+        "answer": "Rabbi Yosef Avraham Heller, the Rosh Kollel of Crown Heights, Brooklyn and former member of the Beis Din there, wrote a essay explaining the Halachic justification for davening after Chatzos, published in \"Kobetz Beis Chayenu\" 11 Nissan 5760 pg. 28 .",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-22003",
+        "source_url": "https://judaism.stackexchange.com/questions/22003/halachic-justification-to-not-pray-the-amidah-before-zman-tfilah",
+        "author": "Michoel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "ye-6303",
+        "title": "Halachos of an Aveil with Mishloach Manos",
+        "titles": {
+          "en": "Halachos of an Aveil with Mishloach Manos",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Rama in Orach Chaim 696:6 says we do not send Misloach Manos to an Aveil (mourner). The way people send is to send it to the family, rather than directly to the Aveil. If you do not know anyone el",
+        "answer": "Regarding sending to other family members even if you do not know them, see Shaalos UTshuvos Tshuvos VHanhogos Chelek 1 Siman 692:44, by Rabbi Moshe Sternbuch, which says that you can not give to other family members if you do not know them. However,",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-6303",
+        "source_url": "https://judaism.stackexchange.com/questions/6303/halachos-of-an-aveil-with-mishloach-manos",
+        "author": "Gershon Gold",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "up-din-2020022415168259",
+        "title": "מגילה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב. הייתי רוצה לשאול את הרב לגבי קורי עכביש בשבת.קראתי את השו\"ת הזה שיש פה באתר, כאן: https://din.org.il/2020/06/03/%d7%a4%d7%99%d7%a0%d7%95%d7%99-%d7%a7%d7%95%d7%a8%d7%99-%d7%a2%d7%9b%d7%9",
+        "question": "בסד שלום הרב! כאשר אני קורא את המגילה יש מילים מסויימות שאני זוכר שחוזרים עליהם כמו באמרם שאומרים גם כאמרם. האם זו חובה? האם קוראים את כל הפסוק בפעם השניה עם התיקון או שאומרים את שתי הגירסאות ביחד (וי",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-de7b75c7feb17af794c70e76",
-        "source_url": "https://din.org.il/2026/07/05/%d7%93%d7%99%d7%9f-%d7%a7%d7%95%d7%a8%d7%99-%d7%a2%d7%9b%d7%91%d7%99%d7%a9-%d7%91%d7%a9%d7%91%d7%aa-%d7%94%d7%9e%d7%a9%d7%9a/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "yeshiva-153927",
-        "title": "פריסקיז מעדני הים לחתול בפסח",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "האם האוכל חתולים של של המותג פריסקיז בטעם: מעדני הים - כשר לפסח? לפי הרכיבים היבשים שעל גבי האריזה לא רואה שיש בזה חמשת מיני דגן, האם מישהו יודע בוודאות אם יש או אין דגנים בפנים? לכאורה, גם אם יש שארי",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-153927",
-        "source_url": "https://www.yeshiva.org.il/ask/153927",
-        "author": "הרב חגי בר גיורא",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "up-din-233354",
-        "title": "פתיחת מכונת כביסה בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב אני ספרדי,האם שמפעילים מכונת כביסה לפני שבת ,מותר יהיה לפתוח את מכסה המכונה כאשר היא מסתיימת בשבת היות ואם לא נפתח את מכסה המכונה יהיה הפסד ונצטרך להפעיל שוב את הכביסה עבור אותם בגדים? ת",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-233354",
-        "source_url": "https://din.org.il/2019/07/14/%d7%a4%d7%aa%d7%99%d7%97%d7%aa-%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%9b%d7%91%d7%99%d7%a1%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הדין",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
-      },
-      {
-        "id": "up-din-2017121913662277",
-        "title": "הדלקת נרות חנוכה בבית מארחים",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "אני מוזמן לסעודה אצל אימה נר שמיני של חנוכה אבל חוזרים לביתינו בערב .לצאת מי חובה הדלקה מי בעל הבית או להדליק בברכה בבית או להדליק בלי ברכה בבית",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2017121913662277",
-        "source_url": "https://din.org.il/2017/12/19/%d7%94%d7%93%d7%9c%d7%a7%d7%aa-%d7%a0%d7%a8%d7%95%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%9e%d7%90%d7%a8%d7%97%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2020022415168259",
+        "source_url": "https://din.org.il/2020/02/24/%d7%9e%d7%92%d7%99%d7%9c%d7%94-3/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "up-din-202007263000589",
-        "title": "ניקוי כתם ספציפי בתשעת הימים",
+        "id": "ye-138548",
+        "title": "מצוות חנוכת הבית",
+        "titles": {
+          "en": "",
+          "he": "מצוות חנוכת הבית"
+        },
+        "language": "he",
+        "question": "1. מדוע נלמדת מצוות חנוכת הבית מדִין היוצא למלחמת רשות ולא מחנוכת המשכן? 2. האם יש לעשות חנוכת הבית כאשר נכנסים לגור בדירה שכורה? 3. האם העניין של קביעת מזוזה כחלק מחנוכת הבית חל גם כאשר יש כבר בכניסה",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "history",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-138548",
+        "source_url": "https://www.yeshiva.org.il/ask/138548",
+        "author": "הרב דניאל קירש",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "yeshiva-151436",
+        "title": "נקודות שחורות מרצועות התפילין - האם תקין ?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "בס\"דשבוע טובשמיכה שהתלכלכה כתוצאת מפליטת צואה נוזלית ניתן לכבס את המקום המלוכלך כדי לא להשאיר ככה עד שבוע הבא ?",
+        "question": "היי הנחתי תפילין שקניתי חדש ממש (בהמה דקה) ואחרי שהורדתי את הרצועות מהיד אז היה מלא נקודות שחורות כאלה כמו של צבע. הרצועות שחורות כמובן ואין סימן של קילוף, אבל רציתי להבין אם זה תקין? כי זה ממש חדש...",
         "answer": "",
         "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202007263000589",
-        "source_url": "https://din.org.il/2020/07/26/%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%9b%d7%aa%d7%9d-%d7%a1%d7%a4%d7%a6%d7%99%d7%a4%d7%99-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
-        "author": "רבני בית הוראה",
+        "provider": "yeshiva",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=yeshiva-151436",
+        "source_url": "https://www.yeshiva.org.il/ask/151436",
+        "author": "הרב נועם דביר מייזלס",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       },
       {
-        "id": "up-din-202103094790831",
-        "title": "שמן קנולה בפסח",
+        "id": "din-url-dcd9e795f6881b7a40277d02",
+        "title": "הדחת וסידור כלים בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום הרב,1) אם מנהג משפחתי (לפחות המצומצמת) לאכול מאכלים בפסח עם שמן קנולה(שמכיל לפתית), האם אני יכול לנהוג כך גם כן?2) אם שטפתי ידיים/כלים ומים נגעו בכלי בשרי בכיור/בכירי ונכנסו לי לפה, אין למים האךו",
+        "question": "שלום וברכה. תמיד הייתי דתייה, אבל בזמן האחרון אני מאוד מתחזקת ומנסה לקיים אפילו הלכות שהיה לי קשה להשלים איתן. אחת ההלכות היא לא לרחוץ כלים בשבת ולא לפנות כלים לארונות וסכום (בורר), הבעיה היא שההורים ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202103094790831",
-        "source_url": "https://din.org.il/2021/03/09/%d7%a9%d7%9e%d7%9f-%d7%a7%d7%a0%d7%95%d7%9c%d7%94-%d7%91%d7%a4%d7%a1%d7%97-4/",
+        "url": "https://shekhina.org/qa.html?id=din-url-dcd9e795f6881b7a40277d02",
+        "source_url": "https://din.org.il/2011/06/16/%d7%94%d7%93%d7%97%d7%aa-%d7%95%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%9b%d7%9c%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית ההוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "yeshiva-153892",
+        "title": "האם אפשר לברך על נטילת ידיים כשהידיים נקיות כבר?",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום הרב, ותודה רבה על התשובה המפורטת. א. לפי הרא\"ש הברכה בבוקר על נט\"י היא משום נקיות עבור התפילה, ולכן אם אדם לדוגמא ישן עם כפפות לא יברך על הנטילה אלא ייטול 3 פעמים משום רוח רעה בלי ברכה. ולכן ארצה",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=yeshiva-153892",
+        "source_url": "https://www.yeshiva.org.il/ask/153892",
+        "author": "הרב דניאל קירש",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "up-din-230196",
+        "title": "שימוש בשבת במים הנוצרים במכשיר המייצר מים מן האויר",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום וברכה, שאלה בבקשה לגבי מכשיר המייצר מים מן האויר (אינו מייצר ממש – רק מפריד את המים מן האויר כמו שעושה המזגן) לשימוש יום יומי. למכשיר ישנו מיכל היכול להכיל כמה מאות או אלפי ליטר. השאלה היא לגבי ש",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-230196",
+        "source_url": "https://din.org.il/2019/05/27/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%a9%d7%91%d7%aa-%d7%91%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a6%d7%a8%d7%99%d7%9d-%d7%91%d7%9e%d7%9b%d7%a9%d7%99%d7%a8-%d7%94%d7%9e%d7%99%d7%99%d7%a6%d7%a8/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "up-din-201712155547615",
+        "title": "בנות הסמוכות על שולחן ההורים בחנוכה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב,אני בת שירות וחלק מימי החנוכה אני בבית וחלק לא.האם כאשר אני בבית אני יוצאת לידי חובה בהדלקת נרות של אבי או חובה גם.עלי להדליק?תודה וחג שמח",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201712155547615",
+        "source_url": "https://din.org.il/2017/12/15/%d7%91%d7%a0%d7%95%d7%aa-%d7%94%d7%a1%d7%9e%d7%95%d7%9b%d7%95%d7%aa-%d7%a2%d7%9c-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%94%d7%94%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%97%d7%a0%d7%95%d7%9b%d7%94/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "up-din-202007251448389",
+        "title": "האם מותר להתקין מאוורר תקרה בתשעה ימים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר להתקין מאוורר תקרה בתשעה ימים",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202007251448389",
+        "source_url": "https://din.org.il/2020/07/25/%d7%94%d7%90%d7%9d-%d7%9e%d7%95%d7%aa%d7%a8-%d7%9c%d7%94%d7%aa%d7%a7%d7%99%d7%9f-%d7%9e%d7%90%d7%95%d7%95%d7%a8%d7%a8-%d7%aa%d7%a7%d7%a8%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%94-%d7%99%d7%9e%d7%99%d7%9d/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3cc9c238b9abad98d45e3efc"
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+      },
+      {
+        "id": "up-din-2021030315623483",
+        "title": "מכירת חמץ השנה – עד מתי מותר למכור חמץ במכולת?",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "יש לי מכולת שאני מוכר בה גם מוצרי חמץ. השנה שחל ערב פסח בשבת מותר לאכול חמץ עד שבת בבוקר. אבל את מכירת החמץ לגוי עושים בזמן שריפת חמץ כמו כל השנים. האם מי שיש לו חנות מכולת ומכר את החמץ לגוי האם מותר ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-2021030315623483",
+        "source_url": "https://din.org.il/2021/03/03/%d7%9e%d7%9b%d7%99%d7%a8%d7%aa-%d7%97%d7%9e%d7%a5-%d7%94%d7%a9%d7%a0%d7%94-%d7%a2%d7%93-%d7%9e%d7%aa%d7%99-%d7%9e%d7%95%d7%aa%d7%a8-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8-%d7%97%d7%9e%d7%a5-%d7%91%d7%9e/",
+        "author": "הרב ירוחם ארלנגר‎",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
       }
     ]
   }
