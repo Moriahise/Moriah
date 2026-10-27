@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-27T05:00:04Z",
+  "checked_at": "2026-10-27T14:28:35Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-10-27T05:00:04Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-10-27T05:00:04Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-27T05:00:04Z"
+      "checked_at": "2026-10-27T14:28:35Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-10-27T14:28:35Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-27T05:00:04Z"
+      "checked_at": "2026-10-27T14:28:35Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-10-27T14:28:35Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-27T05:00:04Z"
+      "checked_at": "2026-10-27T14:28:35Z"
     }
   },
   "music": [
@@ -32020,197 +32020,197 @@
     ]
   },
   "qa": {
-    "release": "v1-79b37fd1a9d8d6278707ba57",
-    "total": 70921,
+    "release": "v1-532a88d9253324522109ecde",
+    "total": 70930,
     "cards": [
       {
-        "id": "ye-144223",
-        "title": "Significance of the Temple in the Days of the Messiah",
+        "id": "up-chabad-1569594",
+        "title": "Are People With Special Needs Responsible for Their Actions?",
         "titles": {
-          "en": "Significance of the Temple in the Days of the Messiah",
+          "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Contemplating the 9th of Av aspirations, I understand that the main reason for our yearning for the Days of the Messiah is to solve the inherent condition of human suffering: poverty, sickness, wars, ",
-        "answer": "When someone is in love, they feel a need to give. For example, a husband could buy his wife flowers that she looks at for a few minutes while putting them in a vase and a couple of glances at Shabbos dinner, but basically ignores. The flowers aren't",
+        "question": "Dear Rabbi, I was wondering what actually happens to babies and people with special needs when they die. Also, what happens to those who don’t yet know right from wrong? When, in G‑d’s eyes, are we tr",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "chabad",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-chabad-1569594",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/1569594/jewish/Are-People-With-Special-Needs-Responsible-for-Their-Actions.htm",
+        "author": "Shmary Brownstein",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-532a88d9253324522109ecde"
+      },
+      {
+        "id": "ye-133528",
+        "title": "The 3 attributes of Abraham Avinu mentioned in Artscroll's Midrash Rabbah Insights section?",
+        "titles": {
+          "en": "The 3 attributes of Abraham Avinu mentioned in Artscroll's Midrash Rabbah Insights section?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I have weeks looking for a beautiful comment mentioned Abraham's 3 main attributes in one of the \"Insights\" sections in the Artscroll's version of Midrash Rabbah. The note mentions Rachamanut, Tzniut ",
+        "answer": "Sounds like it might be based on Yevamot 79a : שְׁלֹשָׁה סִימָנִים יֵשׁ בְּאוּמָּה זוֹ: הָרַחְמָנִים, וְהַבַּיְישָׁנִין, וְגוֹמְלֵי חֲסָדִים.‏ There are three distinguishing marks of this nation [the Jewish people]. They are merciful, they are shamef",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "history",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-133528",
+        "source_url": "https://judaism.stackexchange.com/questions/133528/the-3-attributes-of-abraham-avinu-mentioned-in-artscrolls-midrash-rabbah-insigh",
+        "author": "Joel K",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-532a88d9253324522109ecde"
+      },
+      {
+        "id": "ye-114440",
+        "title": "Being Afraid Brings Fears",
+        "titles": {
+          "en": "Being Afraid Brings Fears",
+          "he": ""
+        },
+        "language": "en",
+        "question": "A few Rabbonim mentioned in shiurim on TorahAnytime the concept that being constantly afraid of something tragic happening to oneself can bring about its fulfillment. Where do we find such a concept o",
+        "answer": "Proverbs 10:24 (translation following Rashi): מְגוֹרַ֣ת רָ֭שָׁע הִ֣יא תְבוֹאֶ֑נּוּ וְתַאֲוַ֖ת צַדִּיקִ֣ים יִתֵּֽן׃‏ The fear of the wicked person will come upon him, but the desire of the righteous is granted. Rashi also brings an example: מגורת רשע.",
+        "answer_count": 4,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-114440",
+        "source_url": "https://judaism.stackexchange.com/questions/114440/being-afraid-brings-fears",
+        "author": "b a",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-532a88d9253324522109ecde"
+      },
+      {
+        "id": "ye-95944",
+        "title": "Does a Ger who was a firstborn need to redeem himself?",
+        "titles": {
+          "en": "Does a Ger who was a firstborn need to redeem himself?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Related: Does a child born to a mother that converted when she was pregnant need Pidyon HaBen? If a man who was a firstborn in his Gentile family converts to Judaism, must he redeem himself after beco",
+        "answer": "The ger , not having been born of a Jewish mother, is not subject to redemption at all and therefore isn't required to do it for himself. This article from OU outlines various cases of who does or doesn't get redeemed. To summarize: If the father is ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-144223",
-        "source_url": "https://judaism.stackexchange.com/questions/144223/significance-of-the-temple-in-the-days-of-the-messiah",
-        "author": "Micha Berger",
+        "url": "https://shekhina.org/qa.html?id=ye-95944",
+        "source_url": "https://judaism.stackexchange.com/questions/95944/does-a-ger-who-was-a-firstborn-need-to-redeem-himself",
+        "author": "Monica Cellio",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
-        "id": "ye-128393",
-        "title": "Some questions on the Mizbeach(s)",
+        "id": "ye-80552",
+        "title": "Would Jerry Seinfeld's kids be mamzerim",
         "titles": {
-          "en": "Some questions on the Mizbeach(s)",
+          "en": "Would Jerry Seinfeld's kids be mamzerim",
           "he": ""
         },
         "language": "en",
-        "question": "In this week's Parsha, Pikudei, we read about the Mizbeach ha'Olah and Mizbeach for the Ketores. I have some thoughts and questions... Were there only ever two? Why is the Mizbeach ha'Olah called that",
-        "answer": "There were supposed to be two. The book of Kings records that at least one of the wicked kings added another altar for idolatrous sacrifices. Probably because the Olah is the most important type of Korban. It is the only Korban we are commanded to br",
+        "question": "According to Wikipedia it claims that Jerry Seinfeld married a woman who was already married to a man without her getting a get from the man she was previously married to, so wouldn't that make Jerry ",
+        "answer": "I don't know anything about this person's particular situation. For theory's sake: the product of an \"adulterous union\" is a mamzer. It would have to be a Jewish woman who was still married according to Jewish law to a Jewish man, and then has a chil",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-128393",
-        "source_url": "https://judaism.stackexchange.com/questions/128393/some-questions-on-the-mizbeachs",
-        "author": "N.T.",
+        "url": "https://shekhina.org/qa.html?id=ye-80552",
+        "source_url": "https://judaism.stackexchange.com/questions/80552/would-jerry-seinfelds-kids-be-mamzerim",
+        "author": "Shalom",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
-        "id": "ye-108414",
-        "title": "What happens to Converts and Chalalim once the Moshiach comes?",
+        "id": "ye-63766",
+        "title": "Gratitude for relief from pain",
         "titles": {
-          "en": "What happens to Converts and Chalalim once the Moshiach comes?",
+          "en": "Gratitude for relief from pain",
           "he": ""
         },
         "language": "en",
-        "question": "As per the answers to this question , there is a general consensus that when Moshiach comes, we will find out who belongs to what tribe, and the 12 tribes will revert to their original landholdings. W",
-        "answer": "As far as gerim, see Yechezkel 47:22-23 : וְהָיָ֗ה תַּפִּ֣לוּ אוֹתָהּ֮ בְּנַחֲלָה֒ לָכֶ֗ם וּלְהַגֵּרִים֙ הַגָּרִ֣ים בְּתוֹכְכֶ֔ם אֲשֶׁר־הוֹלִ֥דוּ בָנִ֖ים בְּתֽוֹכְכֶ֑ם וְהָי֣וּ לָכֶ֗ם כְּאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל אִתְּכֶם֙ יִפְּל֣וּ בְנַחֲלָ֔ה ב",
+        "question": "According to the Orthodox Union website \"No brachah is required either before or after taking medicine, even with water\". Hopefully, after taking painkillers such as paracetamol, the pain which drove ",
+        "answer": "Next time you use the washroom, there's the blessing afterwards asher yatzar thanking God for the intricate workings of the human body; try and have a little more concentration when saying that. You could also try Psalm 30 ; \"I called out to You G-d,",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-108414",
-        "source_url": "https://judaism.stackexchange.com/questions/108414/what-happens-to-converts-and-chalalim-once-the-moshiach-comes",
-        "author": "Meir",
+        "url": "https://shekhina.org/qa.html?id=ye-63766",
+        "source_url": "https://judaism.stackexchange.com/questions/63766/gratitude-for-relief-from-pain",
+        "author": "Shalom",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
-        "id": "ye-90991",
-        "title": "What defines a halachik tzadik?",
+        "id": "ye-44979",
+        "title": "Is talking before noten hatorah a hefsek?",
         "titles": {
-          "en": "What defines a halachik tzadik?",
+          "en": "Is talking before noten hatorah a hefsek?",
           "he": ""
         },
         "language": "en",
-        "question": "Is there a halachik definition of a tzadik? There is the rambam's definition in hilchos teshuva 3:1 That it's someone who is 51% mitzvos. But according to this definition basically everyone is a tzadi",
-        "answer": "The Rokeah defines Tzaddik by the Notrikon of the middle letters צדיק, דרך ישר a person who abides by the straight path of Mitzvot, not 51% I am afraid as RAMBAM said. (appears in Sefer Az Yashir Moshe, Page Kaf Hey, Parashat Noach)",
+        "question": "In my shul, after an oleh finishes, he says \"emet torateinu hakedosha\" and then says the beracha of noten hatorah. Is this a hefsek? Looking for sephardic answers please.",
+        "answer": "See the Kitzur Shulchan Aruch Yalkut Yosef in סימן קלט - סדר הקריאה והברכות where he says: יד: מנהגינו פשוט שהמברך ברכה אחרונה אחר קריאת התורה, אינו עונה אמן אחר ברכתו, אף על פי שכל העונה אמן אחר ברכותיו הרי זה משובח, הכא שאני, שהרי מעיקר הדין מותר ל",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-44979",
+        "source_url": "https://judaism.stackexchange.com/questions/44979/is-talking-before-noten-hatorah-a-hefsek",
+        "author": "Danny Schoemann",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-532a88d9253324522109ecde"
+      },
+      {
+        "id": "ye-27973",
+        "title": "Is it a popular notion that a Jew should \"have at least three children...\"?",
+        "titles": {
+          "en": "Is it a popular notion that a Jew should \"have at least three children...\"?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I have heard it said, \"Every Jew must have at least three children (though more is preferable). Two to replace the parents when they die, and at least one more to make up for those lost in the Shoah.\"",
+        "answer": "Yevamot 61b: Mishnah: One may not desist from reproduction unless he has children. Bais Shamai say two males, Bais Hillel say one male and one female, as it says (Berashis ch. 5) “He created them male and female” Gemorah: Bais Shamai says: two males.",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-90991",
-        "source_url": "https://judaism.stackexchange.com/questions/90991/what-defines-a-halachik-tzadik",
-        "author": "Oudi Singer",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
-      },
-      {
-        "id": "ye-75737",
-        "title": "The Rambam on distracting others from concentrating on their tefillos",
-        "titles": {
-          "en": "The Rambam on distracting others from concentrating on their tefillos",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I heard someone state the following: The Rambam (Hilchos Teshuvah) says, \"Those who speak and distract others from concentrating on their tefillos are guilty of the serious crime of 'hindering others ",
-        "answer": "I have learned Hilchos Teshuva numerous times, and nowhere does the Rambam say such a thing in Hilchos Teshuva.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-75737",
-        "source_url": "https://judaism.stackexchange.com/questions/75737/the-rambam-on-distracting-others-from-concentrating-on-their-tefillos",
-        "author": "Chaim",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
-      },
-      {
-        "id": "ye-57563",
-        "title": "Tachanun on 'erev Yom Ha'Atzmaut'",
-        "titles": {
-          "en": "Tachanun on 'erev Yom Ha'Atzmaut'",
-          "he": ""
-        },
-        "language": "en",
-        "question": "For those that hold Yom Ha'Atzmaut to be a 'chag' or 'pseudo-chag' (to whatever extent, see here ), does it directly follow that tachanun is not said at mincha on erev Yom Ha'Atzmaut?",
-        "answer": "[Collected from the writings of Ha-Rav Aviner] Tachanun on Erev Yom Ha-Atzmaut It is proper to recite Tachanun at Minchah of Erev Yom Ha-Atzamaut, as the Chief Rabbinate of Israel has decreed this day \"Remembrance Day for the Fallen Soldiers of Tzaha",
-        "answer_count": 6,
-        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-57563",
-        "source_url": "https://judaism.stackexchange.com/questions/57563/tachanun-on-erev-yom-haatzmaut",
-        "author": "Raf",
+        "url": "https://shekhina.org/qa.html?id=ye-27973",
+        "source_url": "https://judaism.stackexchange.com/questions/27973/is-it-a-popular-notion-that-a-jew-should-have-at-least-three-children",
+        "author": "bondonk",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
-        "id": "ye-37677",
-        "title": "Why is mevushal wine good enough for kiddush, but not good enough for avoda zara?",
+        "id": "ye-10987",
+        "title": "Birkat Kohanim in Mussaf on Simchas Torah?",
         "titles": {
-          "en": "Why is mevushal wine good enough for kiddush, but not good enough for avoda zara?",
+          "en": "Birkat Kohanim in Mussaf on Simchas Torah?",
           "he": ""
         },
         "language": "en",
-        "question": "So the reason why we use mevushal (cooked) wine is that it's seen as a wine inferior and incapable of being offered to an idol (Shulchan Aruch, YD 123). I understand why one can drink mevushal wine in",
-        "answer": "The Rosh ,based on the two sevaras given in Avoda Zara for the issur, explains that the issur of yayin nesech is not solely an issue of avoda zara but additionally an issue of mingling with non-Jews (משום בנותיהן). If this is so, he asks, why would m",
+        "question": "MB 669 seif koton 17 says in the name of the Levush that the custom is that the Kohanim do not bless the people at Mussaf on Simchas Torah because there is a likelihood that the kohanim may be intoxic",
+        "answer": "I'm not sure the Elya Rabba really has a 'position'. He writes (669:20): פה פראג נוהגים לעלות במוסף, רק בבית הכנסת פנחס נוהגים בשחרית כמ\"ש המנהגים [הל' שמיני עצרת]:‏ Here in Prague the custom is to go up at Musaf, except in the Pinchas Synagogue they",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-37677",
-        "source_url": "https://judaism.stackexchange.com/questions/37677/why-is-mevushal-wine-good-enough-for-kiddush-but-not-good-enough-for-avoda-zara",
-        "author": "Vtr",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
-      },
-      {
-        "id": "ye-22003",
-        "title": "Halachic justification to not pray the amidah before zman t'filah?",
-        "titles": {
-          "en": "Halachic justification to not pray the amidah before zman t'filah?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Some Chassidic courts are not makpid (careful) to daven the morning Amidah before z'man tefilah, although this seems to be a clear halacha. Are there any opinions they are relying on? I was once told ",
-        "answer": "Rabbi Yosef Avraham Heller, the Rosh Kollel of Crown Heights, Brooklyn and former member of the Beis Din there, wrote a essay explaining the Halachic justification for davening after Chatzos, published in \"Kobetz Beis Chayenu\" 11 Nissan 5760 pg. 28 .",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
+        "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-22003",
-        "source_url": "https://judaism.stackexchange.com/questions/22003/halachic-justification-to-not-pray-the-amidah-before-zman-tfilah",
-        "author": "Michoel",
+        "url": "https://shekhina.org/qa.html?id=ye-10987",
+        "source_url": "https://judaism.stackexchange.com/questions/10987/birkat-kohanim-in-mussaf-on-simchas-torah",
+        "author": "Double AA",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
-      },
-      {
-        "id": "ye-6303",
-        "title": "Halachos of an Aveil with Mishloach Manos",
-        "titles": {
-          "en": "Halachos of an Aveil with Mishloach Manos",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The Rama in Orach Chaim 696:6 says we do not send Misloach Manos to an Aveil (mourner). The way people send is to send it to the family, rather than directly to the Aveil. If you do not know anyone el",
-        "answer": "Regarding sending to other family members even if you do not know them, see Shaalos UTshuvos Tshuvos VHanhogos Chelek 1 Siman 692:44, by Rabbi Moshe Sternbuch, which says that you can not give to other family members if you do not know them. However,",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-6303",
-        "source_url": "https://judaism.stackexchange.com/questions/6303/halachos-of-an-aveil-with-mishloach-manos",
-        "author": "Gershon Gold",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "up-din-2020022415168259",
@@ -32231,7 +32231,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "ye-138548",
@@ -32252,7 +32252,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "yeshiva-151436",
@@ -32273,7 +32273,7 @@
         "author": "הרב נועם דביר מייזלס",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "din-url-dcd9e795f6881b7a40277d02",
@@ -32294,7 +32294,7 @@
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "yeshiva-153892",
@@ -32315,7 +32315,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "up-din-230196",
@@ -32336,7 +32336,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "up-din-201712155547615",
@@ -32357,7 +32357,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "up-din-202007251448389",
@@ -32378,7 +32378,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       },
       {
         "id": "up-din-2021030315623483",
@@ -32399,7 +32399,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-79b37fd1a9d8d6278707ba57"
+        "snapshot": "v1-532a88d9253324522109ecde"
       }
     ]
   }
