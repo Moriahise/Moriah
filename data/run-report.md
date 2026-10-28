@@ -2,7 +2,7 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 22/41. Fully bilingual headlines: 352/360.
+Working feeds: 23/41. Fully bilingual headlines: 351/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
@@ -15,8 +15,6 @@ Automated compilation; no human or rabbinic review claimed.
 - themarker: No dated entries from the last 21 days
 
 - hamodia: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
-
-- yated: TimeoutError: The read operation timed out
 
 - makorrishon: HTTPError: HTTP Error 403: Forbidden
 
