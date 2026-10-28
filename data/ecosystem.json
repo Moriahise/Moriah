@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-28T05:37:35Z",
+  "checked_at": "2026-10-28T15:06:33Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-28T05:37:35Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-10-28T05:37:35Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-10-28T05:37:35Z"
+      "checked_at": "2026-10-28T15:06:33Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-28T05:37:35Z"
+      "checked_at": "2026-10-28T15:06:33Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-10-28T15:06:33Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-10-28T15:06:33Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-28T05:37:35Z"
+      "checked_at": "2026-10-28T15:06:33Z"
     }
   },
   "music": [
@@ -28876,6 +28876,20 @@
         "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-10-24/"
       },
       {
+        "id": "5787-2026-10-31",
+        "title": {
+          "en": "How Attention Becomes Hospitality",
+          "he": "כיצד תשומת לב נעשית הכנסת אורחים?"
+        },
+        "parashah": {
+          "en": "Vayeira",
+          "he": "וירא"
+        },
+        "target_shabbat": "2026-10-31",
+        "category": "tanach",
+        "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-10-31/"
+      },
+      {
         "id": "5785-01-bereshit",
         "title": {
           "en": "The first threshold",
@@ -32034,8 +32048,8 @@
     ]
   },
   "qa": {
-    "release": "v1-532a88d9253324522109ecde",
-    "total": 70930,
+    "release": "v1-1c2230937be822d260fb69c6",
+    "total": 70934,
     "cards": [
       {
         "id": "up-chabad-1556513",
@@ -32056,7 +32070,7 @@
         "author": "Shmary Brownstein",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-133503",
@@ -32077,7 +32091,7 @@
         "author": "magicker72",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-114406",
@@ -32098,7 +32112,7 @@
         "author": "IsraelReader",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-95901",
@@ -32119,7 +32133,7 @@
         "author": "mroll",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-80514",
@@ -32140,7 +32154,7 @@
         "author": "kouty",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-63747",
@@ -32161,7 +32175,7 @@
         "author": "mevaqesh",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-44945",
@@ -32182,7 +32196,7 @@
         "author": "sabbahillel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-27928",
@@ -32203,7 +32217,7 @@
         "author": "Shalom",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-10957",
@@ -32224,7 +32238,7 @@
         "author": "Monica Cellio",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "up-din-20200216727884",
@@ -32245,7 +32259,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "ye-138514",
@@ -32266,7 +32280,7 @@
         "author": "הרב בניהו שרגא",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "yeshiva-151398",
@@ -32287,7 +32301,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "din-url-dc70226ae7213a4f33e23a66",
@@ -32308,7 +32322,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "yeshiva-153879",
@@ -32329,7 +32343,7 @@
         "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "up-din-229295",
@@ -32350,7 +32364,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "up-din-2017121415361241",
@@ -32371,7 +32385,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "up-din-2020072415641811",
@@ -32392,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       },
       {
         "id": "up-din-202102219599163",
@@ -32413,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-532a88d9253324522109ecde"
+        "snapshot": "v1-1c2230937be822d260fb69c6"
       }
     ]
   }
