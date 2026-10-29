@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-29T05:43:54Z",
+  "checked_at": "2026-10-29T15:13:07Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-29T05:43:54Z"
+      "checked_at": "2026-10-29T15:13:07Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-29T05:43:54Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-10-29T05:43:54Z"
+      "checked_at": "2026-10-29T15:13:07Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-10-29T05:43:54Z"
+      "checked_at": "2026-10-29T15:13:07Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-10-29T15:13:07Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-29T05:43:54Z"
+      "checked_at": "2026-10-29T15:13:07Z"
     }
   },
   "music": [
@@ -32048,197 +32048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-1c2230937be822d260fb69c6",
-    "total": 70934,
+    "release": "v1-d187f782f183570ba1ee8334",
+    "total": 70938,
     "cards": [
       {
-        "id": "up-chabad-1530273",
-        "title": "My Mom Says That at My Bar Mitzvah I Am Still Not a Man!",
+        "id": "up-chabad-845611",
+        "title": "What If a Charity Turns Out to Be Fake?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: It is my Bar Mitzvah this week. I was told this means I am becoming a man. My mother doesn't think so. So, who's right?",
+        "question": "Question: What happens if a charity organization to which you donated money turns out to be fake? Does it still count as charity? How can one ever be sure that the money goes to the right cause?",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "halacha",
+        "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-1530273",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/1530273/jewish/My-Mom-Says-That-at-My-Bar-Mitzvah-I-Am-Still-Not-a-Man.htm",
-        "author": "Aron Moss",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-845611",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/845611/jewish/What-If-a-Charity-Turns-Out-to-Be-Fake.htm",
+        "author": "Baruch S. Davidson",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
-        "id": "ye-133469",
-        "title": "The Tomb of the Matriarch 'Rachel Imenu'",
+        "id": "ye-136848",
+        "title": "Sons of God or Heavenly Council",
         "titles": {
-          "en": "The Tomb of the Matriarch 'Rachel Imenu'",
+          "en": "Sons of God or Heavenly Council",
           "he": ""
         },
         "language": "en",
-        "question": "וַתָּ֖מׇת רָחֵ֑ל וַתִּקָּבֵר֙ בְּדֶ֣רֶךְ אֶפְרָ֔תָה הִ֖וא בֵּ֥ית לָֽחֶם׃ Bereshit 35:16 Why was Rachel Imenu not buried in Machpelah's cave? Was her burial in Ephrata a punishment?",
-        "answer": "The Midrash says that Jacob did not bury Rachel in the Cave of Machpelah because he \"saw\" that when Israel would be exiled, they would go on the road to Efrat and she would \"see\" them and react to that sight. Indeed, Jeremiah 31:14–16 says: \"A cry is",
+        "question": "Who were the sons of God in Job 1 & 2? Could we say that they are the council of the elohim referred to in Psalm 82? Also alluded to in Psalm 89:5-7, 1 Kings 22 and in Daniel 4 referred to as the watc",
+        "answer": "Refer to Rashi on Job 1:2. The posuk (Koren translation) says: Now there was a day when the sons of G-d came to present themselves before the L-rd Rashi says that this means: and the angels of G-d came to stand beside the L-rd to contend with Him, be",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-136848",
+        "source_url": "https://judaism.stackexchange.com/questions/136848/sons-of-god-or-heavenly-council",
+        "author": "Shmuel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-d187f782f183570ba1ee8334"
+      },
+      {
+        "id": "ye-118668",
+        "title": "Why Yakov never learned to love Leah?",
+        "titles": {
+          "en": "Why Yakov never learned to love Leah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "IIRC, the general approach to Yaakov marrying Rachel and Leah is that he intended to marry them both from the beginning, just in a different order. Even if only Rachel was his soulmate, marrying anoth",
+        "answer": "An explicit pasuk states that Yaakov loved Leah. Bereishit 29:30 : וַיָּבֹא גַּם אֶל-רָחֵל, וַיֶּאֱהַב גַּם-אֶת-רָחֵל מִלֵּאָה; וַיַּעֲבֹד עִמּוֹ, עוֹד שֶׁבַע-שָׁנִים אֲחֵרוֹת. And he went in also unto Rachel, and he loved Rachel more than Leah, and ",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-133469",
-        "source_url": "https://judaism.stackexchange.com/questions/133469/the-tomb-of-the-matriarch-rachel-imenu",
-        "author": "Maurice Mizrahi",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
-      },
-      {
-        "id": "ye-114371",
-        "title": "Intermarriage and Levirate marriage",
-        "titles": {
-          "en": "Intermarriage and Levirate marriage",
-          "he": ""
-        },
-        "language": "en",
-        "question": "This may be a bit off the wall and it is only a hypothetical question. If a Jewish man marries a non-Jewish woman and then he dies before they have any children, would she be expected, assuming she wa",
-        "answer": "\"Marriages\" between Jews and non-Jews are not considered halachically valid and so there are no issues pertaining to yibum or chalitzah arising in such a situation. A source randomly citing this prohobition: https://ohr.edu/ask_db/ask_main.php/191/Q1",
-        "answer_count": 1,
-        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-114371",
-        "source_url": "https://judaism.stackexchange.com/questions/114371/intermarriage-and-levirate-marriage",
-        "author": "יהושע ק",
+        "url": "https://shekhina.org/qa.html?id=ye-118668",
+        "source_url": "https://judaism.stackexchange.com/questions/118668/why-yakov-never-learned-to-love-leah",
+        "author": "josh waxman",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
-        "id": "ye-95876",
-        "title": "Rabbi Samson Raphael Hirsch and Chassidism",
+        "id": "ye-99202",
+        "title": "Is it acceptable to disturb a body so it may be reburied in Israel?",
         "titles": {
-          "en": "Rabbi Samson Raphael Hirsch and Chassidism",
+          "en": "Is it acceptable to disturb a body so it may be reburied in Israel?",
           "he": ""
         },
         "language": "en",
-        "question": "Does anyone know if there is any historical record of Rabbi Hirsh's perspectives on Chassidism? The movement was obviously not very present where he was in Germany, but given that he was in contact wi",
-        "answer": "Rabbi Samson Raphael Hirsch may have disagreed with the Hasidim, but they liked him and his teachings just the same. Rabbi Shlomo Wolbe, 20th-century German rabbi, said this of Rabbi Hirsch: The definition of a gadol be’Yisrael is one who is great in",
-        "answer_count": 1,
+        "question": "This question slightly merges into politics as there has been a push by some to reclaim Jewish remains and bring them back to Israel. This has actually already been done a few times, a famous example ",
+        "answer": "Moving the body to Eretz Israel is one of the exemptions the Shulchan Aruch ( YD 363:1 ) places on the general prohibition to move corpses or bones. One should not remove a corpse and bones [...] And likewise, in order to bury him in the Land of Isra",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-95876",
-        "source_url": "https://judaism.stackexchange.com/questions/95876/rabbi-samson-raphael-hirsch-and-chassidism",
-        "author": "Maurice Mizrahi",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-99202",
+        "source_url": "https://judaism.stackexchange.com/questions/99202/is-it-acceptable-to-disturb-a-body-so-it-may-be-reburied-in-israel",
+        "author": "mbloch",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
-        "id": "ye-80474",
-        "title": "\"Eisav is to you tzitzit\"",
+        "id": "ye-83703",
+        "title": "Is there a Torah source for what to do when putting on tefillin?",
         "titles": {
-          "en": "\"Eisav is to you tzitzit\"",
+          "en": "Is there a Torah source for what to do when putting on tefillin?",
           "he": ""
         },
         "language": "en",
-        "question": "Bamidbar 15:38 דבר אל-בני ישראל ואמרת אלהם ועשו להם ציצת על-כנפי בגדיהם לדרתם Speak to Bnei Yisrael and say to them, \"Eisav is to them tzitzit on the corners of their garments, throughout their genera",
-        "answer": "Because when Bnai Yisrael follow the Torah, and observe all the mitzvos, then they will rise and Eisav will fall. In that case, Eisav would be a \"hanger on\". As it says in the medrash, the nations will grab your clothing and want to serve you. This i",
-        "answer_count": 4,
+        "question": "Or is it just oral tradition passed down? The Torah just says to put on tefilin, doesn't say what to do when putting them on.",
+        "answer": "Like you mentioned, although the Written Torah does discuss putting on tefillin, it does not instruct how to put them on. Thus the answer to your first question, if the Torah discusses how to put on tefillin, is no. However, the Oral Torah always has",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-80474",
-        "source_url": "https://judaism.stackexchange.com/questions/80474/eisav-is-to-you-tzitzit",
-        "author": "sabbahillel",
+        "url": "https://shekhina.org/qa.html?id=ye-83703",
+        "source_url": "https://judaism.stackexchange.com/questions/83703/is-there-a-torah-source-for-what-to-do-when-putting-on-tefillin",
+        "author": "ezra",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
-        "id": "ye-63703",
-        "title": "Does one say \"Tzidkatcha\" and \"El Maleh\" next Shabbat (or any 28 Elul that falls on Shabbat)?",
+        "id": "ye-66626",
+        "title": "Rambam on Megilas Esther",
         "titles": {
-          "en": "Does one say \"Tzidkatcha\" and \"El Maleh\" next Shabbat (or any 28 Elul that falls on Shabbat)?",
+          "en": "Rambam on Megilas Esther",
           "he": ""
         },
         "language": "en",
-        "question": "ArtScroll and Birnbaum (Nusach Ashkenaz) siddurim state that tzidkatcha should not be said on a day when Tachanun would have been skipped had it been a weekday. I believe that similar instructions are",
-        "answer": "The Artscroll Yitzchak Yair siddur (the all-Hebrew Ashkenaz one) states that if 28 Elul is a weekday, tachanun is said even by Mincha , and on Shabbat, tzikatcha is said. You are correct that normally, if tachanun is not said by Shacharit , it is omi",
+        "question": "There is a book seen here which purports to be the exegesis of the Rambam on the Book of Esther. I can't seem to find any information on the Rambam having ever written such a work. Question: a)Has thi",
+        "answer": "If you read the introduction to the book at the HebrewBooks.org link, it says that the publisher (apparently not the translator), Ben Tzion Krinfis was given the material in Arabic sometime between 1935 and 1948 by Rabbi Yaacov Moshe Toledano. Krinfi",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-66626",
+        "source_url": "https://judaism.stackexchange.com/questions/66626/rambam-on-megilas-esther",
+        "author": "Yaacov Deane",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-d187f782f183570ba1ee8334"
+      },
+      {
+        "id": "ye-48764",
+        "title": "Why is it repeating something that's already known?",
+        "titles": {
+          "en": "Why is it repeating something that's already known?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "It is stated in Shemos Parshas Beshalach 14:4 the following: \"And I will harden Pharaoh's heart, and he will pursue them, and I will be glorified through Pharaoh and through his entire army, and the E",
+        "answer": "See both Ibn Ezra and Seforno's explanations on 14:18. The term \"Egyptians\" in verse 18 means \"the rest of them\". Essentially, the two commentaries state that the Egyptians will realize that Pharoah's heart was hardened against God, and they will rep",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-48764",
+        "source_url": "https://judaism.stackexchange.com/questions/48764/why-is-it-repeating-something-thats-already-known",
+        "author": "DanF",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-d187f782f183570ba1ee8334"
+      },
+      {
+        "id": "ye-30410",
+        "title": "How long does it take to become a kofer?",
+        "titles": {
+          "en": "How long does it take to become a kofer?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If a person for whatever reason momentarily has a thought which denies God, but then afterwards reaffirms his belief in Hashem, is that an act of kefira? Does a momentary lapse in belief constitute a ",
+        "answer": "thoughts and suggestions are constantly placed in one's mind by the yetzer hara, as explained extensively in shaar yichud hamaase chapter 5 . This includes thoughts of kefira as explained there, if the yetzer thinks you are vulnerable to those. (see ",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-63703",
-        "source_url": "https://judaism.stackexchange.com/questions/63703/does-one-say-tzidkatcha-and-el-maleh-next-shabbat-or-any-28-elul-that-falls",
-        "author": "Ypnypn",
+        "url": "https://shekhina.org/qa.html?id=ye-30410",
+        "source_url": "https://judaism.stackexchange.com/questions/30410/how-long-does-it-take-to-become-a-kofer",
+        "author": "ray",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
-        "id": "ye-44919",
-        "title": "Does Orthodox Judaism have a generally held position on American politics?",
+        "id": "ye-14213",
+        "title": "Tevilat Keilim on a gift",
         "titles": {
-          "en": "Does Orthodox Judaism have a generally held position on American politics?",
+          "en": "Tevilat Keilim on a gift",
           "he": ""
         },
         "language": "en",
-        "question": "The Pew Research Study on Jewish Americans says in part: On these measures (partisanship and ideology), the only other U.S. religious groups that are as conservative and Republican as Orthodox Jews ar",
-        "answer": "In demographic terms, Hasidic Jews are more similar to some highly religious Christian groups than liberal Jews,” Comenetz said. “They may also sympathize more with the Republicans than the Democrats on values questions. So, one outcome may be a chan",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-44919",
-        "source_url": "https://judaism.stackexchange.com/questions/44919/does-orthodox-judaism-have-a-generally-held-position-on-american-politics",
-        "author": "Jake",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
-      },
-      {
-        "id": "ye-27910",
-        "title": "How could David lie with Bat Sheva if she had a Safek Get?",
-        "titles": {
-          "en": "How could David lie with Bat Sheva if she had a Safek Get?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Tosafos version of Rashi in the Gemara Kesubos 9b implies that there was a get on condition that Uria (Bat shevas husband) won't come back. So if David didn't know if Uria would come back or not how c",
-        "answer": "Although the popularized understanding of the Gemara in b.Shabbath 56a is that David haMelekh never actually sinned with Batsheva` but only appeared to sin, the Gemara as a whole, and the tradition as taught by the Rishonim are not so monolithic on t",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-27910",
-        "source_url": "https://judaism.stackexchange.com/questions/27910/how-could-david-lie-with-bat-sheva-if-she-had-a-safek-get",
-        "author": "user3342",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
-      },
-      {
-        "id": "ye-10925",
-        "title": "Rainbow, telling a friend",
-        "titles": {
-          "en": "Rainbow, telling a friend",
-          "he": ""
-        },
-        "language": "en",
-        "question": "We know The rainbow is a bad Omen. Is one allowed to tell a friend when he sees one, in order to allow him to make a Bracha or should he hold back as it is a bad sign?",
-        "answer": "Per Mishna Brura (229:1), when one sees a rainbow he should not inform a friend about it, but rather make a bracha and keep it to himself.",
-        "answer_count": 4,
+        "question": "If I buy a food-utensil from a gentile to give as a gift to a Jew, can I tovel it before giving it to him, or must he do it himself as the final intended owner? Is there a difference between glass and",
+        "answer": "Tevilath Kelim (by R. Zvi Cohen) 8:6 says that you shouldn't immerse it. In the footnote there he cites Mekor Chaim 14 , who says that this is because the giver didn't buy the utensil with the intent to use it for food preparation. (CYLOR, of course.",
+        "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-10925",
-        "source_url": "https://judaism.stackexchange.com/questions/10925/rainbow-telling-a-friend",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-14213",
+        "source_url": "https://judaism.stackexchange.com/questions/14213/tevilat-keilim-on-a-gift",
+        "author": "Alex",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "up-din-2019032114170957",
@@ -32259,7 +32259,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "ye-138450",
@@ -32280,7 +32280,7 @@
         "author": "הרב דוד חי הכהן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "yeshiva-151338",
@@ -32301,7 +32301,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "din-url-dbef02fc275b8878c71cf5f5",
@@ -32322,7 +32322,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "yeshiva-153856",
@@ -32343,7 +32343,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "up-din-228357",
@@ -32364,7 +32364,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "up-din-201712122440294",
@@ -32385,7 +32385,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "up-din-202007238127784",
@@ -32406,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       },
       {
         "id": "up-din-202102023219264",
@@ -32427,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1c2230937be822d260fb69c6"
+        "snapshot": "v1-d187f782f183570ba1ee8334"
       }
     ]
   }
