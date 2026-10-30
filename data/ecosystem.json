@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-30T05:42:53Z",
+  "checked_at": "2026-10-30T15:02:16Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-10-30T05:42:53Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-30T05:42:53Z"
+      "checked_at": "2026-10-30T15:02:16Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-10-30T15:02:16Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-10-30T05:42:53Z"
+      "checked_at": "2026-10-30T15:02:16Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-30T05:42:53Z"
+      "checked_at": "2026-10-30T15:02:16Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-30T05:42:53Z"
+      "checked_at": "2026-10-30T15:02:16Z"
     }
   },
   "music": [
@@ -32048,386 +32048,386 @@
     ]
   },
   "qa": {
-    "release": "v1-d187f782f183570ba1ee8334",
-    "total": 70938,
+    "release": "v1-8bbc928cc5970f2e3ebad10d",
+    "total": 70942,
     "cards": [
       {
-        "id": "up-chabad-836582",
-        "title": "My Child Has No Friends",
+        "id": "aish-url-3d66ea9b590f51019be6205a",
+        "title": "Aliyah Difficulties",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: My 11 year old son is very bright—he's been assessed as gifted. I don't know if this makes it hard for him to identify with his classmates, but he can't seem to make any friends. The other k",
+        "question": "We recently moved to Israel, fulfilling a life dream, but so many things have gone wrong since we arrived – in terms of the lift, our apartment, my job options, and more. I’m hoping the worst of our i",
         "answer": "",
         "answer_count": 1,
-        "provider": "chabad",
+        "provider": "aish",
         "category": "general",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-836582",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/836582/jewish/My-Child-Has-No-Friends.htm",
-        "author": "Sarah Chana Radcliffe",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=aish-url-3d66ea9b590f51019be6205a",
+        "source_url": "https://aish.com/aliyah-difficulties/",
+        "author": "Rabbi Dovid Rosenfeld",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       },
       {
-        "id": "ye-136812",
-        "title": "Weapons in the Beis Hamikdash",
+        "id": "ye-140084",
+        "title": "What is the historic background to the first Rashi?",
         "titles": {
-          "en": "Weapons in the Beis Hamikdash",
+          "en": "What is the historic background to the first Rashi?",
           "he": ""
         },
         "language": "en",
-        "question": "Would it be permitted for one to enter the Bais Hamikdash carrying a weapon (for example, a gun)? Would it make a difference if it were open vs. concealed carry?",
-        "answer": "1] There are several passages in Nakh that indicate that weapons were indeed present in the Miqdash. 2 Kings 11:10 ויתן הכהן לשרי המאיות [המאות] את החנית ואת השלטים אשר למלך דוד אשר בבית ה And the priest delivered to the captains over hundreds the sp",
+        "question": "The first Rashi on Genesis says : Rabbi Isaac said: The Torah, which is the Law book of Israel, should have commenced with the verse (Exodus 12:2) “This month shall be unto you the first of the months",
+        "answer": "Some scholars have argued that this first comment on Beresheet was, indeed, a reaction to the start of the First Crusade, or at least to its leadup. 1 However, in my opinion, the reference to Rabbi Yitzchak makes it clear that at least the original i",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-140084",
+        "source_url": "https://judaism.stackexchange.com/questions/140084/what-is-the-historic-background-to-the-first-rashi",
+        "author": "Harel13",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-122273",
+        "title": "We already had the Torah?",
+        "titles": {
+          "en": "We already had the Torah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "According to the Gemoro in Yuma ( 28B ) the forefathers already observed the Torah in it's entirety (according to the understanding of Ramban and the Shaloh in Toldot Adam, Beit HaBechira 4), addition",
+        "answer": "I think there are three points that each bring us a long way in answering this question. Just because the Avos, and other great people knew and kept the Torah does not mean that the ordinary people did as well or even knew what it was. There is a gre",
         "answer_count": 3,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-136812",
-        "source_url": "https://judaism.stackexchange.com/questions/136812/weapons-in-the-beis-hamikdash",
-        "author": "Deuteronomy",
+        "url": "https://shekhina.org/qa.html?id=ye-122273",
+        "source_url": "https://judaism.stackexchange.com/questions/122273/we-already-had-the-torah",
+        "author": "conceptualinertia",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       },
       {
-        "id": "ye-118619",
-        "title": "Source for a Rashi gem story",
+        "id": "ye-103392",
+        "title": "What's preferable: to count Sefiras Haomer right at nightfall by oneself OR to count later with a minyan?",
         "titles": {
-          "en": "Source for a Rashi gem story",
+          "en": "What's preferable: to count Sefiras Haomer right at nightfall by oneself OR to count later with a minyan?",
           "he": ""
         },
         "language": "en",
-        "question": "There's a well-known and widely repeated story that Rashi's father Reb Yitzchak deliberately threw a jewel into the sea, intending to make this appear accidental. What's the origin of this story?",
-        "answer": "R. Gedaliah ibn Yachya (d. 1587) writes in his Shalsheles Hakabbalah (starts second line from the bottom) that he read this בקונטריס ישן, in an ancient pamphlet. (It should be noted, though, that R. Gedaliah is in general known to not be that histori",
+        "question": "I've heard opinions (including The Shulchan Aruch Harav - see footnote #12 ) that one should always try to count the Sefira within the first half hour of the night, and the earlier the better. BUT if ",
+        "answer": "Here are some notes (actually, a slightly edited email response) I just wrote up on the topic before this question was asked here, but I'll try to organize it later. All halachic sources are found Orach Chaim 489: I wasn't sure if that Halachic rule ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-103392",
+        "source_url": "https://judaism.stackexchange.com/questions/103392/whats-preferable-to-count-sefiras-haomer-right-at-nightfall-by-oneself-or-to-c",
+        "author": "רבות מחשבות",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-86938",
+        "title": "\"Whose opinion is this mishna?\": a question on Ketubot 49a",
+        "titles": {
+          "en": "\"Whose opinion is this mishna?\": a question on Ketubot 49a",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In Ketubot 49a , the mishna presents the opinion that a man is not legally obligated to support his daughters. The gemara then goes on to determine whose opinion this is: first it excludes Rabbis Meir",
+        "answer": "R' Elazar Ben Azariah only says his din that the girls are fed after the father dies. He's the seifa; the statement before was made by a nameless tanna. When it says 'זה מדרש דרש', It's just saying that to introduce the following text, it's not conne",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-86938",
+        "source_url": "https://judaism.stackexchange.com/questions/86938/whose-opinion-is-this-mishna-a-question-on-ketubot-49a",
+        "author": "Rafael",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-69807",
+        "title": "Is the soul tied and can one break that tie?",
+        "titles": {
+          "en": "Is the soul tied and can one break that tie?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I have heard that the soul is tied to your wife or husband, but if so, can you break off that \"soul-tie\" ?",
+        "answer": "You're probably thinking of the \"besheret\", literally destiny, but understood to be analogous to soulmate. There is Jewish imagery which indicates that each man and woman were created as one entity metaphorically joined at the back, which was separat",
         "answer_count": 1,
         "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-69807",
+        "source_url": "https://judaism.stackexchange.com/questions/69807/is-the-soul-tied-and-can-one-break-that-tie",
+        "author": "Yoel Fievel Ben Avram",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-53535",
+        "title": "Kedusha as pertains to G-d",
+        "titles": {
+          "en": "Kedusha as pertains to G-d",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Throughout our prayers we talk about G-d's Kedusha. For example, we say \"Ata kadosh\", \"Nekadesh es shimcha\", etc. Kedusha is generally translated as \"holiness\". Holiness, in turn, generally refers to ",
+        "answer": "In Rabbi Aryeh Kaplan's Handbook of Jewish thought part one, he explains this kedusha as meaning completely different and separate than any part of creation. This includes his not being corporeal and not existing within the constraints of time and sp",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-53535",
+        "source_url": "https://judaism.stackexchange.com/questions/53535/kedusha-as-pertains-to-g-d",
+        "author": "user6591",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-34090",
+        "title": "Can I fold my neighbour’s tallis if I find it in Shul unfolded a day or more after Shabbos?",
+        "titles": {
+          "en": "Can I fold my neighbour’s tallis if I find it in Shul unfolded a day or more after Shabbos?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Related to Can you fold a tallis on Shabbos? Folding one’s tallis after Shabbos is a seguloh for Sholom Bayis ( unfolding a dish towel and helping one’s wife after Shabbos is a bigger seguloh accordin",
+        "answer": "Yes. You can fold his tallis. Folding your neighbors tallis will protect it from damage. Forget about segulah. You have an obligation to protect your neighbors property, particularly when it costs you nothing to do so! Here is a source for the obliga",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-34090",
+        "source_url": "https://judaism.stackexchange.com/questions/34090/can-i-fold-my-neighbour-s-tallis-if-i-find-it-in-shul-unfolded-a-day-or-more-aft",
+        "author": "Clint Eastwood",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-16954",
+        "title": "Why doesn't a ben niddah acquire the status of a mamzer?",
+        "titles": {
+          "en": "Why doesn't a ben niddah acquire the status of a mamzer?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "One who commits incest is punished with Kares (spiritual separation from the divine source), and any product of incest has the status of a Mamzer . One who has relations with a Niddah is also punished",
+        "answer": "The Gemara says in Kiddushin that it's derived from a verse \"ותהי נדתה עליו\" - that even when one is a Nidda, there still is \"Haviya\" (marriage). Therefore, Kiddushin by a nidda works. If so, there are no issues of Mamzeirus.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-16954",
+        "source_url": "https://judaism.stackexchange.com/questions/16954/why-doesnt-a-ben-niddah-acquire-the-status-of-a-mamzer",
+        "author": "ertert3terte",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "up-din-202303073097790",
+        "title": "מתנות לאביונים ביום ט\"ו",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב וחג שמח רציתי לדעת האם מותר לתת מתנה לאביונים מחרהיום לא הצלחתי לקיים את המצווההאם אני יוצא ידי חובה על קיום המצווה בשושן פורים? תודה מראש!",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202303073097790",
+        "source_url": "https://din.org.il/2023/03/07/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%91%d7%99%d7%95%d7%9d-%d7%98%d7%95/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-139779",
+        "title": "האם מי שאינו נמשך לנשים נחשב לאנוס ולסריס?",
+        "titles": {
+          "en": "",
+          "he": "האם מי שאינו נמשך לנשים נחשב לאנוס ולסריס?"
+        },
+        "language": "he",
+        "question": "מובא בזהר הק במספר מקומות שמי שנפטר ללא בנים, נשמתו לא זוכה להכנס אל מאחורי הפרגוד. \"וכל מאן דפסיק מקוריה, מתתא ומיבש ליה, כביכול כאלו גרים ליה לאתפסקא לעילא, כדין (איוב יד יא) אזלו מים מני ים, ונהר י",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-139779",
+        "source_url": "https://www.yeshiva.org.il/ask/139779",
+        "author": "הרב אליקים לבנון",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "ye-148634",
+        "title": "מעקב דעת רה\"ר - תפילות על הגשם",
+        "titles": {
+          "en": "",
+          "he": "מעקב דעת רה\"ר - תפילות על הגשם"
+        },
+        "language": "he",
+        "question": "לאחרונה פורסם באתרי האינטרנט שהרה\"ר קראו להוסיף תפילות לגשם. 1 האם יש איזו תפוצה או אתר של הרבנות שבה הדברים מפורסמים - או שרק באתרי החדשות? 2 מאז הפרסום ירדו גשמים - איך נדע מתי להפסיק? ב\"ה שלום וברכ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-118619",
-        "source_url": "https://judaism.stackexchange.com/questions/118619/source-for-a-rashi-gem-story",
-        "author": "Meir",
+        "url": "https://shekhina.org/qa.html?id=ye-148634",
+        "source_url": "https://www.yeshiva.org.il/ask/148634",
+        "author": "הרבנות הראשית לישראל",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       },
       {
-        "id": "ye-99178",
-        "title": "What are the practical parameters of Mitzvah Haba'ah B'Aveirah?",
-        "titles": {
-          "en": "What are the practical parameters of Mitzvah Haba'ah B'Aveirah?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There are a few questions which ask about whether the concern of a mitzvah which is (or whose practice is) contingent upon the existence of a sin applies in specific cases. But are there any clear cut",
-        "answer": "This is a broad question and Rishonim worked hard on this notion. I will give a taste only. The lines in Tosfot Sukka 30a: משום דהוה ליה מצוה הבאה בעבירה. והדתניא לקמן פ' לולב וערבה (ד' מג.) לכם משלכם להוציא את השאול ואת הגזול משום שאול איצטריכא, דבל",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-99178",
-        "source_url": "https://judaism.stackexchange.com/questions/99178/what-are-the-practical-parameters-of-mitzvah-habaah-baveirah",
-        "author": "kouty",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-83673",
-        "title": "Why are courts called \"Elohim\"?",
-        "titles": {
-          "en": "Why are courts called \"Elohim\"?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There are numerous places in the Torah where the word \"Elohim\" אלהים does not mean \"G-d\", but rather a court. Why are courts named after one of G-d's names, and considering that G-d has many names, wh",
-        "answer": "The term elohim means power which is also why idols are called elohim acheirim . Pagans regard their gods as beings which manifest various powers, somewhat like comic book characters (like the X-Men). They regard the concept of Hashem as too lofty to",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-83673",
-        "source_url": "https://judaism.stackexchange.com/questions/83673/why-are-courts-called-elohim",
-        "author": "sabbahillel",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-66595",
-        "title": "short definition for 'Chavrusa'",
-        "titles": {
-          "en": "short definition for 'Chavrusa'",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I'm looking for a way to accurately describe what a chavrusa (in a yeshiva setting) is to a non-Jew. I'm ideally looking for a one or two line description. Basically the shorter the better, but it sho",
-        "answer": "A study-partner with whom one analyzes and debates the subject matter of study, usually pertaining to a particular text. Chavrusas are not just reading or reviewing together - they are jointly working out an understanding in a process that often invo",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-66595",
-        "source_url": "https://judaism.stackexchange.com/questions/66595/short-definition-for-chavrusa",
-        "author": "Y e z",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-48734",
-        "title": "What was the significance of the ram by the Akeida?",
-        "titles": {
-          "en": "What was the significance of the ram by the Akeida?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The Akeida ends off with Yitzchok being spared and Avraham finding a ram as a replacement sacrifice. In general, what exactly was the nature of this symbolic sacrifice? Rashi tells us that with every ",
-        "answer": "Bereishis Rabbah (55:8-9) describes how Avraham, who had exerted so much effort into doing the will of Hashem to offer Yitzchak as a karban, felt bad that he wouldn't be able to do so. Thus, when he saw a ram that just happened to be sitting there, h",
-        "answer_count": 7,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-48734",
-        "source_url": "https://judaism.stackexchange.com/questions/48734/what-was-the-significance-of-the-ram-by-the-akeida",
-        "author": "DonielF",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-30373",
-        "title": "Sand Tefilin Hasisa",
-        "titles": {
-          "en": "Sand Tefilin Hasisa",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If someone, let's say, went to the beach (at night of course) and got sand in his hair and it stayed in his hair, the next morning would it be considered a Hasisa (obstacle) for Tefilin?",
-        "answer": "It is a Chatzitzah and must be cleaned. See Shulchan Aruch Horav 27 :7 (\"וה״ה בתפילין של ראש צריך ליזהר בדבר שלא יהא שום דבר חוצץ בין תפילין לשערו ועפר או כנה מתה נקרא חציצה\").",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-30373",
-        "source_url": "https://judaism.stackexchange.com/questions/30373/sand-tefilin-hasisa",
-        "author": "Meir Zirkind",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-14166",
-        "title": "Is marriage without ketubah considered marriage, concubinage, or kiddushin she’einah re’uyah le’biah (marriage that cannot be consummated)?",
-        "titles": {
-          "en": "Is marriage without ketubah considered marriage, concubinage, or kiddushin she’einah re’uyah le’biah (marriage that cannot be consummated)?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Is marriage without ketubah considered marriage, concubinage, or kiddushin she’einah re’uyah le’biah (marriage that cannot be consummated)? I have read a number of different things suggesting each of ",
-        "answer": "The presence or absence of a ketuba in an otherwise valid marriage has no effect on the validity of kiddushin. As such, it would be kiddushin she’einah re’uyah le’biah (marriage that cannot be consummated). The only reason such a marriage should not ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-14166",
-        "source_url": "https://judaism.stackexchange.com/questions/14166/is-marriage-without-ketubah-considered-marriage-concubinage-or-kiddushin-she-e",
-        "author": "Ze'ev",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "up-din-2019031911049459",
-        "title": "אישה ששומעת את המגילה מאוחר אם מותר לה לאכול לפני כן?",
+        "id": "din-url-f482d21938fed8d89e647c6c",
+        "title": "הלבנת שיניים בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום רב אשתי מניקה ואינה מתענה בתענית אסתר, אבל מכיון שהיא צריכה לטפל בילדים אינה יכולה לקרוא המגילה אלא מאוחר בלילה אחרי שכולנו נאכל, האם היא יכולה לאכול אתנו או צריכה להמתין לאכול עד אחרי שתקרא המגי",
+        "question": "שלום רב,התחלתי ביום שלישי טיפול להלבנת שיניים (אני שם חומר מלבין ב-2 סדים, ו\"מלביש\" את הסדים על השיניים במהלך הלילה, עד הקימה בבוקר). הטיפול אמור להיות רצוף במשך כ-שלושה שבועות.האם ישנה בעיה בלהמשיך ט",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2019031911049459",
-        "source_url": "https://din.org.il/2019/03/19/%d7%90%d7%99%d7%a9%d7%94-%d7%a9%d7%a9%d7%95%d7%9e%d7%a2%d7%aa-%d7%90%d7%aa-%d7%94%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%9e%d7%90%d7%95%d7%97%d7%a8-%d7%90%d7%9d-%d7%9e%d7%95%d7%aa%d7%a8-%d7%9c%d7%94-%d7%9c/",
-        "author": "Din Online",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "ye-138339",
-        "title": "לאן צריך לכוון את המיטה?",
-        "titles": {
-          "en": "",
-          "he": "לאן צריך לכוון את המיטה?"
-        },
-        "language": "he",
-        "question": "שלום וברכה, במקורותינו חלוקות הדיעות לגבי כיוון המיטה. מובא בגמרא ובזוהר שאסור לאדם לישון בין מזרח למערב, אלא יישן בין צפון לדרום באופן שראש המיטה בצפון ומרגלותיה בדרום. ויש דיעות שיש לכוון את המיטה ד",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-138339",
-        "source_url": "https://www.yeshiva.org.il/ask/138339",
-        "author": "הרב נועם דביר מייזלס",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "yeshiva-151241",
-        "title": "הר הבית",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "האם מותר לאישה לעלות להר הבית?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-151241",
-        "source_url": "https://www.yeshiva.org.il/ask/151241",
-        "author": "הרב דוד חי הכהן",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "din-url-db5cfaad19b0f19e91fb1429",
-        "title": "הנאה מתבשיל שחימם נכרי בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "עובד זר הניח בשבת סיר מרק מבושל כל צרכו שנצטנן, על גבי הבלעך. האם בדיעבד ניתן לסמוך על שיטת הדגול מרבבה בפירוש דברי המגן אברהם (שיח ס\"ק כו), שבדבר שאין בו בישול מותרת חזרה על גבי קדירה ריקנית. ואף שהמ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-db5cfaad19b0f19e91fb1429",
-        "source_url": "https://din.org.il/2021/11/23/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a9%d7%97%d7%99%d7%9e%d7%9d-%d7%a0%d7%9b%d7%a8%d7%99-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-f482d21938fed8d89e647c6c",
+        "source_url": "https://din.org.il/2020/08/13/%d7%94%d7%9c%d7%91%d7%a0%d7%aa-%d7%a9%d7%99%d7%a0%d7%99%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       },
       {
-        "id": "yeshiva-153844",
-        "title": "שיעור כזית",
+        "id": "din-url-07a01496767c1b51586c09e9",
+        "title": "הוצאה בשבת – אילו דברים אסור להוציא?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום וברכה, אשמח לדעת אם ניתן להתייחס לשיעור כזית כפשוטו כפי חלק מהדעות, או שמא עדיין יש לנהוג חצי ביצה 27~ סמק (אבא שלי מיוצאי גרבה אם רלוונטי), תודה רבה!",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-153844",
-        "source_url": "https://www.yeshiva.org.il/ask/153844",
-        "author": "רבנים שונים",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "up-din-225895",
-        "title": "הוצאה – תג זיהוי לחולה בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "מי שנולד לו בן וענדו על זרועו [של האב] צמיד של פלסטיק לצורך זיהוי ,האם מותר לצאת בו בשבת לכרמלית במקום שאין עירוב, או האם מותר לצאת בו לרשות הרבים דאורייתא? אולי דומה למה שכתב המחבר (סי' ש\"א סע' יט) ש",
+        "question": "שלום כבוד הרב. בשולחן ערוך ועוד ספרי הפוסקים מבואר מהן ארבע הרשויות של שבת, ובאילו תנאים עוברים איסור הוצאה בשבת (הן מן התורה והן מדברי חכמים).אבל לא מבואר כל כך על אילו חפצים חל האיסור של הוצאה בשבת,",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-225895",
-        "source_url": "https://din.org.il/2019/03/27/%d7%94%d7%95%d7%a6%d7%90%d7%94-%d7%aa%d7%92-%d7%96%d7%99%d7%94%d7%95%d7%99-%d7%9c%d7%97%d7%95%d7%9c%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הדין",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "up-din-201712099043383",
-        "title": "שמן תרומה בהדלקת נר חנוכה",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכה. האם מותר לכהן שקיבל שמן תרומה להדליק איתו נרות חנוכה. האם זה משנה אם מדובר בשמן טהור או טמא? האם ישראל שאינו כהן גם יכול להדליק בשמן תרומה? בברכה, ויקטור בוחניק רחובות.",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201712099043383",
-        "source_url": "https://din.org.il/2017/12/09/%d7%a9%d7%9e%d7%9f-%d7%aa%d7%a8%d7%95%d7%9e%d7%94-%d7%91%d7%94%d7%93%d7%9c%d7%a7%d7%aa-%d7%a0%d7%a8-%d7%97%d7%a0%d7%95%d7%9b%d7%94/",
-        "author": "Din Online",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
-      },
-      {
-        "id": "up-din-202007232887985",
-        "title": "העברת מתנה בתשעת הימים",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "נתנו לי, לפני ראש חודש, מתנה לתת לבן שלי שהתחתן. האם אפשר לתת לו היום? ומה בשבוע הבא? (שבוע שחל בו ט' באב)",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202007232887985",
-        "source_url": "https://din.org.il/2020/07/23/%d7%94%d7%a2%d7%91%d7%a8%d7%aa-%d7%9e%d7%aa%d7%a0%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=din-url-07a01496767c1b51586c09e9",
+        "source_url": "https://din.org.il/2024/08/25/%d7%94%d7%95%d7%a6%d7%90%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%90%d7%99%d7%9c%d7%95-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%90%d7%a1%d7%95%d7%a8-%d7%9c%d7%94%d7%95%d7%a6%d7%99%d7%90/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       },
       {
-        "id": "up-din-202006052943056",
-        "title": "חמץ שעבר הפסח",
+        "id": "up-din-283361",
+        "title": "הבדלה במוצאי ראש השנה שחל בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "קניתי ויטמינים באתר מפורסם לויטמינים בשם IHERB שכמדומה לי שזה בארה\"בהאם אני צריך לחוש לחמץ שעבר עליו הפסח [אולי הם יהודים או שיש מניות ליהודים בחברה הזאת] כמו שכלים מארה\"ב שמעתי שאומרים להטביל בלי ברכ",
+        "question": "שלום הרב, יש לי שאלה, האם במוצאי ראש השנה עושים את ההבדלה רק על היין? למרות שהיום הראשון חל בשבת? (לאשכנזים) תודה רבה הרב",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202006052943056",
-        "source_url": "https://din.org.il/2020/06/05/%d7%97%d7%9e%d7%a5-%d7%a9%d7%a2%d7%91%d7%a8-%d7%94%d7%a4%d7%a1%d7%97/",
+        "url": "https://shekhina.org/qa.html?id=up-din-283361",
+        "source_url": "https://din.org.il/2020/08/09/%d7%94%d7%91%d7%93%d7%9c%d7%94-%d7%91%d7%9e%d7%95%d7%a6%d7%90%d7%99-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a9%d7%97%d7%9c-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d187f782f183570ba1ee8334"
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "up-din-202111148665190",
+        "title": "הדליק שני נרות בלילה ראשון של חנוכה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אדם שהדליק בלילה הראשון 2 נרות חוץ משמש מה הדין",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202111148665190",
+        "source_url": "https://din.org.il/2021/11/14/%d7%94%d7%93%d7%9c%d7%99%d7%a7-%d7%a9%d7%a0%d7%99-%d7%a0%d7%a8%d7%95%d7%aa-%d7%91%d7%9c%d7%99%d7%9c%d7%94-%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c-%d7%97%d7%a0%d7%95%d7%9b%d7%94/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "up-din-202107106722050",
+        "title": "ניקיון וסידור הבית בתשעת הימים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב.האם מותר בתשעת הימיםלסדר ארונות?סדר וניקיון בבית באופן שצריך ביום יום ?ולכבוד שבת לנקות קצת יותר יסודי?תודה",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202107106722050",
+        "source_url": "https://din.org.il/2021/07/10/%d7%a0%d7%99%d7%a7%d7%99%d7%95%d7%9f-%d7%95%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%91%d7%99%d7%aa-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+      },
+      {
+        "id": "up-din-2021040814254752",
+        "title": "כזית מצה בבת אחת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "איך מקיימים הלכה למעשה את הסעיף של להכניס לפה את כל הכזית וללעוס ולבלוע בב\"א?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-2021040814254752",
+        "source_url": "https://din.org.il/2021/04/08/%d7%9b%d7%96%d7%99%d7%aa-%d7%9e%d7%a6%d7%94-%d7%91%d7%91%d7%aa-%d7%90%d7%97%d7%aa/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
       }
     ]
   }
