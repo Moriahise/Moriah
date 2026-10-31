@@ -1,14 +1,1071 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T19:57:59Z",
+  "generated_at": "2026-10-31T23:22:52Z",
   "timezone": "Asia/Jerusalem",
   "news": [
     {
-      "id": "0808c9f46f45d5c690b6",
-      "title": "לאחר ההחלטה נגד \"פלסטין אקשן\": מחאה בלונדון ו-140 עצורים",
+      "id": "7d45d3f8b1bc69a0cfbc",
+      "title": "BDS is on the ballot in Illinois, sort of",
       "titles": {
-        "he": "לאחר ההחלטה נגד \"פלסטין אקשן\": מחאה בלונדון ו-140 עצורים",
-        "en": "After the decision against Palestine Action: Protest in London and 140 arrests"
+        "en": "BDS is on the ballot in Illinois, sort of",
+        "he": "ה-BDS הוא על פתק ההצבעה באילינוי, סוג של"
+      },
+      "source_id": "jta",
+      "family": "jta",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.jta.org/2026/10/31/united-states/bds-is-on-the-ballot-in-illinois-sort-of",
+      "published_at": "2026-10-31T23:22:10Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "fe642a20e99b0d3c2145",
+      "title": "בישראל מחממים מנועים לקראת הבחירות בארה\"ב, דיווח: טראמפ ונתניהו שוחחו",
+      "titles": {
+        "he": "בישראל מחממים מנועים לקראת הבחירות בארה\"ב, דיווח: טראמפ ונתניהו שוחחו",
+        "en": "In Israel, motorists are heating up for the U.S. elections, Trump and Netanyahu reported:"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/hkinj5xtgl",
+      "published_at": "2026-10-31T23:18:29Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "231d17bf96e5bb7a3520",
+      "title": "דיווח בארה\"ב: טראמפ ונתניהו שוחחו על רקע המתיחות עם איראן",
+      "titles": {
+        "he": "דיווח בארה\"ב: טראמפ ונתניהו שוחחו על רקע המתיחות עם איראן",
+        "en": "U.S. Report: Trump and Netanyahu discussed tensions with Iran"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
+      "published_at": "2026-10-31T23:09:29Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7c8935b228954660c156",
+      "title": "מבצע הביפרים באיראן? בכיר לשעבר במוסד: \"לישראל יש קלפים בשרוול\" | דיווח",
+      "titles": {
+        "he": "מבצע הביפרים באיראן? בכיר לשעבר במוסד: \"לישראל יש קלפים בשרוול\" | דיווח",
+        "en": "Operation of the excavations in Iran, a former senior official at the institution: \"Israel has cards in the sleeve.\""
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21747809",
+      "published_at": "2026-10-31T22:55:44Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "e15ac60913bb37c52366",
+      "title": "איזנקוט \"הולך בכל הכוח\" על החרדים - בזמן שבליכוד מחפשים עריקים",
+      "titles": {
+        "he": "איזנקוט \"הולך בכל הכוח\" על החרדים - בזמן שבליכוד מחפשים עריקים",
+        "en": "Iizenkot takes \"all power\" on the ultra-Orthodox - while Likud is looking for defectors."
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/b10udhqtfl",
+      "published_at": "2026-10-31T22:33:04Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "a763ee4d9a0cc6dc82c4",
+      "title": "More than 560 arrested in protests in France",
+      "titles": {
+        "en": "More than 560 arrested in protests in France",
+        "he": "יותר מ-560 עצורים בהפגנות בצרפת"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696459",
+      "published_at": "2026-10-31T22:21:13Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "881b1d724eb2b79a1439",
+      "title": "Will UTJ back Eisenkot? Degel HaTorah MKs meet leading rabbis",
+      "titles": {
+        "en": "Will UTJ back Eisenkot? Degel HaTorah MKs meet leading rabbis",
+        "he": "האם UTJ תחזור איזנקוט? Degel HaTorah ח\"כים לפגוש רבנים מובילים"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696458",
+      "published_at": "2026-10-31T22:03:19Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "022874a95373a83ea861",
+      "title": "השיעור שחובה ללמוד מפולין",
+      "titles": {
+        "he": "השיעור שחובה ללמוד מפולין",
+        "en": "The lesson to learn from Poland"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/yokra14944013",
+      "published_at": "2026-10-31T22:03:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "69d775266d96c12612b3",
+      "title": "קודם צריך לבקש מאיתנו סליחה",
+      "titles": {
+        "he": "קודם צריך לבקש מאיתנו סליחה",
+        "en": "We need to ask us for forgiveness."
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/yokra14944201",
+      "published_at": "2026-10-31T22:03:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "0594934883c83f0e6c34",
+      "title": "תנו לנו לשבת על המרפסת לספור מחשבות נודדות",
+      "titles": {
+        "he": "תנו לנו לשבת על המרפסת לספור מחשבות נודדות",
+        "en": "Let us sit on the balcony to count wandering thoughts."
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/yokra14943524",
+      "published_at": "2026-10-31T22:00:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "14f7fa49f9ffeffae716",
+      "title": "לא רק ועדת חקירה ל-7/10 וחוק גיוס: המחלוקות בדרך לממשלת אחדות",
+      "titles": {
+        "he": "לא רק ועדת חקירה ל-7/10 וחוק גיוס: המחלוקות בדרך לממשלת אחדות",
+        "en": "Not just an investigative committee for 7/10 and the recruitment law: Disputes on the way to a unity government"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/yokra14943888",
+      "published_at": "2026-10-31T22:00:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "9cb3c6e4202e40df5b34",
+      "title": "קרובו של ראש מועצה נורה במרכז, מצבו קשה",
+      "titles": {
+        "he": "קרובו של ראש מועצה נורה במרכז, מצבו קשה",
+        "en": "The closeness of the head of a council was shot in the center, its condition is difficult."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/crime/article/21747778",
+      "published_at": "2026-10-31T21:58:31Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b22331affdb2b3d1aa43",
+      "title": "ערב היסטורי בליגת העל שבכדורסל",
+      "titles": {
+        "he": "ערב היסטורי בליגת העל שבכדורסל",
+        "en": "A historic evening in the basketball superstar."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709732",
+      "published_at": "2026-10-31T21:44:36Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "4ebe15fe8214e86ade13",
+      "title": "\"גיליתי מכתב תוכחה מאחי זאבו - ומאז איני יכול להפסיק לבכות\"",
+      "titles": {
+        "he": "\"גיליתי מכתב תוכחה מאחי זאבו - ומאז איני יכול להפסיק לבכות\"",
+        "en": "“I have discovered a letter from my brother Wolfo — and I can’t stop crying since.”"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709729",
+      "published_at": "2026-10-31T21:36:26Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "f60601dcb30b1250b9af",
+      "title": "תאונה קשה ליד מתחם הקניות: גבר התנגש בעמוד עם רכבו - ונהרג",
+      "titles": {
+        "he": "תאונה קשה ליד מתחם הקניות: גבר התנגש בעמוד עם רכבו - ונהרג",
+        "en": "A difficult accident near the shopping complex: a man knocked on a page with his car - and was killed"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/bjc4ucmtml",
+      "published_at": "2026-10-31T21:34:33Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "d797bc13e9b211c52aa7",
+      "title": "עשרות הפגינו למען ארגון טרור פרו פלסטיני בבריטניה - ונעצרו",
+      "titles": {
+        "he": "עשרות הפגינו למען ארגון טרור פרו פלסטיני בבריטניה - ונעצרו",
+        "en": "Dozens of demonstrators protested for a Palestinian pro-Palestinian terrorist organization in Britain and arrested"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21747699",
+      "published_at": "2026-10-31T21:33:55Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "46df2da4c78c19de056e",
+      "title": "Herzog honors JFNA fund that provided $240m. in loans to Israeli businesses",
+      "titles": {
+        "en": "Herzog honors JFNA fund that provided $240m. in loans to Israeli businesses",
+        "he": "הרצוג מכבד את קרן JFNA שסיפקה 240 מיליון דולר להלוואות לעסקים ישראלים"
+      },
+      "source_id": "jpost",
+      "family": "jpost",
+      "section": "economy",
+      "source_language": "en",
+      "url": "https://www.jpost.com/israel-news/article-913415",
+      "published_at": "2026-10-31T21:33:25Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b7ccbe50d58ae7514622",
+      "title": "NBA: דני אבדיה ופורטלנד חזרו לנצח",
+      "titles": {
+        "he": "NBA: דני אבדיה ופורטלנד חזרו לנצח",
+        "en": "NBA: Danny lost and Portland returned forever."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709731",
+      "published_at": "2026-10-31T21:31:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "bb928a380142b8436252",
+      "title": "מזל טלה, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל טלה, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Luckily, the daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/aries/article/21734521",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "fa92842bf7537276b5f1",
+      "title": "מזל שור, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל שור, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Taurus, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/taurus/article/21734522",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "d1a9477782a1a4d1fabb",
+      "title": "מזל תאומים, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל תאומים, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Gemini luck, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/gemini/article/21734523",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7d1ba0703139ad747966",
+      "title": "מזל סרטן, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל סרטן, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Cancer luck, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/cancer/article/21740359",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1a7e2e26629b54adb7d6",
+      "title": "מזל אריה, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל אריה, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Lion's luck, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/leo/article/21740360",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "5bf1e568f4f158801295",
+      "title": "מזל בתולה, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל בתולה, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Viral luck, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/virgo/article/21740361",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "64e1163360cba2cd5156",
+      "title": "מזל מאזניים, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל מאזניים, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "The daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/libra/article/21740444",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "d4c89a20a2f6f2439f33",
+      "title": "מזל עקרב, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל עקרב, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Congratulations, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/scorpio/article/21740445",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "5e7dd7237142cde6867b",
+      "title": "מזל קשת, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל קשת, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Congratulations to the arch, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/sagittarius/article/21740446",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "2549a99b56712b13d476",
+      "title": "מזל גדי, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל גדי, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Fortunately, the daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/capricorn/article/21740485",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "c118a5fad0a0c5896512",
+      "title": "מזל דלי, תחזית הורוסקופ יומית 01.11.2026",
+      "titles": {
+        "he": "מזל דלי, תחזית הורוסקופ יומית 01.11.2026",
+        "en": "Lucky for a bucket, daily horoscope forecast 01.11.2026"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/horoscopes/aquarius/article/21740486",
+      "published_at": "2026-10-31T21:30:30Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ce70d8ed21b6337bb719",
+      "title": "ניסיון הפיגוע בטיסת פליי דובאי: נחשפו הטייסים שהנחיתו את המטוס | דיווח",
+      "titles": {
+        "he": "ניסיון הפיגוע בטיסת פליי דובאי: נחשפו הטייסים שהנחיתו את המטוס | דיווח",
+        "en": "The experience of the attack at Play Dubai Flight: pilots who landed the plane were exposed."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/world/article-1383312",
+      "published_at": "2026-10-31T21:22:06Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "878998566d948482fd2b",
+      "title": "Pilots who saved Flydubai passengers honored",
+      "titles": {
+        "en": "Pilots who saved Flydubai passengers honored",
+        "he": "טייסים שהצילו את הנוסעים Flydubai מכובדים"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696457",
+      "published_at": "2026-10-31T21:21:07Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "bccda9cb9135c05967f5",
+      "title": "ערב של אכזבות בליגת העל שבכדורגל",
+      "titles": {
+        "he": "ערב של אכזבות בליגת העל שבכדורגל",
+        "en": "The Night of Disappointment in the Super League in Football"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709730",
+      "published_at": "2026-10-31T21:20:36Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "232ac7a74743d693610f",
+      "title": "ההרוג השני בסוף השבוע בנגב: נהג התנגש בעמוד סמוך לביג באר שבע",
+      "titles": {
+        "he": "ההרוג השני בסוף השבוע בנגב: נהג התנגש בעמוד סמוך לביג באר שבע"
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/law/article-1383311",
+      "published_at": "2026-10-31T21:17:18Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {},
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "fba0d1feaa1459dccdd5",
+      "title": "Tibi to Eisenkot: We won't join government",
+      "titles": {
+        "en": "Tibi to Eisenkot: We won't join government",
+        "he": "טיבי לאיזנקוט: אנחנו לא נצטרף לממשלה"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696456",
+      "published_at": "2026-10-31T21:12:12Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "4cb44b8bfd97da8b6be0",
+      "title": "היקף המסחר מגוחך, אבל המדינה הקטנה הזו מתכננת לאסור ייבוא מההתנחלויות",
+      "titles": {
+        "he": "היקף המסחר מגוחך, אבל המדינה הקטנה הזו מתכננת לאסור ייבוא מההתנחלויות",
+        "en": "The scope of trade is ridiculous, but this small country plans to ban imports from settlements."
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/bkygy2xaml",
+      "published_at": "2026-10-31T20:58:02Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "45ee1a2fb0df10525e7d",
+      "title": "דיווח: איש מוסד לשעבר סייע לבנו של בולסונארו להימלט מברזיל - הפרטים שנחשפו",
+      "titles": {
+        "he": "דיווח: איש מוסד לשעבר סייע לבנו של בולסונארו להימלט מברזיל - הפרטים שנחשפו",
+        "en": "A former Mossad official helped Bolsonaro's son escape from Brazil - the details revealed"
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/world/article-1383304",
+      "published_at": "2026-10-31T20:42:54Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ed85cb9659992f89a084",
+      "title": "ארה\"ב שוב מזהירה את רוסיה - בפעם הקודמת נרצחו 145 בני אדם",
+      "titles": {
+        "he": "ארה\"ב שוב מזהירה את רוסיה - בפעם הקודמת נרצחו 145 בני אדם",
+        "en": "The U.S. again warns Russia, the previous time 145 people were killed."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/world/article-1383307",
+      "published_at": "2026-10-31T20:41:32Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "9d61134a46868a0b2bfe",
+      "title": "Eisenkot's four rules for his allies",
+      "titles": {
+        "en": "Eisenkot's four rules for his allies",
+        "he": "ארבעת הכללים של אייזנקוט לבעלות בריתו"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696455",
+      "published_at": "2026-10-31T20:41:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "7dff94f9c9b81b3b4d55",
+      "title": "Hezbollah admits explosives ownership as Lebanon charges 13",
+      "titles": {
+        "en": "Hezbollah admits explosives ownership as Lebanon charges 13",
+        "he": "חזבאללה מודה כי הבעלות על חומרי נפץ כלבנון פוגעת ב-13"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696454",
+      "published_at": "2026-10-31T20:39:37Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "cc7b32f20b0c609683a6",
+      "title": "\"מי שרוצה את חברון, צריך שתהיה לו תל אביב\"",
+      "titles": {
+        "he": "\"מי שרוצה את חברון, צריך שתהיה לו תל אביב\"",
+        "en": "“He who wants Hebron should have a Tel Aviv.”"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709728",
+      "published_at": "2026-10-31T20:32:18Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "13901cb923352ae443ae",
+      "title": "המילים שהותיר אחריו הפכו לשיר",
+      "titles": {
+        "he": "המילים שהותיר אחריו הפכו לשיר",
+        "en": "The words that followed him became a song."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709724",
+      "published_at": "2026-10-31T20:26:10Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "56210696de793e6ba6b2",
+      "title": "אבל בדולב: הלך לעולמו שלומי כהן ז\"ל, מחלוצי החקלאות היהודית ביהודה ושומרון",
+      "titles": {
+        "he": "אבל בדולב: הלך לעולמו שלומי כהן ז\"ל, מחלוצי החקלאות היהודית ביהודה ושומרון",
+        "en": "But in the pancreas, he went to the world that Cohen's threats from the Jewish agricultural pioneers in Judea and Samaria."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709726",
+      "published_at": "2026-10-31T20:25:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "238b2a35fc5b91d77038",
+      "title": "שני מילואימניקים, תינוקת בכורה וחובות של מאות אלפים: הזעקה של משפחת אוחנה",
+      "titles": {
+        "he": "שני מילואימניקים, תינוקת בכורה וחובות של מאות אלפים: הזעקה של משפחת אוחנה",
+        "en": "Two of the Loymanics, a crying baby and tens of thousands: The cry of the Occa family."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709589",
+      "published_at": "2026-10-31T20:25:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1c32e80583b0c33a3734",
+      "title": "הטייסים שהצילו את נוסעי פליי דובאי",
+      "titles": {
+        "he": "הטייסים שהצילו את נוסעי פליי דובאי",
+        "en": "The pilots who saved the passengers from Play Dubai"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709727",
+      "published_at": "2026-10-31T20:23:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "a3a7e5b8b5c215f92d8c",
+      "title": "מאות אלפים ברחובות צרפת, אירוע חריג נגד ישראל נרשם",
+      "titles": {
+        "he": "מאות אלפים ברחובות צרפת, אירוע חריג נגד ישראל נרשם",
+        "en": "Hundreds of thousands on the streets of France, an unusual event against Israel was recorded."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/world/article-1383290",
+      "published_at": "2026-10-31T20:14:45Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "55888d75bf9daf48ae1e",
+      "title": "החשד להתערבות זרה: הימין יוצא לרחובות",
+      "titles": {
+        "he": "החשד להתערבות זרה: הימין יוצא לרחובות",
+        "en": "The suspicion of foreign interference: the right goes out to the streets."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709725",
+      "published_at": "2026-10-31T20:13:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "b125dfda4cdacd8c0bb1",
+      "title": "יצחק עמית בדרך לעשות את הטעות הגדולה ביותר של בג\"ץ",
+      "titles": {
+        "he": "יצחק עמית בדרך לעשות את הטעות הגדולה ביותר של בג\"ץ",
+        "en": "Isaac is a fellow on the way to make the greatest mistake of G-d."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1383291",
+      "published_at": "2026-10-31T20:06:38Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "003d9ce0f39c24d7afec",
+      "title": "החשודים בשוחד בחירות צפויים להשתחרר, וטוענים: \"הכסף - למשפחות קשות יום\"",
+      "titles": {
+        "he": "החשודים בשוחד בחירות צפויים להשתחרר, וטוענים: \"הכסף - למשפחות קשות יום\"",
+        "en": "The suspects are expected to be released, saying: “Money – for hard families a day.”"
+      },
+      "source_id": "ynet",
+      "family": "yedioth",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.ynet.co.il/news/article/sknbejqaze",
+      "published_at": "2026-10-31T20:00:53Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "87d339eb70a527abe3e8",
+      "title": "הרבנות הראשית הודיעה: זה המועד לבחינות הדיינות הקרובות",
+      "titles": {
+        "he": "הרבנות הראשית הודיעה: זה המועד לבחינות הדיינות הקרובות",
+        "en": "The Chief Rabbinate announced: This is the date for the next litigation exams."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709722",
+      "published_at": "2026-10-31T19:57:54Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "edd663283833869a96d8",
+      "title": "מלחמת הטלפונים: מי בלחץ?",
+      "titles": {
+        "he": "מלחמת הטלפונים: מי בלחץ?",
+        "en": "Phone War: Who is the pressure?"
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709723",
+      "published_at": "2026-10-31T19:57:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ac8abfeec0e06b3bcb96",
+      "title": "Steve Witkoff's son proposes in Jerusalem",
+      "titles": {
+        "en": "Steve Witkoff's son proposes in Jerusalem",
+        "he": "בנו של סטיב וויטקוף מציע בירושלים"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696453",
+      "published_at": "2026-10-31T19:55:45Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "1909d17184fbef9ba966",
+      "title": "מיכאל שמש: שמונה הטעויות שהפילו את ש\"ס",
+      "titles": {
+        "he": "מיכאל שמש: שמונה הטעויות שהפילו את ש\"ס",
+        "en": "Michael Sun: The Eight Mistakes That Made The S."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/709721",
+      "published_at": "2026-10-31T19:49:15Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "39e4a570ead2eebd66f7",
+      "title": "IDF demolishes homes of terrorists behind deadly Hebron attack",
+      "titles": {
+        "en": "IDF demolishes homes of terrorists behind deadly Hebron attack",
+        "he": "צה\"ל הורס בתים של טרוריסטים מאחורי התקפה על חברון הקטלנית"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696452",
+      "published_at": "2026-10-31T19:46:26Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "0808c9f46f45d5c690b6",
+      "title": "ארגון פרו-פלסטיני הוכרז כארגון טרור - ותושבי לונדון יצאו למחאה עצימה",
+      "titles": {
+        "he": "ארגון פרו-פלסטיני הוכרז כארגון טרור - ותושבי לונדון יצאו למחאה עצימה",
+        "en": "A pro-Palestinian organization was declared a terrorist organization – and the residents of London went out to protest."
       },
       "source_id": "maariv",
       "family": "maariv",
@@ -16,7 +1073,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1383280",
       "published_at": "2026-10-31T19:38:31Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -36,10 +1093,30 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/skefkaqtfg",
       "published_at": "2026-10-31T19:38:01Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "554b2f75696c570eb090",
+      "title": "Here I am, my son",
+      "titles": {
+        "en": "Here I am, my son",
+        "he": "הנה אני, בני"
+      },
+      "source_id": "inn-en",
+      "family": "arutz7",
+      "section": "diaspora",
+      "source_language": "en",
+      "url": "https://www.israelnationalnews.com/flashes/696451",
+      "published_at": "2026-10-31T19:36:35Z",
+      "observed_at": "2026-10-31T23:22:52Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
       },
       "provenance": "publisher_feed"
     },
@@ -56,7 +1133,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/bysmrjq6gg",
       "published_at": "2026-10-31T19:27:36Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -76,7 +1153,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/bk11fy3m6mg",
       "published_at": "2026-10-31T19:19:21Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -96,7 +1173,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561450",
       "published_at": "2026-10-31T19:18:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -156,7 +1233,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1383269",
       "published_at": "2026-10-31T19:16:39Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -216,7 +1293,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/696450",
       "published_at": "2026-10-31T19:01:47Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -256,7 +1333,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561319",
       "published_at": "2026-10-31T19:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -285,18 +1362,18 @@
     },
     {
       "id": "f4c1fc6b01c5b4c86a81",
-      "title": "אלמוג כהן נגד דני קושמרו: \"להשהות אותו מיידית\"",
+      "title": "אלמוג כהן נגד דני קושמרו: \"להשעות אותו מיידית\"",
       "titles": {
-        "he": "אלמוג כהן נגד דני קושמרו: \"להשהות אותו מיידית\"",
-        "en": "Almog Cohen against Danny Cusmer: “Stay it immediately”"
+        "he": "אלמוג כהן נגד דני קושמרו: \"להשעות אותו מיידית\"",
+        "en": "Almog Cohen against Danny Cuomer: \"Early suspend him\""
       },
       "source_id": "arutz7",
       "family": "arutz7",
       "section": "israel",
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709720",
-      "published_at": "2026-10-31T18:57:46Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "published_at": "2026-10-31T18:57:00Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -336,7 +1413,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/h1110mim6mx",
       "published_at": "2026-10-31T18:52:03Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -355,7 +1432,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561452",
       "published_at": "2026-10-31T18:52:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -373,7 +1450,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/hkr9s5magx",
       "published_at": "2026-10-31T18:48:16Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -393,7 +1470,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-913408",
       "published_at": "2026-10-31T18:45:23Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -493,7 +1570,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/skz1cumpfl",
       "published_at": "2026-10-31T18:27:01Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -533,7 +1610,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709719",
       "published_at": "2026-10-31T18:20:58Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -553,7 +1630,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913407",
       "published_at": "2026-10-31T18:20:17Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -673,7 +1750,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913406",
       "published_at": "2026-10-31T18:08:55Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -753,7 +1830,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/elections-2026/article-1383247",
       "published_at": "2026-10-31T18:01:14Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -813,26 +1890,6 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/709715",
       "published_at": "2026-10-31T17:55:42Z",
-      "observed_at": "2026-10-31T19:57:59Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "fe642a20e99b0d3c2145",
-      "title": "בישראל מחממים מנועים לקראת בחירות האמצע: \"המו\"מ תקוע, איראן לא בדרך לפשרה\"",
-      "titles": {
-        "he": "בישראל מחממים מנועים לקראת בחירות האמצע: \"המו\"מ תקוע, איראן לא בדרך לפשרה\"",
-        "en": "In Israel, motors are heating towards the midterm elections: “The negotiations are stuck, Iran is not on the way to compromise.”"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/hkinj5xtgl",
-      "published_at": "2026-10-31T17:52:23Z",
       "observed_at": "2026-10-31T19:57:59Z",
       "type": "news",
       "translation": {
@@ -953,7 +2010,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/opinions/article-1383232",
       "published_at": "2026-10-31T17:21:35Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1033,7 +2090,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1383230",
       "published_at": "2026-10-31T17:07:41Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1053,7 +2110,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913399",
       "published_at": "2026-10-31T17:07:07Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1133,7 +2190,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560899",
       "published_at": "2026-10-31T17:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1193,7 +2250,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1383224",
       "published_at": "2026-10-31T16:46:55Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1293,7 +2350,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1383205",
       "published_at": "2026-10-31T16:22:42Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1333,7 +2390,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561368",
       "published_at": "2026-10-31T16:03:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1393,7 +2450,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1383200",
       "published_at": "2026-10-31T15:35:20Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1473,7 +2530,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/31/politics/rift-between-el-sayed-and-pro-israel-democratic-primary-rival-puts-michigan-jews-on-edge",
       "published_at": "2026-10-31T15:18:54Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1493,7 +2550,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561311",
       "published_at": "2026-10-31T15:11:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1513,7 +2570,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1383195",
       "published_at": "2026-10-31T15:10:36Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1553,7 +2610,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913395",
       "published_at": "2026-10-31T14:49:47Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1593,7 +2650,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561309",
       "published_at": "2026-10-31T14:38:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1693,7 +2750,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561376",
       "published_at": "2026-10-31T14:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1713,7 +2770,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561261",
       "published_at": "2026-10-31T13:58:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2004,7 +3061,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561453",
       "published_at": "2026-10-31T12:05:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2084,7 +3141,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560904",
       "published_at": "2026-10-31T11:30:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2204,7 +3261,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/torah-portion/article-913256",
       "published_at": "2026-10-31T10:42:37Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2344,7 +3401,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561397",
       "published_at": "2026-10-31T09:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2384,7 +3441,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-913258",
       "published_at": "2026-10-31T08:55:12Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2404,7 +3461,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560910",
       "published_at": "2026-10-31T08:30:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2484,7 +3541,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561087",
       "published_at": "2026-10-31T07:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2644,7 +3701,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001560893",
       "published_at": "2026-10-31T06:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2663,7 +3720,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913229",
       "published_at": "2026-10-31T05:18:21Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -2681,7 +3738,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913225",
       "published_at": "2026-10-31T05:17:01Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2941,7 +3998,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-913370",
       "published_at": "2026-10-31T02:54:11Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3321,7 +4378,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913288",
       "published_at": "2026-10-30T21:02:29Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3361,7 +4418,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/politics/ossoff-vs-collins-the-choices-facing-jewish-voters-in-the-georgia-senate-race",
       "published_at": "2026-10-30T20:59:50Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3381,7 +4438,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913290",
       "published_at": "2026-10-30T20:54:46Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3421,7 +4478,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-913360",
       "published_at": "2026-10-30T20:52:09Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3441,7 +4498,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/ny/pelosi-slams-mamdanis-position-on-israel-its-wrong",
       "published_at": "2026-10-30T20:35:51Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3661,7 +4718,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913261",
       "published_at": "2026-10-30T19:01:39Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4021,7 +5078,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
       "published_at": "2026-10-30T17:28:21Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4380,7 +5437,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/sports/a-jewish-guide-to-the-mlb-offseason",
       "published_at": "2026-10-30T15:12:45Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -4478,7 +5535,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-913346",
       "published_at": "2026-10-30T14:32:39Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4678,7 +5735,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/politics/how-jewish-teens-in-colorado-are-finding-their-political-voices-before-they-can-vote",
       "published_at": "2026-10-30T14:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4698,7 +5755,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/politics/too-young-to-vote-jewish-teens-make-their-voices-heard-in-key-n-y-race",
       "published_at": "2026-10-30T14:00:00Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -4955,7 +6012,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
       "published_at": "2026-10-30T13:30:04Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5275,7 +6332,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/torah-portion/article-913239",
       "published_at": "2026-10-30T12:00:20Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5295,7 +6352,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/article-913332",
       "published_at": "2026-10-30T11:59:40Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -5314,7 +6371,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/judaism/torah-portion/article-913236",
       "published_at": "2026-10-30T11:59:32Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {},
       "provenance": "publisher_feed"
@@ -5792,7 +6849,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/10/30/israel/israel-probes-alleged-qatari-election-meddling-in-arab-vote-as-netanyahu-claims-election-stolen",
       "published_at": "2026-10-30T10:13:26Z",
-      "observed_at": "2026-10-31T19:57:59Z",
+      "observed_at": "2026-10-31T23:22:52Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6110,1066 +7167,6 @@
       "url": "https://www.globes.co.il/news/article.aspx?did=1001561444",
       "published_at": "2026-10-30T08:51:00Z",
       "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "4699385b31147aef8803",
-      "title": "בלב מרכז הטרור בג'נין: לוחמי צה\"ל הפתיעו את המחבלים",
-      "titles": {
-        "he": "בלב מרכז הטרור בג'נין: לוחמי צה\"ל הפתיעו את המחבלים",
-        "en": "At the heart of the terrorist center in Jenin: IDF fighters surprised terrorists."
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/military/article-1382951",
-      "published_at": "2026-10-30T08:49:35Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "fbf8c753711556626bd3",
-      "title": "Bus driver killed, dozens wounded in collision with tractor near Netivot",
-      "titles": {
-        "en": "Bus driver killed, dozens wounded in collision with tractor near Netivot",
-        "he": "נהג האוטובוס נהרג, עשרות פצועים בהתנגשות עם טרקטור ליד Netivot"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "israel",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/article-913330",
-      "published_at": "2026-10-30T08:39:24Z",
-      "observed_at": "2026-10-30T20:46:35Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "4c77d83c17aa76978e6f",
-      "title": "התאהבה בארץ כילדה, חזרה כדיפלומטית - ונהרגה בתאונה מזעזעת בשוק מחנה יהודה",
-      "titles": {
-        "he": "התאהבה בארץ כילדה, חזרה כדיפלומטית - ונהרגה בתאונה מזעזעת בשוק מחנה יהודה",
-        "en": "She fell in love with Israel as a child, back as a diplomat - and was killed in a shocking accident on the Judean camp market."
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/hyizstwpzg",
-      "published_at": "2026-10-30T08:30:14Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "9a8b59c2c6c794c9cf9c",
-      "title": "דיווח: סייארה הישראלית יוצאת לגיוס לפי שווי שאפתני במיוחד",
-      "titles": {
-        "he": "דיווח: סייארה הישראלית יוצאת לגיוס לפי שווי שאפתני במיוחד",
-        "en": "Report: Israeli Cyra is being recruited by a particularly ambitious value."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561442",
-      "published_at": "2026-10-30T08:21:00Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3d39de788f00a6d9c1c0",
-      "title": "שנים אחרי תחילת המלחמה באוקראינה: רוסיה במסר חד לישראל",
-      "titles": {
-        "he": "שנים אחרי תחילת המלחמה באוקראינה: רוסיה במסר חד לישראל",
-        "en": "Years After the War in Ukraine: Russia in a single message to Israel"
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/world/article-1382944",
-      "published_at": "2026-10-30T08:20:48Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "601fb35257634dde7aa2",
-      "title": "לפיד מבקש סבלנות אחרי שנחתך מ-24 ל-5 מנדטים באיחוד עם בנט: \"ניצחנו בנקודות\"",
-      "titles": {
-        "he": "לפיד מבקש סבלנות אחרי שנחתך מ-24 ל-5 מנדטים באיחוד עם בנט: \"ניצחנו בנקודות\"",
-        "en": "Lapid asks for patience after his release from 24 to 5 seats in the union with Bennett: \"We won points\""
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/hyqbin11afx",
-      "published_at": "2026-10-30T08:03:39Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "12f18ad1b49e8318cab8",
-      "title": "בהשקעה של 120 מיליון שקל: אהרון פרנקל הגיע ל-20% מאלוני חץ",
-      "titles": {
-        "he": "בהשקעה של 120 מיליון שקל: אהרון פרנקל הגיע ל-20% מאלוני חץ",
-        "en": "In an investment of NIS 120 million: Aaron Frankl reached 20% of arrow balloons"
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561441",
-      "published_at": "2026-10-30T07:23:00Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3b8dbf3d6bcd3c093203",
-      "title": "שיא ההצבעה לליכוד - ביישובים שפונו: אלו המעוזים של כל המפלגות",
-      "titles": {
-        "he": "שיא ההצבעה לליכוד - ביישובים שפונו: אלו המעוזים של כל המפלגות",
-        "en": "The peak of voting for Likud – in the towns that have been evacuated: the strongholds of all parties."
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/hkmflwgpgx",
-      "published_at": "2026-10-30T06:56:17Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "36311294d5bd3ef4c845",
-      "title": "IDF prepares to demolish homes of terrorists who killed two Israeli soldiers in Hebron attack",
-      "titles": {
-        "en": "IDF prepares to demolish homes of terrorists who killed two Israeli soldiers in Hebron attack",
-        "he": "צה\"ל מכין להרוס בתים של מחבלים שהרגו שני חיילים ישראלים בפיגוע חברון"
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "security",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913326",
-      "published_at": "2026-10-30T06:39:05Z",
-      "observed_at": "2026-10-30T20:46:35Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3d36a567e4a4940af9a1",
-      "title": "\"התלמידות עפו\": נהג אוטובוס הסעות ורוכב אופניים נהרגו בבוקר מדמם בכבישים",
-      "titles": {
-        "he": "\"התלמידות עפו\": נהג אוטובוס הסעות ורוכב אופניים נהרגו בבוקר מדמם בכבישים",
-        "en": "“The students fly”: A shuttle bus driver and a bicycle rider were killed in the morning on bloody roads."
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/r1qtdnbtmx",
-      "published_at": "2026-10-30T06:25:48Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "5828ee9a8042ed41a4be",
-      "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
-      "titles": {
-        "he": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
-        "en": "Last attempt to deal with Iran? the U.S. sees the budding leader as “the greatest hope for peace.”"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/bk5hdibagx",
-      "published_at": "2026-10-30T05:42:21Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "196c5c4ca844e2da0688",
-      "title": "הפסד ראשון העונה לאבדיה ופורטלנד",
-      "titles": {
-        "he": "הפסד ראשון העונה לאבדיה ופורטלנד",
-        "en": "The first loss of the season to lose and Portland"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709669",
-      "published_at": "2026-10-30T05:29:06Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "80f9a894eb5c820d6e1d",
-      "title": "המבחן הלאומי: אחים או תומכי הטרור?",
-      "titles": {
-        "he": "המבחן הלאומי: אחים או תומכי הטרור?",
-        "en": "National Test: Brothers or Terrorists?"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709670",
-      "published_at": "2026-10-30T05:29:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ec53104a8d28bc0af335",
-      "title": "המלכודת המוניטרית שהוציאה את הבריטים מסואץ: 70 שנה למלחמת סיני",
-      "titles": {
-        "he": "המלכודת המוניטרית שהוציאה את הבריטים מסואץ: 70 שנה למלחמת סיני",
-        "en": "The Monetary Trap that issued the British from Suez: 70 Years of Chinese War"
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561321",
-      "published_at": "2026-10-30T05:22:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c5654249eb19ee651929",
-      "title": "הז'קט העל-זמני והג'ינס הטרנדי: 5 פריטים לסופ\"ש",
-      "titles": {
-        "he": "הז'קט העל-זמני והג'ינס הטרנדי: 5 פריטים לסופ\"ש",
-        "en": "Temporary jacket and the trendy jeans: 5 items for the weekend"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/lifestyle/fashion/article/21734993",
-      "published_at": "2026-10-30T05:19:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2d0879f3009ac734f282",
-      "title": "הרב מאיר כהנא: תזכורת לשליחי הציבור שבחרנו השבוע",
-      "titles": {
-        "he": "הרב מאיר כהנא: תזכורת לשליחי הציבור שבחרנו השבוע",
-        "en": "Rabbi Meir Kahnna: A reminder of the public servants we have chosen this week."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709667",
-      "published_at": "2026-10-30T05:17:38Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ff6d878f1400bad637b9",
-      "title": "בורסת הקריפטו הגדולה בעולם תחת מתקפה: מיליארדים נגנבו בפריצה הגדולה בהיסטוריה",
-      "titles": {
-        "he": "בורסת הקריפטו הגדולה בעולם תחת מתקפה: מיליארדים נגנבו בפריצה הגדולה בהיסטוריה",
-        "en": "The world’s largest crypto exchange under attack: billions have been stolen in the greatest breach of history."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561435",
-      "published_at": "2026-10-30T05:16:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2e2680b5a7e453e43cf9",
-      "title": "A supermajority coalition built around national survival",
-      "titles": {
-        "en": "A supermajority coalition built around national survival",
-        "he": "קואליציה סופר-גדולה שנבנתה סביב הישרדות לאומית"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696413",
-      "published_at": "2026-10-30T05:14:50Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "9f27176bb61fbf60f266",
-      "title": "גם עם הנחה של אלפי שקלים, למכונית הזו מחכה תחרות קשה",
-      "titles": {
-        "he": "גם עם הנחה של אלפי שקלים, למכונית הזו מחכה תחרות קשה",
-        "en": "Even with thousands of shekels, this car is waiting for a tough competition."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561351",
-      "published_at": "2026-10-30T05:14:00Z",
-      "observed_at": "2026-10-31T05:35:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "4106996f90b326a212f2",
-      "title": "דין ליבנה על חקירת השב\"כ: \"הדיווחים אינם מבוססים כלל\"",
-      "titles": {
-        "he": "דין ליבנה על חקירת השב\"כ: \"הדיווחים אינם מבוססים כלל\"",
-        "en": "Dean Libra on the investigation of the ISA: “The reports are not based at all.”"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/news/politics/article/21740356",
-      "published_at": "2026-10-30T05:13:12Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ae19a88a923f34e0b602",
-      "title": "ושוב זה קרה: איך התקשורת פספסה את הליכודניקים?",
-      "titles": {
-        "he": "ושוב זה קרה: איך התקשורת פספסה את הליכודניקים?",
-        "en": "Again, how did the media miss the Likudniks?"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21739160",
-      "published_at": "2026-10-30T05:12:33Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "9be08ae3d1c81460ea31",
-      "title": "\"הוא היה יושב כמו כלב במזנון הכנסת - ואז התחיל מצעד המתחנפים\"",
-      "titles": {
-        "he": "\"הוא היה יושב כמו כלב במזנון הכנסת - ואז התחיל מצעד המתחנפים\"",
-        "en": "\"He was sitting like a dog in the synagogue - and then began the joint parade.\""
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001560906",
-      "published_at": "2026-10-30T05:09:00Z",
-      "observed_at": "2026-10-31T05:35:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ccf59126bf3754a2827d",
-      "title": "לימוד גמרא ועיון לנשים",
-      "titles": {
-        "he": "לימוד גמרא ועיון לנשים",
-        "en": "Studying Talmud and Interview for Women"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709668",
-      "published_at": "2026-10-30T05:08:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "1cec29ddace19283d317",
-      "title": "הסתיימה ספירת הקולות: זו מפת הגושים",
-      "titles": {
-        "he": "הסתיימה ספירת הקולות: זו מפת הגושים",
-        "en": "The Counting of Voices: This is the Miracle Map."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561230",
-      "published_at": "2026-10-30T05:06:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "8aa4f2a2b99e9859299c",
-      "title": "מצאתי המבורגר כשר מצוין, במחיר שהפתיע אותי",
-      "titles": {
-        "he": "מצאתי המבורגר כשר מצוין, במחיר שהפתיע אותי",
-        "en": "I found an excellent hamburger at the price that surprised me."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21735152",
-      "published_at": "2026-10-30T05:06:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "62cfa33705eda0633c34",
-      "title": "אחרי שמועמד נוסף חתם ב-NBA: מכבי תל אביב מתקרבת לחיזוק",
-      "titles": {
-        "he": "אחרי שמועמד נוסף חתם ב-NBA: מכבי תל אביב מתקרבת לחיזוק",
-        "en": "After another candidate signed in the NBA, Tel Aviv is getting closer."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21740347",
-      "published_at": "2026-10-30T05:02:36Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3d9c1a6828ee409f2e58",
-      "title": "Podcast: The crisis France cannot ignore",
-      "titles": {
-        "en": "Podcast: The crisis France cannot ignore",
-        "he": "פודק: המשבר בצרפת לא יכול להתעלם"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696412",
-      "published_at": "2026-10-30T05:00:26Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c6f32430f14f74f31620",
-      "title": "North Korean hackers behind Binance breach",
-      "titles": {
-        "en": "North Korean hackers behind Binance breach",
-        "he": "האקרים צפון קוריאנים מאחורי הפריצה"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696411",
-      "published_at": "2026-10-30T04:59:32Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "0d044cf2d0045704e16a",
-      "title": "פריצה לבורסת הקריפטו הגדולה בעולם: נכסים בשווי מיליארדים הוקפאו",
-      "titles": {
-        "he": "פריצה לבורסת הקריפטו הגדולה בעולם: נכסים בשווי מיליארדים הוקפאו",
-        "en": "The largest crypto exchange in the world: assets worth billions have been frozen."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709662",
-      "published_at": "2026-10-30T04:57:26Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3531fdaba7b0e30f40fa",
-      "title": "אינטל התרסקה אחרי הדוחות וחשפה נזק גדול בקריית גת",
-      "titles": {
-        "he": "אינטל התרסקה אחרי הדוחות וחשפה נזק גדול בקריית גת",
-        "en": "Intel crashed after reports and felt a great damage to the city of Goth."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561244",
-      "published_at": "2026-10-30T04:54:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "6c65e93769abce31f6be",
-      "title": "PA chairman hopes Israeli election will open door to renewed peace talks",
-      "titles": {
-        "en": "PA chairman hopes Israeli election will open door to renewed peace talks",
-        "he": "יו\"ר הרש\"פ מקווה שהבחירות הישראליות יפתחו דלת לשיחות שלום מחודשות"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696410",
-      "published_at": "2026-10-30T04:52:10Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "750e0be56b536914ffde",
-      "title": "The alarming rise of Islamic power",
-      "titles": {
-        "en": "The alarming rise of Islamic power",
-        "he": "עלייה מדאיגה של הכוח האיסלאמי"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696409",
-      "published_at": "2026-10-30T04:50:31Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "e82fef34ca7a7ecdc8d8",
-      "title": "Binance security breach: Estimated losses reach $6.3 billion",
-      "titles": {
-        "en": "Binance security breach: Estimated losses reach $6.3 billion",
-        "he": "פריצת אבטחה: הפסדים מוערכים מגיעים ל-6.3 מיליארד דולר"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696408",
-      "published_at": "2026-10-30T04:49:14Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "9dec4b4e153fdeaaab9c",
-      "title": "קשת פנתה בבקשה דחופה לצו מניעה: מנעו את מינויו של איתי דנקנר כמנכ\"ל חדשות 13",
-      "titles": {
-        "he": "קשת פנתה בבקשה דחופה לצו מניעה: מנעו את מינויו של איתי דנקנר כמנכ\"ל חדשות 13",
-        "en": "The arch, please appeal to a constipatory order: Avoid my appointment as new CEO 13."
-      },
-      "source_id": "globes",
-      "family": "globes",
-      "section": "economy",
-      "source_language": "he",
-      "url": "https://www.globes.co.il/news/article.aspx?did=1001561436",
-      "published_at": "2026-10-30T04:49:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "92027e522ddf02b69b1c",
-      "title": "ארוחות שף, יין איכותי והרבה ירוק בעיניים: המלון שמציע סוף שבוע מיוחד",
-      "titles": {
-        "he": "ארוחות שף, יין איכותי והרבה ירוק בעיניים: המלון שמציע סוף שבוע מיוחד",
-        "en": "Chef meals, quality wine and plenty of green eyes: the hotel that offers a special weekend ending."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21726401",
-      "published_at": "2026-10-30T04:45:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "1ca1ca704ec7aa2a9970",
-      "title": "24 נקודות לדני אבדיה בהפסד הראשון של פורטלנד העונה",
-      "titles": {
-        "he": "24 נקודות לדני אבדיה בהפסד הראשון של פורטלנד העונה",
-        "en": "24 points to Sydney are lost in Portland's first loss season."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21740309",
-      "published_at": "2026-10-30T04:44:34Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "7cbb645b439cc6f3af05",
-      "title": "Avdija scores 24 points as Portland suffers first loss of the season",
-      "titles": {
-        "en": "Avdija scores 24 points as Portland suffers first loss of the season",
-        "he": "Avdija עשרות 24 נקודות כמו פורטלנד סובל הפסד ראשון של העונה."
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696407",
-      "published_at": "2026-10-30T04:37:37Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "ee51f93f0e68fecbcf89",
-      "title": "עם נתניהו ואיזנקוט: טראמפ יכול לסגור את עסקת השלום החשובה מכולן",
-      "titles": {
-        "he": "עם נתניהו ואיזנקוט: טראמפ יכול לסגור את עסקת השלום החשובה מכולן",
-        "en": "Netanyahu: Trump can close the most important peace deal of all."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21740270",
-      "published_at": "2026-10-30T04:34:13Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "9de27c033152f2d56309",
-      "title": "\"כמו בתחילת הקורונה\": החשש מהתפשטות האבולה בעולם",
-      "titles": {
-        "he": "\"כמו בתחילת הקורונה\": החשש מהתפשטות האבולה בעולם",
-        "en": "As in the beginning of Coronation: The Fear of the Aboriginal Expansion in the World"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/news/world-news/article/21740282",
-      "published_at": "2026-10-30T04:33:43Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "60a35a09d4bdba10231e",
-      "title": "מה בעצם מסתתר מאחורי חשד ל\"מימון זר\"",
-      "titles": {
-        "he": "מה בעצם מסתתר מאחורי חשד ל\"מימון זר\"",
-        "en": "What’s behind suspicion of “foreign funding”"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/rjnsrfbafx",
-      "published_at": "2026-10-30T04:33:00Z",
-      "observed_at": "2026-10-30T15:02:09Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "465286010f04aa1d1ded",
-      "title": "אבינתן אור בראש הרשימה: מצעד רבי המכר של ישראל",
-      "titles": {
-        "he": "אבינתן אור בראש הרשימה: מצעד רבי המכר של ישראל",
-        "en": "I will be given light at the top of the list: Israel’s best-selling parade."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/culture/books/article/21732511",
-      "published_at": "2026-10-30T04:30:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "3cdfb151fd576c363f5f",
-      "title": "NYPD scraps planned deal with Israeli surveillance firm following pressure on Mamdani",
-      "titles": {
-        "en": "NYPD scraps planned deal with Israeli surveillance firm following pressure on Mamdani",
-        "he": "מגרדי משטרת ניו יורק תכננו להתמודד עם חברת מעקב ישראלית בעקבות לחץ על מדרדאני"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/696406",
-      "published_at": "2026-10-30T04:17:16Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "4371eb226f15f301674c",
-      "title": "זו לא הדמוגרפיה, טמבל",
-      "titles": {
-        "he": "זו לא הדמוגרפיה, טמבל",
-        "en": "It's not the demographic, stupid."
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/bydiooy6fl",
-      "published_at": "2026-10-30T04:10:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "eee88b6da4d3b2a04a55",
-      "title": "הנבואה שהגשימה את עצמה: ליברמן נפגש עם פעילי ליכוד ונדהם - \"לא רוצים אותו כראש ממשלה\"",
-      "titles": {
-        "he": "הנבואה שהגשימה את עצמה: ליברמן נפגש עם פעילי ליכוד ונדהם - \"לא רוצים אותו כראש ממשלה\"",
-        "en": "The prophecy that fulfilled itself: Liberman met with Likud and Amaze activists – “I don’t want him as prime minister.”"
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/elections-2026/article-1382873",
-      "published_at": "2026-10-30T04:04:57Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "39cb3b41ea85d6d16983",
-      "title": "ואנס מבטיח: טראמפ לא יאפשר למלחמה באיראן להימשך לנצח",
-      "titles": {
-        "he": "ואנס מבטיח: טראמפ לא יאפשר למלחמה באיראן להימשך לנצח",
-        "en": "And Nans promises: Trump will not allow Iran to fight forever."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/709664",
-      "published_at": "2026-10-30T04:01:19Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "5015b988b0196ef14210",
-      "title": "נתניהו כבר ניסה לעשות את מה שהאופוזיציה מפחדת ממנו | דן פרי",
-      "titles": {
-        "he": "נתניהו כבר ניסה לעשות את מה שהאופוזיציה מפחדת ממנו | דן פרי",
-        "en": "Netanyahu has already tried to do what the opposition is afraid of him. - Dan Perry"
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/opinions/article-1382869",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "920a6b64eed482b68544",
-      "title": "אחרי יהדות התורה: ההחלטה המסתמנת של דרעי בעניין נתניהו - \"הספיק לו\"",
-      "titles": {
-        "he": "אחרי יהדות התורה: ההחלטה המסתמנת של דרעי בעניין נתניהו - \"הספיק לו\"",
-        "en": "After the Torah Jewry: Drei's particular decision on Netanyahu's matter - \"It is enough for him.\""
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/elections-2026/article-1382866",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2d81b7f91a0138f64718",
-      "title": "רכבי היוקרה של ראש עיריית כפר סבא - והחשד: \"טובות ההנאה מאנשי עסקים\"",
-      "titles": {
-        "he": "רכבי היוקרה של ראש עיריית כפר סבא - והחשד: \"טובות ההנאה מאנשי עסקים\"",
-        "en": "The luxury vehicles of the mayor of the village of Grandpa – and the suspicion: “The pleasures from business people”"
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/law/article-1382851",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "8beab0c77e5431b16b40",
-      "title": "לאט ומתחת לרדאר: הידידה הקרובה של ישראל באירופה הולכת ומתרחקת | ד\"ר ענת הוכברג-מרום",
-      "titles": {
-        "he": "לאט ומתחת לרדאר: הידידה הקרובה של ישראל באירופה הולכת ומתרחקת | ד\"ר ענת הוכברג-מרום",
-        "en": "Slowly and under the radar: Israel’s close friend in Europe is running away."
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/opinions/article-1382844",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "653a21670e507ec097e0",
-      "title": "לא מרד ולא מהומות: המהפך של ערביי ישראל התרחש בקלפי",
-      "titles": {
-        "he": "לא מרד ולא מהומות: המהפך של ערביי ישראל התרחש בקלפי",
-        "en": "No rebellion or riots: Israel’s revolution occurred at the ballot box."
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/opinions/article-1382837",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2b2b5480852623f0a2d0",
-      "title": "היום הגשם מגיע - אבל המהפך כבר בדרך | תחזית מזג האוויר",
-      "titles": {
-        "he": "היום הגשם מגיע - אבל המהפך כבר בדרך | תחזית מזג האוויר",
-        "en": "The rain is coming, but the reverse is already on the way."
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/weather/article-1382798",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "330bd18441cb55542c97",
-      "title": "איתות ראשון התקבל בישראל: ארצות הברית בדרך למתקפה באיראן",
-      "titles": {
-        "he": "איתות ראשון התקבל בישראל: ארצות הברית בדרך למתקפה באיראן",
-        "en": "The first signal was received in Israel: the United States on its way to an attack in Iran."
-      },
-      "source_id": "maariv",
-      "family": "maariv",
-      "section": "security",
-      "source_language": "he",
-      "url": "https://www.maariv.co.il/news/military/article-1382792",
-      "published_at": "2026-10-30T04:00:45Z",
-      "observed_at": "2026-10-30T05:42:46Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "2c475699170eb806dff0",
-      "title": "אינדיאנה ג׳ונס בישראל? מסתרי אוצר הזהב הגרמני",
-      "titles": {
-        "he": "אינדיאנה ג׳ונס בישראל? מסתרי אוצר הזהב הגרמני",
-        "en": "Indiana Jones in Israel? from the German Golden Treasurer"
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/bkiggujhme",
-      "published_at": "2026-10-30T04:00:00Z",
-      "observed_at": "2026-10-30T05:42:46Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -9609,16 +9606,8 @@
     }
   ],
   "learning_calendar": {
-    "fetched_at": "2026-10-31T19:57:59Z",
+    "fetched_at": "2026-10-31T23:22:52Z",
     "items": [
-      {
-        "title": "Bechorot 43",
-        "date": "2026-10-31",
-        "hdate": "20 Cheshvan 5787",
-        "category": "dafyomi",
-        "hebrew": "בכורות דף מ״ג",
-        "link": "https://www.sefaria.org/Bekhorot.43a?lang=bi&utm_source=hebcal.com&utm_medium=api"
-      },
       {
         "title": "Bechorot 44",
         "date": "2026-11-01",
@@ -9666,6 +9655,14 @@
         "category": "dafyomi",
         "hebrew": "בכורות דף מ״ט",
         "link": "https://www.sefaria.org/Bekhorot.49a?lang=bi&utm_source=hebcal.com&utm_medium=api"
+      },
+      {
+        "title": "Bechorot 50",
+        "date": "2026-11-07",
+        "hdate": "27 Cheshvan 5787",
+        "category": "dafyomi",
+        "hebrew": "בכורות דף נ׳",
+        "link": "https://www.sefaria.org/Bekhorot.50a?lang=bi&utm_source=hebcal.com&utm_medium=api"
       }
     ],
     "stale": false,
@@ -10590,37 +10587,37 @@
   "source_status": [
     {
       "id": "jpost",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 29,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T18:45:23Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T21:33:25Z"
     },
     {
       "id": "jpost-judaism",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 13,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-      "last_success_at": "2026-10-31T19:57:59Z",
+      "last_success_at": "2026-10-31T23:22:52Z",
       "latest_at": "2026-10-31T10:42:37Z"
     },
     {
       "id": "jpost-culture",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
-      "items": 30,
+      "items": 29,
       "error": null,
       "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-      "last_success_at": "2026-10-31T19:57:59Z",
+      "last_success_at": "2026-10-31T23:22:52Z",
       "latest_at": "2026-10-31T18:08:55Z"
     },
     {
       "id": "toi",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10628,7 +10625,7 @@
     },
     {
       "id": "zman",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10636,150 +10633,150 @@
     },
     {
       "id": "ynet",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:38:01Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T23:18:29Z"
     },
     {
       "id": "ynetnews",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 30,
       "error": null,
       "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-28T08:16:16Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-29T11:09:20Z"
     },
     {
       "id": "yedioth",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "maariv",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:38:31Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T21:22:06Z"
     },
     {
       "id": "globes",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 15,
       "error": null,
       "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-      "last_success_at": "2026-10-31T19:57:59Z",
+      "last_success_at": "2026-10-31T23:22:52Z",
       "latest_at": "2026-10-31T19:18:00Z"
     },
     {
       "id": "calcalist",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "themarker",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "No dated entries from the last 21 days"
     },
     {
       "id": "israelhayom",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 100,
       "error": null,
       "feed_url": "https://www.israelhayom.co.il/rss",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:17:42Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T23:09:29Z"
     },
     {
       "id": "hamodia",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "yated",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://yated.com/feed/",
-      "last_success_at": "2026-10-31T19:57:59Z",
+      "last_success_at": "2026-10-31T23:22:52Z",
       "latest_at": "2026-10-28T18:57:43Z"
     },
     {
       "id": "besheva",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "arutz7",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T18:57:46Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T21:44:36Z"
     },
     {
       "id": "inn-en",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:01:47Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T22:21:13Z"
     },
     {
       "id": "makorrishon",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
-      "error": "ValueError: DTD/entity XML rejected"
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "kan",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "keshet12",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "reshet13",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "now14",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10787,165 +10784,145 @@
     },
     {
       "id": "kankids",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "makan",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "knesset-tv",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "i24news",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "channel9",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "directory",
       "items": 0,
       "error": null
     },
     {
       "id": "jta",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 20,
       "error": null,
       "feed_url": "https://www.jta.org/feed",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T15:18:54Z"
+      "last_success_at": "2026-10-31T23:22:52Z",
+      "latest_at": "2026-10-31T23:22:10Z"
     },
     {
       "id": "yt-kan11",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:45:08Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-kannews",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-30T21:26:10Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-kankids",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T10:00:12Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-makan33",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T14:15:06Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-reshet13",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-29T19:01:06Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-channel9",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-30T23:46:14Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-i24en",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T12:58:45Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-knesset",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "ok",
       "items": 10,
       "error": null,
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-      "last_success_at": "2026-10-31T19:57:59Z",
+      "last_success_at": "2026-10-31T23:22:52Z",
       "latest_at": "2026-10-26T09:16:51Z"
     },
     {
       "id": "yt-n12",
-      "checked_at": "2026-10-31T19:57:59Z",
+      "checked_at": "2026-10-31T23:22:52Z",
       "state": "unavailable",
       "items": 0,
-      "error": "No dated entries from the last 21 days"
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "id": "yt-now14",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:15:20Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-knesset-tv",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-29T15:30:02Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "last_success_at": "2026-10-31T19:57:59Z"
     },
     {
       "id": "yt-i24he",
-      "checked_at": "2026-10-31T19:57:59Z",
-      "state": "ok",
-      "items": 15,
-      "error": null,
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-      "last_success_at": "2026-10-31T19:57:59Z",
-      "latest_at": "2026-10-31T19:44:18Z"
+      "checked_at": "2026-10-31T23:22:52Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "last_success_at": "2026-10-31T19:57:59Z"
     }
   ],
   "calendars": {
@@ -10957,12 +10934,12 @@
         "geonameid": 281184,
         "israel": true
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal Jerusalem October 2026",
-        "date": "2026-10-29T05:43:52.529Z",
+        "title": "Hebcal Jerusalem November 2026",
+        "date": "2026-10-31T23:22:58.635Z",
         "version": "v1.18.2",
         "location": {
           "title": "Jerusalem, Israel",
@@ -10979,56 +10956,105 @@
           "geonameid": 281184
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 16:11",
-            "date": "2026-10-30T16:11:00+02:00",
+            "title": "Candle lighting: 16:05",
+            "date": "2026-11-06T16:05:00+02:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787i/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787i/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 17:28",
-            "date": "2026-10-31T17:28:00+02:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 22:27 and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 17:23",
+            "date": "2026-11-07T17:23:00+02:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?i=on&us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11036,7 +11062,7 @@
         "candle_minutes": 40,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=281184&M=on&b=40&gy=2026&gm=10&gd=31&i=on&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=281184&M=on&b=40&gy=2026&gm=11&gd=7&i=on&lg=s&leyning=on"
     },
     "tel-aviv": {
       "city": {
@@ -11046,12 +11072,12 @@
         "geonameid": 293397,
         "israel": true
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal Tel Aviv October 2026",
-        "date": "2026-10-30T22:35:51.676Z",
+        "title": "Hebcal Tel Aviv November 2026",
+        "date": "2026-10-31T23:22:58.708Z",
         "version": "v1.18.2",
         "location": {
           "title": "Tel Aviv, Israel",
@@ -11068,56 +11094,105 @@
           "geonameid": 293397
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 16:32",
-            "date": "2026-10-30T16:32:00+02:00",
+            "title": "Candle lighting: 16:26",
+            "date": "2026-11-06T16:26:00+02:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787i/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787i/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 17:29",
-            "date": "2026-10-31T17:29:00+02:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 22:27 and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 17:24",
+            "date": "2026-11-07T17:24:00+02:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?i=on&us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11125,7 +11200,7 @@
         "candle_minutes": 18,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=293397&M=on&b=18&gy=2026&gm=10&gd=31&i=on&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=293397&M=on&b=18&gy=2026&gm=11&gd=7&i=on&lg=s&leyning=on"
     },
     "haifa": {
       "city": {
@@ -11135,12 +11210,12 @@
         "geonameid": 294801,
         "israel": true
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal Haifa October 2026",
-        "date": "2026-10-30T22:35:51.918Z",
+        "title": "Hebcal Haifa November 2026",
+        "date": "2026-10-31T23:22:58.745Z",
         "version": "v1.18.2",
         "location": {
           "title": "Haifa, Israel",
@@ -11157,56 +11232,105 @@
           "geonameid": 294801
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 16:20",
-            "date": "2026-10-30T16:20:00+02:00",
+            "title": "Candle lighting: 16:14",
+            "date": "2026-11-06T16:14:00+02:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787i/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787i/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 17:28",
-            "date": "2026-10-31T17:28:00+02:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 22:27 and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 17:22",
+            "date": "2026-11-07T17:22:00+02:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?i=on&us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?i=on&us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11214,7 +11338,7 @@
         "candle_minutes": 18,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=294801&M=on&b=18&gy=2026&gm=10&gd=31&i=on&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=294801&M=on&b=18&gy=2026&gm=11&gd=7&i=on&lg=s&leyning=on"
     },
     "vienna": {
       "city": {
@@ -11224,12 +11348,12 @@
         "geonameid": 2761369,
         "israel": false
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal Vienna October 2026",
-        "date": "2026-10-31T14:31:04.359Z",
+        "title": "Hebcal Vienna November 2026",
+        "date": "2026-10-31T23:22:58.819Z",
         "version": "v1.18.2",
         "location": {
           "title": "Vienna, Austria",
@@ -11246,56 +11370,105 @@
           "geonameid": 2761369
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 16:21",
-            "date": "2026-10-30T16:21:00+01:00",
+            "title": "Candle lighting: 16:10",
+            "date": "2026-11-06T16:10:00+01:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 17:25",
-            "date": "2026-10-31T17:25:00+01:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 22:27 and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 17:16",
+            "date": "2026-11-07T17:16:00+01:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11303,7 +11476,7 @@
         "candle_minutes": 18,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=2761369&M=on&b=18&gy=2026&gm=10&gd=31&i=off&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=2761369&M=on&b=18&gy=2026&gm=11&gd=7&i=off&lg=s&leyning=on"
     },
     "london": {
       "city": {
@@ -11313,12 +11486,12 @@
         "geonameid": 2643743,
         "israel": false
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal London October 2026",
-        "date": "2026-10-29T05:43:53.676Z",
+        "title": "Hebcal London November 2026",
+        "date": "2026-10-31T23:22:58.867Z",
         "version": "v1.18.2",
         "location": {
           "title": "London, England, UK",
@@ -11335,56 +11508,105 @@
           "geonameid": 2643743
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 16:19",
-            "date": "2026-10-30T16:19:00+00:00",
+            "title": "Candle lighting: 16:06",
+            "date": "2026-11-06T16:06:00+00:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 17:27",
-            "date": "2026-10-31T17:27:00+00:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 22:27 and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 17:16",
+            "date": "2026-11-07T17:16:00+00:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11392,7 +11614,7 @@
         "candle_minutes": 18,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=2643743&M=on&b=18&gy=2026&gm=10&gd=31&i=off&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=2643743&M=on&b=18&gy=2026&gm=11&gd=7&i=off&lg=s&leyning=on"
     },
     "new-york": {
       "city": {
@@ -11402,12 +11624,12 @@
         "geonameid": 5128581,
         "israel": false
       },
-      "fetched_at": "2026-10-31T19:57:59Z",
-      "shabbat_date": "2026-10-31",
+      "fetched_at": "2026-10-31T23:22:52Z",
+      "shabbat_date": "2026-11-07",
       "stale": false,
       "data": {
-        "title": "Hebcal New York City October 2026",
-        "date": "2026-10-29T05:43:54.093Z",
+        "title": "Hebcal New York City November 2026",
+        "date": "2026-10-31T23:22:58.939Z",
         "version": "v1.18.2",
         "location": {
           "title": "New York City, New York, USA",
@@ -11424,56 +11646,105 @@
           "geonameid": 5128581
         },
         "range": {
-          "start": "2026-10-30",
-          "end": "2026-10-31"
+          "start": "2026-11-06",
+          "end": "2026-11-11"
         },
         "items": [
           {
-            "title": "Candle lighting: 5:36pm",
-            "date": "2026-10-30T17:36:00-04:00",
+            "title": "Candle lighting: 4:28pm",
+            "date": "2026-11-06T16:28:00-05:00",
             "category": "candles",
             "title_orig": "Candle lighting",
             "hebrew": "הדלקת נרות",
-            "memo": "Parashat Vayera"
+            "memo": "Parashat Chayei Sara"
           },
           {
-            "title": "Parashat Vayera",
-            "date": "2026-10-31",
-            "hdate": "20 Cheshvan 5787",
+            "title": "Parashat Chayei Sara",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
             "category": "parashat",
-            "hebrew": "פרשת וירא",
+            "hebrew": "פרשת חיי שרה",
             "leyning": {
-              "1": "Genesis 18:1-18:14",
-              "2": "Genesis 18:15-18:33",
-              "3": "Genesis 19:1-19:20",
-              "4": "Genesis 19:21-21:4",
-              "5": "Genesis 21:5-21:21",
-              "6": "Genesis 21:22-21:34",
-              "7": "Genesis 22:1-22:24",
-              "torah": "Genesis 18:1-22:24",
-              "haftarah": "II Kings 4:1-37",
-              "haftarah_sephardic": "II Kings 4:1-23",
-              "haftarah_chabad": "II Kings 4:1-37",
-              "maftir": "Genesis 22:20-22:24",
+              "1": "Genesis 23:1-23:16",
+              "2": "Genesis 23:17-24:9",
+              "3": "Genesis 24:10-24:26",
+              "4": "Genesis 24:27-24:52",
+              "5": "Genesis 24:53-24:67",
+              "6": "Genesis 25:1-25:11",
+              "7": "Genesis 25:12-25:18",
+              "torah": "Genesis 23:1-25:18",
+              "haftarah": "I Kings 1:1-31",
+              "maftir": "Genesis 25:16-25:18",
               "triennial": {
-                "1": "Genesis 19:1-19:11",
-                "2": "Genesis 19:12-19:20",
-                "3": "Genesis 19:21-19:29",
-                "4": "Genesis 19:30-19:38",
-                "5": "Genesis 20:1-20:8",
-                "6": "Genesis 20:9-20:14",
-                "7": "Genesis 20:15-20:18",
-                "maftir": "Genesis 20:15-20:18"
+                "1": "Genesis 24:10-24:14",
+                "2": "Genesis 24:15-24:20",
+                "3": "Genesis 24:21-24:26",
+                "4": "Genesis 24:27-24:33",
+                "5": "Genesis 24:34-24:41",
+                "6": "Genesis 24:42-24:49",
+                "7": "Genesis 24:50-24:52",
+                "maftir": "Genesis 24:50-24:52"
               }
             },
-            "link": "https://hebcal.com/s/5787/4?us=js&um=api"
+            "link": "https://hebcal.com/s/5787/5?us=js&um=api"
           },
           {
-            "title": "Havdalah: 6:35pm",
-            "date": "2026-10-31T18:35:00-04:00",
+            "title": "Mevarchim Chodesh Kislev",
+            "date": "2026-11-07",
+            "hdate": "27 Cheshvan 5787",
+            "category": "mevarchim",
+            "title_orig": "Shabbat Mevarchim Chodesh Kislev",
+            "hebrew": "מברכים חודש כסלו",
+            "memo": "Molad Kislev: Monday, 10:27pm and 3 chalakim"
+          },
+          {
+            "title": "Havdalah: 5:28pm",
+            "date": "2026-11-07T17:28:00-05:00",
             "category": "havdalah",
             "title_orig": "Havdalah",
             "hebrew": "הבדלה"
+          },
+          {
+            "title": "Sigd",
+            "date": "2026-11-09",
+            "hdate": "29 Cheshvan 5787",
+            "category": "holiday",
+            "subcat": "modern",
+            "hebrew": "חג הסיגד",
+            "link": "https://hebcal.com/h/sigd-2026?us=js&um=api",
+            "memo": "Ethiopian Jewish holiday occurring 50 days after Yom Kippur"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-10",
+            "hdate": "30 Cheshvan 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
+          },
+          {
+            "title": "Rosh Chodesh Kislev",
+            "date": "2026-11-11",
+            "hdate": "1 Kislev 5787",
+            "category": "roshchodesh",
+            "hebrew": "ראש חודש כסלו",
+            "leyning": {
+              "1": "Numbers 28:1-28:3",
+              "2": "Numbers 28:3-28:5",
+              "3": "Numbers 28:6-28:10",
+              "4": "Numbers 28:11-28:15",
+              "torah": "Numbers 28:1-15"
+            },
+            "link": "https://hebcal.com/h/rosh-chodesh-kislev-2026?us=js&um=api",
+            "memo": "Start of month of Kislev on the Hebrew calendar. Kislev (כִּסְלֵו) is the 3rd month of the civil Hebrew year and the 9th month of the biblical Hebrew year. It has 30 or 29 days and corresponds to November or December on the Gregorian calendar. רֹאשׁ חוֹדֶשׁ, transliterated Rosh Chodesh or Rosh Hodesh, is a minor holiday that occurs at the beginning of every month in the Hebrew calendar. It is marked by the birth of a new moon"
           }
         ]
       },
@@ -11481,7 +11752,7 @@
         "candle_minutes": 18,
         "havdalah_degrees": 8.5
       },
-      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=5128581&M=on&b=18&gy=2026&gm=10&gd=31&i=off&lg=s&leyning=on"
+      "url": "https://www.hebcal.com/shabbat?cfg=json&geonameid=5128581&M=on&b=18&gy=2026&gm=11&gd=7&i=off&lg=s&leyning=on"
     }
   },
   "translation_engine": "OPUS / Argos · local CTranslate2",
@@ -11489,8 +11760,8 @@
   "counts": {
     "news": 360,
     "videos": 72,
-    "active_sources": 23,
+    "active_sources": 13,
     "configured_sources": 41,
-    "translated_news": 351
+    "translated_news": 350
   }
 }
