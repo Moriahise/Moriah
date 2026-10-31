@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-31T05:35:51Z",
+  "checked_at": "2026-10-31T14:31:04Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "daf": {
       "state": "ok",
-      "checked_at": "2026-10-31T05:35:51Z"
-    },
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-10-31T05:35:51Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-10-31T05:35:51Z"
+      "checked_at": "2026-10-31T14:31:04Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-31T05:35:51Z"
+      "checked_at": "2026-10-31T14:31:04Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-10-31T14:31:04Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-10-31T14:31:04Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-31T05:35:51Z"
+      "checked_at": "2026-10-31T14:31:04Z"
     }
   },
   "music": [
@@ -32048,197 +32048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-8bbc928cc5970f2e3ebad10d",
-    "total": 70942,
+    "release": "v1-0b2e9afbcec19b6f1c924a25",
+    "total": 70944,
     "cards": [
       {
-        "id": "aish-url-3661b2edb760867d97efa9fa",
-        "title": "Where to Say After Blessings on Food",
+        "id": "aish-url-03ea7cb9de90e1f4aa7f7955",
+        "title": "Home Study",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "I often don’t have time to eat, and so I eat meals or snacks on buses. Sometimes I need to get off the bus after I ate but before I had a chance to say the after blessing. Either that or I finish eati",
+        "question": "I need a good book on Judaism. My wife is Jewish and I recently found out that I am, too! We want to raise our kids Jewish. I have read extensively on the subjects of philosophy, religion and psycholo",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=aish-url-3661b2edb760867d97efa9fa",
-        "source_url": "https://aish.com/where-to-say-after-blessings-on-food/",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=aish-url-03ea7cb9de90e1f4aa7f7955",
+        "source_url": "https://aish.com/home-study/",
         "author": "Aish.com Staff",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
-        "id": "ye-140050",
-        "title": "Would Kavanah (intention) be the appropriate word for applying physical effort to a prayer goal or is there another word/concept for it?",
+        "id": "ye-141697",
+        "title": "Is a reassembled once-tomei earthenware vessel tohor?",
         "titles": {
-          "en": "Would Kavanah (intention) be the appropriate word for applying physical effort to a prayer goal or is there another word/concept for it?",
+          "en": "Is a reassembled once-tomei earthenware vessel tohor?",
           "he": ""
         },
         "language": "en",
-        "question": "There's an expression, \"Pray, but move your feet.\" The idea of the expression is it's great to pray for things but don't think that means you are excused from putting in effort to work towards that th",
-        "answer": "The word you're looking for is hishtadlus , or \"effort.\" It refers to the requirement to put in the work besides just praying or trusting in Hashem. See also: How does one know his balance between Hishtadlus and Bitachon?",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-140050",
-        "source_url": "https://judaism.stackexchange.com/questions/140050/would-kavanah-intention-be-the-appropriate-word-for-applying-physical-effort-t",
-        "author": "shmosel",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-122220",
-        "title": "Classic Achronim and Rishonim",
-        "titles": {
-          "en": "Classic Achronim and Rishonim",
-          "he": ""
-        },
-        "language": "en",
-        "question": "People often say they learn Shas with Achronim and Rishonim. I'm curious, what are the mainstream Rishonim and Achronim that are generally learnt throughout Shas?",
-        "answer": "It depends on the person, but the most common that are on most masechtos are: Rishonim: Besides Rashi and Tosafos: Rif, Ramban, Rashba, Rosh, Ran, Ritva, Tosafos HaRosh, Nimukei Yosef. Acharonim: Maharsha, Pnei Yehoshua, R' Akiva Eiger, Chasam Sofer,",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-122220",
-        "source_url": "https://judaism.stackexchange.com/questions/122220/classic-achronim-and-rishonim",
-        "author": "N.T.",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-103355",
-        "title": "How is the law in a case of multiple edim zomemim justified by Chachomim?",
-        "titles": {
-          "en": "How is the law in a case of multiple edim zomemim justified by Chachomim?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Mishna Makkos 1 (5) describes the case of witness who are zomemim. The mishna according to Chachomim (with whom the halacha goes) says If others [i.e. another pair of witnesses] come and are proven [a",
-        "answer": "You are interpreting the Mishna incorrectly. As the Bartenua already teaches us: ואפילו היו מאה . כתות שהעידו זו אחר זו בעדות אחת וכת אחת הזימה את כולן, כולן יהרגו:‏ Even if there were a hundred. pairs that testified one after the other with one test",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-103355",
-        "source_url": "https://judaism.stackexchange.com/questions/103355/how-is-the-law-in-a-case-of-multiple-edim-zomemim-justified-by-chachomim",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-86888",
-        "title": "Is one allowed to learn a book written by a rabbi who was accused and convicted of impropriety?",
-        "titles": {
-          "en": "Is one allowed to learn a book written by a rabbi who was accused and convicted of impropriety?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "What is the status of books from rabbis who were accused of impropriety? The question would also likely also apply to online shiurim. For example, here is is a very good book from a rav who admitted t",
-        "answer": "Rambam (MT, Torah study, beg. Ch. 4 ) states: וְכֵן הָרַב שֶׁאֵינוֹ הוֹלֵךְ בְּדֶרֶךְ טוֹבָה אַף עַל פִּי שֶׁחָכָם גָּדוֹל הוּא וְכָל הָעָם צְרִיכִין לוֹ אֵין מִתְלַמְּדִין מִמֶּנּוּ עַד שׁוּבוֹ לַמּוּטָב. שֶׁנֶּאֱמַר (מלאכי ב ז) \"כִּי שִׂפְתֵי כֹהֵן",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-86888",
-        "source_url": "https://judaism.stackexchange.com/questions/86888/is-one-allowed-to-learn-a-book-written-by-a-rabbi-who-was-accused-and-convicted",
-        "author": "Oliver",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-69774",
-        "title": "differences of phrasing in Al hanisim: Chanuka vs. Purim",
-        "titles": {
-          "en": "differences of phrasing in Al hanisim: Chanuka vs. Purim",
-          "he": ""
-        },
-        "language": "en",
-        "question": "We add paragraphs to the liturgy of Chanuka and Purim , recounting the respective miracles that those holidays commemorate. We start the paragraphs as follows. Chanuka 's starts: In the days of Matisy",
-        "answer": "Regarding the first difference - perhaps because the nature of the threat by Chanukah was \"to cause them to forget your Torah and to draw them from the laws of Your will\", in other words to sever the bond between the Jewish People and God, we therefo",
+        "question": "An earthenware vessel which becomes tomei cannot be purified in a mikvah {see Rashi Vayikro 11:33 }. The only way of purifying it is by breaking it {see Gr”a ibid }. Rambam Mishneh Torah, Vessels 18:1",
+        "answer": "Mishna Keilim 4:1 says: ‮הַחֶרֶס שֶׁאֵינוֹ יָכוֹל לַעֲמֹד מִפְּנֵי אָזְנוֹ, אוֹ שֶׁהָיָה בוֹ חִדּוּד וְהַחִדּוּד מַכְרִיעוֹ, טָהוֹר. נִטְּלָה הָאֹזֶן, נִשְׁבַּר הַחִדּוּד, טָהוֹר. רַבִּי יְהוּדָה מְטַמֵּא. A potsherd that cannot stand unsupported on ",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-69774",
-        "source_url": "https://judaism.stackexchange.com/questions/69774/differences-of-phrasing-in-al-hanisim-chanuka-vs-purim",
-        "author": "Jay",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-53350",
-        "title": "Would halachic units be shrunk if a person was (Honey, I Shrunk the Kids-style)?",
-        "titles": {
-          "en": "Would halachic units be shrunk if a person was (Honey, I Shrunk the Kids-style)?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In the classic move Honey, I Shrunk the Kids and its sequels, people get shrunk down to 1/264th of their normal size. So, a person is around 1/4 of an inch tall. If such a thing were even possible, wo",
-        "answer": "The question is extremely relevant as some people (e.g with allergies to gluten) are unable to eat Matza on Pesach and more than a few crumbs could be fatal, so as far as we're concerned they are the \"shrunk kids\" and whether it’s worth it for them t",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-53350",
-        "source_url": "https://judaism.stackexchange.com/questions/53350/would-halachic-units-be-shrunk-if-a-person-was-honey-i-shrunk-the-kids-style",
-        "author": "user15459",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
-      },
-      {
-        "id": "ye-34058",
-        "title": "How is gender halachically determined?",
-        "titles": {
-          "en": "How is gender halachically determined?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I apologize if this is a sensitive topic, but it seems that this question is foundational to some of the discussions that appear here. I hope that my wording is appropriate. If I understand correctly,",
-        "answer": "The Tzitz Eliezer has a famous responsum ( שו\"ת ציץ אליעזר ח\"י סי’ כ\"ה פרק כ\"ו קטע ו ) where he states that we go by the external organs in determining gender, and sex changes are effective in changing one's halachic gender. However, there are other ",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-34058",
-        "source_url": "https://judaism.stackexchange.com/questions/34058/how-is-gender-halachically-determined",
-        "author": "user3318",
+        "url": "https://shekhina.org/qa.html?id=ye-141697",
+        "source_url": "https://judaism.stackexchange.com/questions/141697/is-a-reassembled-once-tomei-earthenware-vessel-tohor",
+        "author": "magicker72",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
-        "id": "ye-16928",
-        "title": "Bird droppings invalidating location for prayer?",
+        "id": "ye-125929",
+        "title": "Is there any relation between the spirit which Bezaleel was born with and the spirit G-d gave him in Exodus (Shemot) 31:3?",
         "titles": {
-          "en": "Bird droppings invalidating location for prayer?",
+          "en": "Is there any relation between the spirit which Bezaleel was born with and the spirit G-d gave him in Exodus (Shemot) 31:3?",
           "he": ""
         },
         "language": "en",
-        "question": "One may not pray near feces or other sources of biological waste and decay that give a foul odor (see the article for several opinions on when/how it applies). Does this include bird droppings? I've n",
-        "answer": "At the end of Shulchan Aruch Orach Chaim 79:4 , the Mechaber writes with regards to a a bird's waste that one does not have to distance oneself from it if it doesn't stink, but if it does stink it has the same law as the waste of a person. The Mishna",
+        "question": "Is there any relation between the spirit which Bezaleel was born with and the spirit G-d gave him in Exodus (Shemot) 31:3 ? Can a man have more than one spirit? Is the spirit the one who provides the ",
+        "answer": "This second spirit was a separate spirit that G-d endowed Bezalel with in order to go about constructing the Mishkan (the Tabernacle). The spirit that every human is born with is what makes up that person's soul. In fact according to Kabbalah a perso",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-125929",
+        "source_url": "https://judaism.stackexchange.com/questions/125929/is-there-any-relation-between-the-spirit-which-bezaleel-was-born-with-and-the-sp",
+        "author": "Dov",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-105165",
+        "title": "Is a hashgacha required for freshly squeezed orange juice?",
+        "titles": {
+          "en": "Is a hashgacha required for freshly squeezed orange juice?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Does freshly squeezed orange juice require a hashgacha? (ex: the freshly squeezed orange juice at Whole Foods)",
+        "answer": "From the cRc juice list : Fresh (refrigerated) orange juice should preferably be purchased with reliable kosher certification. If that is not available or there is a particular brand that is considerably lower in price, one may purchase orange juice ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-105165",
+        "source_url": "https://judaism.stackexchange.com/questions/105165/is-a-hashgacha-required-for-freshly-squeezed-orange-juice",
+        "author": "alicht",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-88548",
+        "title": "Daagah - Minayin?",
+        "titles": {
+          "en": "Daagah - Minayin?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What is the original source for the words of the popular song: העבר אין, העתיד עדיין, ההווה כהרף עין, דאגה מנין? I have seen it in Peleh Yoetz (under Deagah ), who says it in the name of a \"Chacham\" (",
+        "answer": "As noted by @JoelK there was an entire Seforimblog post devoted the the provenance of this aphorism. To summarise the post and list the pre-19th century sources for it, the Yossif Omets (printed in the early 18th century) here states a version of thi",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-88548",
+        "source_url": "https://judaism.stackexchange.com/questions/88548/daagah-minayin",
+        "author": "mevaqesh",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-71413",
+        "title": "Calling the name of God",
+        "titles": {
+          "en": "Calling the name of God",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Chapter 3 in Joel : א וְהָיָה אַחֲרֵי-כֵן, אֶשְׁפּוֹךְ אֶת-רוּחִי עַל-כָּל-בָּשָׂר, וְנִבְּאוּ, בְּנֵיכֶם וּבְנוֹתֵיכֶם; זִקְנֵיכֶם, חֲלֹמוֹת יַחֲלֹמוּן--בַּחוּרֵיכֶם, חֶזְיֹנוֹת יִרְאוּ.‏ ב וְגַם עַל",
+        "answer": "The Talmud in Pseachim 50a says והיה ה' למלך על כל הארץ ביום ההוא יהיה ה' אחד ושמו אחד ... ושמו אחד מאי אחד אטו האידנא לאו שמו אחד הוא א\"ר נחמן בר יצחק לא כעולם הזה העולם הבא העולם הזה נכתב ביו\"ד ה\"י ונקרא באל\"ף דל\"ת אבל לעולם הבא כולו אחד נקרא ביו\"ד",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-71413",
+        "source_url": "https://judaism.stackexchange.com/questions/71413/calling-the-name-of-god",
+        "author": "Y K",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-55871",
+        "title": "If not now, when?",
+        "titles": {
+          "en": "If not now, when?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Gee, am I surprised that AFAIK, no one on M.Y. has ever asked for the answer to this question. In Pirkei Avot 1:14, Hillel says, \"If not now, when?\" O.K. I'm going to do a test .. I'm giving Hillel 3 ",
+        "answer": "Later. When I get around to it.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-55871",
+        "source_url": "https://judaism.stackexchange.com/questions/55871/if-not-now-when",
+        "author": "Loewian",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-35584",
+        "title": "Why is future tense used in Esther 3:2?",
+        "titles": {
+          "en": "Why is future tense used in Esther 3:2?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In Megillas Esther 3:2 we are told: וּמָרְדֳּכַי--לֹא יִכְרַע, וְלֹא יִשְׁתַּחֲוֶה. Why is this sentence in future tense? Why does it not it say לא כרע ולא השתחוה, in the past tense?",
+        "answer": "The Mahara\"l of Prauge , in his commentary to Megilas Esther called Ohr Chadash , (after offering the more basic suggestion that this denotes something Mordechai would do on a constant basis), explains that even when Mordechai had an option to use an",
+        "answer_count": 4,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-35584",
+        "source_url": "https://judaism.stackexchange.com/questions/35584/why-is-future-tense-used-in-esther-32",
+        "author": "Michoel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+      },
+      {
+        "id": "ye-18263",
+        "title": "Who is liable in kol isha and tznius situations?",
+        "titles": {
+          "en": "Who is liable in kol isha and tznius situations?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If a woman starts singing in a room with men, despite knowing they observe kol isha, is she liable for her voice being heard or are the men that hear her liable? If a woman dresses non-tznius in front",
+        "answer": "The Kaf Hachaim 75:23 writes that women should be careful not to let their voice be heard in front of men lest the men come to sinful thoughts. Kaf Hachaim 23 text: Regarding the man,Shulchan Aruch Even Haezer 21:1 writes that it is assur to listen t",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-16928",
-        "source_url": "https://judaism.stackexchange.com/questions/16928/bird-droppings-invalidating-location-for-prayer",
-        "author": "Menachem",
+        "url": "https://shekhina.org/qa.html?id=ye-18263",
+        "source_url": "https://judaism.stackexchange.com/questions/18263/who-is-liable-in-kol-isha-and-tznius-situations",
+        "author": "sam",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "up-din-202303069053580",
@@ -32259,7 +32259,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "ye-139752",
@@ -32280,7 +32280,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "ye-148601",
@@ -32301,7 +32301,7 @@
         "author": "הרב רואי מרגלית",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "din-url-f43a7273f198c04f0d8c450c",
@@ -32322,7 +32322,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "din-url-07034813f320377695b2b8b8",
@@ -32343,7 +32343,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "up-din-280626",
@@ -32364,7 +32364,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "up-din-202012186797244",
@@ -32385,7 +32385,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "up-din-202107093302819",
@@ -32406,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       },
       {
         "id": "up-din-2021040511729985",
@@ -32427,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-8bbc928cc5970f2e3ebad10d"
+        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
       }
     ]
   }

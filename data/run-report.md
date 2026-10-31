@@ -2,7 +2,7 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 12/41. Fully bilingual headlines: 353/360.
+Working feeds: 23/41. Fully bilingual headlines: 351/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
@@ -16,30 +16,8 @@ Automated compilation; no human or rabbinic review claimed.
 
 - hamodia: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
 
-- makorrishon: HTTPError: HTTP Error 403: Forbidden
+- makorrishon: ValueError: DTD/entity XML rejected
 
 - now14: HTTPError: HTTP Error 403: Forbidden
 
-- yt-kan11: HTTPError: HTTP Error 404: Not Found
-
-- yt-kannews: HTTPError: HTTP Error 404: Not Found
-
-- yt-kankids: HTTPError: HTTP Error 404: Not Found
-
-- yt-makan33: HTTPError: HTTP Error 404: Not Found
-
-- yt-reshet13: HTTPError: HTTP Error 404: Not Found
-
-- yt-channel9: HTTPError: HTTP Error 404: Not Found
-
-- yt-i24en: HTTPError: HTTP Error 404: Not Found
-
-- yt-knesset: HTTPError: HTTP Error 404: Not Found
-
-- yt-n12: HTTPError: HTTP Error 404: Not Found
-
-- yt-now14: HTTPError: HTTP Error 404: Not Found
-
-- yt-knesset-tv: HTTPError: HTTP Error 404: Not Found
-
-- yt-i24he: HTTPError: HTTP Error 404: Not Found
+- yt-n12: No dated entries from the last 21 days
