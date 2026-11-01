@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-01T05:58:11Z",
+  "checked_at": "2026-11-01T15:05:28Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-01T05:58:11Z"
+      "checked_at": "2026-11-01T15:05:28Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-01T05:58:11Z"
+      "checked_at": "2026-11-01T15:05:28Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-01T05:58:11Z"
+      "checked_at": "2026-11-01T15:05:28Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-01T05:58:11Z"
+      "checked_at": "2026-11-01T15:05:28Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-01T05:58:11Z"
+      "checked_at": "2026-11-01T15:05:28Z"
     }
   },
   "music": [
@@ -32048,197 +32048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-0b2e9afbcec19b6f1c924a25",
-    "total": 70944,
+    "release": "v1-d57e4bb32ce4f661aa8b70b0",
+    "total": 70947,
     "cards": [
       {
-        "id": "my-157453",
-        "title": "Why Does Tosfos Assume “Beauty” Was Avraham’s Concern in Eliezer’s Test?",
+        "id": "ye-5663",
+        "title": "HamanTashen - 3 cornered cookies",
         "titles": {
-          "en": "",
+          "en": "HamanTashen - 3 cornered cookies",
           "he": ""
         },
         "language": "en",
-        "question": "Taanis 4a lists three people who “asked improperly” from Hashem: Yiftach, Eliezer, and Shaul. The Gemara explains that although Eliezer and Shaul asked in a problematic way, Hashem nevertheless answer",
-        "answer": "The Gemara's \"bad option\" is deaf and blind which are not generally seen as the words for \"not beautiful\". I think Tosafos means that people care alot about basic things in beauty, and deafness or blindness makes it very hard to be attracted to someo",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=my-157453",
-        "source_url": "https://judaism.stackexchange.com/questions/157453/why-does-tosfos-assume-beauty-was-avraham-s-concern-in-eliezer-s-test",
-        "author": "Judah-Yeshiva and Skepticism",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-141665",
-        "title": "Is it muttar to buy an Israel bond?",
-        "titles": {
-          "en": "Is it muttar to buy an Israel bond?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Israel sells bonds. Put simply: Is buying such a bond - and receiving interest on it - an issur of ribbis, or lifnei iver for ribbis?",
-        "answer": "I am a bit surprised that there appears to be nothing about this on the Israel Bonds web site. A bit of searching found this article about Exemptions from the Ribis Laws : E. State of Israel Bonds One of the most popular and efficacious means of fina",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-141665",
-        "source_url": "https://judaism.stackexchange.com/questions/141665/is-it-muttar-to-buy-an-israel-bond",
-        "author": "manassehkatz-Moving 2 Codidact",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-125891",
-        "title": "Is there any source for the chosson to wear tefillin at the chupah?",
-        "titles": {
-          "en": "Is there any source for the chosson to wear tefillin at the chupah?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "A friend of mine sent me a video clip from a wedding, showing the chosson and kallah under the chupah and the chosson is wearing his tallis and tefillin. I know there is a Sefardi and Yekke custom for",
-        "answer": "As you mentioned, the Tur ( OC 560 ) brings the custom to put ashes on the groom's forehead. The Beis Yosef quotes the Kol Bo, who says that some specifically don't put on ashes, because the groom wasn't wearing tefillin anyway and the symbolism of r",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-125891",
-        "source_url": "https://judaism.stackexchange.com/questions/125891/is-there-any-source-for-the-chosson-to-wear-tefillin-at-the-chupah",
-        "author": "Heshy",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-105126",
-        "title": "Could the anshei beit av wash their clothes and cut their hair on Thursday?",
-        "titles": {
-          "en": "Could the anshei beit av wash their clothes and cut their hair on Thursday?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Taanis (2:7): אַנְשֵׁי מִשְׁמָר מֻתָּרִים לִשְׁתּוֹת יַיִן בַּלֵּילוֹת, אֲבָל לֹא בַיָּמִים. וְאַנְשֵׁי בֵית אָב, לֹא בַיּוֹם וְלֹא בַלָּיְלָה. אַנְשֵׁי מִשְׁמָר וְאַנְשֵׁי מַעֲמָד אֲסוּרִין מִלְּסַפֵ",
-        "answer": "זיל בתר טעמא (follow the logical reasons). That the אנשי בית אב can't drink wine by day or by night is because they're on duty that day; that the אנשי משמר ואנשי מעמד can't cut their hair or launder their clothes is so that they don't enter into thei",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-105126",
-        "source_url": "https://judaism.stackexchange.com/questions/105126/could-the-anshei-beit-av-wash-their-clothes-and-cut-their-hair-on-thursday",
-        "author": "Meir",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-88518",
-        "title": "What is a permissible and effective way to keep one's belongings while praying amidah at the kotel?",
-        "titles": {
-          "en": "What is a permissible and effective way to keep one's belongings while praying amidah at the kotel?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "What is a permissible and practical way to keep an eye on one's belongings while davening amidah at the kotel, without using lockers etc? I am wondering about both men that have pockets and Women who ",
-        "answer": "When I went to the kotel with a bag, I usually put it near my legs or on a chair in front of me. I found this to be the best way to keep in touch with my stuff and to concentrate on the amidah.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-88518",
-        "source_url": "https://judaism.stackexchange.com/questions/88518/what-is-a-permissible-and-effective-way-to-keep-ones-belongings-while-praying-a",
-        "author": "StackOverflowUser",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-71371",
-        "title": "Can a wife demand a divorce from an abusive husband",
-        "titles": {
-          "en": "Can a wife demand a divorce from an abusive husband",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I was reading http://m.chabad.org/library/article_cdo/aid/560111/jewish/The-Wifes-Grounds-for-Divorce.htm And I saw The husband who hits his wife, curses her, ridicules her, insults her, or insults hi",
-        "answer": "You're probably looking for this Rem\"o in Shulchan_Arukh,_Even_HaEzer.154.3 : A man who hits his wife, has a transgression in his hand as much as striking his fellow. If he does this often, the court had the right to cause him pain and to excommunica",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-71371",
-        "source_url": "https://judaism.stackexchange.com/questions/71371/can-a-wife-demand-a-divorce-from-an-abusive-husband",
-        "author": "Al Berko",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-55845",
-        "title": "What profit can you get from having a dummy?",
-        "titles": {
-          "en": "What profit can you get from having a dummy?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Tehillim 30:10 מַה-בֶּצַע בְּדָמִי What profit is there in a dummy? I don't know ... perhaps this is a dum question? Is there any profit in having a dummy? Dum-de-dum-dum... This question is Purim Tor",
-        "answer": "A Jewish ventriloquist once attended a Purim party with a dummy designed to look just like her. PROHIBITED!! Shouted the rabbi. The Megillah says: Al TEDAMI VENAFSHECH! You may not make a dummy like yourself, young lady!",
+        "question": "Why are 3 cornered cookies called HamanTashen?",
+        "answer": "From Wikipedia : The name hamantash (המן־טאַש), is commonly known as a reference to Haman, the villain of Purim, as described in the Book of Esther. The pastries are supposed to symbolize the defeated enemy of the Jewish people, and thus resemble the",
         "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-5663",
+        "source_url": "https://judaism.stackexchange.com/questions/5663/hamantashen-3-cornered-cookies",
+        "author": "Dave",
+        "author_url": null,
+        "license": "CC BY-SA 2.5",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-143400",
+        "title": "Chassidish (accent) recordings of prayer",
+        "titles": {
+          "en": "Chassidish (accent) recordings of prayer",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Where can one find recordings of prayers (e.g Sheme and Ashrei) said in chassidish style lashon hakodesh. YouTube isn’t great for it.",
+        "answer": "Here is link to a recording of the rebbe of Klausenburg. His Havara (or as the OP states, his “style”) is the same as that of the rebbe of Satmar. (Don't want to cause any confusion, but the Klausenburger Rebbe is from Galicia, so some vowels might b",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-143400",
+        "source_url": "https://judaism.stackexchange.com/questions/143400/chassidish-accent-recordings-of-prayer",
+        "author": "Yoreinu",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-127690",
+        "title": "Why does Jeremiah 27.9 speak of a city instead of kingdom?",
+        "titles": {
+          "en": "Why does Jeremiah 27.9 speak of a city instead of kingdom?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "On the DD\"M wave, Jeremiah writes (29:7) : \"וְדִרְשׁ֞וּ אֶת־שְׁל֣וֹם הָעִ֗יר אֲשֶׁ֨ר הִגְלֵ֤יתִי אֶתְכֶם֙ שָׁ֔מָּה וְהִתְפַּֽלְל֥וּ בַעֲדָ֖הּ אֶל־ה' כִּ֣י בִשְׁלוֹמָ֔הּ יִהְיֶ֥ה לָכֶ֖ם שָׁלֽוֹם׃\" \"And",
+        "answer": "Rabbi Samson Raphael Hirsch in his Nineteen Letters writes on this pasuk in Jeremiah that \"And seek the peace of the city whither I have exiled you, and pray for it to the Lord, for in its peace there will be unto you peace.\"- means that \"it is our d",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-127690",
+        "source_url": "https://judaism.stackexchange.com/questions/127690/why-does-jeremiah-27-9-speak-of-a-city-instead-of-kingdom",
+        "author": "Shmuel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-106617",
+        "title": "Elder care, Shalom Bayit and Honoring parents - which has priority?",
+        "titles": {
+          "en": "Elder care, Shalom Bayit and Honoring parents - which has priority?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I'm asking this question as a follow up to my other question - Honoring a parent vs. Shalom Bayit - which has priority? The main answer given in that question indicates that honoring one's parents gen",
+        "answer": "Shulchan Aruch, Yoreh Deah 240:12: אמר לו אביו השקני מים ויש לפניו לעשות מצוה עוברת כגון קבורת מת או לויה אם אפשר למצוה שתעשה ע\"י אחרים יעסוק בכבוד אביו (ואם התחיל במצוה תחלה יגמור דהעוסק במצוה פטור מן המצוה) (ב\"י בשם הר\"ן) ואם אין שם אחרים לעשות יעס",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-55845",
-        "source_url": "https://judaism.stackexchange.com/questions/55845/what-profit-can-you-get-from-having-a-dummy",
-        "author": "Shalom",
+        "url": "https://shekhina.org/qa.html?id=ye-106617",
+        "source_url": "https://judaism.stackexchange.com/questions/106617/elder-care-shalom-bayit-and-honoring-parents-which-has-priority",
+        "author": "DonielF",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
-        "id": "ye-35555",
-        "title": "Why didn't kohanim undress themselves?",
+        "id": "ye-90294",
+        "title": "Name for house of rabbi",
         "titles": {
-          "en": "Why didn't kohanim undress themselves?",
+          "en": "Name for house of rabbi",
           "he": ""
         },
         "language": "en",
-        "question": "The mishna , Tamid 5:3 , indicates that those kohanim who had gotten dressed for the day's work but were not needed for it would be stripped of their kohen -clothes by the Temple workers. My kid asked",
-        "answer": "It seems like the Tifferes Yisroel (Yochin 14) there understands this to mean that the Temple workers were there to take the clothes back from them and return them to storage - and not that they actually physically removed the clothes from their bodi",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-35555",
-        "source_url": "https://judaism.stackexchange.com/questions/35555/why-didnt-kohanim-undress-themselves",
-        "author": "Michoel",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
-      },
-      {
-        "id": "ye-18229",
-        "title": "How long does one say Kaddish for a sibling?",
-        "titles": {
-          "en": "How long does one say Kaddish for a sibling?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There is discussion here on MY about saying Kaddish for parents and also some discussion on Kaddish for a sister. One place on the Chabad website states that Kaddish should be said for 30 days for a s",
-        "answer": "R Eliezer Melamed ( Peninei Halakha on Prayer, ch. 4 ) writes the primary obligation of saying Kaddish rests upon the deceased's son (incl. a minor). In case there is no son, the following may also say Kaddish, in order of priority: a grandson, a son",
-        "answer_count": 1,
+        "question": "I know in some religions and denominations, a building housing the officiant at a nearby place of worship has a special name, like rectory, parsonage, etc. Does a rabbi's place have a similar descript",
+        "answer": "Generally not. As TrustMe mentioned, sometimes in the Hassidic world it can have a role. Some synagogues do own a house reserved for the rabbi; they may refer to those as a \"parsonage\" for lack of a better term. It's not about the house being holy, i",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-18229",
-        "source_url": "https://judaism.stackexchange.com/questions/18229/how-long-does-one-say-kaddish-for-a-sibling",
-        "author": "mbloch",
+        "url": "https://shekhina.org/qa.html?id=ye-90294",
+        "source_url": "https://judaism.stackexchange.com/questions/90294/name-for-house-of-rabbi",
+        "author": "Shalom",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-74124",
+        "title": "Are we children or servants of HaShem?",
+        "titles": {
+          "en": "Are we children or servants of HaShem?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "HaShem teaches us to serve Him (Shemot 23:25), because we're His servants (Vayikra 25:42, 25:55), HaShem also teaches that we're His children (Devarim 14:1). There is a long explanation about these ve",
+        "answer": "I once read about fear (awe) and love as two pillars of faith. Our relationship with the Eternal is like a love affair. A person does not transgress (maintain the prohibitions) for fear of hurting the other, for fear of disappointing the other, for f",
+        "answer_count": 5,
+        "provider": "miyodeya",
+        "category": "kabbalah",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-74124",
+        "source_url": "https://judaism.stackexchange.com/questions/74124/are-we-children-or-servants-of-hashem",
+        "author": "Noah",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-57008",
+        "title": "Why no \"Musaf\" for Korban Pesach?",
+        "titles": {
+          "en": "Why no \"Musaf\" for Korban Pesach?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Your average Jews in Temple times did not go participate actively in the regularly scheduled Temple offerings. For them, probably the biggest sacrificial experience of the year was the Korban Pesach o",
+        "answer": "Some possible answers (unsourced; edits are welcome): The korban pesach , despite its peculiarities, is an individual korban (group, actually; but anyhow not a single animal for the entire nation.) (OK, the entire nation can combine as a single group",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-57008",
+        "source_url": "https://judaism.stackexchange.com/questions/57008/why-no-musaf-for-korban-pesach",
+        "author": "J. C. Salomon",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-37038",
+        "title": "Borrowing money without clear plan of how to pay it back",
+        "titles": {
+          "en": "Borrowing money without clear plan of how to pay it back",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Are you allowed to borrow money from a Jew without having a reasonable idea how you will be able to repay the loan?",
+        "answer": "This site says Just like there is strong language when it comes to giving loans, Jewish law also uses strong words for those who take loans without the means or the intention to repay them. and quotes Rambam Hilchos Malveh veLoveh 1:3 writes (with my",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-37038",
+        "source_url": "https://judaism.stackexchange.com/questions/37038/borrowing-money-without-clear-plan-of-how-to-pay-it-back",
+        "author": "Avrohom Yitzchok",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+      },
+      {
+        "id": "ye-20473",
+        "title": "In what Sense should non-Jews obey/disobey Torah?",
+        "titles": {
+          "en": "In what Sense should non-Jews obey/disobey Torah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "There are two opinions. In some cases I’ve heard that God rewards anyone that obeys Torah. Also, I think I read somewhere in Exodus that anyone living in Israel, be they foreigners or not, must not wo",
+        "answer": "Would the guy that got stoned for picking sticks spared if he said, I am not jewish anymore It's not possible to do that. No matter what a person does (even if he tries to convert), once Jewish, always Jewish. On others it's says that non jews should",
+        "answer_count": 5,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-20473",
+        "source_url": "https://judaism.stackexchange.com/questions/20473/in-what-sense-should-non-jews-obey-disobey-torah",
+        "author": "Ariel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "up-din-202303062836814",
@@ -32259,7 +32259,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "ye-139740",
@@ -32280,7 +32280,7 @@
         "author": "הרב שמואל אריאל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "ye-148566",
@@ -32301,7 +32301,7 @@
         "author": "הרב יהודה אודסר",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "din-url-f31d0503b82c1f4c2e379f19",
@@ -32322,7 +32322,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "din-url-063c04fe5e9f786ef350f1bb",
@@ -32343,7 +32343,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "up-din-279080",
@@ -32364,7 +32364,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "up-din-2020121616440144",
@@ -32385,7 +32385,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "up-din-2021070910862364",
@@ -32406,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       },
       {
         "id": "up-din-202104029474791",
@@ -32427,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0b2e9afbcec19b6f1c924a25"
+        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
       }
     ]
   }
