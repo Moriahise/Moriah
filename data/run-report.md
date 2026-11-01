@@ -2,7 +2,7 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 13/41. Fully bilingual headlines: 350/360.
+Working feeds: 12/41. Fully bilingual headlines: 350/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
@@ -34,10 +34,12 @@ Automated compilation; no human or rabbinic review claimed.
 
 - yt-i24en: HTTPError: HTTP Error 404: Not Found
 
+- yt-knesset: HTTPError: HTTP Error 404: Not Found
+
 - yt-n12: HTTPError: HTTP Error 404: Not Found
 
-- yt-now14: HTTPError: HTTP Error 500: Internal Server Error
+- yt-now14: HTTPError: HTTP Error 404: Not Found
 
-- yt-knesset-tv: HTTPError: HTTP Error 500: Internal Server Error
+- yt-knesset-tv: HTTPError: HTTP Error 404: Not Found
 
 - yt-i24he: HTTPError: HTTP Error 404: Not Found

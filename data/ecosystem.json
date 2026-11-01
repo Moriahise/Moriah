@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-31T23:22:59Z",
+  "checked_at": "2026-11-01T05:58:11Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-10-31T23:22:59Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-10-31T23:22:59Z"
+      "checked_at": "2026-11-01T05:58:11Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-10-31T23:22:59Z"
+      "checked_at": "2026-11-01T05:58:11Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-01T05:58:11Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-10-31T23:22:59Z"
+      "checked_at": "2026-11-01T05:58:11Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-10-31T23:22:59Z"
+      "checked_at": "2026-11-01T05:58:11Z"
     }
   },
   "music": [
@@ -9922,22 +9922,6 @@
     ],
     "weeks": [
       {
-        "target_shabbat": "2026-10-17",
-        "hebrew_date": "ו׳ חשון תשפ״ז",
-        "israel": {
-          "en": "Noach",
-          "he": "נח"
-        },
-        "diaspora": {
-          "en": "Noach",
-          "he": "נח"
-        },
-        "different_readings": false,
-        "festival": null,
-        "festival_he": null,
-        "has_weekly_parashah": true
-      },
-      {
         "target_shabbat": "2026-10-24",
         "hebrew_date": "י״ג חשון תשפ״ז",
         "israel": {
@@ -12443,6 +12427,22 @@
         "diaspora": {
           "en": "Lech Lecha",
           "he": "לך לך"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
+      },
+      {
+        "target_shabbat": "2029-10-27",
+        "hebrew_date": "י״ח חשון תש״צ",
+        "israel": {
+          "en": "Vayeira",
+          "he": "וירא"
+        },
+        "diaspora": {
+          "en": "Vayeira",
+          "he": "וירא"
         },
         "different_readings": false,
         "festival": null,
@@ -30404,22 +30404,6 @@
     ],
     "weeks": [
       {
-        "target_shabbat": "2026-10-31",
-        "hebrew_date": "כ׳ חשון תשפ״ז",
-        "israel": {
-          "en": "Vayeira",
-          "he": "וירא"
-        },
-        "diaspora": {
-          "en": "Vayeira",
-          "he": "וירא"
-        },
-        "different_readings": false,
-        "festival": null,
-        "festival_he": null,
-        "has_weekly_parashah": true
-      },
-      {
         "target_shabbat": "2026-11-07",
         "hebrew_date": "כ״ז חשון תשפ״ז",
         "israel": {
@@ -31234,6 +31218,22 @@
         "festival": "Shmini Atzeres",
         "festival_he": "שמיני עצרת",
         "has_weekly_parashah": false
+      },
+      {
+        "target_shabbat": "2027-10-30",
+        "hebrew_date": "כ״ט תשרי תשפ״ח",
+        "israel": {
+          "en": "Bereishis",
+          "he": "בראשית"
+        },
+        "diaspora": {
+          "en": "Bereishis",
+          "he": "בראשית"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
       }
     ],
     "haftarot": [
