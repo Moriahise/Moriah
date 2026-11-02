@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-02T05:57:54Z",
+  "checked_at": "2026-11-02T18:18:56Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-02T05:57:54Z"
+      "checked_at": "2026-11-02T18:18:56Z"
     },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-02T05:57:54Z"
+      "checked_at": "2026-11-02T18:18:56Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-02T05:57:54Z"
+      "checked_at": "2026-11-02T18:18:56Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-02T05:57:54Z"
+      "checked_at": "2026-11-02T18:18:56Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-02T05:57:54Z"
+      "checked_at": "2026-11-02T18:18:56Z"
     }
   },
   "music": [
@@ -32048,197 +32048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-d57e4bb32ce4f661aa8b70b0",
-    "total": 70947,
+    "release": "v1-629851d277e88a5e8a541d66",
+    "total": 70955,
     "cards": [
       {
-        "id": "ye-5634",
-        "title": "Keychain with Muktzeh",
+        "id": "ye-9690",
+        "title": "What portion of his income would a Jew following the sacrificial laws give?",
         "titles": {
-          "en": "Keychain with Muktzeh",
+          "en": "What portion of his income would a Jew following the sacrificial laws give?",
           "he": ""
         },
         "language": "en",
-        "question": "If I have a Key chain with Muktzeh on it can I use the keys on the Key chain?",
-        "answer": "You may use the other keys on the key chain (Shmiras Shabbos K'Hilchoso Tikuniim U'Miluyim Perek 20 Note 270) however you should not hold the keychain by the Muktza key.",
+        "question": "Christians are often told that tithing is a practice established in the law of Moses, and may be expected to respect this as a baseline for giving. But as I read through the Pentateuch, I see quite a ",
+        "answer": "A farmer living in Israel in Temple times would have given as follows: Approximately 2% of his crops to the Kohen (priest); known as teruma . 10% of his remaining crops to the Levite; ma'aser which means \"tithing.\" (The Levite would then tithe that -",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-5634",
-        "source_url": "https://judaism.stackexchange.com/questions/5634/keychain-with-muktzeh",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-9690",
+        "source_url": "https://judaism.stackexchange.com/questions/9690/what-portion-of-his-income-would-a-jew-following-the-sacrificial-laws-give",
+        "author": "Shalom",
         "author_url": null,
-        "license": "CC BY-SA 2.5",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-143370",
-        "title": "Listing of the Meraglim",
+        "id": "ye-151544",
+        "title": "Do we need to stand up for a great rav, if a greater rav is already sitting down in the room?",
         "titles": {
-          "en": "Listing of the Meraglim",
+          "en": "Do we need to stand up for a great rav, if a greater rav is already sitting down in the room?",
           "he": ""
         },
         "language": "en",
-        "question": "I’m curious as to why in Bamidbar 13 the Meraglim are listed in the order that they are, as opposed to in age descending order like the shevatim are usually referred to (or at least age descending of ",
-        "answer": "See Ramban on verse 4 that addresses this question. I’ve cited below from Sefaria both Hebrew and English text for reference: למטה ראובן וגו' מנה הכתוב השבטים לא לדגליהם ולא לצבאותם ולא כתולדותם ונראה שראה למנותם הנה לפי מעלת השלוחים כי היו ראשים ונש",
+        "question": "B\"H There's a halacha that if one's own Rav walks in a room, or even if any Torah scholar (to the point where one can ask him anything I'm halacha and he can answer it immediately) enters a room, one ",
+        "answer": "The SA in YD 244:8 says that two rabbis don’t have to stand up for each other, but they should still try to make a gesture of standing up a bit: שני חכמים ושני זקנים אין אחד צריך לקום מפני חבירו אלא יעשה לו הידור (ואפי' הרב לתלמידו יעשה לו הידור קצת)",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-143370",
-        "source_url": "https://judaism.stackexchange.com/questions/143370/listing-of-the-meraglim",
-        "author": "Shtika K'hodaah",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-151544",
+        "source_url": "https://judaism.stackexchange.com/questions/151544/do-we-need-to-stand-up-for-a-great-rav-if-a-greater-rav-is-already-sitting-down",
+        "author": "Chatzkel",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-127637",
-        "title": "Is there a Jewish principle: \"To sleep on a big decision\"?",
+        "id": "ye-131815",
+        "title": "Is there a halachic difference between the \"tzadikei\" (\"righteous\") and the \"chasidei\" (\"pious\") umot ha Olam?",
         "titles": {
-          "en": "Is there a Jewish principle: \"To sleep on a big decision\"?",
+          "en": "Is there a halachic difference between the \"tzadikei\" (\"righteous\") and the \"chasidei\" (\"pious\") umot ha Olam?",
           "he": ""
         },
         "language": "en",
-        "question": "In Anglo society, there is the principle to \"sleep on\" a big decision before pulling the trigger on it. (Be it a large purchase, a business deal, or other substantial decision in work or personal life",
-        "answer": "May be linked to the first Mishna in the 4th chapter of Sanhedrin, regarding the decision for a capital law.It's called \"Halanat Hadin\" the withhoding of the judgment. See Gemara 17a, 34a and 35a. Below the quote from the Mishnah. דִּינֵי מָמוֹנוֹת ג",
+        "question": "I am an Italian Noahide. Rambam, in his Mishneh Torah, says that the \"pious among the Nations\" (\"chasidei umot ha Olam\") have part in the World to Come (Hilchot Teshuvah 3:5; Hilchot Melachim 8:11). I",
+        "answer": "They are different. A Tzaddik is someone who does everything correctly (see Mesilat Yisharim, Chapters about Nekiyut - Chapter 13 clarifies this is referring to tzaddik). A Chassid is someone who does everything correctly, and his intentions are pure",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-131815",
+        "source_url": "https://judaism.stackexchange.com/questions/131815/is-there-a-halachic-difference-between-the-tzadikei-righteous-and-the-cha",
+        "author": "Rabbi Kaii",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-111911",
+        "title": "PTIJ: Why are notable rabbis called \"Moron D'asara\"?",
+        "titles": {
+          "en": "PTIJ: Why are notable rabbis called \"Moron D'asara\"?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Frequently I have heard people refer to a community or their shul rabbi as a \"moron d'asarah\" which sounds like it means \"the moron of the ten\". I guess I can understand the reference to \"ten\". Maybe ",
+        "answer": "Any person who wants to be a rabbi of a shul, what with all the heartache and in-fighting and dealing with the board, etc., he has to be somewhat of a moron.",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-127637",
-        "source_url": "https://judaism.stackexchange.com/questions/127637/is-there-a-jewish-principle-to-sleep-on-a-big-decision",
-        "author": "kouty",
+        "url": "https://shekhina.org/qa.html?id=ye-111911",
+        "source_url": "https://judaism.stackexchange.com/questions/111911/ptij-why-are-notable-rabbis-called-moron-dasara",
+        "author": "larry909",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-106592",
-        "title": "How come the Rambam forbids picking up money found in the street?",
+        "id": "ye-94461",
+        "title": "Belief before 30 CE, that a prophet other than the Messiah or Elijah would appear?",
         "titles": {
-          "en": "How come the Rambam forbids picking up money found in the street?",
+          "en": "Belief before 30 CE, that a prophet other than the Messiah or Elijah would appear?",
           "he": ""
         },
         "language": "en",
-        "question": "I always understood that, when one sees a banknote in the street, one is allowed to keep it (and others wrote this way, e.g., R Belsky here and businesshalacha there #17 ). Then I saw the Rambam write",
-        "answer": "The Taz in CM 262/6 asks your question. He gives two answers: The Rambam is talking about where we know he did not despair, such as when we heard him say something to indicate he thought it was in his house. However, if we don't know if he despaired,",
+        "question": "Was there a Jewish belief prior to 30CE that a prophet other than Elijah would appear along with the Messiah? If so, what evidence is there for it, what were the details of this belief, what documents",
+        "answer": "There was a belief in some circles of multiple types of messiah. The community living in Qumran make reference to the coming of נביא ומשיחי אהרון וישראל, \"the prophet and the messiahs of Aaron and Israel\" ( Community Rule/1QS, column 9 line 11 ). The",
         "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-106592",
-        "source_url": "https://judaism.stackexchange.com/questions/106592/how-come-the-rambam-forbids-picking-up-money-found-in-the-street",
-        "author": "פרי זהב",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
-      },
-      {
-        "id": "ye-90263",
-        "title": "What happens when the neshama has an aliya?",
-        "titles": {
-          "en": "What happens when the neshama has an aliya?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "there is a common practice to learn torah for someone who is deceased 'l'iluy nishmato/a' - to raise her/his soul. There is also a common (american/ashkenazik?) custom for a relative of a deceased per",
-        "answer": "R. Hai Gaon has a respnsum about how the actions of the living can impact the dead. While he first notes the possibility that certain things can be done to relieve the punishment of the dead, he concludes the responsum by asserting that there is abso",
-        "answer_count": 2,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-90263",
-        "source_url": "https://judaism.stackexchange.com/questions/90263/what-happens-when-the-neshama-has-an-aliya",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-94461",
+        "source_url": "https://judaism.stackexchange.com/questions/94461/belief-before-30-ce-that-a-prophet-other-than-the-messiah-or-elijah-would-appea",
+        "author": "b a",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-74060",
-        "title": "Which Raban Gamliel was in the first mishnah of masechet berakhot?",
+        "id": "ye-78907",
+        "title": "Drawing Moshe, Avraham, or anyone else",
         "titles": {
-          "en": "Which Raban Gamliel was in the first mishnah of masechet berakhot?",
+          "en": "Drawing Moshe, Avraham, or anyone else",
           "he": ""
         },
         "language": "en",
-        "question": "Who was this Raban Gamliel in the first mishnah of masechet berakhot? Raban Gamliel I? Raban Gamliel II? Raban Gamliel III? Are there some books who could help me to find the historic part of the Mish",
-        "answer": "We can found in Sefer Seder Hadorot, Tanayim VeAmorayim that it was Raban Gamliel DeYavne, the second Raban Gamliel: I will copy here one statement from the book: רבן גמליאל דיבנה בן ר\"ש הנהרג בן ר\"ג הזקן. א) במשנה ברכות פ\"א ב'. פ\"ב ה', פו ח', ... ‏ ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-74060",
-        "source_url": "https://judaism.stackexchange.com/questions/74060/which-raban-gamliel-was-in-the-first-mishnah-of-masechet-berakhot",
-        "author": "kouty",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
-      },
-      {
-        "id": "ye-56978",
-        "title": "\"Chometz\" Cookies on Pesaḥ",
-        "titles": {
-          "en": "\"Chometz\" Cookies on Pesaḥ",
-          "he": ""
-        },
-        "language": "en",
-        "question": "According to the Sephardic tradition that egg matzah can be permissible on Passover (see e.g. http://etzion.org.il/vbm/english/archive/moadim70/02-70moed.htm ), is there any reason why they would not ",
-        "answer": "There is no reason (as far as I am aware), other than the potential of some small amount of water getting mixed in, as noted in this question . If a small amount of water gets mixed in, that would make it Chametz much quicker, as outlined in that que",
+        "question": "Is there any source which specifically discourages or prohibits drawing the face of Avraham, Moshe, or any other biblical/rabbinic figure (besides for any issue of drawing people in general)? Picture ",
+        "answer": "I found a reference to this practice--of not drawing the faces of the forefathers, specifically--mentioned here, Mimidbar Matanah by Rabbi Yitzchak Pinchas Goldwasser. He writes that we avoid drawing them in order to make sure nobody thinks that such",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-56978",
-        "source_url": "https://judaism.stackexchange.com/questions/56978/chometz-cookies-on-pesa%e1%b8%a5",
-        "author": "רבות מחשבות",
+        "url": "https://shekhina.org/qa.html?id=ye-78907",
+        "source_url": "https://judaism.stackexchange.com/questions/78907/drawing-moshe-avraham-or-anyone-else",
+        "author": "הנער הזה",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-37003",
-        "title": "Selling Hametz on Ebay",
+        "id": "ye-61513",
+        "title": "How does Judaism answer the problem of evil?",
         "titles": {
-          "en": "Selling Hametz on Ebay",
+          "en": "How does Judaism answer the problem of evil?",
           "he": ""
         },
         "language": "en",
-        "question": "Can I sell my chametz via eBAY? I have no expectation that I want to buy it back. I would pack it and ship it before Pesach, so it's definitely not in my posession during Pesach. Is this problematic a",
-        "answer": "The return policy through eBay purchases isn't substantially different than the \"buyer's remorse\" policy used by the majority of rabbanim for an ordinary mechiras chometz. Potential issues would be as follows: The item not reaching the purchaser unti",
-        "answer_count": 1,
+        "question": "I would think that after the great amount of suffering the Jews had to suffer in the 20th century a whole lot of them had to review how the deity they believed in could let what was happening to them ",
+        "answer": "firstly all these sorts of persecutions were predicted in the torah. ex. \"And the Lord will scatter you among all the nations, from one end of the earth to the other; And among those nations, you will not be calm, nor will your foot find rest\" deut.2",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-37003",
-        "source_url": "https://judaism.stackexchange.com/questions/37003/selling-hametz-on-ebay",
-        "author": "Isaac Kotlicky",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-61513",
+        "source_url": "https://judaism.stackexchange.com/questions/61513/how-does-judaism-answer-the-problem-of-evil",
+        "author": "ray",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-20451",
-        "title": "Can we play video games during sabbath",
+        "id": "ye-43705",
+        "title": "Who or what was Gilaad?",
         "titles": {
-          "en": "Can we play video games during sabbath",
+          "en": "Who or what was Gilaad?",
           "he": ""
         },
         "language": "en",
-        "question": "I am not Jewish, but sort of try to emulate some parts of it to see if it does me any good. Well, not doing anything for 1 day is too boring. Actually what else can we do anyway during sabbath beside ",
-        "answer": "Unfortunately video games are out on Shabbos, as we are not permitted to manipulate electricity . \"Working\" on Shabbos is not defined by what we achieve, but rather what is defined in the Shulchan Aruch (Jewish Code of Law) as \"work\". (For example, t",
+        "question": "In parshas pinchas ch 26 vs 29 we find Menasheh had a son Machir who had a son Gilaad (גלעד). In fact this family group was called \"Gilaadi\" (גלעדי). At the end of parshas Matos ch 32 vs 39 - 40 we ar",
+        "answer": "See Rashi, Sifsei Chachamim and Ramba\"n on Breishit 31:48-50 who explain a reference to why in Sefer Shoftim, Har Gil'ad is called \"Mitzpeh\" over there. In this verse, Rashi makes a reference to the word \"Mitzpah\" which means \"look-out\". Rashi on v 4",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-43705",
+        "source_url": "https://judaism.stackexchange.com/questions/43705/who-or-what-was-gilaad",
+        "author": "DanF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-26742",
+        "title": "What to do with the Cross on the Chess King?",
+        "titles": {
+          "en": "What to do with the Cross on the Chess King?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Many (perhaps most) Chess sets come with a King piece that has a cross on the top of it. Is there any problem with owning or using such a chess set? Should one break off the cross?",
+        "answer": "There is no prohibition against owning idolatrous figures. However, there is a prohibition against gazing as such figures, which would in general prevent one from owning them. According to Shulchan Aruch (YD 141:1) it is permitted to gaze at an idola",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-20451",
-        "source_url": "https://judaism.stackexchange.com/questions/20451/can-we-play-video-games-during-sabbath",
-        "author": "Michoel",
+        "url": "https://shekhina.org/qa.html?id=ye-26742",
+        "source_url": "https://judaism.stackexchange.com/questions/26742/what-to-do-with-the-cross-on-the-chess-king",
+        "author": "jake",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "up-din-2023030614275262",
@@ -32259,7 +32259,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "ye-139712",
@@ -32280,7 +32280,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "ye-148523",
@@ -32301,7 +32301,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "din-url-f1f7f074afa30351a230c7d2",
@@ -32322,7 +32322,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "din-url-0507383dddf1cf9333ccfad3",
@@ -32343,7 +32343,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "up-din-278167",
@@ -32364,7 +32364,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "up-din-202012119384910",
@@ -32385,7 +32385,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "up-din-202107078694765",
@@ -32406,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
         "id": "up-din-202104014051508",
@@ -32427,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-d57e4bb32ce4f661aa8b70b0"
+        "snapshot": "v1-629851d277e88a5e8a541d66"
       }
     ]
   }
