@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-03T02:16:41Z",
+  "checked_at": "2026-11-03T11:55:01Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-03T02:16:41Z"
+      "checked_at": "2026-11-03T11:55:01Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-03T02:16:41Z"
+      "checked_at": "2026-11-03T11:55:01Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-03T02:16:41Z"
+      "checked_at": "2026-11-03T11:55:01Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-03T02:16:41Z"
+      "checked_at": "2026-11-03T11:55:01Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-03T02:16:41Z"
+      "checked_at": "2026-11-03T11:55:01Z"
     }
   },
   "music": [
@@ -32048,197 +32048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-629851d277e88a5e8a541d66",
-    "total": 70955,
+    "release": "v1-7c7f19501ae898242acc44f4",
+    "total": 70959,
     "cards": [
       {
-        "id": "ye-9660",
-        "title": "What does Rash\"i add on B'midbar 2:20?",
+        "id": "ye-10346",
+        "title": "Why are there so many accounts of the Hebrews' killing their neighbors and so few of their being kind or good?",
         "titles": {
-          "en": "What does Rash\"i add on B'midbar 2:20?",
+          "en": "Why are there so many accounts of the Hebrews' killing their neighbors and so few of their being kind or good?",
           "he": ""
         },
         "language": "en",
-        "question": "In describing the layout of B'nei Yisra'el 's camp in the wilderness, the Torah records four groups (called d'galim ) comprising 3 tribes each, and lists them in order, dictating a diagram of how they",
-        "answer": "Sifsei Chachamim (Bamidbar 2:20): לעיל לא צריך רש\"י לפרש מידי, שהרי גבי \"ועליו\" כתיב \"והחונים\" אם כן ודאי פירושו כתרגומו, אבל כאן אין כתיב כלום רק ועליו מטה מנשה אם כן אין אני יודע פירושו, לכן פירש רש\"י כתרגומו Apparently, Rashi felt that the wording",
+        "question": "I know everybody was attacking everybody in those days, but still why are there so few examples of the Hebrews setting an example of kindness to the poor, weak or even being kind? Instead, the solutio",
+        "answer": "Abraham and Sara set an example how to take care of guests. Jews are required to tithe their earnings to help the poor. Moses did all he could to help the Jews get out of Egypt, and to save them when they sinned. The Torah is not fiction, it is true ",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-9660",
-        "source_url": "https://judaism.stackexchange.com/questions/9660/what-does-rashi-add-on-bmidbar-220",
-        "author": "jake",
+        "url": "https://shekhina.org/qa.html?id=ye-10346",
+        "source_url": "https://judaism.stackexchange.com/questions/10346/why-are-there-so-many-accounts-of-the-hebrews-killing-their-neighbors-and-so-fe",
+        "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-151452",
-        "title": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+        "id": "ye-154522",
+        "title": "Chanukah candles or Shabbos candles first on Friday",
         "titles": {
-          "en": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+          "en": "Chanukah candles or Shabbos candles first on Friday",
           "he": ""
         },
         "language": "en",
-        "question": "Very related . Slightly related ( link , link ). I'm looking for Rishonim (or earlier authorities) that state that the author or authors of Al Ha'Nissim for Chanukah was/were Yochanan Kohen Gadol and/",
-        "answer": "In Orchos Chaim (Chanukah seif 22) , Rav Aharon m'Lunil says: ... מזכירין בהודאה על הניסים ויש בו קכ\"ד תיבות כמנין יוחנן שתיקנו... ואין אומרים בו וחשמונאי ובניו כי יוחנן הוא חשמונאי כמו שאומר בספר יוסיפון We mention in Modim \"Al Hanisim\", and it has ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-151452",
-        "source_url": "https://judaism.stackexchange.com/questions/151452/chashmonaic-authorship-of-al-hanissim-of-chanukah",
-        "author": "Lo ani",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-131776",
-        "title": "What did the Vilna Gaon's study schedule look like?",
-        "titles": {
-          "en": "What did the Vilna Gaon's study schedule look like?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I heard he learned for 6 hours at a time. How many of these sessions did he have a day? Did he get up and stretch in the middle? What did he do during his breaks in between study sessions?",
-        "answer": "For some background on the life of the Vilna Gaon, we have an introduction to his commentary on the Shulchan Aruch (the ביאור הגר\"א) that was written by his sons. It usually appears at the beginning of most modern prints of the Shulchan Aruch. For an",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-131776",
-        "source_url": "https://judaism.stackexchange.com/questions/131776/what-did-the-vilna-gaons-study-schedule-look-like",
-        "author": "EraserX",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-111874",
-        "title": "PTIJ: Gingerbread man during Pesach",
-        "titles": {
-          "en": "PTIJ: Gingerbread man during Pesach",
-          "he": ""
-        },
-        "language": "en",
-        "question": "How does the gingerbread man deal with the Issur of Chametz on Pesach, if he's made of leavened flour? Does he sell himself to a Goy? Doesn't this defeat the purpose of being free on Pesach, of Cheiru",
-        "answer": "Apparently, you seem unfamiliar with the fairy tale of the Ginger Bread man. The Ginger Bread man was eaten by a fox. I could almost guarantee that even if the gingerbread didn't have time to rise, a fox would eat him within 18 minutes.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-111874",
-        "source_url": "https://judaism.stackexchange.com/questions/111874/ptij-gingerbread-man-during-pesach",
-        "author": "DanF",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-94427",
-        "title": "What things are done differently for an adult circumcision?",
-        "titles": {
-          "en": "What things are done differently for an adult circumcision?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I have never attended an adult circumcision, and I don't know anyone, personally, who was circumcised as an adult. I'm curious if there are any notable differences between an adult and child circumcis",
-        "answer": "THe Gemmorah (Kiddushin 29 I think) says: \"If father didn't Ccized him he's obligated to Ccze himself when he grows up\" (it is not clear who's Mitzvah it is in the first place - חפצא or גברא). It's done in a medical facility under supervision, local ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-94427",
-        "source_url": "https://judaism.stackexchange.com/questions/94427/what-things-are-done-differently-for-an-adult-circumcision",
-        "author": "Al Berko",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-78863",
-        "title": "Can an Orthodox Jew attend the Reform wedding of a close relative?",
-        "titles": {
-          "en": "Can an Orthodox Jew attend the Reform wedding of a close relative?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "A Jew is marrying a non-Jew who converted in a Reform synagogue. The Chuppah will be held in a Reform synagogue and the party (dinner/dance) will be in a non-religious venue. Is there any reason why a",
-        "answer": "There are a number of reasons not to attend such a ceremony (which is invalid to begin with). I am separating out different reasons, each of which is enough to make it wrong to attend. Since I am writing this edit on Purim, I will point out that even",
+        "question": "On Friday of Chanukah, the Kaf Hachaim O.C 679:1 says that it's because of מעלין בקודש (going up in holiness), so therefore Chanukah goes first and then Shabbat. Why and in what way is Chanukah lighti",
+        "answer": "In שער הכוונות דרוש חנוכה דרוש א Rav Chaim Vital writes: ״ואמנם נבאר תחילה ענין קדושת הימים האלו ואח\"כ נבאר ענין ברכות נר של חנוכה. והנה כמו שנתבאר שבשבתות ויו\"ט ור\"ח יש בהם תוספת קדושה על ימי החול -- גם בחנוכה ופורים יש בהם תוספת קדושה יותר מימי החו",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-78863",
-        "source_url": "https://judaism.stackexchange.com/questions/78863/can-an-orthodox-jew-attend-the-reform-wedding-of-a-close-relative",
-        "author": "sabbahillel",
+        "url": "https://shekhina.org/qa.html?id=ye-154522",
+        "source_url": "https://judaism.stackexchange.com/questions/154522/chanukah-candles-or-shabbos-candles-first-on-friday",
+        "author": "Yeshivish 101",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-61477",
-        "title": "Why is the Mountain Sinai called Chorev as well?",
+        "id": "ye-132597",
+        "title": "Is there any particular reason we do Kaddish so often?",
         "titles": {
-          "en": "Why is the Mountain Sinai called Chorev as well?",
+          "en": "Is there any particular reason we do Kaddish so often?",
           "he": ""
         },
         "language": "en",
-        "question": "I was studying today parashat ha shavua (Devorim) and it is written there that Jews went from the Mountain of Chorev. Why is not called Sinai? What significance lies behind this name?",
-        "answer": "See Talmud Bavli Shabbat 89 : מדבר סיני שירדה שנאה לעכו\"ם עליו ומה שמו חורב שמו ופליגא דר' אבהו דא\"ר אבהו הר סיני שמו ולמה נקרא הר חורב שירדה חורבה לעכו\"ם עליו [Why was it called] the Wilderness of Sinai, because hostility [sin'ah] toward idolaters d",
+        "question": "I know repetition is at the center of Judaism: we say shema and do the amida everyday, remember important events every year etc. The question is particularly about Kaddish, is there any reason we perf",
+        "answer": "Welcome to Mi Yodeya, thanks for the most excellent first question. It seems that Kaddish didn't start out as a mourner's prayer. According to Rav David De Sola Pool in The Kaddish , it's origin is as closing tefilla after a Torah discourse. Indeed, ",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-61477",
-        "source_url": "https://judaism.stackexchange.com/questions/61477/why-is-the-mountain-sinai-called-chorev-as-well",
-        "author": "Double AA",
+        "url": "https://shekhina.org/qa.html?id=ye-132597",
+        "source_url": "https://judaism.stackexchange.com/questions/132597/is-there-any-particular-reason-we-do-kaddish-so-often",
+        "author": "Rabbi Kaii",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-43673",
-        "title": "Is one allowed to be fat?",
+        "id": "ye-113674",
+        "title": "On the halachic level, what are the requirements for a Gentiles couple to be considered married?",
         "titles": {
-          "en": "Is one allowed to be fat?",
+          "en": "On the halachic level, what are the requirements for a Gentiles couple to be considered married?",
           "he": ""
         },
         "language": "en",
-        "question": "Is one halachically allowed to be fat (overweight or obese), or must a fat person take steps to reduce their weight and maintain a reasonably healthy body (and likewise, a healthy person must not allo",
-        "answer": "There is a basic halacha of \"Ushmartem es nafshosechem\" - loosely translated to mean that a person is obligated to maintain their body in good health. The reason for this is twofold: Firstly, your body is only yours on loan from Hashem, and just as a",
+        "question": "My question may seem bizarre, since in our age marriage is a juridical institution widely regulated in every nation, with the presence of witnesses and a precise registration in public registers; howe",
+        "answer": "For the purpose of Jewish Laws affecting the Noahide, Halacha is indifferent as to the ritual or ceremony by which non-Jews traditionally effect a marriage bond. [Nevertheless, practicing Noahides should definitely abide by the laws of the land that ",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-43673",
-        "source_url": "https://judaism.stackexchange.com/questions/43673/is-one-allowed-to-be-fat",
-        "author": "user6760",
+        "url": "https://shekhina.org/qa.html?id=ye-113674",
+        "source_url": "https://judaism.stackexchange.com/questions/113674/on-the-halachic-level-what-are-the-requirements-for-a-gentiles-couple-to-be-con",
+        "author": "IsraelReader",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-26701",
-        "title": "What is the origin and meaning of mabrouk?",
+        "id": "ye-95255",
+        "title": "Age of the universe",
         "titles": {
-          "en": "What is the origin and meaning of mabrouk?",
+          "en": "Age of the universe",
           "he": ""
         },
         "language": "en",
-        "question": "Instead of mazal tov, some sefardim use the term mabrouk(sp?). What does that term mean and what is its origin?",
-        "answer": "Mabrouk is an informal Arabic word and widely used; it means congratulations. The formal word is Mubarak and it means blessed. Judeo-Spanish - which is spoken by Sephardi - contains Arabic words.",
+        "question": "Do contemporary Orthodox (Litvish, Chassidish, & Sephardi) Rabbi’s still believe that the world was created 5,779 yrs ago or do they agree with Aryeh Kaplan that perhaps 5779 is just the birth of Adam",
+        "answer": "From a 2010 interview with Rabbi Hershel Schachter , printed in Kol HaMevaser. Rabbi Schachter is one of OU Kosher's main poskim and among the most-renowned roshei yeshiva at Yeshiva University: Q: What do you believe about the opinion of R. Nachum E",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-26701",
-        "source_url": "https://judaism.stackexchange.com/questions/26701/what-is-the-origin-and-meaning-of-mabrouk",
-        "author": "Omar",
+        "url": "https://shekhina.org/qa.html?id=ye-95255",
+        "source_url": "https://judaism.stackexchange.com/questions/95255/age-of-the-universe",
+        "author": "Shalom",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-79773",
+        "title": "The author of ‘commotion’",
+        "titles": {
+          "en": "The author of ‘commotion’",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In the Talmud - Mas. Mo'ed Katan 16a, Pharaoh is called The author of ‘commotion’. As it is written: They called there, Pharaoh the king of Egypt [the author of] ‘commotion’; he hath let the appointed",
+        "answer": "The commotion is part of a verse in Jeremiah 46:17. קָרְא֖וּ שָׁ֑ם פַּרְעֹ֤ה מֶֽלֶךְ־מִצְרַ֙יִם֙ שָׁא֔וֹן הֶעֱבִ֖יר הַמּוֹעֵֽד׃‏ There they called Pharaoh king of Egypt: “Braggart (or: Master of commotion) who let the hour go by.” Though not everybod",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-79773",
+        "source_url": "https://judaism.stackexchange.com/questions/79773/the-author-of-commotion",
+        "author": "Danny Schoemann",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-62101",
+        "title": "What was the status of the Pharisees, and their relationship with the Temple authorities in the early first century?",
+        "titles": {
+          "en": "What was the status of the Pharisees, and their relationship with the Temple authorities in the early first century?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "One of the many mistakes made by the authors of the Christian gospels is attributing the state of affairs in their own time to the time they are trying to describe. An example of this error is the way",
+        "answer": "\"History is written by the victor,\" as they say. In the case of the Second Temple period, however, virtually everyone lost, so interpreting history can be a matter of dispute. In Jewish tradition, it is, however, indisputable that the Pharisees were ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-62101",
+        "source_url": "https://judaism.stackexchange.com/questions/62101/what-was-the-status-of-the-pharisees-and-their-relationship-with-the-temple-aut",
+        "author": "Seth J",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-44260",
+        "title": "Unusual pronunciation of \"Mol\" in Devarim 1:1",
+        "titles": {
+          "en": "Unusual pronunciation of \"Mol\" in Devarim 1:1",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Devarim 1:1 uses the phrase \"Mol Suf\". The word is pronounced \"Mol\" vs. \"Mul\". I assume that the literal definition of the word is \"against\" or \"near\". In other locations in the Torah, the word is pro",
+        "answer": "The grammarian's answer is that cholam and shuruk are interchangeable. So writes Radak , Ben-Zev , and one of today's greatest Hebrew grammarians, R. Meir Mazuz . Why one is chosen in one instance and the other in another is simply a matter of style.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-44260",
+        "source_url": "https://judaism.stackexchange.com/questions/44260/unusual-pronunciation-of-mol-in-devarim-11",
+        "author": "jake",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-27326",
+        "title": "What were the arguments for and against man's creation?",
+        "titles": {
+          "en": "What were the arguments for and against man's creation?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The gemara in Eiruvin 13b teaches that for two and a half years there was a dispute between Beit Shammai and Beit Hillel - these said that it was better for man not to have been created than to have b",
+        "answer": "All of the sources I found seem to deal on some level with the investigation of human nature. Ben Jehoaidah, Eruvin 13b explains that Israel, (he says ישראל‏ specifically), was created as a part of the בריאה‏ from the Throne of Glory, citing the Ariz",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-27326",
+        "source_url": "https://judaism.stackexchange.com/questions/27326/what-were-the-arguments-for-and-against-mans-creation",
+        "author": "Baby Seal",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "up-din-202303046264726",
@@ -32259,7 +32259,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "ye-139687",
@@ -32280,7 +32280,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "yeshiva-151882",
@@ -32301,7 +32301,7 @@
         "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "din-url-f114842fedde6834d224d57f",
@@ -32322,7 +32322,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "din-url-03f9c6d0196fd9cfef0d780b",
@@ -32343,7 +32343,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "up-din-277105",
@@ -32364,7 +32364,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "up-din-202012108726786",
@@ -32385,7 +32385,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "up-din-2021070616527466",
@@ -32406,7 +32406,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
         "id": "up-din-202103313467691",
@@ -32427,7 +32427,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
       }
     ]
   }
