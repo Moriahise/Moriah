@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-02T18:18:56Z",
+  "checked_at": "2026-11-03T02:16:41Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-02T18:18:56Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-02T18:18:56Z"
+      "checked_at": "2026-11-03T02:16:41Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-03T02:16:41Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-02T18:18:56Z"
+      "checked_at": "2026-11-03T02:16:41Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-02T18:18:56Z"
+      "checked_at": "2026-11-03T02:16:41Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-02T18:18:56Z"
+      "checked_at": "2026-11-03T02:16:41Z"
     }
   },
   "music": [
@@ -32052,378 +32052,378 @@
     "total": 70955,
     "cards": [
       {
-        "id": "ye-9690",
-        "title": "What portion of his income would a Jew following the sacrificial laws give?",
+        "id": "ye-9660",
+        "title": "What does Rash\"i add on B'midbar 2:20?",
         "titles": {
-          "en": "What portion of his income would a Jew following the sacrificial laws give?",
+          "en": "What does Rash\"i add on B'midbar 2:20?",
           "he": ""
         },
         "language": "en",
-        "question": "Christians are often told that tithing is a practice established in the law of Moses, and may be expected to respect this as a baseline for giving. But as I read through the Pentateuch, I see quite a ",
-        "answer": "A farmer living in Israel in Temple times would have given as follows: Approximately 2% of his crops to the Kohen (priest); known as teruma . 10% of his remaining crops to the Levite; ma'aser which means \"tithing.\" (The Levite would then tithe that -",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-9690",
-        "source_url": "https://judaism.stackexchange.com/questions/9690/what-portion-of-his-income-would-a-jew-following-the-sacrificial-laws-give",
-        "author": "Shalom",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-151544",
-        "title": "Do we need to stand up for a great rav, if a greater rav is already sitting down in the room?",
-        "titles": {
-          "en": "Do we need to stand up for a great rav, if a greater rav is already sitting down in the room?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "B\"H There's a halacha that if one's own Rav walks in a room, or even if any Torah scholar (to the point where one can ask him anything I'm halacha and he can answer it immediately) enters a room, one ",
-        "answer": "The SA in YD 244:8 says that two rabbis don’t have to stand up for each other, but they should still try to make a gesture of standing up a bit: שני חכמים ושני זקנים אין אחד צריך לקום מפני חבירו אלא יעשה לו הידור (ואפי' הרב לתלמידו יעשה לו הידור קצת)",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-151544",
-        "source_url": "https://judaism.stackexchange.com/questions/151544/do-we-need-to-stand-up-for-a-great-rav-if-a-greater-rav-is-already-sitting-down",
-        "author": "Chatzkel",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-131815",
-        "title": "Is there a halachic difference between the \"tzadikei\" (\"righteous\") and the \"chasidei\" (\"pious\") umot ha Olam?",
-        "titles": {
-          "en": "Is there a halachic difference between the \"tzadikei\" (\"righteous\") and the \"chasidei\" (\"pious\") umot ha Olam?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I am an Italian Noahide. Rambam, in his Mishneh Torah, says that the \"pious among the Nations\" (\"chasidei umot ha Olam\") have part in the World to Come (Hilchot Teshuvah 3:5; Hilchot Melachim 8:11). I",
-        "answer": "They are different. A Tzaddik is someone who does everything correctly (see Mesilat Yisharim, Chapters about Nekiyut - Chapter 13 clarifies this is referring to tzaddik). A Chassid is someone who does everything correctly, and his intentions are pure",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-131815",
-        "source_url": "https://judaism.stackexchange.com/questions/131815/is-there-a-halachic-difference-between-the-tzadikei-righteous-and-the-cha",
-        "author": "Rabbi Kaii",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-111911",
-        "title": "PTIJ: Why are notable rabbis called \"Moron D'asara\"?",
-        "titles": {
-          "en": "PTIJ: Why are notable rabbis called \"Moron D'asara\"?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Frequently I have heard people refer to a community or their shul rabbi as a \"moron d'asarah\" which sounds like it means \"the moron of the ten\". I guess I can understand the reference to \"ten\". Maybe ",
-        "answer": "Any person who wants to be a rabbi of a shul, what with all the heartache and in-fighting and dealing with the board, etc., he has to be somewhat of a moron.",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-111911",
-        "source_url": "https://judaism.stackexchange.com/questions/111911/ptij-why-are-notable-rabbis-called-moron-dasara",
-        "author": "larry909",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-94461",
-        "title": "Belief before 30 CE, that a prophet other than the Messiah or Elijah would appear?",
-        "titles": {
-          "en": "Belief before 30 CE, that a prophet other than the Messiah or Elijah would appear?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Was there a Jewish belief prior to 30CE that a prophet other than Elijah would appear along with the Messiah? If so, what evidence is there for it, what were the details of this belief, what documents",
-        "answer": "There was a belief in some circles of multiple types of messiah. The community living in Qumran make reference to the coming of נביא ומשיחי אהרון וישראל, \"the prophet and the messiahs of Aaron and Israel\" ( Community Rule/1QS, column 9 line 11 ). The",
+        "question": "In describing the layout of B'nei Yisra'el 's camp in the wilderness, the Torah records four groups (called d'galim ) comprising 3 tribes each, and lists them in order, dictating a diagram of how they",
+        "answer": "Sifsei Chachamim (Bamidbar 2:20): לעיל לא צריך רש\"י לפרש מידי, שהרי גבי \"ועליו\" כתיב \"והחונים\" אם כן ודאי פירושו כתרגומו, אבל כאן אין כתיב כלום רק ועליו מטה מנשה אם כן אין אני יודע פירושו, לכן פירש רש\"י כתרגומו Apparently, Rashi felt that the wording",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-94461",
-        "source_url": "https://judaism.stackexchange.com/questions/94461/belief-before-30-ce-that-a-prophet-other-than-the-messiah-or-elijah-would-appea",
-        "author": "b a",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-78907",
-        "title": "Drawing Moshe, Avraham, or anyone else",
-        "titles": {
-          "en": "Drawing Moshe, Avraham, or anyone else",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Is there any source which specifically discourages or prohibits drawing the face of Avraham, Moshe, or any other biblical/rabbinic figure (besides for any issue of drawing people in general)? Picture ",
-        "answer": "I found a reference to this practice--of not drawing the faces of the forefathers, specifically--mentioned here, Mimidbar Matanah by Rabbi Yitzchak Pinchas Goldwasser. He writes that we avoid drawing them in order to make sure nobody thinks that such",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-78907",
-        "source_url": "https://judaism.stackexchange.com/questions/78907/drawing-moshe-avraham-or-anyone-else",
-        "author": "הנער הזה",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-61513",
-        "title": "How does Judaism answer the problem of evil?",
-        "titles": {
-          "en": "How does Judaism answer the problem of evil?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I would think that after the great amount of suffering the Jews had to suffer in the 20th century a whole lot of them had to review how the deity they believed in could let what was happening to them ",
-        "answer": "firstly all these sorts of persecutions were predicted in the torah. ex. \"And the Lord will scatter you among all the nations, from one end of the earth to the other; And among those nations, you will not be calm, nor will your foot find rest\" deut.2",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-61513",
-        "source_url": "https://judaism.stackexchange.com/questions/61513/how-does-judaism-answer-the-problem-of-evil",
-        "author": "ray",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-43705",
-        "title": "Who or what was Gilaad?",
-        "titles": {
-          "en": "Who or what was Gilaad?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In parshas pinchas ch 26 vs 29 we find Menasheh had a son Machir who had a son Gilaad (גלעד). In fact this family group was called \"Gilaadi\" (גלעדי). At the end of parshas Matos ch 32 vs 39 - 40 we ar",
-        "answer": "See Rashi, Sifsei Chachamim and Ramba\"n on Breishit 31:48-50 who explain a reference to why in Sefer Shoftim, Har Gil'ad is called \"Mitzpeh\" over there. In this verse, Rashi makes a reference to the word \"Mitzpah\" which means \"look-out\". Rashi on v 4",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-43705",
-        "source_url": "https://judaism.stackexchange.com/questions/43705/who-or-what-was-gilaad",
-        "author": "DanF",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "ye-26742",
-        "title": "What to do with the Cross on the Chess King?",
-        "titles": {
-          "en": "What to do with the Cross on the Chess King?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Many (perhaps most) Chess sets come with a King piece that has a cross on the top of it. Is there any problem with owning or using such a chess set? Should one break off the cross?",
-        "answer": "There is no prohibition against owning idolatrous figures. However, there is a prohibition against gazing as such figures, which would in general prevent one from owning them. According to Shulchan Aruch (YD 141:1) it is permitted to gaze at an idola",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-26742",
-        "source_url": "https://judaism.stackexchange.com/questions/26742/what-to-do-with-the-cross-on-the-chess-king",
+        "url": "https://shekhina.org/qa.html?id=ye-9660",
+        "source_url": "https://judaism.stackexchange.com/questions/9660/what-does-rashi-add-on-bmidbar-220",
         "author": "jake",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "up-din-2023030614275262",
-        "title": "קריאת מגילת אסתר לפני ערבית",
+        "id": "ye-151452",
+        "title": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+        "titles": {
+          "en": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Very related . Slightly related ( link , link ). I'm looking for Rishonim (or earlier authorities) that state that the author or authors of Al Ha'Nissim for Chanukah was/were Yochanan Kohen Gadol and/",
+        "answer": "In Orchos Chaim (Chanukah seif 22) , Rav Aharon m'Lunil says: ... מזכירין בהודאה על הניסים ויש בו קכ\"ד תיבות כמנין יוחנן שתיקנו... ואין אומרים בו וחשמונאי ובניו כי יוחנן הוא חשמונאי כמו שאומר בספר יוסיפון We mention in Modim \"Al Hanisim\", and it has ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-151452",
+        "source_url": "https://judaism.stackexchange.com/questions/151452/chashmonaic-authorship-of-al-hanissim-of-chanukah",
+        "author": "Lo ani",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-131776",
+        "title": "What did the Vilna Gaon's study schedule look like?",
+        "titles": {
+          "en": "What did the Vilna Gaon's study schedule look like?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I heard he learned for 6 hours at a time. How many of these sessions did he have a day? Did he get up and stretch in the middle? What did he do during his breaks in between study sessions?",
+        "answer": "For some background on the life of the Vilna Gaon, we have an introduction to his commentary on the Shulchan Aruch (the ביאור הגר\"א) that was written by his sons. It usually appears at the beginning of most modern prints of the Shulchan Aruch. For an",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-131776",
+        "source_url": "https://judaism.stackexchange.com/questions/131776/what-did-the-vilna-gaons-study-schedule-look-like",
+        "author": "EraserX",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-111874",
+        "title": "PTIJ: Gingerbread man during Pesach",
+        "titles": {
+          "en": "PTIJ: Gingerbread man during Pesach",
+          "he": ""
+        },
+        "language": "en",
+        "question": "How does the gingerbread man deal with the Issur of Chametz on Pesach, if he's made of leavened flour? Does he sell himself to a Goy? Doesn't this defeat the purpose of being free on Pesach, of Cheiru",
+        "answer": "Apparently, you seem unfamiliar with the fairy tale of the Ginger Bread man. The Ginger Bread man was eaten by a fox. I could almost guarantee that even if the gingerbread didn't have time to rise, a fox would eat him within 18 minutes.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-111874",
+        "source_url": "https://judaism.stackexchange.com/questions/111874/ptij-gingerbread-man-during-pesach",
+        "author": "DanF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-94427",
+        "title": "What things are done differently for an adult circumcision?",
+        "titles": {
+          "en": "What things are done differently for an adult circumcision?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I have never attended an adult circumcision, and I don't know anyone, personally, who was circumcised as an adult. I'm curious if there are any notable differences between an adult and child circumcis",
+        "answer": "THe Gemmorah (Kiddushin 29 I think) says: \"If father didn't Ccized him he's obligated to Ccze himself when he grows up\" (it is not clear who's Mitzvah it is in the first place - חפצא or גברא). It's done in a medical facility under supervision, local ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-94427",
+        "source_url": "https://judaism.stackexchange.com/questions/94427/what-things-are-done-differently-for-an-adult-circumcision",
+        "author": "Al Berko",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-78863",
+        "title": "Can an Orthodox Jew attend the Reform wedding of a close relative?",
+        "titles": {
+          "en": "Can an Orthodox Jew attend the Reform wedding of a close relative?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "A Jew is marrying a non-Jew who converted in a Reform synagogue. The Chuppah will be held in a Reform synagogue and the party (dinner/dance) will be in a non-religious venue. Is there any reason why a",
+        "answer": "There are a number of reasons not to attend such a ceremony (which is invalid to begin with). I am separating out different reasons, each of which is enough to make it wrong to attend. Since I am writing this edit on Purim, I will point out that even",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-78863",
+        "source_url": "https://judaism.stackexchange.com/questions/78863/can-an-orthodox-jew-attend-the-reform-wedding-of-a-close-relative",
+        "author": "sabbahillel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-61477",
+        "title": "Why is the Mountain Sinai called Chorev as well?",
+        "titles": {
+          "en": "Why is the Mountain Sinai called Chorev as well?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I was studying today parashat ha shavua (Devorim) and it is written there that Jews went from the Mountain of Chorev. Why is not called Sinai? What significance lies behind this name?",
+        "answer": "See Talmud Bavli Shabbat 89 : מדבר סיני שירדה שנאה לעכו\"ם עליו ומה שמו חורב שמו ופליגא דר' אבהו דא\"ר אבהו הר סיני שמו ולמה נקרא הר חורב שירדה חורבה לעכו\"ם עליו [Why was it called] the Wilderness of Sinai, because hostility [sin'ah] toward idolaters d",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-61477",
+        "source_url": "https://judaism.stackexchange.com/questions/61477/why-is-the-mountain-sinai-called-chorev-as-well",
+        "author": "Double AA",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-43673",
+        "title": "Is one allowed to be fat?",
+        "titles": {
+          "en": "Is one allowed to be fat?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Is one halachically allowed to be fat (overweight or obese), or must a fat person take steps to reduce their weight and maintain a reasonably healthy body (and likewise, a healthy person must not allo",
+        "answer": "There is a basic halacha of \"Ushmartem es nafshosechem\" - loosely translated to mean that a person is obligated to maintain their body in good health. The reason for this is twofold: Firstly, your body is only yours on loan from Hashem, and just as a",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-43673",
+        "source_url": "https://judaism.stackexchange.com/questions/43673/is-one-allowed-to-be-fat",
+        "author": "user6760",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "ye-26701",
+        "title": "What is the origin and meaning of mabrouk?",
+        "titles": {
+          "en": "What is the origin and meaning of mabrouk?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Instead of mazal tov, some sefardim use the term mabrouk(sp?). What does that term mean and what is its origin?",
+        "answer": "Mabrouk is an informal Arabic word and widely used; it means congratulations. The formal word is Mubarak and it means blessed. Judeo-Spanish - which is spoken by Sephardi - contains Arabic words.",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-26701",
+        "source_url": "https://judaism.stackexchange.com/questions/26701/what-is-the-origin-and-meaning-of-mabrouk",
+        "author": "Omar",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "up-din-202303046264726",
+        "title": "מתנות לאביונים לסעודת עניים בפורים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום,הגעתי מאוחר לבית כנסת לערבית ובדיוק התחילו קריאת מגילה. הקשבתי לקריאת המגילה ואחר כך התפללתי.האם פעלתי נכון?האם יצאתי ידי חובה?תודה",
+        "question": "לכבוד הרב שליט\"אמי שיש לו גמ\"ח גדול ואנשים תורמים להשתתף בסעודה לאביונים ביום פורים.יש לי כמה שאלות כתבתי את הנק' שצריכות לי בירור:א.האם צריך לעשות קנין?ב.יש פעמים שאנשים שעוברים ורואים את המראה הגדול",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "tanach",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2023030614275262",
-        "source_url": "https://din.org.il/2023/03/06/%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%9e%d7%92%d7%99%d7%9c%d7%aa-%d7%90%d7%a1%d7%aa%d7%a8-%d7%9c%d7%a4%d7%a0%d7%99-%d7%a2%d7%a8%d7%91%d7%99%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202303046264726",
+        "source_url": "https://din.org.il/2023/03/04/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%9c%d7%a1%d7%a2%d7%95%d7%93%d7%aa-%d7%a2%d7%a0%d7%99%d7%99%d7%9d-%d7%91%d7%a4%d7%95%d7%a8%d7%99%d7%9d/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-139712",
-        "title": "הכשרת תנור ורשת תנור",
+        "id": "ye-139687",
+        "title": "מנחה לפני הזמן",
         "titles": {
           "en": "",
-          "he": "הכשרת תנור ורשת תנור"
+          "he": "מנחה לפני הזמן"
         },
         "language": "he",
-        "question": "בס\"ד שלום כבוד הרב קיבלנו תנור משומש מחילוני, ידוע שהשתמשו בו גם לבשרי וגם לחלבי והוא טרף. אשמח לדעת- א. איך ניתן להכשיר את התנור? ב. איך והאם בכלל, ניתן להכשיר את רשת התנור שהייתה בתוכה? ג. האם אפשר ",
+        "question": "שלום, התפללתי לפני הזמן בטעות מנחה.. בסביבות שתים עשרה ועשרה. מה עליי לעשות עכשיו? האם יצאתי לידי חובה בתפילה? אשמח אם תוכלו להדריך אותי, תודה שלום וברכה, לא יצאת ידי חובת תפילה ועליך לחזור ולהתפלל מנ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-139687",
+        "source_url": "https://www.yeshiva.org.il/ask/139687",
+        "author": "הרב דניאל קירש",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "yeshiva-151882",
+        "title": "דיני אישה לא צנועה בטרמפ",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום לרב, רציתי לשאול האם מותר לעלות לטרמפ ונוהגת בו אישה לא צנועה במיוחד כיצד עליי לנהוג?",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139712",
-        "source_url": "https://www.yeshiva.org.il/ask/139712",
-        "author": "הרב דניאל קירש",
+        "url": "https://shekhina.org/qa.html?id=yeshiva-151882",
+        "source_url": "https://www.yeshiva.org.il/ask/151882",
+        "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "ye-148523",
-        "title": "האם מותר לטוס לחוץ לארץ?",
-        "titles": {
-          "en": "",
-          "he": "האם מותר לטוס לחוץ לארץ?"
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב לפי מה שהבנתי יש רבנים שמתירים לטוס לחול לתקופה קצרה גם למטרת טיול התרעננות רציתי לשאול האם הדבר מותר גם לאשכנזים וגם לספרדים בני עדות המזרח מחכה לתשובה תודה רבה שלום וברכה, אין הבדל בין",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-148523",
-        "source_url": "https://www.yeshiva.org.il/ask/148523",
-        "author": "הרב דניאל קירש",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "din-url-f1f7f074afa30351a230c7d2",
-        "title": "סירוק השיער בשבת",
+        "id": "din-url-f114842fedde6834d224d57f",
+        "title": "הקלטת התפילות בבית הכנסת בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום וברכה האם סירוק שיער אסור מהתורה או מדרבנן? והאם בכל דרך של סירוק אותה רמת איסור? המשנה ברורה כותב בסוף סימן שג שזהו איסור תורה אע\"פ שזו מלאכה שאינה צריכה לגופה, האם זה מוסכם על הפוסקים והאן מדוב",
+        "question": "שלום,האם מותר לשים נגן לפני שבת בבית כנסת על מצב הקלטה שזה יקליט בשבת ובמוצ'ש לקחת אותו חזרה?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-f1f7f074afa30351a230c7d2",
-        "source_url": "https://din.org.il/2017/01/10/%d7%a1%d7%99%d7%a8%d7%95%d7%a7-%d7%94%d7%a9%d7%99%d7%a2%d7%a8-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הדין",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-629851d277e88a5e8a541d66"
-      },
-      {
-        "id": "din-url-0507383dddf1cf9333ccfad3",
-        "title": "פתיחת פחית מיץ ע\"י קש בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכה.לגבי פתיחת פחית מיץ ע\"י קש, שנוקב חור המיועד לכך. האם יש פוסקים שאוסרים? תודה",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=din-url-0507383dddf1cf9333ccfad3",
-        "source_url": "https://din.org.il/2022/01/23/%d7%a4%d7%aa%d7%99%d7%97%d7%aa-%d7%a4%d7%97%d7%99%d7%aa-%d7%9e%d7%99%d7%a5-%d7%a2%d7%99-%d7%a7%d7%a9-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-f114842fedde6834d224d57f",
+        "source_url": "https://din.org.il/2022/07/31/%d7%94%d7%a7%d7%9c%d7%98%d7%aa-%d7%94%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%94%d7%9b%d7%a0%d7%a1%d7%aa-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "up-din-278167",
-        "title": "לבלוע רוק בצום ולהתנשק בצום",
+        "id": "din-url-03f9c6d0196fd9cfef0d780b",
+        "title": "לכלוך על בגד בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום לכבוד הרב ה' ישמור אותו.רציתי לשאול אם מותר בצום לאסוף בפה כמות רוק ולבלוע?והאם מותר להתנשק אם האשה בצום נשיקה צרפתית שאולי יש סיכוי שנבלע רוק אחד של השני?תודה מראש ובשורות טובות ישועות ונחמות לכ",
+        "question": "שלום רב, האם כאשר נופל על הבגד מאכל כגון מאכל עם רוטב וכדומה, אשר נופל מהבגד בעזרת ניעור או תנועה קלה עם האצבע ולא ממש קילוף- האם מותר להסירו בשבת? תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-278167",
-        "source_url": "https://din.org.il/2020/07/09/%d7%9c%d7%91%d7%9c%d7%95%d7%a2-%d7%a8%d7%95%d7%a7-%d7%91%d7%a6%d7%95%d7%9d-%d7%95%d7%9c%d7%94%d7%aa%d7%a0%d7%a9%d7%a7-%d7%91%d7%a6%d7%95%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=din-url-03f9c6d0196fd9cfef0d780b",
+        "source_url": "https://din.org.il/2026/02/08/%d7%9c%d7%9b%d7%9c%d7%95%d7%9a-%d7%a2%d7%9c-%d7%91%d7%92%d7%93-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "up-din-202012119384910",
-        "title": "להדליק נר חנוכה במצית – עובר לעשייתן",
+        "id": "up-din-277105",
+        "title": "הנאה מחילול שבת עקיף",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "כשמדליקים נרות חנוכה עם מצית. והצורה הנוחה ביותר שבסיום הברכה לוחצים על הכפתור ומיד נדלק [כי קשה לעמוד כל הברכה עם כפתור לחוץ]האם יש בזה בעיה של \"עובר לעשייתן\"אשמח למקורותתודה!",
+        "question": "בוקר טוב,במקום עבודתי ניגשים למכרז במקום מרוחק, בו צריך לתת את החומר למכרז.אחותי ומשפחתה גרים שם. ביקשו את עזרתי, שאתן לאחותי או בעלה,שייתנו את החומר, כדי לחסוך זמן וכסף.העניין הוא שהם יבואו כנראה בשב",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202012119384910",
-        "source_url": "https://din.org.il/2020/12/11/%d7%9c%d7%94%d7%93%d7%9c%d7%99%d7%a7-%d7%a0%d7%a8-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%91%d7%9e%d7%a6%d7%99%d7%aa-%d7%a2%d7%95%d7%91%d7%a8-%d7%9c%d7%a2%d7%a9%d7%99%d7%99%d7%aa%d7%9f/",
+        "url": "https://shekhina.org/qa.html?id=up-din-277105",
+        "source_url": "https://din.org.il/2020/07/02/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%97%d7%99%d7%9c%d7%95%d7%9c-%d7%a9%d7%91%d7%aa-%d7%a2%d7%a7%d7%99%d7%a3-2/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "up-din-202107078694765",
-        "title": "עבודה בחנות צעצעים בשלושת השבועות",
+        "id": "up-din-202012108726786",
+        "title": "נרות חנוכה לא סמוכה על שולחן ההורים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר לעבוד בחנות צעצועים בשלושת השבועות בתור מוכר ולמכור ? ..והאם מותר לקנות בשלושת השבועות צעצועים ?..",
+        "question": "שלום,אני גרה לבד אך מדליקה נרות חנוכה אצל ההורים שלי.האם אני צריכה להדליק נר חנוכה גם בבית שלי? אני חוזרת מאוד מאוחר הביתה (רק ישנה שם) אז מתי אני מדליקה את הנר?אני לפי אשכנז.תודה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202107078694765",
-        "source_url": "https://din.org.il/2021/07/07/%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%91%d7%97%d7%a0%d7%95%d7%aa-%d7%a6%d7%a2%d7%a6%d7%a2%d7%99%d7%9d-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202012108726786",
+        "source_url": "https://din.org.il/2020/12/10/%d7%a0%d7%a8%d7%95%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%9c%d7%90-%d7%a1%d7%9e%d7%95%d7%9b%d7%94-%d7%a2%d7%9c-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%94%d7%94%d7%95%d7%a8%d7%99%d7%9d/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-629851d277e88a5e8a541d66"
       },
       {
-        "id": "up-din-202104014051508",
-        "title": "איסור אכילת צלי בליל פסח",
+        "id": "up-din-2021070616527466",
+        "title": "הפטרה לשבת ר\"ח אב",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "לנוהגים איסור שלא לאכול צלי בליל הסדר, הרי בגמ' פסחים (עד,א)ובמשנה שם מבואר שדוקא צלי אש אסור כמו שהיה בקרבן פסח ולכן אסור לצלותו על שיפוד של מתכת כיון ששיפוד של מתכת מוליך חום שנצלה בחלקו מחמת חום הש",
+        "question": "לא זכיתי להבין למה בשבת זו שבת ראש חודש אב מפטירים שמעו ולא חזון. תינח בשאר שנים קוראים לפי הסדר של ג' פורענותא אך השנה שר\"ח חל בשבת מדינא דגמ’ היו צריכים להפוך את הסדר כדתנן במגילה \"ר\"ח אב שחל להיות ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202104014051508",
-        "source_url": "https://din.org.il/2021/04/01/%d7%90%d7%99%d7%a1%d7%95%d7%a8-%d7%90%d7%9b%d7%99%d7%9c%d7%aa-%d7%a6%d7%9c%d7%99-%d7%91%d7%9c%d7%99%d7%9c-%d7%a4%d7%a1%d7%97-2/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2021070616527466",
+        "source_url": "https://din.org.il/2021/07/06/%d7%94%d7%a4%d7%98%d7%a8%d7%94-%d7%9c%d7%a9%d7%91%d7%aa-%d7%a8%d7%97-%d7%90%d7%91/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-629851d277e88a5e8a541d66"
+      },
+      {
+        "id": "up-din-202103313467691",
+        "title": "שכחתי למכור חמץ ויש לי קמח בית",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שכחתי למכור את החמץ..אפשר להשתמש בקמח שנשאר בבית למימונה ??",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202103313467691",
+        "source_url": "https://din.org.il/2021/03/31/%d7%a9%d7%9b%d7%97%d7%aa%d7%99-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8-%d7%97%d7%9e%d7%a5-%d7%95%d7%99%d7%a9-%d7%9c%d7%99-%d7%a7%d7%9e%d7%97-%d7%91%d7%99%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
