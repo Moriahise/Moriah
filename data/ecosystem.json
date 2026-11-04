@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-04T00:36:39Z",
+  "checked_at": "2026-11-04T12:05:08Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-04T00:36:39Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-04T00:36:39Z"
+      "checked_at": "2026-11-04T12:05:08Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-11-04T12:05:08Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-04T00:36:39Z"
+      "checked_at": "2026-11-04T12:05:08Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-04T00:36:39Z"
+      "checked_at": "2026-11-04T12:05:08Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-04T00:36:39Z"
+      "checked_at": "2026-11-04T12:05:08Z"
     }
   },
   "music": [
@@ -28904,6 +28904,20 @@
         "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-10-31/"
       },
       {
+        "id": "5787-2026-11-07",
+        "title": {
+          "en": "How remembrance guides the next step",
+          "he": "כיצד הזיכרון מדריך את הצעד הבא"
+        },
+        "parashah": {
+          "en": "Chayei Sarah",
+          "he": "חיי שרה"
+        },
+        "target_shabbat": "2026-11-07",
+        "category": "tanach",
+        "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-11-07/"
+      },
+      {
         "id": "5785-01-bereshit",
         "title": {
           "en": "The first threshold",
@@ -32062,197 +32076,197 @@
     ]
   },
   "qa": {
-    "release": "v1-7c7f19501ae898242acc44f4",
-    "total": 70959,
+    "release": "v1-64a75302e9c7d9b0cf099fbf",
+    "total": 70964,
     "cards": [
       {
-        "id": "ye-10319",
-        "title": "Why use Babylonian calendar instead of our own?",
+        "id": "ye-14238",
+        "title": "Do some communities still allow more mingling between the sexes on Tu B'Av?",
         "titles": {
-          "en": "Why use Babylonian calendar instead of our own?",
+          "en": "Do some communities still allow more mingling between the sexes on Tu B'Av?",
           "he": ""
         },
         "language": "en",
-        "question": "Why did the Hebrews not create their own calendar system instead of copying the pagan Babylonians'? I find it interesting that they use a pagan calendar which often honours pagan gods. Why is this per",
-        "answer": "Let's take a step back: the Hebrew calendar uses lunar months of either 29 or 30 days (for 354 days altogether). Now the Bible says that Passover should be in the spring, and if you keep having years of 354 days you'll keep sliding backwards until Pa",
+        "question": "Do some communities still allow more mingling between the sexes on Tu B'Av? I understand that this used to be a custom, in addition to allowance of a more relaxed approach to women's tznius on that da",
+        "answer": "The heter to \"mingling\" is that it is part of the process leading to marriage. Similarly, the Rambam (Issurei Biah ch. 21 IIRC) writes it is a mitzvah for a man to determine if a potential wife is attractive, so that he won't come to reject her after",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-14238",
+        "source_url": "https://judaism.stackexchange.com/questions/14238/do-some-communities-still-allow-more-mingling-between-the-sexes-on-tu-bav",
+        "author": "N.T.",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+      },
+      {
+        "id": "up-chabad-890704",
+        "title": "Getting Kids Organized",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Question: Can I teach my child to be more organized? She's just a total mess! She's very bright and capable, but procrastinates with all her responsibilities, leaving it to the very last minute. And t",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "chabad",
+        "category": "general",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-chabad-890704",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/890704/jewish/Getting-Kids-Organized.htm",
+        "author": "Bracha Mirsky",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+      },
+      {
+        "id": "ye-136952",
+        "title": "How did G-d bring creation into the world without changing? Did He not have to decide to create at some point? How did He bring creation without time?",
+        "titles": {
+          "en": "How did G-d bring creation into the world without changing? Did He not have to decide to create at some point? How did He bring creation without time?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "So the question is something like this: If G-d, blessed be He, willed creation into being, then a) He either underwent change (deciding to create) [Impossible] b) He always knew that He was going to c",
+        "answer": "Definition of \"essence\" in this context: the truest description of an entity as it exists by itself, without adjustment for relationship or comparison A very small addendum to a) , and a modest redefinition of something you said in b) will clarify th",
         "answer_count": 4,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-10319",
-        "source_url": "https://judaism.stackexchange.com/questions/10319/why-use-babylonian-calendar-instead-of-our-own",
-        "author": "Shalom",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-154471",
-        "title": "Can a woman ever serve as a Dayan?",
-        "titles": {
-          "en": "Can a woman ever serve as a Dayan?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I've heard of a concept where there are circumstances where a woman may judge between two parties if both accept her. Is this accurate? Are there circumstances where a woman may serve as a judge?",
-        "answer": "Yes, that is how the Prophetess Devorah serving as a judge is explained. The Torah states appoint for yourself a king not a queen (paraphrasing Rambam...), means anyone in non democratic position of power or leadership. Whether the election must be u",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-154471",
-        "source_url": "https://judaism.stackexchange.com/questions/154471/can-a-woman-ever-serve-as-a-dayan",
-        "author": "M G",
+        "url": "https://shekhina.org/qa.html?id=ye-136952",
+        "source_url": "https://judaism.stackexchange.com/questions/136952/how-did-g-d-bring-creation-into-the-world-without-changing-did-he-not-have-to-d",
+        "author": "Ethan Leonard",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
-        "id": "ye-132561",
-        "title": "Where do we find the sources in the tora for these places/actions",
+        "id": "ye-118726",
+        "title": "Does remembering the deceased benefit them?",
         "titles": {
-          "en": "Where do we find the sources in the tora for these places/actions",
+          "en": "Does remembering the deceased benefit them?",
           "he": ""
         },
         "language": "en",
-        "question": "What is the mekor for the names of the Land of Israel: Eretz Yisroel and Eretz Hakodesh?",
-        "answer": "The source for bodies rolling can be found in a couple of places: Famously in the Gemara in Kesubos 111a : וּלְרַבִּי אֶלְעָזָר, צַדִּיקִים שֶׁבְּחוּץ לָאָרֶץ אֵינָם חַיִּים?! אָמַר רַבִּי אִילְעָא: עַל יְדֵי גִּלְגּוּל . מַתְקֵיף לַהּ רַבִּי אַבָּא ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-132561",
-        "source_url": "https://judaism.stackexchange.com/questions/132561/where-do-we-find-the-sources-in-the-tora-for-these-places-actions",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-113642",
-        "title": "The sefer \"Radiance of Shabbat\" by Simcha Bunim Cohen on whether stam yeinam is ok for kiddush b'dieved",
-        "titles": {
-          "en": "The sefer \"Radiance of Shabbat\" by Simcha Bunim Cohen on whether stam yeinam is ok for kiddush b'dieved",
-          "he": ""
-        },
-        "language": "en",
-        "question": "\"Stam yeinam, which is wine processed or even possibly touched by a non-Jew or a public desecrator of Shabbat, is forbidden to be benefited from, and thus is obviously inappropriate for kiddush (YD 12",
-        "answer": "The footnote you mentioned quotes the following opinions as ruling that bediavad one fulfills kiddush if one used stam yeinam : Responsa Kochav MiYaakov 198 Responsa Chesed LeAvraham vol II 31 Machazeh Avraham 49. In contrast, the following opinions ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-113642",
-        "source_url": "https://judaism.stackexchange.com/questions/113642/the-sefer-radiance-of-shabbat-by-simcha-bunim-cohen-on-whether-stam-yeinam-is",
-        "author": "Joel K",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-95226",
-        "title": "What is the difference between \"nitzavim\" and \"omdim\"?",
-        "titles": {
-          "en": "What is the difference between \"nitzavim\" and \"omdim\"?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The beginning of this week's parsha starts with the words אתם נצבים. Couldn't it have used the phrase אתם עומדים ? I understand that in this context, both words mean \"stand\". Why use the term נצבים. h",
-        "answer": "You might have guessed based on recent questions of this sort that I would turn to my favorite Etymological Dictionary of Biblical Hebrew , from the writings of Rav Hirsch. On page 108, there is an entry for the root יצב, which he translates as “erec",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-95226",
-        "source_url": "https://judaism.stackexchange.com/questions/95226/what-is-the-difference-between-nitzavim-and-omdim",
-        "author": "DonielF",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-79733",
-        "title": "How to open tefillin",
-        "titles": {
-          "en": "How to open tefillin",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I do not have a sofer stam near me. How do you open up your tefillin's battim and insure the parshiyot inside are kosher? I suspect they are not kosher (at all), because they are a really cheap pair. ",
-        "answer": "If the boxes are kosher, you should get a real sofer to check them. If there isn't one near you, you can call a sofer in New York and ask if you can mail them in. (Since you live in Midland) There is a sofer in Dallas. Contact Congregation Toras Chai",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-79733",
-        "source_url": "https://judaism.stackexchange.com/questions/79733/how-to-open-tefillin",
-        "author": "Clint Eastwood",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-62086",
-        "title": "Does HaShem still do miracles in exile?",
-        "titles": {
-          "en": "Does HaShem still do miracles in exile?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Are there any sources that HaShem still performs 'open miracles' even during the exile?",
-        "answer": "Example of a miracle during the exile Boba metiya 59b On that day R. Eliezer brought forward every imaginable argument,3 but they did not accept them. Said he to them: 'If thehalachah agrees with me, let this carob-tree prove it!' Thereupon the carob",
+        "question": "Q in short: I can think of ways in which remembering those who have died benefits us (e.g. reminds us that our time here is limited). And of course, the common לעילוי נשמת of doing (or causing) a mitz",
+        "answer": "So from a hashkafah perspective, Rb Mordechai Miller explained this by means of this Ramban https://he.wikisource.org/wiki/%D7%9E%22%D7%92_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%99%D7%90_%D7%9C%D7%91 או שמא יש לו חלק לעולם הבא שאמרו חז\"ל בזכות בנו ",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "history",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-62086",
-        "source_url": "https://judaism.stackexchange.com/questions/62086/does-hashem-still-do-miracles-in-exile",
-        "author": "hazoriz",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-118726",
+        "source_url": "https://judaism.stackexchange.com/questions/118726/does-remembering-the-deceased-benefit-them",
+        "author": "The GRAPKE",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
-        "id": "ye-44230",
-        "title": "How many words are there in Tanach?",
+        "id": "ye-99279",
+        "title": "Why would the Torah mention sins that would never happen?",
         "titles": {
-          "en": "How many words are there in Tanach?",
+          "en": "Why would the Torah mention sins that would never happen?",
           "he": ""
         },
         "language": "en",
-        "question": "How many letters are in the Torah? How many words are in the Torah? How many verses are in the Torah? How many chapters are in the Torah? How many letters, words, verses, and chapters are in every sef",
-        "answer": "There are 304,805 letters in the Torah. There are 79,976 words in the Torah. There are 5,888 or 5,845 verses in the Torah. Bereishit (Genesis) 12 Sidrot 50 Chapters 1,534 Verses Shmot (Exodus) 11 Sidrot 40 Chapter 1,209 Verses Vayikra (Leviticus) 10 ",
-        "answer_count": 3,
+        "question": "The Gemara in Sanhedrin 71a tells us a few aveirot in the Torah that will never come about: First, a ben sorer u'moreh בן סורר ומורה לא היה ולא עתיד להיות ולמה נכתב דרוש וקבל שכר There has never been ",
+        "answer": "In a shiur by Rav Zvi Sobolofsky on YUTorah called \" Inyanei Sfeikos 12 ,\" Rav Sobolofsky discusses the \"בית המנוגע\" (house of leprosy) and notes that while even though this is something the gemara says will never happen, there are nonetheless very i",
+        "answer_count": 5,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-44230",
-        "source_url": "https://judaism.stackexchange.com/questions/44230/how-many-words-are-there-in-tanach",
-        "author": "user6781",
+        "url": "https://shekhina.org/qa.html?id=ye-99279",
+        "source_url": "https://judaism.stackexchange.com/questions/99279/why-would-the-torah-mention-sins-that-would-never-happen",
+        "author": "alicht",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
-        "id": "ye-27305",
-        "title": "Effect of knockout on my soul",
+        "id": "ye-83766",
+        "title": "Is the story of the watering of the sheep by Ya'akov and Rachel chronological?",
         "titles": {
-          "en": "Effect of knockout on my soul",
+          "en": "Is the story of the watering of the sheep by Ya'akov and Rachel chronological?",
           "he": ""
         },
         "language": "en",
-        "question": "I have experienced a knockout two times in the boxing ring during my active fighting career. At the time I was KO, I was conscious of nothing and then I woke up. I am interested in knowing what was go",
-        "answer": "the body acts as a limiter/bottleneck to the soul. the soul is perfectly capable of seeing without physical eyes or thinking without a physical brain (see this audio by rabbi zev leff). but while it is attached to the body, it is limited by the body.",
+        "question": "In relation to this question I would like to know how to understand the following verses: Within Genesis 29 the story around the well is described: Y a'akov looked and saw, and behold (there was) a we",
+        "answer": "It seems that these verses would be chronological. I think you may have gotten somewhat confused with the translation, here, of \"...and, behold, Rachel his daughter cometh with the sheep.\" I am summarizing some of Rashi\"s commentary on some of the ve",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-27305",
-        "source_url": "https://judaism.stackexchange.com/questions/27305/effect-of-knockout-on-my-soul",
-        "author": "ray",
+        "url": "https://shekhina.org/qa.html?id=ye-83766",
+        "source_url": "https://judaism.stackexchange.com/questions/83766/is-the-story-of-the-watering-of-the-sheep-by-yaakov-and-rachel-chronological",
+        "author": "DanF",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+      },
+      {
+        "id": "ye-66676",
+        "title": "What blessing to make on a cronut?",
+        "titles": {
+          "en": "What blessing to make on a cronut?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The local kosher DD is now stocking their imitation of the famous cronut. According to the teudah on the wall, pas Yisrael isn't an issue with donuts since they are fried, croissants require washing s",
+        "answer": "According to Wikipedia , \"The pastry resembles a doughnut and is made from croissant-like dough which is filled with flavored cream and fried in grapeseed oil.\" The Shulchan Aruch ( O.C. 168:13 ) rules: אפילו דבר שבלילתו (פירוש לישת הקמח במים) עבה אם",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-66676",
+        "source_url": "https://judaism.stackexchange.com/questions/66676/what-blessing-to-make-on-a-cronut",
+        "author": "Binyomin",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+      },
+      {
+        "id": "ye-48811",
+        "title": "Why all the talk about colored sheep and goats?",
+        "titles": {
+          "en": "Why all the talk about colored sheep and goats?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In the VaYetze weekly reading (Parasha) there is a long description of the colors of the sheep and goat: Akudim, Nekutim... What is the reason behind all of this descriptions? If the text wanted to sa",
+        "answer": "While it is true that the Torah weighs every word and that many important Halachos are learned from minute hints, the Torah doesn't shy from verbosity when something is to be learned from it. An example of this is the story of Eliezer's journey to fi",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-48811",
+        "source_url": "https://judaism.stackexchange.com/questions/48811/why-all-the-talk-about-colored-sheep-and-goats",
+        "author": "HaLeiVi",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+      },
+      {
+        "id": "ye-30451",
+        "title": "Preparing for Rosh Hashana during Elul",
+        "titles": {
+          "en": "Preparing for Rosh Hashana during Elul",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I hear often about the need for preparing for Rosh Hashana during Elul. Can anyone offer some practical suggestions as to what primarily this preparation entails. Sourced answers, only, please.",
+        "answer": "R' Shlomo Wolbe zt\"l in his sefer Alei Shur Volume 2, Shaar 3, Chapters 16-17 gives a very practical process of what to do during the month of Elul. Unfortunately, I did not see it online to link to. In short, he says that in Elul a person needs to p",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-30451",
+        "source_url": "https://judaism.stackexchange.com/questions/30451/preparing-for-rosh-hashana-during-elul",
+        "author": "Dov Levene",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "up-din-2023030213190305",
@@ -32273,7 +32287,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "ye-139639",
@@ -32294,7 +32308,7 @@
         "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "yeshiva-151826",
@@ -32315,7 +32329,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "din-url-f085b9c76a9f3317a19f03eb",
@@ -32336,7 +32350,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "din-url-02e14beebf2bda9ec5b4131c",
@@ -32357,7 +32371,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "up-din-275232",
@@ -32378,7 +32392,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "up-din-2020121013373822",
@@ -32399,7 +32413,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "up-din-2021070512753180",
@@ -32420,7 +32434,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       },
       {
         "id": "up-din-202103307471056",
@@ -32441,7 +32455,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
+        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
       }
     ]
   }
