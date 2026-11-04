@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-03T19:29:26Z",
+  "checked_at": "2026-11-04T00:36:39Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-03T19:29:26Z"
+      "checked_at": "2026-11-04T00:36:39Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-03T19:29:26Z"
+      "checked_at": "2026-11-04T00:36:39Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-03T19:29:26Z"
+      "checked_at": "2026-11-04T00:36:39Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-03T19:29:26Z"
+      "checked_at": "2026-11-04T00:36:39Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-03T19:29:26Z"
+      "checked_at": "2026-11-04T00:36:39Z"
     }
   },
   "music": [
@@ -9918,6 +9918,20 @@
         "target_shabbat": "2026-10-31",
         "category": "zohar",
         "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-10-31/"
+      },
+      {
+        "id": "5787-2026-11-07",
+        "title": {
+          "en": "Life, burial and the promise of return",
+          "he": "חיים, קבורה והבטחת השיבה"
+        },
+        "parashah": {
+          "en": "Chayei Sarah",
+          "he": "חיי שרה"
+        },
+        "target_shabbat": "2026-11-07",
+        "category": "zohar",
+        "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-07/"
       }
     ],
     "weeks": [
@@ -32052,378 +32066,378 @@
     "total": 70959,
     "cards": [
       {
-        "id": "ye-10346",
-        "title": "Why are there so many accounts of the Hebrews' killing their neighbors and so few of their being kind or good?",
+        "id": "ye-10319",
+        "title": "Why use Babylonian calendar instead of our own?",
         "titles": {
-          "en": "Why are there so many accounts of the Hebrews' killing their neighbors and so few of their being kind or good?",
+          "en": "Why use Babylonian calendar instead of our own?",
           "he": ""
         },
         "language": "en",
-        "question": "I know everybody was attacking everybody in those days, but still why are there so few examples of the Hebrews setting an example of kindness to the poor, weak or even being kind? Instead, the solutio",
-        "answer": "Abraham and Sara set an example how to take care of guests. Jews are required to tithe their earnings to help the poor. Moses did all he could to help the Jews get out of Egypt, and to save them when they sinned. The Torah is not fiction, it is true ",
-        "answer_count": 1,
+        "question": "Why did the Hebrews not create their own calendar system instead of copying the pagan Babylonians'? I find it interesting that they use a pagan calendar which often honours pagan gods. Why is this per",
+        "answer": "Let's take a step back: the Hebrew calendar uses lunar months of either 29 or 30 days (for 354 days altogether). Now the Bible says that Passover should be in the spring, and if you keep having years of 354 days you'll keep sliding backwards until Pa",
+        "answer_count": 4,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-10346",
-        "source_url": "https://judaism.stackexchange.com/questions/10346/why-are-there-so-many-accounts-of-the-hebrews-killing-their-neighbors-and-so-fe",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-10319",
+        "source_url": "https://judaism.stackexchange.com/questions/10319/why-use-babylonian-calendar-instead-of-our-own",
+        "author": "Shalom",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-154522",
-        "title": "Chanukah candles or Shabbos candles first on Friday",
+        "id": "ye-154471",
+        "title": "Can a woman ever serve as a Dayan?",
         "titles": {
-          "en": "Chanukah candles or Shabbos candles first on Friday",
+          "en": "Can a woman ever serve as a Dayan?",
           "he": ""
         },
         "language": "en",
-        "question": "On Friday of Chanukah, the Kaf Hachaim O.C 679:1 says that it's because of מעלין בקודש (going up in holiness), so therefore Chanukah goes first and then Shabbat. Why and in what way is Chanukah lighti",
-        "answer": "In שער הכוונות דרוש חנוכה דרוש א Rav Chaim Vital writes: ״ואמנם נבאר תחילה ענין קדושת הימים האלו ואח\"כ נבאר ענין ברכות נר של חנוכה. והנה כמו שנתבאר שבשבתות ויו\"ט ור\"ח יש בהם תוספת קדושה על ימי החול -- גם בחנוכה ופורים יש בהם תוספת קדושה יותר מימי החו",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-154522",
-        "source_url": "https://judaism.stackexchange.com/questions/154522/chanukah-candles-or-shabbos-candles-first-on-friday",
-        "author": "Yeshivish 101",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-132597",
-        "title": "Is there any particular reason we do Kaddish so often?",
-        "titles": {
-          "en": "Is there any particular reason we do Kaddish so often?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I know repetition is at the center of Judaism: we say shema and do the amida everyday, remember important events every year etc. The question is particularly about Kaddish, is there any reason we perf",
-        "answer": "Welcome to Mi Yodeya, thanks for the most excellent first question. It seems that Kaddish didn't start out as a mourner's prayer. According to Rav David De Sola Pool in The Kaddish , it's origin is as closing tefilla after a Torah discourse. Indeed, ",
-        "answer_count": 1,
+        "question": "I've heard of a concept where there are circumstances where a woman may judge between two parties if both accept her. Is this accurate? Are there circumstances where a woman may serve as a judge?",
+        "answer": "Yes, that is how the Prophetess Devorah serving as a judge is explained. The Torah states appoint for yourself a king not a queen (paraphrasing Rambam...), means anyone in non democratic position of power or leadership. Whether the election must be u",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-132597",
-        "source_url": "https://judaism.stackexchange.com/questions/132597/is-there-any-particular-reason-we-do-kaddish-so-often",
-        "author": "Rabbi Kaii",
+        "url": "https://shekhina.org/qa.html?id=ye-154471",
+        "source_url": "https://judaism.stackexchange.com/questions/154471/can-a-woman-ever-serve-as-a-dayan",
+        "author": "M G",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-113674",
-        "title": "On the halachic level, what are the requirements for a Gentiles couple to be considered married?",
+        "id": "ye-132561",
+        "title": "Where do we find the sources in the tora for these places/actions",
         "titles": {
-          "en": "On the halachic level, what are the requirements for a Gentiles couple to be considered married?",
+          "en": "Where do we find the sources in the tora for these places/actions",
           "he": ""
         },
         "language": "en",
-        "question": "My question may seem bizarre, since in our age marriage is a juridical institution widely regulated in every nation, with the presence of witnesses and a precise registration in public registers; howe",
-        "answer": "For the purpose of Jewish Laws affecting the Noahide, Halacha is indifferent as to the ritual or ceremony by which non-Jews traditionally effect a marriage bond. [Nevertheless, practicing Noahides should definitely abide by the laws of the land that ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-113674",
-        "source_url": "https://judaism.stackexchange.com/questions/113674/on-the-halachic-level-what-are-the-requirements-for-a-gentiles-couple-to-be-con",
-        "author": "IsraelReader",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-95255",
-        "title": "Age of the universe",
-        "titles": {
-          "en": "Age of the universe",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Do contemporary Orthodox (Litvish, Chassidish, & Sephardi) Rabbi’s still believe that the world was created 5,779 yrs ago or do they agree with Aryeh Kaplan that perhaps 5779 is just the birth of Adam",
-        "answer": "From a 2010 interview with Rabbi Hershel Schachter , printed in Kol HaMevaser. Rabbi Schachter is one of OU Kosher's main poskim and among the most-renowned roshei yeshiva at Yeshiva University: Q: What do you believe about the opinion of R. Nachum E",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-95255",
-        "source_url": "https://judaism.stackexchange.com/questions/95255/age-of-the-universe",
-        "author": "Shalom",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-79773",
-        "title": "The author of ‘commotion’",
-        "titles": {
-          "en": "The author of ‘commotion’",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In the Talmud - Mas. Mo'ed Katan 16a, Pharaoh is called The author of ‘commotion’. As it is written: They called there, Pharaoh the king of Egypt [the author of] ‘commotion’; he hath let the appointed",
-        "answer": "The commotion is part of a verse in Jeremiah 46:17. קָרְא֖וּ שָׁ֑ם פַּרְעֹ֤ה מֶֽלֶךְ־מִצְרַ֙יִם֙ שָׁא֔וֹן הֶעֱבִ֖יר הַמּוֹעֵֽד׃‏ There they called Pharaoh king of Egypt: “Braggart (or: Master of commotion) who let the hour go by.” Though not everybod",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-79773",
-        "source_url": "https://judaism.stackexchange.com/questions/79773/the-author-of-commotion",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "ye-62101",
-        "title": "What was the status of the Pharisees, and their relationship with the Temple authorities in the early first century?",
-        "titles": {
-          "en": "What was the status of the Pharisees, and their relationship with the Temple authorities in the early first century?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "One of the many mistakes made by the authors of the Christian gospels is attributing the state of affairs in their own time to the time they are trying to describe. An example of this error is the way",
-        "answer": "\"History is written by the victor,\" as they say. In the case of the Second Temple period, however, virtually everyone lost, so interpreting history can be a matter of dispute. In Jewish tradition, it is, however, indisputable that the Pharisees were ",
+        "question": "What is the mekor for the names of the Land of Israel: Eretz Yisroel and Eretz Hakodesh?",
+        "answer": "The source for bodies rolling can be found in a couple of places: Famously in the Gemara in Kesubos 111a : וּלְרַבִּי אֶלְעָזָר, צַדִּיקִים שֶׁבְּחוּץ לָאָרֶץ אֵינָם חַיִּים?! אָמַר רַבִּי אִילְעָא: עַל יְדֵי גִּלְגּוּל . מַתְקֵיף לַהּ רַבִּי אַבָּא ",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "history",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-62101",
-        "source_url": "https://judaism.stackexchange.com/questions/62101/what-was-the-status-of-the-pharisees-and-their-relationship-with-the-temple-aut",
-        "author": "Seth J",
+        "url": "https://shekhina.org/qa.html?id=ye-132561",
+        "source_url": "https://judaism.stackexchange.com/questions/132561/where-do-we-find-the-sources-in-the-tora-for-these-places-actions",
+        "author": "Dov",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-113642",
+        "title": "The sefer \"Radiance of Shabbat\" by Simcha Bunim Cohen on whether stam yeinam is ok for kiddush b'dieved",
+        "titles": {
+          "en": "The sefer \"Radiance of Shabbat\" by Simcha Bunim Cohen on whether stam yeinam is ok for kiddush b'dieved",
+          "he": ""
+        },
+        "language": "en",
+        "question": "\"Stam yeinam, which is wine processed or even possibly touched by a non-Jew or a public desecrator of Shabbat, is forbidden to be benefited from, and thus is obviously inappropriate for kiddush (YD 12",
+        "answer": "The footnote you mentioned quotes the following opinions as ruling that bediavad one fulfills kiddush if one used stam yeinam : Responsa Kochav MiYaakov 198 Responsa Chesed LeAvraham vol II 31 Machazeh Avraham 49. In contrast, the following opinions ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-113642",
+        "source_url": "https://judaism.stackexchange.com/questions/113642/the-sefer-radiance-of-shabbat-by-simcha-bunim-cohen-on-whether-stam-yeinam-is",
+        "author": "Joel K",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-95226",
+        "title": "What is the difference between \"nitzavim\" and \"omdim\"?",
+        "titles": {
+          "en": "What is the difference between \"nitzavim\" and \"omdim\"?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The beginning of this week's parsha starts with the words אתם נצבים. Couldn't it have used the phrase אתם עומדים ? I understand that in this context, both words mean \"stand\". Why use the term נצבים. h",
+        "answer": "You might have guessed based on recent questions of this sort that I would turn to my favorite Etymological Dictionary of Biblical Hebrew , from the writings of Rav Hirsch. On page 108, there is an entry for the root יצב, which he translates as “erec",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-95226",
+        "source_url": "https://judaism.stackexchange.com/questions/95226/what-is-the-difference-between-nitzavim-and-omdim",
+        "author": "DonielF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-79733",
+        "title": "How to open tefillin",
+        "titles": {
+          "en": "How to open tefillin",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I do not have a sofer stam near me. How do you open up your tefillin's battim and insure the parshiyot inside are kosher? I suspect they are not kosher (at all), because they are a really cheap pair. ",
+        "answer": "If the boxes are kosher, you should get a real sofer to check them. If there isn't one near you, you can call a sofer in New York and ask if you can mail them in. (Since you live in Midland) There is a sofer in Dallas. Contact Congregation Toras Chai",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-79733",
+        "source_url": "https://judaism.stackexchange.com/questions/79733/how-to-open-tefillin",
+        "author": "Clint Eastwood",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-44260",
-        "title": "Unusual pronunciation of \"Mol\" in Devarim 1:1",
+        "id": "ye-62086",
+        "title": "Does HaShem still do miracles in exile?",
         "titles": {
-          "en": "Unusual pronunciation of \"Mol\" in Devarim 1:1",
+          "en": "Does HaShem still do miracles in exile?",
           "he": ""
         },
         "language": "en",
-        "question": "Devarim 1:1 uses the phrase \"Mol Suf\". The word is pronounced \"Mol\" vs. \"Mul\". I assume that the literal definition of the word is \"against\" or \"near\". In other locations in the Torah, the word is pro",
-        "answer": "The grammarian's answer is that cholam and shuruk are interchangeable. So writes Radak , Ben-Zev , and one of today's greatest Hebrew grammarians, R. Meir Mazuz . Why one is chosen in one instance and the other in another is simply a matter of style.",
-        "answer_count": 1,
+        "question": "Are there any sources that HaShem still performs 'open miracles' even during the exile?",
+        "answer": "Example of a miracle during the exile Boba metiya 59b On that day R. Eliezer brought forward every imaginable argument,3 but they did not accept them. Said he to them: 'If thehalachah agrees with me, let this carob-tree prove it!' Thereupon the carob",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-62086",
+        "source_url": "https://judaism.stackexchange.com/questions/62086/does-hashem-still-do-miracles-in-exile",
+        "author": "hazoriz",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "ye-44230",
+        "title": "How many words are there in Tanach?",
+        "titles": {
+          "en": "How many words are there in Tanach?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "How many letters are in the Torah? How many words are in the Torah? How many verses are in the Torah? How many chapters are in the Torah? How many letters, words, verses, and chapters are in every sef",
+        "answer": "There are 304,805 letters in the Torah. There are 79,976 words in the Torah. There are 5,888 or 5,845 verses in the Torah. Bereishit (Genesis) 12 Sidrot 50 Chapters 1,534 Verses Shmot (Exodus) 11 Sidrot 40 Chapter 1,209 Verses Vayikra (Leviticus) 10 ",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-44260",
-        "source_url": "https://judaism.stackexchange.com/questions/44260/unusual-pronunciation-of-mol-in-devarim-11",
-        "author": "jake",
+        "url": "https://shekhina.org/qa.html?id=ye-44230",
+        "source_url": "https://judaism.stackexchange.com/questions/44230/how-many-words-are-there-in-tanach",
+        "author": "user6781",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-27326",
-        "title": "What were the arguments for and against man's creation?",
+        "id": "ye-27305",
+        "title": "Effect of knockout on my soul",
         "titles": {
-          "en": "What were the arguments for and against man's creation?",
+          "en": "Effect of knockout on my soul",
           "he": ""
         },
         "language": "en",
-        "question": "The gemara in Eiruvin 13b teaches that for two and a half years there was a dispute between Beit Shammai and Beit Hillel - these said that it was better for man not to have been created than to have b",
-        "answer": "All of the sources I found seem to deal on some level with the investigation of human nature. Ben Jehoaidah, Eruvin 13b explains that Israel, (he says ישראל‏ specifically), was created as a part of the בריאה‏ from the Throne of Glory, citing the Ariz",
-        "answer_count": 2,
+        "question": "I have experienced a knockout two times in the boxing ring during my active fighting career. At the time I was KO, I was conscious of nothing and then I woke up. I am interested in knowing what was go",
+        "answer": "the body acts as a limiter/bottleneck to the soul. the soul is perfectly capable of seeing without physical eyes or thinking without a physical brain (see this audio by rabbi zev leff). but while it is attached to the body, it is limited by the body.",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-27326",
-        "source_url": "https://judaism.stackexchange.com/questions/27326/what-were-the-arguments-for-and-against-mans-creation",
-        "author": "Baby Seal",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-27305",
+        "source_url": "https://judaism.stackexchange.com/questions/27305/effect-of-knockout-on-my-soul",
+        "author": "ray",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "up-din-202303046264726",
-        "title": "מתנות לאביונים לסעודת עניים בפורים",
+        "id": "up-din-2023030213190305",
+        "title": "החובה להשמיע לאוזניו בקריאת המגילה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "לכבוד הרב שליט\"אמי שיש לו גמ\"ח גדול ואנשים תורמים להשתתף בסעודה לאביונים ביום פורים.יש לי כמה שאלות כתבתי את הנק' שצריכות לי בירור:א.האם צריך לעשות קנין?ב.יש פעמים שאנשים שעוברים ורואים את המראה הגדול",
+        "question": "אדם שיש מגילה יקרא עם החזן ( למרות שלא שומע את עצמו בכל מילה)?האם יכול גם לקרוא בעצמו, ואם 'במקרה' יקרא מילה אחת מבלי להשמיע לאוזנו,אז זה נורא? או לא נורא כי שמע גם מהחזן?משנה ברורה, שער הציון סימן תר",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202303046264726",
-        "source_url": "https://din.org.il/2023/03/04/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%9c%d7%a1%d7%a2%d7%95%d7%93%d7%aa-%d7%a2%d7%a0%d7%99%d7%99%d7%9d-%d7%91%d7%a4%d7%95%d7%a8%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2023030213190305",
+        "source_url": "https://din.org.il/2023/03/02/%d7%94%d7%97%d7%95%d7%91%d7%94-%d7%9c%d7%94%d7%a9%d7%9e%d7%99%d7%a2-%d7%9c%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95-%d7%91%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%94%d7%9e%d7%92%d7%99%d7%9c%d7%94/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "ye-139687",
-        "title": "מנחה לפני הזמן",
+        "id": "ye-139639",
+        "title": "שעת מילה ביום שישי",
         "titles": {
           "en": "",
-          "he": "מנחה לפני הזמן"
+          "he": "שעת מילה ביום שישי"
         },
         "language": "he",
-        "question": "שלום, התפללתי לפני הזמן בטעות מנחה.. בסביבות שתים עשרה ועשרה. מה עליי לעשות עכשיו? האם יצאתי לידי חובה בתפילה? אשמח אם תוכלו להדריך אותי, תודה שלום וברכה, לא יצאת ידי חובת תפילה ועליך לחזור ולהתפלל מנ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139687",
-        "source_url": "https://www.yeshiva.org.il/ask/139687",
-        "author": "הרב דניאל קירש",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "yeshiva-151882",
-        "title": "דיני אישה לא צנועה בטרמפ",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לרב, רציתי לשאול האם מותר לעלות לטרמפ ונוהגת בו אישה לא צנועה במיוחד כיצד עליי לנהוג?",
+        "question": "האם ניתן למול גם בשעות כמו 12:00 ביום שישי, מספיק זמן לפני שבת כמובן בשבת של קיץ? או שיש עניין שיהיה מוקדם? (ברור שיש את עניין מקדימים למצוות, אני שואל בפן ההלכתי של חצות יום וסעודה לפני שבת) תודה את ",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-151882",
-        "source_url": "https://www.yeshiva.org.il/ask/151882",
+        "url": "https://shekhina.org/qa.html?id=ye-139639",
+        "source_url": "https://www.yeshiva.org.il/ask/139639",
         "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "din-url-f114842fedde6834d224d57f",
-        "title": "הקלטת התפילות בבית הכנסת בשבת",
+        "id": "yeshiva-151826",
+        "title": "מרעה בשבת מסביב לחווה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום,האם מותר לשים נגן לפני שבת בבית כנסת על מצב הקלטה שזה יקליט בשבת ובמוצ'ש לקחת אותו חזרה?",
+        "question": "וברכה בחווה שבה המרעה הוא עיקר העלות של החווה ביטחוני והתיישבותית, האם מותר יהיה להוציא מרעה בשבת כולל טלטול מחוץ לתחום ואם כן איך? חשוב להדגיש למי שלא מכיר את המציאות שהיעילות הביטחונית של החווה לא פ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=yeshiva-151826",
+        "source_url": "https://www.yeshiva.org.il/ask/151826",
+        "author": "הרב דניאל קירש",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "din-url-f085b9c76a9f3317a19f03eb",
+        "title": "ריקודים בשבת וחג – שמחת תורה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אם התירו לכבוד תורה לרקוד בשמחת תורה שחל בשבת מה שונה מסתם שבת שאני משבח את השם קל וחומר מהתורה התירו ודאי ששירה להשם יהיה מותר אם כן למה ספרדים מחמירים? תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-f114842fedde6834d224d57f",
-        "source_url": "https://din.org.il/2022/07/31/%d7%94%d7%a7%d7%9c%d7%98%d7%aa-%d7%94%d7%aa%d7%a4%d7%99%d7%9c%d7%95%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%94%d7%9b%d7%a0%d7%a1%d7%aa-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-f085b9c76a9f3317a19f03eb",
+        "source_url": "https://din.org.il/2019/02/01/%d7%a8%d7%99%d7%a7%d7%95%d7%93%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa-%d7%95%d7%97%d7%92-%d7%a9%d7%9e%d7%97%d7%aa-%d7%aa%d7%95%d7%a8%d7%94/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "din-url-02e14beebf2bda9ec5b4131c",
+        "title": "הריגת נחש ארסי בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אל כבוד הרבנים החשובים 1 מצאתי ביום שבת נחש ארסי בתוך הדיר של העזים שלי האם היה מותר לי להרוג אותו? 2 לפעמים הילדים משחקים בשבת ונכנסים לדיר האם זה נקרא פיקוח נפש ומותר להרוג אף על פי שבזמן שראיתי את ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-02e14beebf2bda9ec5b4131c",
+        "source_url": "https://din.org.il/2017/07/16/%d7%94%d7%a8%d7%99%d7%92%d7%aa-%d7%a0%d7%97%d7%a9-%d7%90%d7%a8%d7%a1%d7%99-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-7c7f19501ae898242acc44f4"
+      },
+      {
+        "id": "up-din-275232",
+        "title": "מקל הליכה בשבת במקום שאין עירוב",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום לכבוד הרבנים!האם מותר בשבת להיעזר במקל הליכה לאדם שמתקשה בהליכה כגון זקן שנשען על מקלו, לצאת ברחוב או לבית הכנסת?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-275232",
+        "source_url": "https://din.org.il/2020/06/18/%d7%9e%d7%a7%d7%9c-%d7%94%d7%9c%d7%99%d7%9b%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%90%d7%99%d7%9f-%d7%a2%d7%99%d7%a8%d7%95%d7%91-2/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "din-url-03f9c6d0196fd9cfef0d780b",
-        "title": "לכלוך על בגד בשבת",
+        "id": "up-din-2020121013373822",
+        "title": "נר חנוכה בערב שבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום רב, האם כאשר נופל על הבגד מאכל כגון מאכל עם רוטב וכדומה, אשר נופל מהבגד בעזרת ניעור או תנועה קלה עם האצבע ולא ממש קילוף- האם מותר להסירו בשבת? תודה רבה",
+        "question": "בס\"דשלום וברכה1. אני נוהגת תמיד בלי נדר להדליק נרות שבת כמה דקות אחרי פלג מנחה ולא 30 דקות לפני השקיעה כנהוג בדרך כלל.מה עושים ביום שישי הזה כצריך קודם להדליק נר חנוכה ? מותר להדליק נרות חנוכה מייד בם",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-03f9c6d0196fd9cfef0d780b",
-        "source_url": "https://din.org.il/2026/02/08/%d7%9c%d7%9b%d7%9c%d7%95%d7%9a-%d7%a2%d7%9c-%d7%91%d7%92%d7%93-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2020121013373822",
+        "source_url": "https://din.org.il/2020/12/10/%d7%a0%d7%a8-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%91%d7%a2%d7%a8%d7%91-%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "up-din-277105",
-        "title": "הנאה מחילול שבת עקיף",
+        "id": "up-din-2021070512753180",
+        "title": "הבדלה לילדים בתשעה באב שחל ביום ראשון",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "בוקר טוב,במקום עבודתי ניגשים למכרז במקום מרוחק, בו צריך לתת את החומר למכרז.אחותי ומשפחתה גרים שם. ביקשו את עזרתי, שאתן לאחותי או בעלה,שייתנו את החומר, כדי לחסוך זמן וכסף.העניין הוא שהם יבואו כנראה בשב",
+        "question": "האם יש להורות לילדים שהגיעו לחינוך להבדיל לפני שהם אוכלים בתשעה באב ואם כן מתי בדיוק? כבר בלילה או רק בבוקר?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-277105",
-        "source_url": "https://din.org.il/2020/07/02/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%97%d7%99%d7%9c%d7%95%d7%9c-%d7%a9%d7%91%d7%aa-%d7%a2%d7%a7%d7%99%d7%a3-2/",
-        "author": "רבני בית הוראה",
+        "url": "https://shekhina.org/qa.html?id=up-din-2021070512753180",
+        "source_url": "https://din.org.il/2021/07/05/%d7%94%d7%91%d7%93%d7%9c%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91-%d7%a9%d7%97%d7%9c-%d7%91%d7%99%d7%95%d7%9d-%d7%a8%d7%90%d7%a9%d7%95%d7%9f/",
+        "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
         "snapshot": "v1-7c7f19501ae898242acc44f4"
       },
       {
-        "id": "up-din-202012108726786",
-        "title": "נרות חנוכה לא סמוכה על שולחן ההורים",
+        "id": "up-din-202103307471056",
+        "title": "שכח לאכול אפיקומן",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום,אני גרה לבד אך מדליקה נרות חנוכה אצל ההורים שלי.האם אני צריכה להדליק נר חנוכה גם בבית שלי? אני חוזרת מאוד מאוחר הביתה (רק ישנה שם) אז מתי אני מדליקה את הנר?אני לפי אשכנז.תודה",
+        "question": "מועדים לשמחה.שאלה בדיעבד. אדם בליל הסדר שכח לאכול אפיקומן וכבר בירך ברכת המזון ושתה כוס שלישית, ונזכר. מה היה עליו לעשות? תודה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202012108726786",
-        "source_url": "https://din.org.il/2020/12/10/%d7%a0%d7%a8%d7%95%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%9c%d7%90-%d7%a1%d7%9e%d7%95%d7%9b%d7%94-%d7%a2%d7%9c-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%94%d7%94%d7%95%d7%a8%d7%99%d7%9d/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "up-din-2021070616527466",
-        "title": "הפטרה לשבת ר\"ח אב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "לא זכיתי להבין למה בשבת זו שבת ראש חודש אב מפטירים שמעו ולא חזון. תינח בשאר שנים קוראים לפי הסדר של ג' פורענותא אך השנה שר\"ח חל בשבת מדינא דגמ’ היו צריכים להפוך את הסדר כדתנן במגילה \"ר\"ח אב שחל להיות ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2021070616527466",
-        "source_url": "https://din.org.il/2021/07/06/%d7%94%d7%a4%d7%98%d7%a8%d7%94-%d7%9c%d7%a9%d7%91%d7%aa-%d7%a8%d7%97-%d7%90%d7%91/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-7c7f19501ae898242acc44f4"
-      },
-      {
-        "id": "up-din-202103313467691",
-        "title": "שכחתי למכור חמץ ויש לי קמח בית",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שכחתי למכור את החמץ..אפשר להשתמש בקמח שנשאר בבית למימונה ??",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202103313467691",
-        "source_url": "https://din.org.il/2021/03/31/%d7%a9%d7%9b%d7%97%d7%aa%d7%99-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8-%d7%97%d7%9e%d7%a5-%d7%95%d7%99%d7%a9-%d7%9c%d7%99-%d7%a7%d7%9e%d7%97-%d7%91%d7%99%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202103307471056",
+        "source_url": "https://din.org.il/2021/03/30/%d7%a9%d7%9b%d7%97-%d7%9c%d7%90%d7%9b%d7%95%d7%9c-%d7%90%d7%a4%d7%99%d7%a7%d7%95%d7%9e%d7%9f/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
