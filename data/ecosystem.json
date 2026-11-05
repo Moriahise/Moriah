@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-05T00:53:49Z",
+  "checked_at": "2026-11-05T12:16:51Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-05T00:53:49Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-05T00:53:49Z"
+      "checked_at": "2026-11-05T12:16:51Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-05T00:53:49Z"
+      "checked_at": "2026-11-05T12:16:51Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-05T12:16:51Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-05T00:53:49Z"
+      "checked_at": "2026-11-05T12:16:51Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-05T00:53:49Z"
+      "checked_at": "2026-11-05T12:16:51Z"
     }
   },
   "music": [
@@ -32076,197 +32076,197 @@
     ]
   },
   "qa": {
-    "release": "v1-64a75302e9c7d9b0cf099fbf",
-    "total": 70964,
+    "release": "v1-518d91abb78bbee9c32f4167",
+    "total": 70969,
     "cards": [
       {
-        "id": "ye-14199",
-        "title": "Why don't brides (always) cover their hair for their weddings?",
+        "id": "ye-16288",
+        "title": "Comparison of Lexica: BDB and Strong's Hebrew",
         "titles": {
-          "en": "Why don't brides (always) cover their hair for their weddings?",
+          "en": "Comparison of Lexica: BDB and Strong's Hebrew",
           "he": ""
         },
         "language": "en",
-        "question": "Why don't brides (always) cover their hair for their weddings? I understand that in some ultra-religious groups they do, but there seem to be many groups within Orthodoxy where they do not cover their",
-        "answer": "A veil is worn, of course, but that hardly seems to be a full covering. I learned that due to the large argument about when the bride first must cover her hair, it is sufficient at the wedding to have a partial covering which satisfies the Biblical r",
-        "answer_count": 3,
+        "question": "Which has more entries, BDB or Strong's Hebrew? Is there any known mapping between the two?",
+        "answer": "OK, I'm going to answer it myself, based on the comments above. Mapping 1 Strongs entry -> possibly multiple BDB entries Apparently, because Hebrew words can be browsed by Strong's entry at concordances.org/hebrew, and each entry is linked to a BDB e",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-14199",
-        "source_url": "https://judaism.stackexchange.com/questions/14199/why-dont-brides-always-cover-their-hair-for-their-weddings",
-        "author": "Double AA",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-16288",
+        "source_url": "https://judaism.stackexchange.com/questions/16288/comparison-of-lexica-bdb-and-strongs-hebrew",
+        "author": "Walrus the Cat",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "up-chabad-877184",
-        "title": "Finding Recreation for the Whole Family",
+        "id": "up-aish-91063",
+        "title": "Sons of Aaron - Doing It My Way",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Dear Bracha, We have a family with teenage children as well as really young ones. I am finding it challenging to go on recreational trips or vacations that would be suitable for everyone. Is there suc",
+        "question": "Why are there so many rules in Judaism? Can’t I just “do it my way?”",
         "answer": "",
         "answer_count": 1,
-        "provider": "chabad",
-        "category": "tanach",
+        "provider": "aish",
+        "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-877184",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/877184/jewish/Finding-Recreation-for-the-Whole-Family.htm",
-        "author": "Bracha Mirsky",
+        "url": "https://shekhina.org/qa.html?id=up-aish-91063",
+        "source_url": "https://aish.com/sons-of-aaron-do-it-my-way/",
+        "author": "Aish.com Staff",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-136917",
-        "title": "Royal convert, still royal?",
+        "id": "my-139377",
+        "title": "Best Seforim Stores in USA and Israel?",
         "titles": {
-          "en": "Royal convert, still royal?",
+          "en": "Best Seforim Stores in USA and Israel?",
           "he": ""
         },
         "language": "en",
-        "question": "What is the situation with royal converts, i.e., converts who come from royal blood or are of royal relatives? Are they still royal? Do we have to stand for them as with any royal, do we not have to s",
-        "answer": "Basically, it shouldn't matter. If the local population treats this person like a royal, then you should a.) show respect accordingly, to get along better with the locals; and b.) perhaps even make an effort to see how royalty is treated. (The latter",
+        "question": "What seforim stores in the USA and Israel that ship, objectively, have the most extensive selection? Especially for Kabbalah, chassidus, machshava and Rav Kook? In USA east coast region optimal. In Is",
+        "answer": "Israel - Pomeranz Bookstore in Jerusalem. https://pomeranzbooks.com/ USA - Judaica House in Teaneck. https://www.judaicahouse.net/ These stores have a broad selection - traditional books, as well as books on Jewish culture and history.",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-136917",
-        "source_url": "https://judaism.stackexchange.com/questions/136917/royal-convert-still-royal",
-        "author": "Shalom",
+        "category": "kabbalah",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=my-139377",
+        "source_url": "https://judaism.stackexchange.com/questions/139377/best-seforim-stores-in-usa-and-israel",
+        "author": "Bs234570",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-118702",
-        "title": "What is the reason for non-linear structure in many mishnayot?",
+        "id": "ye-121483",
+        "title": "Climate and growing season in Iron Age Israel and Judah",
         "titles": {
-          "en": "What is the reason for non-linear structure in many mishnayot?",
+          "en": "Climate and growing season in Iron Age Israel and Judah",
           "he": ""
         },
         "language": "en",
-        "question": "What is the reason that many mishnayot are structured in non-linear fashion, where the first case discusses Topic #1, the middle case discusses Topic #2, and the last case returns to Topic #1? One exa",
-        "answer": "Usually these questions are discussed by the commentators. The only case I remember seeing the reason for a Mishnah being written a certain way being given as for memorization is the first Mishnah in Megillah (see Rashi to daf 4b.) I have heard that ",
-        "answer_count": 1,
+        "question": "Jan A Wagenaar, Origin and Transformation of the Ancient Israelite Festival Calendar , Harrassowitz Verlag, Wiesbaden 2005, proposes that the Feast of Unleavened Bread was originally in the month of I",
+        "answer": "I won't answer the question as stated. Instead I will address one premise of the question, which is actually very common with this type of question. The question assumes that Pesach is supposed to be at the time of the regular barley harvest. This co",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-118702",
-        "source_url": "https://judaism.stackexchange.com/questions/118702/what-is-the-reason-for-non-linear-structure-in-many-mishnayot",
-        "author": "N.T.",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-121483",
+        "source_url": "https://judaism.stackexchange.com/questions/121483/climate-and-growing-season-in-iron-age-israel-and-judah",
+        "author": "Mordechai",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-99247",
-        "title": "What does it mean \"vus iz de nafke meene\"",
+        "id": "ye-101744",
+        "title": "Why is karpas usually parsley?",
         "titles": {
-          "en": "What does it mean \"vus iz de nafke meene\"",
+          "en": "Why is karpas usually parsley?",
           "he": ""
         },
         "language": "en",
-        "question": "What is the exact definition of \"Vus iz di nafke meene\"?",
-        "answer": "\"Vus is de\" is Yiddish for what is the ... Nafka mina is the Aramaic for comes out from this. If there is a difference of opinion in the Talmud on a theory, a nafka mina would be a case whose ruling would depend on the difference in theory. For examp",
+        "question": "Apparently, a variety of vegetables my be used for karpas. So, when and why has it become common to use parsley?",
+        "answer": "Because its green and sprigy, symbolizing the new growth of springtime. Source:my kids Pesach workbooks.",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-101744",
+        "source_url": "https://judaism.stackexchange.com/questions/101744/why-is-karpas-usually-parsley",
+        "author": "LN6595",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-86183",
+        "title": "How does scattering and giving different languages help to solve the problem?",
+        "titles": {
+          "en": "How does scattering and giving different languages help to solve the problem?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In what way does confounding the language of the people, and scatter them abroad upon the face of all the earth (Bereshit 11:7-9) help to correct the wrong? Bereshit 11:4 teaches that people wanted to",
+        "answer": "Sanhedrin 109a deals with this incident. The following is R’ Yirmiya ben Elazar’s explanation there, as explained by Rashi and Maharsha. There were three groups of people at the Migdal Bavel: Those that wanted to attack HaShem Those that just wanted ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-86183",
+        "source_url": "https://judaism.stackexchange.com/questions/86183/how-does-scattering-and-giving-different-languages-help-to-solve-the-problem",
+        "author": "DonielF",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-69095",
+        "title": "Why did Haman lack Af?",
+        "titles": {
+          "en": "Why did Haman lack Af?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Shmot Rabba 41:7 (Sefaria breakup within Parshiyot) says: חמשה מלאכי חבלה היו שם: אף, וחמה, וקצף, והשמד, והשחת. The five angels of harming are: Af, Cheimah, Ketzef, Hashcheit, and Hashmeid. G-d has fi",
+        "answer": "There is a simple answer based on the last pasuk quoted-- \"And Haman was filled with hate.\" Meaning, by the time he got to Cheimah, he was full, and could no longer accept any more angel-influences. Due to the double meaning of ‘Af’ (Anger/Nose), man",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-99247",
-        "source_url": "https://judaism.stackexchange.com/questions/99247/what-does-it-mean-vus-iz-de-nafke-meene",
-        "author": "Shalom",
+        "url": "https://shekhina.org/qa.html?id=ye-69095",
+        "source_url": "https://judaism.stackexchange.com/questions/69095/why-did-haman-lack-af",
+        "author": "user9907",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-83736",
-        "title": "Which religious texts cause some Jews to focus and worship the material gains in this life (creation) rather than to Hashem (the creator)?",
+        "id": "ye-52740",
+        "title": "Where can I have a wool tallit katan custom made?",
         "titles": {
-          "en": "Which religious texts cause some Jews to focus and worship the material gains in this life (creation) rather than to Hashem (the creator)?",
+          "en": "Where can I have a wool tallit katan custom made?",
           "he": ""
         },
         "language": "en",
-        "question": "Please see this article in Asbury Park Press regarding welfare fraud by rabbis. Also, years ago when Christy was a NJ state prosecutor there was another roundup of rabbis in a New Jersey corruption sc",
-        "answer": "Are there other religious texts in Judaism that conflict with the Torah and emphasize striving for worldly gains as priority? I've never seen any and highly doubt there are. Rather, the explanation is undoubtedly in most cases that the spirit is will",
+        "question": "I need size 22 but longer than the standard 24\" so I can tuck it into my pants better. Anybody know someone who makes them custom? The ones I found online only make it in cotton. Thanks!",
+        "answer": "The following is based on my experience buying Chabad-style Tallit Katan in Crown Heights. Your mileage may vary. The sizes of Tzitzit, 22, 24, etc. is a measurement, in inches, of the width of the Tallit Katan. In my experience, until about 10 years",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-83736",
-        "source_url": "https://judaism.stackexchange.com/questions/83736/which-religious-texts-cause-some-jews-to-focus-and-worship-the-material-gains-in",
-        "author": "msh210",
+        "url": "https://shekhina.org/qa.html?id=ye-52740",
+        "source_url": "https://judaism.stackexchange.com/questions/52740/where-can-i-have-a-wool-tallit-katan-custom-made",
+        "author": "Menachem",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-66654",
-        "title": "Did Samuel use holy anointing oil to anoint King Saul?",
+        "id": "ye-33427",
+        "title": "Am I allowed to get miles or points for a loan?",
         "titles": {
-          "en": "Did Samuel use holy anointing oil to anoint King Saul?",
+          "en": "Am I allowed to get miles or points for a loan?",
           "he": ""
         },
         "language": "en",
-        "question": "I thought the Torah says that the holy anointing oil is only for anointing priests. Is it the same oil that Samuel used to anoint Saul? Originally, the oil was used exclusively for the priests and the",
-        "answer": "Note that in I Shmuel 10:1 וַיִּקַּח שְׁמוּאֵל אֶת פַּךְ הַשֶּׁמֶן וַיִּצֹק עַל רֹאשׁוֹ וַיִּשָּׁקֵהוּ וַיֹּאמֶר הֲלוֹא כִּי מְשָׁחֲךָ יְהֹוָה עַל נַחֲלָתוֹ לְנָגִיד: And Samuel took the vial of oil, and poured it on his head, and kissed him. And he ",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-66654",
-        "source_url": "https://judaism.stackexchange.com/questions/66654/did-samuel-use-holy-anointing-oil-to-anoint-king-saul",
-        "author": "sabbahillel",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
-      },
-      {
-        "id": "ye-48781",
-        "title": "Is there a shatnez concern with cheap unlabeled thread in sewing kits?",
-        "titles": {
-          "en": "Is there a shatnez concern with cheap unlabeled thread in sewing kits?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I've noticed that cheap mini-sewing kits, which can often be purchased for one dollar or some similarly low amount, often do not specify the type of material used to make the thread. Presumably, the t",
-        "answer": "According to Jerusalem Kosher News Shatnez guide - page 6 at the bottom normal sewing machine thread can not be linen, however button thread, upholstery thread, and thread that appears a bit thicker than normal sewing machine thread may be linen. I d",
+        "question": "Suppose me and my good friend Shimon are in a store shopping. Shimon wants to borrow $100 from me for his purchase. I graciously agree, but instead of giving Shimon cash, I swipe my credit card for hi",
+        "answer": "The answer, in short, is that it is allowed, and there's no problem of Ribbis. Basically, Ribbis only applies where the money somehow flows from the borrower back to the lender. It does not matter if there's a third-party involved: if that third-part",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-48781",
-        "source_url": "https://judaism.stackexchange.com/questions/48781/is-there-a-shatnez-concern-with-cheap-unlabeled-thread-in-sewing-kits",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-33427",
+        "source_url": "https://judaism.stackexchange.com/questions/33427/am-i-allowed-to-get-miles-or-points-for-a-loan",
+        "author": "yydl",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
-      },
-      {
-        "id": "ye-30418",
-        "title": "May a ben-Noach ask a non-Jew for psak?",
-        "titles": {
-          "en": "May a ben-Noach ask a non-Jew for psak?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "This question asks who b'nei Noach turn to for psak. The answer to that question was that there are a few rabbis who are involved in the b'nei Noach movement who rule on the law for non-Jews. Now I am",
-        "answer": "According to R. Yitzchak Ze'ev Soloveitchik, only a Jewish court can rule on doubts in Noahide law. However, he seems to be referring to determining as yet unestablished areas of Noahide law (i.e., new questions that weren't previously ruled on), but",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-30418",
-        "source_url": "https://judaism.stackexchange.com/questions/30418/may-a-ben-noach-ask-a-non-jew-for-psak",
-        "author": "wfb",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "up-din-2023022816116391",
@@ -32287,7 +32287,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "ye-139621",
@@ -32308,7 +32308,7 @@
         "author": "הרב דוד חי הכהן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "ye-152396",
@@ -32329,7 +32329,7 @@
         "author": "הרב נועם דביר מייזלס",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "din-url-ef8fc217d2c963f00998a2e9",
@@ -32350,7 +32350,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "din-url-01e4a1df33b5bec362116af3",
@@ -32371,7 +32371,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "up-din-273749",
@@ -32392,7 +32392,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "up-din-202012081972922",
@@ -32413,7 +32413,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "up-din-202107023092699",
@@ -32434,7 +32434,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
         "id": "up-din-202103294476696",
@@ -32455,7 +32455,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-64a75302e9c7d9b0cf099fbf"
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
       }
     ]
   }
