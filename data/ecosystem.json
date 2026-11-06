@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-05T19:59:48Z",
+  "checked_at": "2026-11-06T00:57:44Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-05T19:59:48Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-05T19:59:48Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-05T19:59:48Z"
+      "checked_at": "2026-11-06T00:57:44Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-11-06T00:57:44Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-05T19:59:48Z"
+      "checked_at": "2026-11-06T00:57:44Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-06T00:57:44Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-05T19:59:48Z"
+      "checked_at": "2026-11-06T00:57:44Z"
     }
   },
   "music": [
@@ -32080,378 +32080,378 @@
     "total": 70969,
     "cards": [
       {
-        "id": "ye-16288",
-        "title": "Comparison of Lexica: BDB and Strong's Hebrew",
+        "id": "ye-16259",
+        "title": "Can a Minor Convert Effect Yayin Nesach?",
         "titles": {
-          "en": "Comparison of Lexica: BDB and Strong's Hebrew",
+          "en": "Can a Minor Convert Effect Yayin Nesach?",
           "he": ""
         },
         "language": "en",
-        "question": "Which has more entries, BDB or Strong's Hebrew? Is there any known mapping between the two?",
-        "answer": "OK, I'm going to answer it myself, based on the comments above. Mapping 1 Strongs entry -> possibly multiple BDB entries Apparently, because Hebrew words can be browsed by Strong's entry at concordances.org/hebrew, and each entry is linked to a BDB e",
+        "question": "Per the answer to Are children adopted by Jews Jewish? a child that is adopted by Jewish parents when they reach adulthood (13/12) are given the choice of remaining Jewish. If I know of a child that i",
+        "answer": "The Pischei Teshuva ( YD 268:8 ) quoting the Tiferes L'Moshe writes that in the event that the child reverts to the status of a gentile, all the wine s/he has touched will indeed retain the status of wine touched by a gentile child. He qualifies this",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-16288",
-        "source_url": "https://judaism.stackexchange.com/questions/16288/comparison-of-lexica-bdb-and-strongs-hebrew",
-        "author": "Walrus the Cat",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-16259",
+        "source_url": "https://judaism.stackexchange.com/questions/16259/can-a-minor-convert-effect-yayin-nesach",
+        "author": "Dov F",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "up-aish-91063",
-        "title": "Sons of Aaron - Doing It My Way",
+        "id": "up-aish-91046",
+        "title": "Why Marry?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Why are there so many rules in Judaism? Can’t I just “do it my way?”",
+        "question": "I’m a happy single Jewish guy, and don’t personally see a reason to get married. I’ve been in very meaningful relationships, some of them long-lasting, which I feel gives me all I would want to get ou",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
         "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-aish-91063",
-        "source_url": "https://aish.com/sons-of-aaron-do-it-my-way/",
-        "author": "Aish.com Staff",
+        "url": "https://shekhina.org/qa.html?id=up-aish-91046",
+        "source_url": "https://aish.com/why-marry/",
+        "author": "Yerachmiel Fried",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "my-139377",
-        "title": "Best Seforim Stores in USA and Israel?",
+        "id": "ye-139344",
+        "title": "Is the Prohibition on Coveting the Only Thoughtcrime in Torah Law?",
         "titles": {
-          "en": "Best Seforim Stores in USA and Israel?",
+          "en": "Is the Prohibition on Coveting the Only Thoughtcrime in Torah Law?",
           "he": ""
         },
         "language": "en",
-        "question": "What seforim stores in the USA and Israel that ship, objectively, have the most extensive selection? Especially for Kabbalah, chassidus, machshava and Rav Kook? In USA east coast region optimal. In Is",
-        "answer": "Israel - Pomeranz Bookstore in Jerusalem. https://pomeranzbooks.com/ USA - Judaica House in Teaneck. https://www.judaicahouse.net/ These stores have a broad selection - traditional books, as well as books on Jewish culture and history.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "kabbalah",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=my-139377",
-        "source_url": "https://judaism.stackexchange.com/questions/139377/best-seforim-stores-in-usa-and-israel",
-        "author": "Bs234570",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-121483",
-        "title": "Climate and growing season in Iron Age Israel and Judah",
-        "titles": {
-          "en": "Climate and growing season in Iron Age Israel and Judah",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Jan A Wagenaar, Origin and Transformation of the Ancient Israelite Festival Calendar , Harrassowitz Verlag, Wiesbaden 2005, proposes that the Feast of Unleavened Bread was originally in the month of I",
-        "answer": "I won't answer the question as stated. Instead I will address one premise of the question, which is actually very common with this type of question. The question assumes that Pesach is supposed to be at the time of the regular barley harvest. This co",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-121483",
-        "source_url": "https://judaism.stackexchange.com/questions/121483/climate-and-growing-season-in-iron-age-israel-and-judah",
-        "author": "Mordechai",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-101744",
-        "title": "Why is karpas usually parsley?",
-        "titles": {
-          "en": "Why is karpas usually parsley?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Apparently, a variety of vegetables my be used for karpas. So, when and why has it become common to use parsley?",
-        "answer": "Because its green and sprigy, symbolizing the new growth of springtime. Source:my kids Pesach workbooks.",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-101744",
-        "source_url": "https://judaism.stackexchange.com/questions/101744/why-is-karpas-usually-parsley",
-        "author": "LN6595",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-86183",
-        "title": "How does scattering and giving different languages help to solve the problem?",
-        "titles": {
-          "en": "How does scattering and giving different languages help to solve the problem?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In what way does confounding the language of the people, and scatter them abroad upon the face of all the earth (Bereshit 11:7-9) help to correct the wrong? Bereshit 11:4 teaches that people wanted to",
-        "answer": "Sanhedrin 109a deals with this incident. The following is R’ Yirmiya ben Elazar’s explanation there, as explained by Rashi and Maharsha. There were three groups of people at the Migdal Bavel: Those that wanted to attack HaShem Those that just wanted ",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-86183",
-        "source_url": "https://judaism.stackexchange.com/questions/86183/how-does-scattering-and-giving-different-languages-help-to-solve-the-problem",
-        "author": "DonielF",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-69095",
-        "title": "Why did Haman lack Af?",
-        "titles": {
-          "en": "Why did Haman lack Af?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Shmot Rabba 41:7 (Sefaria breakup within Parshiyot) says: חמשה מלאכי חבלה היו שם: אף, וחמה, וקצף, והשמד, והשחת. The five angels of harming are: Af, Cheimah, Ketzef, Hashcheit, and Hashmeid. G-d has fi",
-        "answer": "There is a simple answer based on the last pasuk quoted-- \"And Haman was filled with hate.\" Meaning, by the time he got to Cheimah, he was full, and could no longer accept any more angel-influences. Due to the double meaning of ‘Af’ (Anger/Nose), man",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-69095",
-        "source_url": "https://judaism.stackexchange.com/questions/69095/why-did-haman-lack-af",
-        "author": "user9907",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-52740",
-        "title": "Where can I have a wool tallit katan custom made?",
-        "titles": {
-          "en": "Where can I have a wool tallit katan custom made?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I need size 22 but longer than the standard 24\" so I can tuck it into my pants better. Anybody know someone who makes them custom? The ones I found online only make it in cotton. Thanks!",
-        "answer": "The following is based on my experience buying Chabad-style Tallit Katan in Crown Heights. Your mileage may vary. The sizes of Tzitzit, 22, 24, etc. is a measurement, in inches, of the width of the Tallit Katan. In my experience, until about 10 years",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-52740",
-        "source_url": "https://judaism.stackexchange.com/questions/52740/where-can-i-have-a-wool-tallit-katan-custom-made",
-        "author": "Menachem",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "ye-33427",
-        "title": "Am I allowed to get miles or points for a loan?",
-        "titles": {
-          "en": "Am I allowed to get miles or points for a loan?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Suppose me and my good friend Shimon are in a store shopping. Shimon wants to borrow $100 from me for his purchase. I graciously agree, but instead of giving Shimon cash, I swipe my credit card for hi",
-        "answer": "The answer, in short, is that it is allowed, and there's no problem of Ribbis. Basically, Ribbis only applies where the money somehow flows from the borrower back to the lender. It does not matter if there's a third-party involved: if that third-part",
+        "question": "I read in an answer on this site: Halacha doesn't recognize the existence of the Orwell's concept of Thoughtcrime This makes sense initially because so much of Judaism is based on actions that we do o",
+        "answer": "Here are some other examples of thoughts that are considered a sin unto themselves. Believing in foreign gods (Sifrei on Bamidbar 15:39). Planning to worship idols (Kiddushin 39b). Sexual fantasies (Avodah Zarah 20b). Rejoicing in an enemy's downfall",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-33427",
-        "source_url": "https://judaism.stackexchange.com/questions/33427/am-i-allowed-to-get-miles-or-points-for-a-loan",
-        "author": "yydl",
+        "url": "https://shekhina.org/qa.html?id=ye-139344",
+        "source_url": "https://judaism.stackexchange.com/questions/139344/is-the-prohibition-on-coveting-the-only-thoughtcrime-in-torah-law",
+        "author": "IsraelReader",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-121447",
+        "title": "Why didn't Jewish slaves rebel against the Egyptians?",
+        "titles": {
+          "en": "Why didn't Jewish slaves rebel against the Egyptians?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "A number of traditional sources indicate that the population of Jews in Mitzrayim was burgeoning. Pharaoh himself was concerned about it, worrying that they would take over the land. Why didn't a popu",
+        "answer": "The Kesav Sofer ( Exodus 14:31 s.v. איתא בילקוט ), while addressing a different question, perhaps answers yours. The Ibn Ezra ( Exodus 14:13 ) asks why didn't the Jews fight back against the Egyptians at the Reed Sea? The verse even says they were ar",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-121447",
+        "source_url": "https://judaism.stackexchange.com/questions/121447/why-didnt-jewish-slaves-rebel-against-the-egyptians",
+        "author": "robev",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-101699",
+        "title": "Views on vast economical inequity between people",
+        "titles": {
+          "en": "Views on vast economical inequity between people",
+          "he": ""
+        },
+        "language": "en",
+        "question": "While the lack of uniformity of the physical world remains a mystery of the Big Bang (how come that what once was unified and homogeneous shattered into pieces so different in sizes - from photons to ",
+        "answer": "Everyone gets the same --- we all have a lot in life designed to best get us from who we are and where to are to who and where we're supposed to be. The rich get wealth because their souls need those opportunities, and the challenges that come with o",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-101699",
+        "source_url": "https://judaism.stackexchange.com/questions/101699/views-on-vast-economical-inequity-between-people",
+        "author": "Micha Berger",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-86155",
+        "title": "The learning of Bris Milah",
+        "titles": {
+          "en": "The learning of Bris Milah",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I am interested to learn the halachos of Hilchos Milah in a more practical manner. Are there any books that one can recommend? Hebrew or English works.",
+        "answer": "I don't know if you mean the laws of performing the mila (for a mohel) or the general laws of mila (e.g., for a new father). In the latter case, I can recommend two books I really liked: the classic artscroll \" Bris Milah / Circumcision \" a sefer in ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-86155",
+        "source_url": "https://judaism.stackexchange.com/questions/86155/the-learning-of-bris-milah",
+        "author": "mbloch",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "up-din-2023022816116391",
-        "title": "עבודה בפורים",
+        "id": "ye-69058",
+        "title": "Chazal empty barrels make the most noise",
+        "titles": {
+          "en": "Chazal empty barrels make the most noise",
+          "he": ""
+        },
+        "language": "en",
+        "question": "As far as i know there is a mamer chazal for empty barrels make the most noise. can any one help me find it",
+        "answer": "The Gemara in Bava Metzia ( 85b ) says אמר רב חמא מאי דכתיב בלב נבון תנוח חכמה ובקרב כסילים תודע בלב נבון תנוח חכמה זה ת\"ח בן ת\"ח ובקרב כסילים תודע זה ת\"ח בן ע\"ה אמר עולא היינו דאמרי אינשי אסתירא בלגינא קיש קיש קריא The Gemara is using it as a parabl",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-69058",
+        "source_url": "https://judaism.stackexchange.com/questions/69058/chazal-empty-barrels-make-the-most-noise",
+        "author": "ertert3terte",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-52718",
+        "title": "Zoroastrianism v.s. Judaism",
+        "titles": {
+          "en": "Zoroastrianism v.s. Judaism",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Does anybody think Zoroastrianism inflenuced Judaism, cause online people say Zoroastrianism was the first monotheistic religion http://avesta.org , and that Judaism copied it, also that Zoroastrianis",
+        "answer": "Unfortunately due to lack of definitive timelines (just try to find out when Zoroaster lived) and lack of written evidence which scholars and and historians would accept, it would be hard prove who influenced who. What we do know is that Chazzal were",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-52718",
+        "source_url": "https://judaism.stackexchange.com/questions/52718/zoroastrianism-v-s-judaism",
+        "author": "user6591",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "ye-33388",
+        "title": "What happens when a potential convert can't have a circumcision?",
+        "titles": {
+          "en": "What happens when a potential convert can't have a circumcision?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Suppose a man wants to convert to Judaism but cannot have a circumcision for bio-medical reasons (he has a foreskin, but has hemophilia or some other condition which would make the surgery fatal or li",
+        "answer": "There is a general consensus among the poskim that one who has an orlah cannot convert without having a milah. See here who refers to the views of: שו״ת ארץ טובה סי׳ ב׳ , ומשברי ים סי׳ ט״ו , זכר זכר יצחק סי׳ ג׳ , מלמד להועיל סי׳ פ״ו , דעת כהן סי׳ ק״נ",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-33388",
+        "source_url": "https://judaism.stackexchange.com/questions/33388/what-happens-when-a-potential-convert-cant-have-a-circumcision",
+        "author": "wfb",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "up-din-202302237935066",
+        "title": "קריאת מגילה במקום שאין קהילה יהודית",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר לעבוד בפורים?",
+        "question": "שלום, אשמח לעזרתך. אני מתחזק ובקרוב בפורים אני אטוס לחול ולא זכרתי את מצוות קריאת מגילה.לצערי אני אשן במקום ללא בית כנסת בסביבה.מה ניתן לעשות? תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2023022816116391",
-        "source_url": "https://din.org.il/2023/02/28/%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%91%d7%a4%d7%95%d7%a8%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202302237935066",
+        "source_url": "https://din.org.il/2023/02/23/%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%90%d7%99%d7%9f-%d7%a7%d7%94%d7%99%d7%9c%d7%94-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-139621",
-        "title": "לימוד חוק לישראל",
+        "id": "ye-139602",
+        "title": "קימה בפני זקן",
         "titles": {
           "en": "",
-          "he": "לימוד חוק לישראל"
+          "he": "קימה בפני זקן"
         },
         "language": "he",
-        "question": "שלום הרב, אני בעל בית שמתעסק בחינוך מהבוקר עד השעות הקטנות של הלילה, ואני גם מוהל. הזמן היחידי שלי ללמוד תורה הוא בשעות הקטנות של הלילה, ואני מעדיף להקדיש אותם בלימוד הלכות מילה ואומנותיה. מה עדיף? לל",
+        "question": "שלום רב, האם יש לקום בכל מצב בפני זקן? למשל אם אדם נמצא באוטובוס שלפעמים צפוף או אם אדם נמצא בשיעור? והאם להלכה לקום קימה מלאה או שרק להגביה מעט את גופו? תודה! שלום וברכה, צריך לקום בפני זקן מגיל שבעי",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139621",
-        "source_url": "https://www.yeshiva.org.il/ask/139621",
-        "author": "הרב דוד חי הכהן",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-139602",
+        "source_url": "https://www.yeshiva.org.il/ask/139602",
+        "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "ye-152396",
-        "title": "ראיתי אש בחלום",
+        "id": "ye-152359",
+        "title": "מדוע העובר על דברי חכמים חייב מיתה?",
         "titles": {
           "en": "",
-          "he": "ראיתי אש בחלום"
+          "he": "מדוע העובר על דברי חכמים חייב מיתה?"
         },
         "language": "he",
-        "question": "שלום כבוד הרב, חלמתי על אש גדולה מאוד שיורדת מהשמים, כמו שובל ארוך של אש. חזרתי לישון ושוב חלמתי על אש. אודה לדעתך בנושא שלום רב לשואלת הנכבדת בספר הקדוש שערי אורה מבואר שאש גדולה, היא מידה קדושה ועל ",
+        "question": "א. ראיתי בגמרא שכתוב שכל העובר על דברי חכמים חייב מיתה (ברכות ד). איך יכול להיות שמי שעובר על תקנות חז\"ל חייב מיתה וזה חמור יותר ממי שעובר על התורה? ב. איך חכמים המציאו את זה בעצמם? שלום וברכה, א. יסו",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "general",
+        "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-152396",
-        "source_url": "https://www.yeshiva.org.il/ask/152396",
-        "author": "הרב נועם דביר מייזלס",
+        "url": "https://shekhina.org/qa.html?id=ye-152359",
+        "source_url": "https://www.yeshiva.org.il/ask/152359",
+        "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "din-url-ef8fc217d2c963f00998a2e9",
-        "title": "שפיכת מים לכיור שהצינור מוביל לקרקע זרועה",
+        "id": "din-url-eec767f7d7cdce41c5d870a4",
+        "title": "פתיחת סתימה בשבת במקום צער גדול וכבוד הבריות",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום רבהאם מותר להתקין כיור באכסדרה שלפני בית קיץ שכאשר שוטפים שם כלים או ידיים המים עוברים דרך צינור לבור שיש בה עשבי בר (מדובר בשבת ויום טוב)?תודה רבה",
+        "question": "לשכן שלנו נסתם הביוב בשבת והציף את כל הבית וחדריו במי ביוב (אין צורך לפרט). הדרך היחידה לשחרר את הסתימה זה לפתוח את הביוב הראשי ולשחרר שם את הביוב. 1. האם מותר לפתוח את מכסה האבן של הביוב? 2. האם ניתן",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-ef8fc217d2c963f00998a2e9",
-        "source_url": "https://din.org.il/2020/08/14/%d7%a9%d7%a4%d7%99%d7%9b%d7%aa-%d7%9e%d7%99%d7%9d-%d7%9c%d7%9b%d7%99%d7%95%d7%a8-%d7%a9%d7%94%d7%a6%d7%99%d7%a0%d7%95%d7%a8-%d7%9e%d7%95%d7%91%d7%99%d7%9c-%d7%9c%d7%a7%d7%a8%d7%a7%d7%a2-%d7%96%d7%a8/",
+        "url": "https://shekhina.org/qa.html?id=din-url-eec767f7d7cdce41c5d870a4",
+        "source_url": "https://din.org.il/2019/05/11/%d7%a4%d7%aa%d7%99%d7%97%d7%aa-%d7%a1%d7%aa%d7%99%d7%9e%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a6%d7%a2%d7%a8-%d7%92%d7%93%d7%95%d7%9c-%d7%95%d7%9b%d7%91%d7%95%d7%93-%d7%94/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "din-url-014d8c331f183daa98a042e8",
+        "title": "סימון בספר בשבת באמצעות אטב או סימניות דביקות",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום. האם מותר לסמן בספר בשבת וביום טוב באמצעות אטב שקונים בחנויות לכלי כתיבה וכן האם מותר באמצעות סימניות דביקות? בכבוד רב וחג שמח",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-014d8c331f183daa98a042e8",
+        "source_url": "https://din.org.il/2014/04/20/%d7%a1%d7%99%d7%9e%d7%95%d7%9f-%d7%91%d7%a1%d7%a4%d7%a8-%d7%91%d7%a9%d7%91%d7%aa-%d7%91%d7%90%d7%9e%d7%a6%d7%a2%d7%95%d7%aa-%d7%90%d7%98%d7%91-%d7%90%d7%95-%d7%a1%d7%99%d7%9e%d7%a0%d7%99%d7%95%d7%aa/",
+        "author": "רבני בית ההוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-518d91abb78bbee9c32f4167"
+      },
+      {
+        "id": "up-din-272584",
+        "title": "טלטול בקבוק שנגמר בשבת / סגירת בקבוק ריק בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלוםא. האם לאחר שבקבוק מים שסיימו את המים שבו בשבת מותר בטלטול?ב. האם מותר בשבת לסגור את הבקבוק בפקק לאחר שסיימו את המים שבו? מצד זה שכעת יזרקו אותו לפח ולא יפתחו אותו בזמן הקרוב אז אולי זה סוג של בונ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-272584",
+        "source_url": "https://din.org.il/2020/05/31/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%91%d7%a7%d7%91%d7%95%d7%a7-%d7%a9%d7%a0%d7%92%d7%9e%d7%a8-%d7%91%d7%a9%d7%91%d7%aa-%d7%a1%d7%92%d7%99%d7%a8%d7%aa-%d7%91%d7%a7%d7%91%d7%95%d7%a7-%d7%a8%d7%99%d7%a7/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "din-url-01e4a1df33b5bec362116af3",
-        "title": "החזרת תבשיל לפלטה – המשך",
+        "id": "up-din-202012038437469",
+        "title": "נרות חנוכה במעלית",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם נתינת מאכל או חלה על הפלטה שלא היו שם בערב שבת זה נקרא דין החזרה? ואיך אני מחזיר חמין לפלטה? האם צריך לשים סיר מלא ועליה להחזיר? האם מתקן שבתא לפלטה זה מספיק?",
+        "question": "האם מותר להדליק נרות חנוכה במעלית אם ברכה לפרסומי ניסא א.הדלקה עושה מצווה ב.עובר את העשרים אמה?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-01e4a1df33b5bec362116af3",
-        "source_url": "https://din.org.il/2023/01/23/%d7%94%d7%97%d7%96%d7%a8%d7%aa-%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%9c%d7%a4%d7%9c%d7%98%d7%94-%d7%94%d7%9e%d7%a9%d7%9a/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202012038437469",
+        "source_url": "https://din.org.il/2020/12/03/%d7%a0%d7%a8%d7%95%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%91%d7%9e%d7%a2%d7%9c%d7%99%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "up-din-273749",
-        "title": "מוקצה – ליטוף בעלי חיים בשבת",
+        "id": "up-din-2021070112290485",
+        "title": "לימוד יומא פרק ח' בתשעה באב",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר ללטף בעל חיים בשבת?",
+        "question": "האם מותר ללמוד בפרק יום הכיפורים בתשעה באב, רוב הסוגיות עוסקות כידוע בדיני העינויים – השייכים גם בתשעה באב, והרבה מהם נלמדים מכאן.",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-273749",
-        "source_url": "https://din.org.il/2020/06/07/%d7%9e%d7%95%d7%a7%d7%a6%d7%94-%d7%9c%d7%99%d7%98%d7%95%d7%a3-%d7%91%d7%a2%d7%9c%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2021070112290485",
+        "source_url": "https://din.org.il/2021/07/01/%d7%9c%d7%99%d7%9e%d7%95%d7%93-%d7%99%d7%95%d7%9e%d7%90-%d7%a4%d7%a8%d7%a7-%d7%97-%d7%91%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-518d91abb78bbee9c32f4167"
       },
       {
-        "id": "up-din-202012081972922",
-        "title": "מיקום חנוכיה בקומות הגבוהות אחת ולתמיד…",
+        "id": "up-din-202103291303920",
+        "title": "חימום פיתה על המיחם של פסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום רב ותודה מראש. כל שנה אני מתחבט . אשמח לסדר בזה, אחת ולתמיד..: אני גר בקומה 4 על עמודים, כל החלונות מופנים לבניינים סמוכים. יש חדר מדרגות וכד' כמו בכל בניין ממוצע. איפה הכי טוב להדליק? מאיזה גיל ",
+        "question": "הניחו בשבת בזמן שהיה מותר פיתה קפואה על מיחם כשר לפסח מה דין המכסה והמיחם הפיתה היתה מונחת 15 שניות בערך ולא הספירה להתחמם תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202012081972922",
-        "source_url": "https://din.org.il/2020/12/08/%d7%9e%d7%99%d7%a7%d7%95%d7%9d-%d7%97%d7%a0%d7%95%d7%9b%d7%99%d7%94-%d7%91%d7%a7%d7%95%d7%9e%d7%95%d7%aa-%d7%94%d7%92%d7%91%d7%95%d7%94%d7%95%d7%aa-%d7%90%d7%97%d7%aa-%d7%95%d7%9c%d7%aa%d7%9e%d7%99/",
-        "author": "הרב ירוחם ארלנגר‎",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "up-din-202107023092699",
-        "title": "שהחיינו לכבוד שבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לכבוד הרבנים,הסתפקתי בעניין לבישת חולצה חדשה שמברכים עליה שהחיינו היום לפני כניסת השבת.כידוע נוהגים לברך שהחיינו בשבתות שבינתיים אפילו שאנו בבין המצרים, עד חודש אב שאז גם בשבת מחמירים.השאלה האם ה",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202107023092699",
-        "source_url": "https://din.org.il/2021/07/02/%d7%a9%d7%94%d7%97%d7%99%d7%99%d7%a0%d7%95-%d7%9c%d7%9b%d7%91%d7%95%d7%93-%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-518d91abb78bbee9c32f4167"
-      },
-      {
-        "id": "up-din-202103294476696",
-        "title": "שאלות בענייני פסח",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "בס\"דשלום רב מועדים לשמחה1. סבון הידיים בו אני משתמשת ללא כשרות לפסח ובכלל. אין לי סבון אחר ואני משתמשת בו בפסח. מותר להקל ולהשתמש בקרם ידיים ללא הכשר לפסח במהלך הפסח , לידיים יבשות ?2. לא מכרתי לגוי א",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202103294476696",
-        "source_url": "https://din.org.il/2021/03/29/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%91%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%99-%d7%a4%d7%a1%d7%97-4/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202103291303920",
+        "source_url": "https://din.org.il/2021/03/29/%d7%97%d7%99%d7%9e%d7%95%d7%9d-%d7%a4%d7%99%d7%aa%d7%94-%d7%a2%d7%9c-%d7%94%d7%9e%d7%99%d7%97%d7%9d-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
