@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-07T05:54:38Z",
+  "checked_at": "2026-11-07T14:53:57Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-07T05:54:38Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-07T05:54:38Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-07T05:54:38Z"
+      "checked_at": "2026-11-07T14:53:57Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-07T05:54:38Z"
+      "checked_at": "2026-11-07T14:53:57Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-07T14:53:57Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-07T14:53:57Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-07T05:54:38Z"
+      "checked_at": "2026-11-07T14:53:57Z"
     }
   },
   "music": [
@@ -32076,8 +32076,8 @@
     ]
   },
   "qa": {
-    "release": "v1-1ecd92bd3749ea9c8729e8bc",
-    "total": 70969,
+    "release": "v1-6cfe00ce497ba4308436f013",
+    "total": 70971,
     "cards": [
       {
         "id": "ye-16236",
@@ -32098,7 +32098,7 @@
         "author": "ertert3terte",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-aish-91033",
@@ -32119,7 +32119,7 @@
         "author": "Yerachmiel Fried",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-139295",
@@ -32140,7 +32140,7 @@
         "author": "Nahum",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-121414",
@@ -32161,7 +32161,7 @@
         "author": "N.T.",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-101667",
@@ -32182,7 +32182,7 @@
         "author": "Avrohom Yitzchok",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-86129",
@@ -32203,7 +32203,7 @@
         "author": "DanF",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-69021",
@@ -32224,7 +32224,7 @@
         "author": "Cauthon",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-52682",
@@ -32245,7 +32245,7 @@
         "author": "Y e z",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-33363",
@@ -32266,7 +32266,7 @@
         "author": "Fred",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-din-2022042613834985",
@@ -32287,7 +32287,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-139579",
@@ -32308,7 +32308,7 @@
         "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "ye-152323",
@@ -32329,7 +32329,7 @@
         "author": "הרב מיכאל יומטוביאן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "din-url-edadff083aeb4cbb077ab404",
@@ -32350,7 +32350,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "din-url-0064257cb02dec3ce81f9f76",
@@ -32371,7 +32371,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-din-270831",
@@ -32392,7 +32392,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-din-2020112815871778",
@@ -32413,7 +32413,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-din-2021063012227196",
@@ -32434,7 +32434,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       },
       {
         "id": "up-din-202103264697921",
@@ -32455,7 +32455,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-1ecd92bd3749ea9c8729e8bc"
+        "snapshot": "v1-6cfe00ce497ba4308436f013"
       }
     ]
   }
