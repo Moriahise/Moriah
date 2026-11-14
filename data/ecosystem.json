@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-14T17:58:37Z",
+  "checked_at": "2026-11-14T23:54:02Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-14T17:58:37Z"
+      "checked_at": "2026-11-14T23:54:02Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-14T17:58:37Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-14T17:58:37Z"
+      "checked_at": "2026-11-14T23:54:02Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-14T17:58:37Z"
+      "checked_at": "2026-11-14T23:54:02Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-14T23:54:02Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-14T17:58:37Z"
+      "checked_at": "2026-11-14T23:54:02Z"
     }
   },
   "music": [
@@ -32678,6 +32678,678 @@
         "target_shabbat": "2030-08-31",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-nazir-66/"
+      },
+      {
+        "id": "cycle-15-sotah-2",
+        "title": {
+          "en": "Sotah 2 — Matched According to One's Deeds",
+          "he": "סוטה ב׳ — לפי מעשיו"
+        },
+        "parashah": {
+          "en": "Sotah 2",
+          "he": "סוטה דף 2"
+        },
+        "target_shabbat": "2030-09-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-2/"
+      },
+      {
+        "id": "cycle-15-sotah-3",
+        "title": {
+          "en": "Sotah 3 — A Spirit of Folly",
+          "he": "סוטה ג׳ — רוח שטות"
+        },
+        "parashah": {
+          "en": "Sotah 3",
+          "he": "סוטה דף 3"
+        },
+        "target_shabbat": "2030-09-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-3/"
+      },
+      {
+        "id": "cycle-15-sotah-4",
+        "title": {
+          "en": "Sotah 4 — Around a Palm Tree, Pouring a Cup",
+          "he": "סוטה ד׳ — כדי הקפת דקל, כדי מזיגת הכוס"
+        },
+        "parashah": {
+          "en": "Sotah 4",
+          "he": "סוטה דף 4"
+        },
+        "target_shabbat": "2030-09-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-4/"
+      },
+      {
+        "id": "cycle-15-sotah-5",
+        "title": {
+          "en": "Sotah 5 — The Shechinah Rested on Sinai",
+          "he": "סוטה ה׳ — הניח כל ההרים והשרה שכינתו על הר סיני"
+        },
+        "parashah": {
+          "en": "Sotah 5",
+          "he": "סוטה דף 5"
+        },
+        "target_shabbat": "2030-09-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-5/"
+      },
+      {
+        "id": "cycle-15-sotah-6",
+        "title": {
+          "en": "Sotah 6 — Witnesses Overseas",
+          "he": "סוטה ו׳ — יש לה עדים במדינת הים"
+        },
+        "parashah": {
+          "en": "Sotah 6",
+          "he": "סוטה דף 6"
+        },
+        "target_shabbat": "2030-09-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-6/"
+      },
+      {
+        "id": "cycle-15-sotah-7",
+        "title": {
+          "en": "Sotah 7 — Yehudah Confessed and Was Not Ashamed",
+          "he": "סוטה ז׳ — יהודה הודה ולא בוש"
+        },
+        "parashah": {
+          "en": "Sotah 7",
+          "he": "סוטה דף 7"
+        },
+        "target_shabbat": "2030-09-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-7/"
+      },
+      {
+        "id": "cycle-15-sotah-8",
+        "title": {
+          "en": "Sotah 8 — Measure for Measure",
+          "he": "סוטה ח׳ — במדה שאדם מודד בה מודדין לו"
+        },
+        "parashah": {
+          "en": "Sotah 8",
+          "he": "סוטה דף 8"
+        },
+        "target_shabbat": "2030-09-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-8/"
+      },
+      {
+        "id": "cycle-15-sotah-9",
+        "title": {
+          "en": "Sotah 9 — Whoever Sets His Eyes on What Is Not His",
+          "he": "סוטה ט׳ — הנותן עיניו במה שאינו שלו"
+        },
+        "parashah": {
+          "en": "Sotah 9",
+          "he": "סוטה דף 9"
+        },
+        "target_shabbat": "2030-09-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-9/"
+      },
+      {
+        "id": "cycle-15-sotah-10",
+        "title": {
+          "en": "Sotah 10 — Better to Be Cast into a Furnace",
+          "he": "סוטה י׳ — נוח לו לאדם שיפיל עצמו לכבשן האש"
+        },
+        "parashah": {
+          "en": "Sotah 10",
+          "he": "סוטה דף 10"
+        },
+        "target_shabbat": "2030-09-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-10/"
+      },
+      {
+        "id": "cycle-15-sotah-11",
+        "title": {
+          "en": "Sotah 11 — In the Merit of Righteous Women",
+          "he": "סוטה י״א — בשכר נשים צדקניות"
+        },
+        "parashah": {
+          "en": "Sotah 11",
+          "he": "סוטה דף 11"
+        },
+        "target_shabbat": "2030-09-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-11/"
+      },
+      {
+        "id": "cycle-15-sotah-12",
+        "title": {
+          "en": "Sotah 12 — Amram Followed His Daughter's Counsel",
+          "he": "סוטה י״ב — שהלך בעצת בתו"
+        },
+        "parashah": {
+          "en": "Sotah 12",
+          "he": "סוטה דף 12"
+        },
+        "target_shabbat": "2030-09-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-12/"
+      },
+      {
+        "id": "cycle-15-sotah-13",
+        "title": {
+          "en": "Sotah 13 — How Beloved Were the Mitzvos to Moshe",
+          "he": "סוטה י״ג — כמה חביבות מצות על משה רבינו"
+        },
+        "parashah": {
+          "en": "Sotah 13",
+          "he": "סוטה דף 13"
+        },
+        "target_shabbat": "2030-09-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-13/"
+      },
+      {
+        "id": "cycle-15-sotah-14",
+        "title": {
+          "en": "Sotah 14 — Walk After the Attributes of the Holy One",
+          "he": "סוטה י״ד — להלך אחר מדותיו של הקדוש ברוך הוא"
+        },
+        "parashah": {
+          "en": "Sotah 14",
+          "he": "סוטה דף 14"
+        },
+        "target_shabbat": "2030-09-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-14/"
+      },
+      {
+        "id": "cycle-15-sotah-15",
+        "title": {
+          "en": "Sotah 15 — Expounding Like a Chomer",
+          "he": "סוטה ט״ו — אדרשנה כמין חומר"
+        },
+        "parashah": {
+          "en": "Sotah 15",
+          "he": "סוטה דף 15"
+        },
+        "target_shabbat": "2030-09-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-15/"
+      },
+      {
+        "id": "cycle-15-sotah-16",
+        "title": {
+          "en": "Sotah 16 — Three Things That Must Be Visible",
+          "he": "סוטה ט״ז — שלשה צריכין שיראו"
+        },
+        "parashah": {
+          "en": "Sotah 16",
+          "he": "סוטה דף 16"
+        },
+        "target_shabbat": "2030-09-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-16/"
+      },
+      {
+        "id": "cycle-15-sotah-17",
+        "title": {
+          "en": "Sotah 17 — Dust and Ash, Thread and Strap",
+          "he": "סוטה י״ז — עפר ואפר, חוט ורצועה"
+        },
+        "parashah": {
+          "en": "Sotah 17",
+          "he": "סוטה דף 17"
+        },
+        "target_shabbat": "2030-09-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-17/"
+      },
+      {
+        "id": "cycle-15-sotah-18",
+        "title": {
+          "en": "Sotah 18 — Amen, Amen",
+          "he": "סוטה י״ח — אמן אמן"
+        },
+        "parashah": {
+          "en": "Sotah 18",
+          "he": "סוטה דף 18"
+        },
+        "target_shabbat": "2030-09-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-18/"
+      },
+      {
+        "id": "cycle-15-sotah-19",
+        "title": {
+          "en": "Sotah 19 — Do Not Sit Until You Explain",
+          "he": "סוטה י״ט — לא תיתיב אכרעך"
+        },
+        "parashah": {
+          "en": "Sotah 19",
+          "he": "סוטה דף 19"
+        },
+        "target_shabbat": "2030-09-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-19/"
+      },
+      {
+        "id": "cycle-15-sotah-20",
+        "title": {
+          "en": "Sotah 20 — Merit That Suspends",
+          "he": "סוטה כ׳ — זכות תולה"
+        },
+        "parashah": {
+          "en": "Sotah 20",
+          "he": "סוטה דף 20"
+        },
+        "target_shabbat": "2030-09-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-20/"
+      },
+      {
+        "id": "cycle-15-sotah-21",
+        "title": {
+          "en": "Sotah 21 — A Transgression Does Not Extinguish Torah",
+          "he": "סוטה כ״א — אין עבירה מכבה תורה"
+        },
+        "parashah": {
+          "en": "Sotah 21",
+          "he": "סוטה דף 21"
+        },
+        "target_shabbat": "2030-09-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-21/"
+      },
+      {
+        "id": "cycle-15-sotah-22",
+        "title": {
+          "en": "Sotah 22 — Fear of Sin From a Maiden",
+          "he": "סוטה כ״ב — יראת חטא מבתולה"
+        },
+        "parashah": {
+          "en": "Sotah 22",
+          "he": "סוטה דף 22"
+        },
+        "target_shabbat": "2030-09-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-22/"
+      },
+      {
+        "id": "cycle-15-sotah-23",
+        "title": {
+          "en": "Sotah 23 — Between Kohen and Kohenes, Man and Woman",
+          "he": "סוטה כ״ג — מה בין כהן לכהנת, מה בין איש לאשה"
+        },
+        "parashah": {
+          "en": "Sotah 23",
+          "he": "סוטה דף 23"
+        },
+        "target_shabbat": "2030-09-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-23/"
+      },
+      {
+        "id": "cycle-15-sotah-24",
+        "title": {
+          "en": "Sotah 24 — Who Drinks and Who Collects a Kesubah",
+          "he": "סוטה כ״ד — שותות ונוטלות כתובה"
+        },
+        "parashah": {
+          "en": "Sotah 24",
+          "he": "סוטה דף 24"
+        },
+        "target_shabbat": "2030-09-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-24/"
+      },
+      {
+        "id": "cycle-15-sotah-25",
+        "title": {
+          "en": "Sotah 25 — A Husband Who Forgives His Warning",
+          "he": "סוטה כ״ה — בעל שמחל על קינויו"
+        },
+        "parashah": {
+          "en": "Sotah 25",
+          "he": "סוטה דף 25"
+        },
+        "target_shabbat": "2030-09-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-25/"
+      },
+      {
+        "id": "cycle-15-sotah-26",
+        "title": {
+          "en": "Sotah 26 — And She Shall Be Cleared and Bear Seed",
+          "he": "סוטה כ״ו — ונקתה ונזרעה זרע"
+        },
+        "parashah": {
+          "en": "Sotah 26",
+          "he": "סוטה דף 26"
+        },
+        "target_shabbat": "2030-09-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-26/"
+      },
+      {
+        "id": "cycle-15-sotah-27",
+        "title": {
+          "en": "Sotah 27 — On That Day",
+          "he": "סוטה כ״ז — בו ביום"
+        },
+        "parashah": {
+          "en": "Sotah 27",
+          "he": "סוטה דף 27"
+        },
+        "target_shabbat": "2030-09-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-27/"
+      },
+      {
+        "id": "cycle-15-sotah-28",
+        "title": {
+          "en": "Sotah 28 — Doubtful Impurity Learned From Sotah",
+          "he": "סוטה כ״ח — מכאן אתה דן לשרץ"
+        },
+        "parashah": {
+          "en": "Sotah 28",
+          "he": "סוטה דף 28"
+        },
+        "target_shabbat": "2030-09-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-28/"
+      },
+      {
+        "id": "cycle-15-sotah-29",
+        "title": {
+          "en": "Sotah 29 — The Common Factor",
+          "he": "סוטה כ״ט — הצד השוה"
+        },
+        "parashah": {
+          "en": "Sotah 29",
+          "he": "סוטה דף 29"
+        },
+        "target_shabbat": "2030-09-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-29/"
+      },
+      {
+        "id": "cycle-15-sotah-30",
+        "title": {
+          "en": "Sotah 30 — Then Moshe and Israel Sang",
+          "he": "סוטה ל׳ — אז ישיר משה ובני ישראל"
+        },
+        "parashah": {
+          "en": "Sotah 30",
+          "he": "סוטה דף 30"
+        },
+        "target_shabbat": "2030-09-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-30/"
+      },
+      {
+        "id": "cycle-15-sotah-31",
+        "title": {
+          "en": "Sotah 31 — Serving From Love",
+          "he": "סוטה ל״א — עובד מאהבה"
+        },
+        "parashah": {
+          "en": "Sotah 31",
+          "he": "סוטה דף 31"
+        },
+        "target_shabbat": "2030-09-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-31/"
+      },
+      {
+        "id": "cycle-15-sotah-32",
+        "title": {
+          "en": "Sotah 32 — Praise Softly, Shame Aloud",
+          "he": "סוטה ל״ב — שבחו בקול נמוך וגנותו בקול רם"
+        },
+        "parashah": {
+          "en": "Sotah 32",
+          "he": "סוטה דף 32"
+        },
+        "target_shabbat": "2030-10-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-32/"
+      },
+      {
+        "id": "cycle-15-sotah-33",
+        "title": {
+          "en": "Sotah 33 — Angels and the Aramaic Language",
+          "he": "סוטה ל״ג — מלאכי השרת ולשון ארמית"
+        },
+        "parashah": {
+          "en": "Sotah 33",
+          "he": "סוטה דף 33"
+        },
+        "target_shabbat": "2030-10-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-33/"
+      },
+      {
+        "id": "cycle-15-sotah-34",
+        "title": {
+          "en": "Sotah 34 — Send for Yourself",
+          "he": "סוטה ל״ד — שלח לך"
+        },
+        "parashah": {
+          "en": "Sotah 34",
+          "he": "סוטה דף 34"
+        },
+        "target_shabbat": "2030-10-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-34/"
+      },
+      {
+        "id": "cycle-15-sotah-35",
+        "title": {
+          "en": "Sotah 35 — The Ark Carried Its Carriers",
+          "he": "סוטה ל״ה — נשא ארון את נושאיו"
+        },
+        "parashah": {
+          "en": "Sotah 35",
+          "he": "סוטה דף 35"
+        },
+        "target_shabbat": "2030-10-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-35/"
+      },
+      {
+        "id": "cycle-15-sotah-36",
+        "title": {
+          "en": "Sotah 36 — A Letter From the Name of the Holy One",
+          "he": "סוטה ל״ו — אות אחת משמו של הקדוש ברוך הוא"
+        },
+        "parashah": {
+          "en": "Sotah 36",
+          "he": "סוטה דף 36"
+        },
+        "target_shabbat": "2030-10-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-36/"
+      },
+      {
+        "id": "cycle-15-sotah-37",
+        "title": {
+          "en": "Sotah 37 — Forty-Eight Covenants",
+          "he": "סוטה ל״ז — ארבעים ושמונה בריתות"
+        },
+        "parashah": {
+          "en": "Sotah 37",
+          "he": "סוטה דף 37"
+        },
+        "target_shabbat": "2030-10-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-37/"
+      },
+      {
+        "id": "cycle-15-sotah-38",
+        "title": {
+          "en": "Sotah 38 — The Holy One Desires the Priestly Blessing",
+          "he": "סוטה ל״ח — הקדוש ברוך הוא מתאוה לברכת כהנים"
+        },
+        "parashah": {
+          "en": "Sotah 38",
+          "he": "סוטה דף 38"
+        },
+        "target_shabbat": "2030-10-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-38/"
+      },
+      {
+        "id": "cycle-15-sotah-39",
+        "title": {
+          "en": "Sotah 39 — An Open Mouth, a Closed Mouth",
+          "he": "סוטה ל״ט — פה פתוחה ופה סתומה"
+        },
+        "parashah": {
+          "en": "Sotah 39",
+          "he": "סוטה דף 39"
+        },
+        "target_shabbat": "2030-10-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-39/"
+      },
+      {
+        "id": "cycle-15-sotah-40",
+        "title": {
+          "en": "Sotah 40 — Rabbi Abahu's Humility",
+          "he": "סוטה מ׳ — ענוותנותו של רבי אבהו"
+        },
+        "parashah": {
+          "en": "Sotah 40",
+          "he": "סוטה דף 40"
+        },
+        "target_shabbat": "2030-10-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-40/"
+      },
+      {
+        "id": "cycle-15-sotah-41",
+        "title": {
+          "en": "Sotah 41 — The Strength of Flattery",
+          "he": "סוטה מ״א — אגרופה של חנופה"
+        },
+        "parashah": {
+          "en": "Sotah 41",
+          "he": "סוטה דף 41"
+        },
+        "target_shabbat": "2030-10-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-41/"
+      },
+      {
+        "id": "cycle-15-sotah-42",
+        "title": {
+          "en": "Sotah 42 — Hear, O Israel",
+          "he": "סוטה מ״ב — שמע ישראל"
+        },
+        "parashah": {
+          "en": "Sotah 42",
+          "he": "סוטה דף 42"
+        },
+        "target_shabbat": "2030-10-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-42/"
+      },
+      {
+        "id": "cycle-15-sotah-43",
+        "title": {
+          "en": "Sotah 43 — Who Is the Man Who Built a New House",
+          "he": "סוטה מ״ג — מי האיש אשר בנה בית חדש"
+        },
+        "parashah": {
+          "en": "Sotah 43",
+          "he": "סוטה דף 43"
+        },
+        "target_shabbat": "2030-10-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-43/"
+      },
+      {
+        "id": "cycle-15-sotah-44",
+        "title": {
+          "en": "Sotah 44 — The Fearful and Faint-Hearted",
+          "he": "סוטה מ״ד — הירא ורך הלבב"
+        },
+        "parashah": {
+          "en": "Sotah 44",
+          "he": "סוטה דף 44"
+        },
+        "target_shabbat": "2030-10-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-44/"
+      },
+      {
+        "id": "cycle-15-sotah-45",
+        "title": {
+          "en": "Sotah 45 — And Your Elders and Judges Shall Go Out",
+          "he": "סוטה מ״ה — ויצאו זקניך ושופטיך"
+        },
+        "parashah": {
+          "en": "Sotah 45",
+          "he": "סוטה דף 45"
+        },
+        "target_shabbat": "2030-10-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-45/"
+      },
+      {
+        "id": "cycle-15-sotah-46",
+        "title": {
+          "en": "Sotah 46 — Our Hands Did Not Spill This Blood",
+          "he": "סוטה מ״ו — ידינו לא שפכה את הדם הזה"
+        },
+        "parashah": {
+          "en": "Sotah 46",
+          "he": "סוטה דף 46"
+        },
+        "target_shabbat": "2030-10-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-46/"
+      },
+      {
+        "id": "cycle-15-sotah-47",
+        "title": {
+          "en": "Sotah 47 — The Left Hand Pushes Away, the Right Draws Near",
+          "he": "סוטה מ״ז — שמאל דוחה וימין מקרבת"
+        },
+        "parashah": {
+          "en": "Sotah 47",
+          "he": "סוטה דף 47"
+        },
+        "target_shabbat": "2030-10-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-47/"
+      },
+      {
+        "id": "cycle-15-sotah-48",
+        "title": {
+          "en": "Sotah 48 — Bread in His Basket",
+          "he": "סוטה מ״ח — פת בסלו"
+        },
+        "parashah": {
+          "en": "Sotah 48",
+          "he": "סוטה דף 48"
+        },
+        "target_shabbat": "2030-10-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-48/"
+      },
+      {
+        "id": "cycle-15-sotah-49",
+        "title": {
+          "en": "Sotah 49 — Upon Whom Can We Rely? Upon Our Father in Heaven",
+          "he": "סוטה מ״ט — על מי יש לנו להשען — על אבינו שבשמים"
+        },
+        "parashah": {
+          "en": "Sotah 49",
+          "he": "סוטה דף 49"
+        },
+        "target_shabbat": "2030-10-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-49/"
       }
     ],
     "calendar": {
@@ -36740,6 +37412,22 @@
         "festival": null,
         "festival_he": null,
         "has_weekly_parashah": true
+      },
+      {
+        "target_shabbat": "2027-11-13",
+        "hebrew_date": "י״ג חשון תשפ״ח",
+        "israel": {
+          "en": "Lech Lecha",
+          "he": "לך לך"
+        },
+        "diaspora": {
+          "en": "Lech Lecha",
+          "he": "לך לך"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
       }
     ],
     "haftarot": [
@@ -37558,378 +38246,378 @@
     "total": 70988,
     "cards": [
       {
-        "id": "ye-29118",
-        "title": "Chain of tradition for stories/parables told by Rashi",
+        "id": "ye-29096",
+        "title": "Facebook in the bathroom",
         "titles": {
-          "en": "Chain of tradition for stories/parables told by Rashi",
+          "en": "Facebook in the bathroom",
           "he": ""
         },
         "language": "en",
-        "question": "I've already asked one question about where Rashi got a particularly troubling interpretation of an obscure reference in the Gemara, telling a very detailed and gruesome story about R' Meir and his wi",
-        "answer": "Perhaps he is quoting material that is not from the Bavli where one version appeared, but rather extra-Talmud Bavli material like the Yerushalmi, Tosefta, The Pesiqtas, or other random midrashim, where stories can vary sometimes from their Bavli coun",
+        "question": "While it's certainly very crude, if not plain gross, it's not all that uncommon for people to use social media sites like Facebook while in the bathroom. Many Posekim forbid speaking in the bathroom, ",
+        "answer": "Here's a shiur talking exactly about your question (haven't listened to it) I would define texting and using social media sites to be basically the same thing. http://www.yutorah.org/lectures/lecture.cfm/782704/Rabbi_Aryeh_Lebowitz/Ten_Minute_Halacha",
         "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-29118",
-        "source_url": "https://judaism.stackexchange.com/questions/29118/chain-of-tradition-for-stories-parables-told-by-rashi",
-        "author": "Eilu V'Eilu",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-12551",
-        "title": "How Is It That Rabbis Have Copies of Their Own Responsa?",
-        "titles": {
-          "en": "How Is It That Rabbis Have Copies of Their Own Responsa?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "(I could use some help with tagging.) There are many seforim out there that are the compiled letters or teshuvos of this or that Rabbi. Those that come to mind are \"Igros Moshe\", from R' Moshe Feinste",
-        "answer": "I think that by the Lubavitcher Rebbe the secretaries used to make a rough draft, send it in to the Rebbe for proofreading, get the Rebbe to write notes on it, retype the letter and send it. Therefore, the secretaries had the original copy in manuscr",
-        "answer_count": 5,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-12551",
-        "source_url": "https://judaism.stackexchange.com/questions/12551/how-is-it-that-rabbis-have-copies-of-their-own-responsa",
-        "author": "ertert3terte",
+        "url": "https://shekhina.org/qa.html?id=ye-29096",
+        "source_url": "https://judaism.stackexchange.com/questions/29096/facebook-in-the-bathroom",
+        "author": "termsofservice",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-chabad-451587",
-        "title": "You're Madly in Love",
+        "id": "ye-12512",
+        "title": "Shomer Negiah without direct contact?",
+        "titles": {
+          "en": "Shomer Negiah without direct contact?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "An interesting thought crossed my mind: does shomer negiah specifically only relate to direct, physical contact, or does it additionally extend to cover cases where there is no direct touch? Though I'",
+        "answer": "Interestingly, someone just ask Rav Aviner this same question (well not exactly) earlier this month. Prohibition against Touching Opposite Gender Q: Does the prohibition against touching someone of the opposite gender only apply to their actual body,",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-12512",
+        "source_url": "https://judaism.stackexchange.com/questions/12512/shomer-negiah-without-direct-contact",
+        "author": "avi",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "up-chabad-431589",
+        "title": "The Joy of Sin?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question There is a woman whom I knew for a long time. I love her so much, but we're not together anymore. It's been more than a year since she broke off all contact with me. In two months she's getti",
+        "question": "Question: I find Yom Kippur depressing. Why spend a day focusing on our sins and failures? Do we need to be reminded how far we are from being perfect?",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "general",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-451587",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/451587/jewish/Youre-Madly-in-Love.htm",
-        "author": "Tzvi Freeman",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-431589",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/431589/jewish/The-Joy-of-Sin.htm",
+        "author": "Aron Moss",
         "author_url": null,
         "license": "",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-135142",
-        "title": "Torah-teaching of Rav Edelstein zt\"l: enjoy your learning",
+        "id": "ye-135108",
+        "title": "Designing a Robot that could write a Sefer Torah",
         "titles": {
-          "en": "Torah-teaching of Rav Edelstein zt\"l: enjoy your learning",
+          "en": "Designing a Robot that could write a Sefer Torah",
           "he": ""
         },
         "language": "en",
-        "question": "I've heard a shiur from Rabbi Daniel Glatstein on the teachings of Rav Gershon Edelstein zt\"l in which Rav Edelstein zt\"l describes what the obligations of a teacher of Torah should have in mind when ",
-        "answer": "B\"H, with the help of the office of Rav Glatstein, I've got hands on the original source from these teachings. The sefer is called קונטרס יסודות החינוך מרבותינו גדולי ישראל שליט\"א (maybe it could also be seen as a pamphlet, rather than a sefer). The ",
+        "question": "I watched a video on YouTube titled \" I sent robot forgeries to a handwriting expert .\" I was wondering if would it be technologically possible to design a robot that could write a Sefer Torah.",
+        "answer": "Would it be technologically possible? Yes! Tzfi Fishman, in a Jewish-Press article called: Can A Robot Write A Sefer Torah? An Interview with Rabbi Menachem Perl, Head of the Tzomet Institute writes that Rabbi Menachem Perl, head of the Tzomet Instit",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-135142",
-        "source_url": "https://judaism.stackexchange.com/questions/135142/torah-teaching-of-rav-edelstein-ztl-enjoy-your-learning",
+        "url": "https://shekhina.org/qa.html?id=ye-135108",
+        "source_url": "https://judaism.stackexchange.com/questions/135108/designing-a-robot-that-could-write-a-sefer-torah",
         "author": "Shmuel",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-117056",
-        "title": "Biography of Rabbi Mordechai Carlebach",
+        "id": "ye-117025",
+        "title": "May one bill two clients for the same hour",
         "titles": {
-          "en": "Biography of Rabbi Mordechai Carlebach",
+          "en": "May one bill two clients for the same hour",
           "he": ""
         },
         "language": "en",
-        "question": "A very popular book in the \"yeshivishe\" world is the Sefer Chavatzeles Hasharon by Rabbi Mordechai Carlebach. It has many shiurim on the Parsha, with a lot of lomdus. I am wondering if anyone knows an",
-        "answer": "He lives in Yerushalayim, on Rechov Techeiles Mordechai in Romema. He is very young - and was even younger when he began publishing his sefarim. He is an alumnus of Brisk and R' Moshe Shapira, and currently learns in one of R Yackov Hillel's kollelim",
+        "question": "If Reuven is paying Levi an amount per hour to do a task and Reuven already began doing it but he needs to wait for a computer to process and it'll take an hour or two to complete. May Levi do work fo",
+        "answer": "So the Business Halacha Institute here addresses this idea albeit with a different scenario - namely an attorney that is traveling to a client meeting in which the time and expense of the trip are billed to the client. While traveling, the attorney r",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "history",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-117056",
-        "source_url": "https://judaism.stackexchange.com/questions/117056/biography-of-rabbi-mordechai-carlebach",
-        "author": "chortkov2",
+        "url": "https://shekhina.org/qa.html?id=ye-117025",
+        "source_url": "https://judaism.stackexchange.com/questions/117025/may-one-bill-two-clients-for-the-same-hour",
+        "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-97377",
-        "title": "Is one \"obligated\" to eat donuts/latkes on Hanukkah (as to not deviate from customs)?",
+        "id": "ye-97341",
+        "title": "Is the one who fights with Jacob in Genesis 32: 25-31 a simple emissary of Esau according to a current of Jewish tradition?",
         "titles": {
-          "en": "Is one \"obligated\" to eat donuts/latkes on Hanukkah (as to not deviate from customs)?",
+          "en": "Is the one who fights with Jacob in Genesis 32: 25-31 a simple emissary of Esau according to a current of Jewish tradition?",
           "he": ""
         },
         "language": "en",
-        "question": "In general one should not deviate from accepted customs (i.e minhag yisroel zu halacha). Does that obligate one to eat donuts/latkes/dairy on Chanukkah if he would prefer not to?",
-        "answer": "Wikipedia cites R. Maimon, father of the Rambam, on this question: אין להקל בשום מנהג ואפילו מנהג קל. ויתחייב כל נכון לו עשות משתה ושמחה ומאכל, לפרסם הנס שעשה השם יתברך עמנו באותם הימים. ופשט המנהג לעשות סופגנין, בערבי אלספינג, והם הצפחיות בדבש, ובתר",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-97377",
-        "source_url": "https://judaism.stackexchange.com/questions/97377/is-one-obligated-to-eat-donuts-latkes-on-hanukkah-as-to-not-deviate-from-cust",
-        "author": "wfb",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-82051",
-        "title": "does kashering require the vessel to be unused for 24 hours (ben yomo)?",
-        "titles": {
-          "en": "does kashering require the vessel to be unused for 24 hours (ben yomo)?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If someone is going to be kashering via hagala or by libun does the cleaning of the items prior to kashering require the vessel or utensil also be left unused for 24 hours? If yes, why?",
-        "answer": "Kashering a stove using Libun Kal requires waiting 24 hours (according to Rav Ovadia, Hilchos Pesach) and also Rabbi Blumenkranz writes the same thing in his Laws of Pesach guide. According to Rabbi Blumenkranz Libun Gamur does not require waiting 24",
+        "question": "I am an Italian noahide. I read the following words written by an Italian Orthodox Jew about the figure of one who fights with Jacob in Genesis 32: 25-31 This figure is defined by the tradition \"Sar E",
+        "answer": "If the guy was just some punk Eisav hired to block Jacob's entry, Jacob wouldn't let have let him go in exchange for a blessing. He already has the blessing that should have gone to Eisav. Eisav has nothing spiritual left to give him. If it was a man",
         "answer_count": 3,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-82051",
-        "source_url": "https://judaism.stackexchange.com/questions/82051/does-kashering-require-the-vessel-to-be-unused-for-24-hours-ben-yomo",
-        "author": "Sam Goldberg",
+        "url": "https://shekhina.org/qa.html?id=ye-97341",
+        "source_url": "https://judaism.stackexchange.com/questions/97341/is-the-one-who-fights-with-jacob-in-genesis-32-25-31-a-simple-emissary-of-esau",
+        "author": "Clint Eastwood",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-65093",
-        "title": "Torah Commentary of R. Isaac Samuel Reggio",
+        "id": "ye-82003",
+        "title": "Why is it so important to have 248 words when saying shema?",
         "titles": {
-          "en": "Torah Commentary of R. Isaac Samuel Reggio",
+          "en": "Why is it so important to have 248 words when saying shema?",
           "he": ""
         },
         "language": "en",
-        "question": "Is the commentary of R. Isaac Samuel Reggio on the Torah available for free online?",
-        "answer": "Here are links to: Bereshith , Shemos , Vayikra , Bamidbar and Devarim on Google Books.",
+        "question": "There are 245 words in the shema. To get to the number 248 there are two minhagim that help achieve this. One is to quietly say keil melech neemon before the shema and the other is either to hear the ",
+        "answer": "Chazal held that the human body had 248 bones/limbs. Therefore Shema which is the prayer of us accepting G-d's yoke should have 248 words signifying that we accept G-d's sovereignty over us with out entire body.",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-65093",
-        "source_url": "https://judaism.stackexchange.com/questions/65093/torah-commentary-of-r-isaac-samuel-reggio",
-        "author": "jake",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-82003",
+        "source_url": "https://judaism.stackexchange.com/questions/82003/why-is-it-so-important-to-have-248-words-when-saying-shema",
+        "author": "Yosef Mordechai Coleman",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-47263",
-        "title": "Keeping a lulav green and moist",
+        "id": "ye-65059",
+        "title": "How was Adam to conquer the land?",
         "titles": {
-          "en": "Keeping a lulav green and moist",
+          "en": "How was Adam to conquer the land?",
           "he": ""
         },
         "language": "en",
-        "question": "What can be done to ensure that a lulav stays green and does not dry out ?",
-        "answer": "In my experience, it helps to keep them in a cool, dark, and dry place -- cool and dry to avoid problems with mold (mold apparently enjoys moisture and warmth), and dark to avoid bleaching in the light. I have never had a problem with a lulav when st",
-        "answer_count": 1,
+        "question": "In Bereshis 1:28 God tells Adam to to conquer the land, וְכִבְשֻׁהָ. How or in what way was Adam supposed to do this? Build buildings? Farm? Something else?",
+        "answer": "In Lonely Man of Faith, throughout the first chapter, R' Soloveitchik develops the idea that man is charged with overcoming his environment and conquering nature. He achieves dignity by becoming the master of his own destiny. Thus, building hospitals",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "talmud",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-47263",
-        "source_url": "https://judaism.stackexchange.com/questions/47263/keeping-a-lulav-green-and-moist",
-        "author": "MTL",
+        "url": "https://shekhina.org/qa.html?id=ye-65059",
+        "source_url": "https://judaism.stackexchange.com/questions/65059/how-was-adam-to-conquer-the-land",
+        "author": "Y e z",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-202109227895222",
-        "title": "כתיבה בחול המועד",
+        "id": "ye-46228",
+        "title": "Judenstern (Jeckische Shabbat lamp)",
         "titles": {
-          "en": "",
-          "he": "כתיבה בחול המועד"
+          "en": "Judenstern (Jeckische Shabbat lamp)",
+          "he": ""
         },
-        "language": "he",
-        "question": "שלום וברכה, האם מותר לכתוב על הזמנה לחתונה מכתב תודה למוזמן. תודה לפרט את המקורות. כתיבה במחשב באופן זה מותרת בחול המועד אבל לא כתיבה בעט על נייר, כיון שאינו צורך המועד. שו”ת באר משה ח”ז סי’ ל”ט, שבט ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-202109227895222",
-        "source_url": "https://din.org.il/2021/09/22/%d7%9b%d7%aa%d7%99%d7%91%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93-7/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-141133",
-        "title": "טלטול טלפון נייד בשבת כדי להיות זמין למקרה חרום",
-        "titles": {
-          "en": "",
-          "he": "טלטול טלפון נייד בשבת כדי להיות זמין למקרה חרום"
-        },
-        "language": "he",
-        "question": "יצאתי לחופשה מהמלחמה, ביקשו ממני להיות זמין בטלפון למקרה של הקפצה, האם מותר לי לטלטל את הטלפון לבית הכנסת, או שאסור לטלטל אותו ואז צריך להישאר בבית לידו? מותר. הרחבה: מותר לטלטל את הטלפון משום שהוא מו",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-141133",
-        "source_url": "https://www.yeshiva.org.il/ask/141133",
-        "author": "הרב מיכאל יומטוביאן",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-147579",
-        "title": "מה בין יהדות לפילוסופיה?",
-        "titles": {
-          "en": "",
-          "he": "מה בין יהדות לפילוסופיה?"
-        },
-        "language": "he",
-        "question": "ברכה ושלום. בתקופה האחרונה אני מנסה להבין מה עמדת היהדות בנוגע לחקירה. מצד אחד אני שומע את מיכאל אברהם שטוען שהוא קודם כל רציונלי וכו. מצד שני אני שומע את הרב שרקי ומניטו שטוענים שפילוסוף על פי הגדרה ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-147579",
-        "source_url": "https://www.yeshiva.org.il/ask/147579",
-        "author": "הרב פרופ' נריה גוטל",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-38485",
-        "title": "What is Ezra's Immersion / טבילת עזרא",
-        "titles": {
-          "en": "",
-          "he": "What is Ezra's Immersion / טבילת עזרא"
-        },
-        "language": "he",
-        "question": "What is Ezra's Immersion / טבילת עזרא and: Why was it canceled? How was it canceled?",
-        "answer": "I found the following in Rambam's Mishneh Torah: ספר אהבה הִלְכּוֹת תְּפִלָּה פֵּרֶק ד ד כָּל הַטְּמֵאִים--רוֹחֲצִין יְדֵיהֶן בִּלְבָד כַּטְּהוֹרִין, וּמִתְפַּלְּלִין: אַף עַל פִּי שֶׁאִפְשָׁר לָהֶן לִטְבֹּל וְלַעֲלוֹת מִטֻּמְאָתָן, אֵין הַטְּבִילָה ",
+        "language": "en",
+        "question": "Historically, German Jews used a lamp like the one shown below for neirot Shabbat. Does anyone still make it? If so, where could it be found?",
+        "answer": "I have one original for sale. Can be contacted at +1-650-417-8552",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-38485",
-        "source_url": "https://judaism.stackexchange.com/questions/38485/what-is-ezras-immersion-%d7%98%d7%91%d7%99%d7%9c%d7%aa-%d7%a2%d7%96%d7%a8%d7%90",
-        "author": "Robert S. Barnes",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-46228",
+        "source_url": "https://judaism.stackexchange.com/questions/46228/judenstern-jeckische-shabbat-lamp",
+        "author": "hermann Kanter",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "din-url-32e4ac8ecc0aace4cfbaa5ac",
-        "title": "מגיס בשבת – לקיחת מאכל בסיר שעל האש",
+        "id": "ye-20210922029178",
+        "title": "שיעורי נהיגה בחול המועד",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "שיעורי נהיגה בחול המועד"
         },
         "language": "he",
-        "question": "שלום לרבניםאני רוצה לאכול מסיר החמין בליל שבתהאם אני צריך להגביה את הסיר?האם צריך להגביה את כל הסיר או שדי להגביה חציו?יש עוד הלכות שעליי לדעת בעניין זה?",
+        "question": "האם להלכה נפסק שאסור שיעורי נהיגה בחול המועד? אין לעשות שיעור נהיגה בחול המועד. בנוגע לשיעורי נהיגה יש שתי בעיות: א. פוסקי זמנינו נחלקו אם נהיגה ברכב שלא לצורך המועד מותרת או אסורה, הגר\"מ פיינשטין בעל",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-32e4ac8ecc0aace4cfbaa5ac",
-        "source_url": "https://din.org.il/2020/05/08/%d7%9e%d7%92%d7%99%d7%a1-%d7%91%d7%a9%d7%91%d7%aa-%d7%9c%d7%a7%d7%99%d7%97%d7%aa-%d7%9e%d7%90%d7%9b%d7%9c-%d7%91%d7%a1%d7%99%d7%a8-%d7%a9%d7%a2%d7%9c-%d7%94%d7%90%d7%a9/",
-        "author": "רבני בית הוראה",
+        "url": "https://shekhina.org/qa.html?id=ye-20210922029178",
+        "source_url": "https://din.org.il/2021/09/22/%d7%a9%d7%99%d7%a2%d7%95%d7%a8%d7%99-%d7%a0%d7%94%d7%99%d7%92%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93-3/",
+        "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-351108",
-        "title": "הנאה מריח סיגריה שמעשנים בשבת",
+        "id": "ye-141116",
+        "title": "התשובה לא ענתה לי עד הסוף",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "התשובה לא ענתה לי עד הסוף"
         },
         "language": "he",
-        "question": "אדם שרגיל לעשן בימי חול ושכנו החילוני מעשן מתחת לביתו בשבתהאם מותר לו לפתוח חלון ולהנות מריח ?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-351108",
-        "source_url": "https://din.org.il/2021/11/03/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%a8%d7%99%d7%97-%d7%a1%d7%99%d7%92%d7%a8%d7%99%d7%94-%d7%a9%d7%9e%d7%a2%d7%a9%d7%a0%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-136530",
-        "title": "לאחר את פדיון הבן",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "הרב אמר לי שהפדיון יוצא במוצא צום עשרה בטבת השנה כי התינוק נולד ב י בכסליו ב1:51 בלילה, יש אפשרות לדחות את זה ליום אחרי? כלומר ליום רביעי",
+        "question": "הרי לא יתכן שזה דבר שקרה להם רק בגלל שהרשעים האלה החליטו לעשות ככה.... (אני לא שואלת השאלה הראשונה, רק הגעתי אליה כי גם לי זה קשה) שלום לך, אי אפשר להסיר את האחריות מהרשעים הארורים. מי שנהג באכזריות נ",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-136530",
-        "source_url": "https://www.yeshiva.org.il/ask/136530",
+        "url": "https://shekhina.org/qa.html?id=ye-141116",
+        "source_url": "https://www.yeshiva.org.il/ask/141116",
+        "author": "הרב אוריאל טויטו",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "ye-147558",
+        "title": "עיצוב אתרים למשחקים בקוסטה ריקה וחו\"ל",
+        "titles": {
+          "en": "",
+          "he": "עיצוב אתרים למשחקים בקוסטה ריקה וחו\"ל"
+        },
+        "language": "he",
+        "question": "שלום, אני עובדת עם חברה שיש לה כל מיניי עסקים בחו\"ל, ואחד מהם זה משחקים שאפשר להרוויח עליהם כסף אם מכניסים כרטיס אשראי. הם נותנים ללקוחות בניית אתר, עיצוב, חיבור לספקי משחקים, חיבור לסליקה, חיבורים שו",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-147558",
+        "source_url": "https://www.yeshiva.org.il/ask/147558",
+        "author": "הרב יהודה אודסר",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "ye-38063",
+        "title": "Can a כהן marry a גרושה בתולה",
+        "titles": {
+          "en": "",
+          "he": "Can a כהן marry a גרושה בתולה"
+        },
+        "language": "he",
+        "question": "We know that a כהן may only marry a woman who was not divorced. However what about a case where a woman got married then got divorced but never had relations. Is she still fit for a cohen because tech",
+        "answer": "Explicitly forbidden in the Rambam ( Isurei Bi'a Ch.19: 2) שכל נשואה בחזקת בעולה, אף על פי שנמצאת בתולה She is forbidden to any Cohen once she was divorced. As the Ramabm states ibid ( 17:13 ) that even if she was divorced after the Eirusin, the is f",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-38063",
+        "source_url": "https://judaism.stackexchange.com/questions/38063/can-a-%d7%9b%d7%94%d7%9f-marry-a-%d7%92%d7%a8%d7%95%d7%a9%d7%94-%d7%91%d7%aa%d7%95%d7%9c%d7%94",
+        "author": "Danny Schoemann",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "din-url-31fcbd85c71024997ee79e51",
+        "title": "סבון שירותים בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלוםהאם בשבת מותר להשאיר את מתקן הסבון שבאסלה שעם כל ירידת מים שוטף את האסלה?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-31fcbd85c71024997ee79e51",
+        "source_url": "https://din.org.il/2020/10/28/%d7%a1%d7%91%d7%95%d7%9f-%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "up-din-347895",
+        "title": "כלי שבישלו בו בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר לקנות קפה בתחנת דלק שמחללת שבת, לאחר השבת ? מכיון שכידוע המ\"ב אומר בסי' שיח ס\"ק ד וז\"ל כתב המג\"א בשם הרשב\"א דגם הקדירה שבישל בה בשבת אסורה לו לבשל בה מפני שהיא בלועה מדבר האסור לו ודוקא המבשל",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-347895",
+        "source_url": "https://din.org.il/2021/10/06/%d7%9b%d7%9c%d7%99-%d7%a9%d7%91%d7%99%d7%a9%d7%9c%d7%95-%d7%91%d7%95-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+      },
+      {
+        "id": "ye-136492",
+        "title": "חרס בשרי ומאכל חלב קר",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אם ברשותי צלחת חרס בשרית (אשר חוממה עליה בעבר מאכל בשרי חם) ונאכל בה מאכל חלבי קר ולא ברור אם הצלחת בת יומה. מה דין הצלחת?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-136492",
+        "source_url": "https://www.yeshiva.org.il/ask/136492",
         "author": "",
         "author_url": null,
         "license": "",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-202307236292600",
-        "title": "לימוד מוסר בתשעה באב",
+        "id": "up-din-2023072312499227",
+        "title": "לא הכין בגדים לתשעת הימים / לא שמע כל הברכה / גבינה על שניצל",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב..ראיתי פסק של הרב עובדיה שמותר ללמוד ספרי מוסר בתשעה באב איזה ספרי מוסר מותר?מסילת ישרים מותר?לא בעיון…תודה רבה",
+        "question": "שלום לרבנים 1 מי שלא הכין בגדים משומשים לשבוע שחל בו מה עושה? 2 מי שלא שמע את כול ברכת ההבדלה כגון שלא שמע בין ישראל לעמים (שמע בשמים ואש) מה מעכב? 3 מקל של מטאטא שנשבר בשבת לחצי או שלוש חתיכות האם זה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202307236292600",
-        "source_url": "https://din.org.il/2023/07/23/%d7%9c%d7%99%d7%9e%d7%95%d7%93-%d7%9e%d7%95%d7%a1%d7%a8-%d7%91%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2023072312499227",
+        "source_url": "https://din.org.il/2023/07/23/%d7%9c%d7%90-%d7%94%d7%9b%d7%99%d7%9f-%d7%91%d7%92%d7%93%d7%99%d7%9d-%d7%9c%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%9c%d7%90-%d7%a9%d7%9e%d7%a2-%d7%9b%d7%9c-%d7%94%d7%91%d7%a8/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-202404087505701",
-        "title": "כלי מנגל לפסח",
+        "id": "up-din-2024040714561225",
+        "title": "האם השנה פסח אינו בחודש האביב?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "היי כבוד הרב יש לי כלים של ימי השנה כלים שאני עושה בהם על האש ,רשת , מלקחיים , שיפודי ברזל .. אפשר להשתמש איתם גם בפסח , או עדיפות לכלים חדשים ?",
+        "question": "שלום וברכהזכרוני שראיתי פעם באיזה ספר שמה שכתוב בתורה שמור את חודש האביב, הכונה לחודש שאחרי תקופת האביב, מה שאומר שהשנה פסח יוצא למעשה לא בחודש האביב (ורק שאין לנו את היכולת לשנות את הלוח), האם הדבר נ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202404087505701",
-        "source_url": "https://din.org.il/2024/04/08/%d7%9b%d7%9c%d7%99-%d7%9e%d7%a0%d7%92%d7%9c-%d7%9c%d7%a4%d7%a1%d7%97/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2024040714561225",
+        "source_url": "https://din.org.il/2024/04/07/%d7%94%d7%90%d7%9d-%d7%94%d7%a9%d7%a0%d7%94-%d7%a4%d7%a1%d7%97-%d7%90%d7%99%d7%a0%d7%95-%d7%91%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%90%d7%91%d7%99%d7%91/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
