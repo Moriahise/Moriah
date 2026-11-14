@@ -24,6 +24,8 @@ Der Wächter prüft:
 
 Auch ein erneuter Versuch eines GitHub-Laufs nutzt automatisch den Wiederherstellungsmodus. Ein Wiederherstellungslauf nutzt vorhandene Übersetzungen und gespeicherte Studiendaten. Nachrichtenfeeds werden weiterhin live gesammelt und geprüft. Der normale Lauf versucht anschließend wieder die vollständige Übersetzung und Aktualisierung aller Studienbereiche.
 
+Das Pages-Paket trägt eine eindeutige Kennung aus Laufnummer und Versuch. Dadurch können direkte Wiederholungen nicht mit alten Paketen desselben GitHub-Laufs verwechselt werden.
+
 Ein Publikationsmarker in `data/publication.json` benennt den konkreten GitHub-Lauf und dessen Versuch. Nach dem Deployment prüft das Programm über die öffentliche Website, ob Marker und Nachrichtendaten übereinstimmen. Ein übersprungener oder fehlgeschlagener Pages-Deploy wird nicht als erfolgreiche Veröffentlichung behandelt.
 
 ## Bewegliche Studienkalender und Prüfungen

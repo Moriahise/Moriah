@@ -100,12 +100,15 @@ jobs:
       - name: Upload complete website artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
           path: _site
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Deploy newspaper
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Verify the actual public publication
         timeout-minutes: 3
         run: python scripts/publication.py verify
