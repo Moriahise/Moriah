@@ -1,44 +1,48 @@
 {
   "jpost": {
     "preferred_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "jpost-judaism": {
     "preferred_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "jpost-culture": {
     "preferred_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "toi": {
     "preferred_url": "https://www.timesofisrael.com/feed/",
     "last_success_at": "2026-11-14T08:46:52Z",
-    "consecutive_failures": 0,
-    "last_state": "ok"
+    "consecutive_failures": 1,
+    "last_state": "unavailable",
+    "discovered_at": "2026-11-14T08:58:55Z",
+    "discovered_urls": []
   },
   "zman": {
     "preferred_url": "https://www.zman.co.il/feed/",
     "last_success_at": "2026-11-14T08:46:52Z",
-    "consecutive_failures": 0,
-    "last_state": "ok"
+    "consecutive_failures": 1,
+    "last_state": "unavailable",
+    "discovered_at": "2026-11-14T08:58:55Z",
+    "discovered_urls": []
   },
   "ynet": {
     "preferred_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "ynetnews": {
     "discovered_at": "2026-11-14T08:46:52Z",
     "discovered_urls": [],
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "stale"
   },
   "yedioth": {
@@ -48,13 +52,13 @@
   },
   "maariv": {
     "preferred_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "globes": {
     "preferred_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
@@ -70,7 +74,7 @@
       "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3781,00.xml",
       "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3791,00.xml"
     ],
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "unavailable"
   },
   "themarker": {
@@ -78,24 +82,24 @@
     "discovered_urls": [
       "https://www.themarker.com/misc/rss"
     ],
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "unavailable"
   },
   "israelhayom": {
     "preferred_url": "https://www.israelhayom.co.il/rss",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "hamodia": {
     "discovered_at": "2026-11-14T08:46:52Z",
     "discovered_urls": [],
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "unavailable"
   },
   "yated": {
     "preferred_url": "https://yated.com/feed/",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
@@ -106,20 +110,20 @@
   },
   "arutz7": {
     "preferred_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "inn-en": {
     "preferred_url": "https://www.israelnationalnews.com/Rss.aspx",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "makorrishon": {
     "discovered_at": "2026-11-14T08:46:52Z",
     "discovered_urls": [],
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "unavailable"
   },
   "kan": {
@@ -128,7 +132,7 @@
       "https://www.kan.org.il/api/newsflash/v2/Newsflash"
     ],
     "preferred_url": "https://www.kan.org.il/api/newsflash/v2/Newsflash",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
@@ -145,8 +149,10 @@
   "now14": {
     "preferred_url": "https://www.c14.co.il/feed/",
     "last_success_at": "2026-11-14T08:46:52Z",
-    "consecutive_failures": 0,
-    "last_state": "ok"
+    "consecutive_failures": 1,
+    "last_state": "unavailable",
+    "discovered_at": "2026-11-14T08:58:55Z",
+    "discovered_urls": []
   },
   "kankids": {
     "discovered_at": "2026-11-14T08:46:52Z",
@@ -175,82 +181,82 @@
     ],
     "preferred_url": "https://www.9tv.co.il/rss/mainfeed",
     "last_success_at": "2026-11-14T08:46:52Z",
-    "consecutive_failures": 0,
-    "last_state": "ok"
+    "consecutive_failures": 1,
+    "last_state": "unavailable"
   },
   "jta": {
     "preferred_url": "https://www.jta.org/feed",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-kan11": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-kannews": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-kankids": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-makan33": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-reshet13": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-channel9": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-i24en": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-knesset": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-n12": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_state": "unavailable"
   },
   "yt-now14": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-knesset-tv": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   },
   "yt-i24he": {
     "preferred_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-    "last_success_at": "2026-11-14T08:46:52Z",
+    "last_success_at": "2026-11-14T08:58:55Z",
     "consecutive_failures": 0,
     "last_state": "ok"
   }
