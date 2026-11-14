@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-14T09:05:39Z",
+  "checked_at": "2026-11-14T11:26:17Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-14T09:05:39Z"
+      "checked_at": "2026-11-14T11:26:17Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-14T09:05:39Z"
+      "checked_at": "2026-11-14T11:26:17Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-14T09:05:39Z"
+      "checked_at": "2026-11-14T11:26:17Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-14T09:05:39Z"
+      "checked_at": "2026-11-14T11:26:17Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-14T09:05:39Z"
+      "checked_at": "2026-11-14T11:26:17Z"
     }
   },
   "music": [
@@ -37554,8 +37554,8 @@
     ]
   },
   "qa": {
-    "release": "v1-f4e12b78e5bccd6966c4ecf2",
-    "total": 70987,
+    "release": "v1-0c3cf20ffae902cce0b1c8c6",
+    "total": 70988,
     "cards": [
       {
         "id": "ye-29118",
@@ -37576,7 +37576,7 @@
         "author": "Eilu V'Eilu",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-12551",
@@ -37597,49 +37597,49 @@
         "author": "ertert3terte",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-chabad-45132",
-        "title": "What Is a Jew?",
+        "id": "up-chabad-451587",
+        "title": "You're Madly in Love",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: Is Judaism a \"religion\"? Is the term \"non-religious Jew\" an oxymoron? Can one still be Jewish without observing the edicts and ethos of Torah in one's daily life?",
+        "question": "Question There is a woman whom I knew for a long time. I love her so much, but we're not together anymore. It's been more than a year since she broke off all contact with me. In two months she's getti",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "talmud",
+        "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-45132",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/45132/jewish/What-Is-a-Jew.htm",
-        "author": "Based on the teachings of the Lubavitcher Rebbe",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-451587",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/451587/jewish/Youre-Madly-in-Love.htm",
+        "author": "Tzvi Freeman",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-135140",
-        "title": "What is the proper suffix for a deceased person?",
+        "id": "ye-135142",
+        "title": "Torah-teaching of Rav Edelstein zt\"l: enjoy your learning",
         "titles": {
-          "en": "What is the proper suffix for a deceased person?",
+          "en": "Torah-teaching of Rav Edelstein zt\"l: enjoy your learning",
           "he": ""
         },
         "language": "en",
-        "question": "What do the different suffixes mean, what are the differences between them, and which suffix is used for which people? Example: ז\"ל, זצ\"ל, זצוק\"ל, זי\"ע, נבג\"מ (This question differs from previously as",
-        "answer": "ז״ל: zikhrono livrakha (for a man) / zikhronah livrakha (for a woman) used for a holy or a righteous person זצ\"ל: zekher tzadik livrakha/ used for a holy or a righteous person (man) זצוק\"ל: zekher tzaddik v'kadosh livrakha / righteous and holy person",
-        "answer_count": 1,
+        "question": "I've heard a shiur from Rabbi Daniel Glatstein on the teachings of Rav Gershon Edelstein zt\"l in which Rav Edelstein zt\"l describes what the obligations of a teacher of Torah should have in mind when ",
+        "answer": "B\"H, with the help of the office of Rav Glatstein, I've got hands on the original source from these teachings. The sefer is called קונטרס יסודות החינוך מרבותינו גדולי ישראל שליט\"א (maybe it could also be seen as a pamphlet, rather than a sefer). The ",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-135140",
-        "source_url": "https://judaism.stackexchange.com/questions/135140/what-is-the-proper-suffix-for-a-deceased-person",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-135142",
+        "source_url": "https://judaism.stackexchange.com/questions/135142/torah-teaching-of-rav-edelstein-ztl-enjoy-your-learning",
         "author": "Shmuel",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-117056",
@@ -37660,7 +37660,7 @@
         "author": "chortkov2",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-97377",
@@ -37681,7 +37681,7 @@
         "author": "wfb",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-82051",
@@ -37702,7 +37702,7 @@
         "author": "Sam Goldberg",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-65093",
@@ -37723,7 +37723,7 @@
         "author": "jake",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
         "id": "ye-47263",
@@ -37744,196 +37744,196 @@
         "author": "MTL",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-2025031310449426",
-        "title": "מצוות מתנות לאביונים בירושלים השנה",
+        "id": "ye-202109227895222",
+        "title": "כתיבה בחול המועד",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "כתיבה בחול המועד"
         },
         "language": "he",
-        "question": "כבוד הרבמתי צריך לתת מתנות לאביונים בירושלים? באיזה יום?",
+        "question": "שלום וברכה, האם מותר לכתוב על הזמנה לחתונה מכתב תודה למוזמן. תודה לפרט את המקורות. כתיבה במחשב באופן זה מותרת בחול המועד אבל לא כתיבה בעט על נייר, כיון שאינו צורך המועד. שו”ת באר משה ח”ז סי’ ל”ט, שבט ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2025031310449426",
-        "source_url": "https://din.org.il/2025/03/13/%d7%9e%d7%a6%d7%95%d7%95%d7%aa-%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%94/",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-202109227895222",
+        "source_url": "https://din.org.il/2021/09/22/%d7%9b%d7%aa%d7%99%d7%91%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93-7/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-140224",
-        "title": "מה דין הר סיני כיום?",
+        "id": "ye-141133",
+        "title": "טלטול טלפון נייד בשבת כדי להיות זמין למקרה חרום",
         "titles": {
           "en": "",
-          "he": "מה דין הר סיני כיום?"
+          "he": "טלטול טלפון נייד בשבת כדי להיות זמין למקרה חרום"
         },
         "language": "he",
-        "question": "בס״ד היש הלכות או מנהגים קשורים להר סיני כיום? כלומר, האם זה מותר לבקר לשם ולעשות מה שהלב חושק? או היש צורך להתנהג שם עם כובד ראש ולא לעשות שם דברים של שחוק? האם יש עצה טובה או לבקר את ההר או לא לעשות",
+        "question": "יצאתי לחופשה מהמלחמה, ביקשו ממני להיות זמין בטלפון למקרה של הקפצה, האם מותר לי לטלטל את הטלפון לבית הכנסת, או שאסור לטלטל אותו ואז צריך להישאר בבית לידו? מותר. הרחבה: מותר לטלטל את הטלפון משום שהוא מו",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-140224",
-        "source_url": "https://www.yeshiva.org.il/ask/140224",
-        "author": "הרב דניאל קירש",
+        "url": "https://shekhina.org/qa.html?id=ye-141133",
+        "source_url": "https://www.yeshiva.org.il/ask/141133",
+        "author": "הרב מיכאל יומטוביאן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-149307",
-        "title": "סיגרים ממולאים בתפוחי אדמה ברשתות המזון",
+        "id": "ye-147579",
+        "title": "מה בין יהדות לפילוסופיה?",
         "titles": {
           "en": "",
-          "he": "סיגרים ממולאים בתפוחי אדמה ברשתות המזון"
+          "he": "מה בין יהדות לפילוסופיה?"
         },
         "language": "he",
-        "question": "שלום כבוד הרבנים, אנחנו קונים לפעמים סיגרים ממולאים בתפוחי אדמה. רשת המזון מציינת שכל האוכל שהם עושים הוא או בשרי או בחזקת בשרי. הם לא יודעים לומר אם זו טוגן באותו שמן של סיגרים בשריים. אחרי מאכל בשרי",
+        "question": "ברכה ושלום. בתקופה האחרונה אני מנסה להבין מה עמדת היהדות בנוגע לחקירה. מצד אחד אני שומע את מיכאל אברהם שטוען שהוא קודם כל רציונלי וכו. מצד שני אני שומע את הרב שרקי ומניטו שטוענים שפילוסוף על פי הגדרה ",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "general",
+        "category": "history",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-149307",
-        "source_url": "https://www.yeshiva.org.il/ask/149307",
-        "author": "הרבנות הראשית לישראל",
+        "url": "https://shekhina.org/qa.html?id=ye-147579",
+        "source_url": "https://www.yeshiva.org.il/ask/147579",
+        "author": "הרב פרופ' נריה גוטל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "ye-7621",
-        "title": "Why is there a ה in \"מוהל\"?",
+        "id": "ye-38485",
+        "title": "What is Ezra's Immersion / טבילת עזרא",
         "titles": {
           "en": "",
-          "he": "Why is there a ה in \"מוהל\"?"
+          "he": "What is Ezra's Immersion / טבילת עזרא"
         },
         "language": "he",
-        "question": "The Hebrew word for the act performed at a circumcision is \"לימול\". The root appears to be נ.מ.ל. Following the exceptional rules for roots whose first letter is נ , the causative participle and nomin",
-        "answer": "The root is מול, sometimes considered a biliteral root, מל. Compare קם. There are cases in the Semitic languages where a full consonant appears in the middle of such roots to \"fill them out\" to the usual triliteral form. Compare Aramaic רהט \"run\" (He",
-        "answer_count": 3,
+        "question": "What is Ezra's Immersion / טבילת עזרא and: Why was it canceled? How was it canceled?",
+        "answer": "I found the following in Rambam's Mishneh Torah: ספר אהבה הִלְכּוֹת תְּפִלָּה פֵּרֶק ד ד כָּל הַטְּמֵאִים--רוֹחֲצִין יְדֵיהֶן בִּלְבָד כַּטְּהוֹרִין, וּמִתְפַּלְּלִין: אַף עַל פִּי שֶׁאִפְשָׁר לָהֶן לִטְבֹּל וְלַעֲלוֹת מִטֻּמְאָתָן, אֵין הַטְּבִילָה ",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-7621",
-        "source_url": "https://judaism.stackexchange.com/questions/7621/why-is-there-a-%d7%94-in-%d7%9e%d7%95%d7%94%d7%9c",
-        "author": "Joshua Fox",
+        "url": "https://shekhina.org/qa.html?id=ye-38485",
+        "source_url": "https://judaism.stackexchange.com/questions/38485/what-is-ezras-immersion-%d7%98%d7%91%d7%99%d7%9c%d7%aa-%d7%a2%d7%96%d7%a8%d7%90",
+        "author": "Robert S. Barnes",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "din-url-186ee6317735c935f862d6f5",
-        "title": "לשון הרע לתועלת / סקוצ' לוילון בשבת",
+        "id": "din-url-32e4ac8ecc0aace4cfbaa5ac",
+        "title": "מגיס בשבת – לקיחת מאכל בסיר שעל האש",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב, רציתי לשאול 2 שאלות בנושאים שונים:1. קניתי מדרסים לפני מספר שנים. השרות שקיבלתי היה נורא והיחס היה מאד מזלזל. המדרסים לא היו טובים ונאלצתי לפנות למקום אחר כדי שיסדרו לי אותם ובסופו של ד",
+        "question": "שלום לרבניםאני רוצה לאכול מסיר החמין בליל שבתהאם אני צריך להגביה את הסיר?האם צריך להגביה את כל הסיר או שדי להגביה חציו?יש עוד הלכות שעליי לדעת בעניין זה?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-186ee6317735c935f862d6f5",
-        "source_url": "https://din.org.il/2022/05/18/%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2-%d7%9c%d7%aa%d7%95%d7%a2%d7%9c%d7%aa-%d7%a1%d7%a7%d7%95%d7%a6-%d7%9c%d7%95%d7%99%d7%9c%d7%95%d7%9f-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-32e4ac8ecc0aace4cfbaa5ac",
+        "source_url": "https://din.org.il/2020/05/08/%d7%9e%d7%92%d7%99%d7%a1-%d7%91%d7%a9%d7%91%d7%aa-%d7%9c%d7%a7%d7%99%d7%97%d7%aa-%d7%9e%d7%90%d7%9b%d7%9c-%d7%91%d7%a1%d7%99%d7%a8-%d7%a9%d7%a2%d7%9c-%d7%94%d7%90%d7%a9/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-302035",
-        "title": "הנאה ממעשה בשבת",
+        "id": "up-din-351108",
+        "title": "הנאה מריח סיגריה שמעשנים בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "הנאה ממעשה בשבת",
+        "question": "אדם שרגיל לעשן בימי חול ושכנו החילוני מעשן מתחת לביתו בשבתהאם מותר לו לפתוח חלון ולהנות מריח ?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-302035",
-        "source_url": "https://din.org.il/2020/12/19/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%9e%d7%a2%d7%a9%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-351108",
+        "source_url": "https://din.org.il/2021/11/03/%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%a8%d7%99%d7%97-%d7%a1%d7%99%d7%92%d7%a8%d7%99%d7%94-%d7%a9%d7%9e%d7%a2%d7%a9%d7%a0%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-2023120310924804",
-        "title": "אלמנה בנר חנוכה",
+        "id": "ye-136530",
+        "title": "לאחר את פדיון הבן",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום.לאשכנזים,אלמנה המתגוררת בגפה האם צריכה להדליק נר חנוכה?אם כן, מה לגבי הברכות?יישר כח.",
+        "question": "הרב אמר לי שהפדיון יוצא במוצא צום עשרה בטבת השנה כי התינוק נולד ב י בכסליו ב1:51 בלילה, יש אפשרות לדחות את זה ליום אחרי? כלומר ליום רביעי",
         "answer": "",
         "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2023120310924804",
-        "source_url": "https://din.org.il/2023/12/03/%d7%90%d7%9c%d7%9e%d7%a0%d7%94-%d7%91%d7%a0%d7%a8-%d7%97%d7%a0%d7%95%d7%9b%d7%94/",
-        "author": "רבני בית הוראה",
+        "provider": "yeshiva",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-136530",
+        "source_url": "https://www.yeshiva.org.il/ask/136530",
+        "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-202207228868746",
-        "title": "דיבורי יום-יום – לשון הרע? / קשה להמנע ממוזיקה בשלושת השבועות",
+        "id": "up-din-202307236292600",
+        "title": "לימוד מוסר בתשעה באב",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב.(מעדיפה להישאר אנונימית כדי שח\"ו חברה שלי לא תעלב אם במקרה תראה את השאלה.)יש לי חברה טובה מאוד. ממש חברות נפש. היא ממש צדיקה. מקפידה על ההלכה בכל דבר אפשרי, ממש משתדלת לקיים את ההלכה בכל",
+        "question": "שלום כבוד הרב..ראיתי פסק של הרב עובדיה שמותר ללמוד ספרי מוסר בתשעה באב איזה ספרי מוסר מותר?מסילת ישרים מותר?לא בעיון…תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202207228868746",
-        "source_url": "https://din.org.il/2022/07/22/%d7%93%d7%99%d7%91%d7%95%d7%a8%d7%99-%d7%99%d7%95%d7%9d-%d7%99%d7%95%d7%9d-%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2-%d7%a7%d7%a9%d7%94-%d7%9c%d7%94%d7%9e%d7%a0%d7%a2-%d7%9e%d7%9e%d7%95%d7%96/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202307236292600",
+        "source_url": "https://din.org.il/2023/07/23/%d7%9c%d7%99%d7%9e%d7%95%d7%93-%d7%9e%d7%95%d7%a1%d7%a8-%d7%91%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       },
       {
-        "id": "up-din-202204145791247",
-        "title": "כוס של אליהו בליל הסדר / תיקון יין פגום",
+        "id": "up-din-202404087505701",
+        "title": "כלי מנגל לפסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום לרבנים העמלים למען הציבור בערבי פסחים ובכל השנה. תהיו מבורכים מן השמים תמיד, וגם נשותיכם ומשפחותיכם.א. כוס של אליהו, מהי ולמה, יש מקור?ב. האם כוס שנגמרה חלקה למשל כוס ראשונה, אפשר להוסיף לה עוד י",
+        "question": "היי כבוד הרב יש לי כלים של ימי השנה כלים שאני עושה בהם על האש ,רשת , מלקחיים , שיפודי ברזל .. אפשר להשתמש איתם גם בפסח , או עדיפות לכלים חדשים ?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202204145791247",
-        "source_url": "https://din.org.il/2022/04/14/%d7%9b%d7%95%d7%a1-%d7%a9%d7%9c-%d7%90%d7%9c%d7%99%d7%94%d7%95-%d7%91%d7%9c%d7%99%d7%9c-%d7%94%d7%a1%d7%93%d7%a8-%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%99%d7%99%d7%9f-%d7%a4%d7%92%d7%95%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202404087505701",
+        "source_url": "https://din.org.il/2024/04/08/%d7%9b%d7%9c%d7%99-%d7%9e%d7%a0%d7%92%d7%9c-%d7%9c%d7%a4%d7%a1%d7%97/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-f4e12b78e5bccd6966c4ecf2"
+        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
       }
     ]
   }
