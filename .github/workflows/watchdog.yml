@@ -1,0 +1,31 @@
+name: MORIAH · publication watchdog
+on:
+  schedule:
+    - cron: '43 * * * *'
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['MORIAH · collect, translate & publish']
+    types: [completed]
+    branches: [main]
+permissions:
+  contents: read
+  actions: write
+concurrency:
+  group: moriah-publication-watchdog
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check public freshness and restart failed publications
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/watchdog.py

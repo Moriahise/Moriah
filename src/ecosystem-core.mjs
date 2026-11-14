@@ -8,7 +8,15 @@ export function weekTarget(day){const d=new Date(day+'T12:00:00Z'),w=d.getUTCDay
 export function dayOrdinal(day){return Math.floor(Date.parse(day+'T00:00:00Z')/86400000);}
 export function rotate(items,seed,count=1){if(!items?.length)return [];const start=((seed%items.length)+items.length)%items.length;return Array.from({length:Math.min(count,items.length)},(_,i)=>items[(start+i)%items.length]);}
 export function weeklyStudy(section,target,reading=null){return section?.editions?.filter(e=>e.target_shabbat===target&&(!reading||normalize(e.parashah?.he)===normalize(reading.he))).at(0)||null;}
-export function weeklyRecord(ecosystem,target,il=true){const week=ecosystem?.shiurim?.weeks?.find(w=>w.target_shabbat===target)||ecosystem?.zohar?.weeks?.find(w=>w.target_shabbat===target);return week?{...week,il,reading:il?week.israel:week.diaspora}:null;}
+export function weeklyRecord(ecosystem,target,il=true){
+ const week=ecosystem?.shiurim?.weeks?.find(w=>w.target_shabbat===target)||ecosystem?.zohar?.weeks?.find(w=>w.target_shabbat===target);
+ if(week)return {...week,il,reading:il?week.israel:week.diaspora};
+ // Rolling publisher calendars can omit past/current dates; the bundled calendar remains available.
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(target))return null;
+ const h=plainHDate(target),event=calendar({start:h.greg(),end:h.greg(),il,sedrot:true}).find(e=>e instanceof ParshaEvent);
+ if(!event)return null;
+ return {target_shabbat:target,il,reading:{en:event.parsha.join('-'),he:event.parsha.map(n=>Locale.gettext(n,'he')).join('־')},calendar_source:'Hebcal bundled calendar'};
+}
 export function findHaftarah(ecosystem,week){
  if(!week?.reading)return null;
  const clean=s=>normalize(String(s||'').replace(/^Haftarah\s*[·:–-]?\s*/i,'').replace(/^הפטרה\s*[·:–-]?\s*/,''));
@@ -79,3 +87,4 @@ export function monthStep(system,year,month,delta){if(system==='hebrew'){const h
 export function dayTimes(day,city){const [y,m,d]=day.split('-').map(Number);const z=new Zmanim(geo(city),new Date(y,m-1,d,12),false);const defs=[['dawn','alotHaShachar'],['sunrise','sunrise'],['shema','sofZmanShma'],['prayer','sofZmanTfilla'],['midday','chatzot'],['mincha','minchaGedola'],['sunset','sunset']];const out=defs.flatMap(([key,method])=>{const value=z[method]?.();return value instanceof Date&&!Number.isNaN(value.getTime())?[{key,value}]:[];});const night=z.tzeit(8.5);if(night&&!Number.isNaN(night.getTime()))out.push({key:'nightfall',value:night});return out;}
 export function allParashot(section){return parshiot.map((en,index)=>{const he=Locale.gettext(en,'he');const editions=section?.editions?.filter(e=>normalize(e.parashah?.he)===normalize(he))||[];return {index,en,he,edition:editions.sort((a,b)=>b.target_shabbat.localeCompare(a.target_shabbat))[0]||null};});}
 export function qaSelection(cards,lang,seed,count=3){const native=cards.filter(q=>q.language===lang),other=cards.filter(q=>q.language!==lang);return rotate(native.length?native:other,seed,count);}
+

@@ -23,9 +23,11 @@ Jeder simulierte Browser wird über den Test-Aufräummechanismus geschlossen, au
 
 Ein neuer Quellcode-Push ersetzt einen noch laufenden älteren öffentlichen Workflow. Zeitgesteuerte und manuell gestartete Läufe bleiben untereinander serialisiert. So kann eine Reparatur einen festhängenden alten Lauf ablösen.
 
+Die aktuelle automatische Wiederherstellung mit Ersatzfeeds, Feed-Suche, Publikationskontrolle und begrenzten Wiederholungen ist in [FEED_RECOVERY.md](FEED_RECOVERY.md) beschrieben.
+
 ## Quellenausfälle
 
-Ein fehlgeschlagener Feed blockiert die übrigen Quellen nicht. Vorhandene Beiträge bleiben nur innerhalb ihrer Aufbewahrungsfrist erhalten und tragen ihr ursprüngliches Datum. Ein vollständiger Ausfall ersetzt keine bereits gute Sammlung durch eine leere Ausgabe. `data/health.json`, der Workflowbericht und die öffentliche Statusseite zeigen den Zustand. Nach 36 Stunden ohne erfolgreiche Gesamtaktualisierung weist die Website auf den gespeicherten Stand hin.
+Ein fehlgeschlagener Feed blockiert die übrigen Quellen nicht. Vorhandene Beiträge bleiben nur innerhalb ihrer Aufbewahrungsfrist erhalten und tragen ihr ursprüngliches Datum. Ein vollständiger Ausfall ersetzt keine bereits gute Sammlung durch eine leere Ausgabe. `data/health.json`, der Workflowbericht und die öffentliche Statusseite zeigen den Zustand. Nach zwölf Stunden ohne erfolgreiche Gesamtaktualisierung weist die Website auf den gespeicherten Stand hin.
 
 Ein gelistetes Medium ohne Feed bleibt ein Link auf seine offizielle Website. Es wird nicht durch einen erfundenen RSS-Endpunkt oder eine Kopie aus einem anderen Medium ersetzt. Neue Feedadressen werden in `config/sources.json` eingetragen und beim nächsten Lauf geprüft. Neue YouTube-Kanäle benötigen die verifizierte kanonische Channel-ID und einen Nachweis ihrer Identität.
 
@@ -51,4 +53,5 @@ Der öffentliche Standardbetrieb benötigt keine bezahlten KI-Aufrufe. Öffentli
 - CTranslate2: https://opennmt.net/CTranslate2/
 - GitHub Pages Aktivierung: `actions/configure-pages` verlangt zur erstmaligen automatischen Aktivierung einen anderen Token als GITHUB_TOKEN. Deshalb Aktivierung über Settings → Pages oder vorhandenen Administratorzugang.
 - GitHub Models wurde eingestellt; der Standardbetrieb verwendet diesen Dienst nicht: https://docs.github.com/en/github-models
+
 

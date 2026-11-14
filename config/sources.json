@@ -9,13 +9,19 @@
     "language": "en",
     "section": "israel",
     "feed_urls": [
-      "https://www.jpost.com/rss/rssfeedsisraelnews.aspx"
+      "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
+      "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+      "https://www.jpost.com/rss/rssfeedsheadlines.aspx"
     ],
     "enabled": true,
     "max_items": 15,
     "family": "jpost",
     "rights_mode": "headline_link",
-    "terms_url": "https://www.jpost.com/landedpages/termsofservice.aspx"
+    "terms_url": "https://www.jpost.com/landedpages/termsofservice.aspx",
+    "discovery_urls": [
+      "https://www.jpost.com/rss"
+    ],
+    "discover_feeds": true
   },
   {
     "id": "jpost-judaism",
@@ -27,12 +33,15 @@
     "language": "en",
     "section": "parashah",
     "feed_urls": [
-      "https://www.jpost.com/rss/rssfeedsjudaism"
+      "https://www.jpost.com/rss/rssfeedsjudaism",
+      "https://www.jpost.com/rss/rssfeedstorahportion"
     ],
     "enabled": true,
     "max_items": 15,
     "family": "jpost",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true,
+    "feed_path_pattern": "judaism|torah|kabbalah|jewishholidays"
   },
   {
     "id": "jpost-culture",
@@ -44,12 +53,15 @@
     "language": "en",
     "section": "culture",
     "feed_urls": [
-      "https://www.jpost.com/rss/rssfeedsculture.aspx"
+      "https://www.jpost.com/rss/rssfeedsculture.aspx",
+      "https://www.jpost.com/rss/rssmusic"
     ],
     "enabled": true,
     "max_items": 15,
     "family": "jpost",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true,
+    "feed_path_pattern": "culture|music|literature|poetry|theatre|visualarts"
   },
   {
     "id": "toi",
@@ -66,7 +78,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "toi",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "zman",
@@ -83,7 +96,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "toi",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "ynet",
@@ -100,7 +114,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "yedioth",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "ynetnews",
@@ -121,7 +136,8 @@
     "allowed_domains": [
       "ynetnews.com",
       "ynet.co.il"
-    ]
+    ],
+    "discover_feeds": true
   },
   {
     "id": "yedioth",
@@ -140,7 +156,8 @@
     "directory_note": {
       "en": "Print/digital newspaper; Ynet feeds are listed separately.",
       "he": "העיתון המודפס והדיגיטלי; עדכוני ynet מוצגים בנפרד."
-    }
+    },
+    "discover_feeds": true
   },
   {
     "id": "maariv",
@@ -157,7 +174,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "maariv",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "globes",
@@ -174,7 +192,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "globes",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "calcalist",
@@ -192,7 +211,11 @@
     "enabled": true,
     "max_items": 15,
     "family": "calcalist",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discovery_urls": [
+      "https://z.calcalist.co.il/mvc/long/2018/OrganizationalStructure/rss/Index.html"
+    ],
+    "discover_feeds": true
   },
   {
     "id": "themarker",
@@ -213,7 +236,8 @@
     "directory_note": {
       "en": "Publisher link; subscription content stays at the publisher.",
       "he": "קישור למו״ל; תכנים למנויים נשארים באתר המקור."
-    }
+    },
+    "discover_feeds": true
   },
   {
     "id": "israelhayom",
@@ -230,7 +254,11 @@
     "enabled": true,
     "max_items": 15,
     "family": "israelhayom",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discovery_urls": [
+      "https://www.israelhayom.co.il/rss-feed"
+    ],
+    "discover_feeds": true
   },
   {
     "id": "hamodia",
@@ -248,7 +276,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "hamodia",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "yated",
@@ -265,7 +294,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "yated",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "besheva",
@@ -284,7 +314,8 @@
     "directory_note": {
       "en": "B’Sheva magazine; Arutz Sheva news is a separate feed.",
       "he": "מגזין בשבע; חדשות ערוץ 7 הן מקור עדכונים נפרד."
-    }
+    },
+    "discover_feeds": true
   },
   {
     "id": "arutz7",
@@ -301,7 +332,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "arutz7",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "inn-en",
@@ -318,7 +350,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "arutz7",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "makorrishon",
@@ -335,7 +368,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "makorrishon",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "kan",
@@ -346,11 +380,14 @@
     "homepage": "https://www.kan.org.il/",
     "language": "he",
     "section": "israel",
-    "feed_urls": [],
+    "feed_urls": [
+      "https://www.kan.org.il/api/newsflash/v2/Newsflash"
+    ],
     "enabled": true,
     "max_items": 15,
     "family": "kan",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "keshet12",
@@ -365,7 +402,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "keshet12",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "reshet13",
@@ -380,7 +418,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "reshet13",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "now14",
@@ -397,7 +436,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "now14",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "kankids",
@@ -412,7 +452,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "kankids",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "makan",
@@ -427,7 +468,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "makan",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "knesset-tv",
@@ -442,7 +484,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "knesset-tv",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "i24news",
@@ -457,7 +500,8 @@
     "enabled": true,
     "max_items": 15,
     "family": "i24news",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "channel9",
@@ -468,11 +512,14 @@
     "homepage": "https://www.9tv.co.il/",
     "language": "ru",
     "section": "israel",
-    "feed_urls": [],
+    "feed_urls": [
+      "https://www.9tv.co.il/rss/mainfeed"
+    ],
     "enabled": true,
     "max_items": 15,
     "family": "channel9",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   },
   {
     "id": "jta",
@@ -489,6 +536,7 @@
     "enabled": true,
     "max_items": 15,
     "family": "jta",
-    "rights_mode": "headline_link"
+    "rights_mode": "headline_link",
+    "discover_feeds": true
   }
 ]

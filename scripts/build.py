@@ -92,8 +92,11 @@ def build(out,pdfs):
     (out/'policies.html').write_text(page('Sources & policy',POLICIES))
     health=load(ROOT/'data/health.json',{});counts=data['counts']
     stats=''.join(f'<div class="status-stat"><strong>{esc(v)}</strong>{esc(k)}</div>' for k,v in [('News / חדשות',counts['news']),('Videos / וידאו',counts['videos']),('Working feeds / עדכונים פעילים',counts['active_sources'])])
-    rows=''.join(f'<li><strong>{esc(s["id"])}</strong>: {esc(s["state"])}'+(f' · {esc(s.get("error", ""))}' if s.get('error') else '')+'</li>' for s in data['source_status'])
-    (out/'status.html').write_text(page('Publication status',f'<h1>Publication status<br>מצב הפרסום</h1><p>Latest completed collection / האיסוף האחרון: {esc(data["generated_at"])}</p><div class="status-grid">{stats}</div><p>Automatic source collection is not human editorial review. / איסוף אוטומטי אינו בדיקה של עורך אנושי.</p><ul>{rows}</ul><p><a href="https://github.com/Moriahise/Moriah/actions">Workflow history / היסטוריית ההרצות</a></p>'))
+    diagnostic=health.get('source_status') or data['source_status']
+    rows=''.join(f'<tr><th>{esc(s["id"])}</th><td>{esc(s["state"])}</td><td>{esc(s.get("latest_at",""))}</td><td>{esc(s.get("last_success_at",""))}</td><td>{esc(s.get("recovery",""))}<br>{esc(s.get("error",""))}</td></tr>' for s in diagnostic)
+    marker=load(ROOT/'data/publication.json',{})
+    body=f'<h1>Publication status<br>מצב הפרסום</h1><p>Last source collection / האיסוף האחרון: {esc(data["generated_at"])}</p><p>Last health check / הבדיקה האחרונה: {esc(health.get("checked_at"))} · {esc(health.get("state","unknown"))}</p><p>Fresh news (36h) / חדשות טריות: {esc(health.get("fresh_news_36h",""))} · Recovered sources / מקורות שחזרו: {esc(", ".join(health.get("recovered_sources",[])))}</p><div class="status-grid">{stats}</div><p>Automatic publication is monitored hourly. Failed publications use bounded recovery with cached translations and study data. / הפרסום נבדק מדי שעה. במקרה של תקלה מופעלת התאוששות מוגבלת עם תרגומים ונתוני לימוד שמורים.</p><p>Build / בנייה: {esc(marker.get("built_at"))} · {esc(marker.get("mode","normal"))}</p><div class="status-table-wrap"><table class="status-table"><thead><tr><th>Source / מקור</th><th>State / מצב</th><th>Latest item / ידיעה אחרונה</th><th>Last success / הצלחה אחרונה</th><th>Recovery & diagnostics / שחזור ואבחון</th></tr></thead><tbody>{rows}</tbody></table></div><p><a href="https://github.com/Moriahise/Moriah/actions">Workflow history / היסטוריית ההרצות</a></p>'
+    (out/'status.html').write_text(page('Publication status',body))
     arts=out/'articles';arts.mkdir()
     for a in data['features']:
         for lang in ('en','he'):
@@ -128,4 +131,5 @@ def build(out,pdfs):
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--output',default=str(ROOT/'_site'));p.add_argument('--no-pdf',action='store_true');a=p.parse_args();build(Path(a.output).resolve(),not a.no_pdf)
+
 

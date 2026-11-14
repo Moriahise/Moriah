@@ -153,6 +153,23 @@ def qa_cards(base,limit=9,day=None):
    except Exception:continue
  return {'release':m['release'],'total':m['total'],'cards':cards}
 
+def validate_section(key,value):
+ if key in ('shiurim','zohar','daf'):
+  if not isinstance(value.get('editions'),list) or not value['editions']:raise ValueError('Empty study catalogue')
+  if not all(e.get('id') and safe_url(e.get('url')) for e in value['editions']):raise ValueError('Invalid study catalogue')
+  if key=='daf' and sum(t['days'] for t in value['calendar']['tractates'])!=2711:raise ValueError('Invalid Daf cycle')
+  if key!='daf' and (not isinstance(value.get('weeks'),list) or not value['weeks']):raise ValueError('Empty rolling calendar')
+ if key=='music' and not value:raise ValueError('No music collections returned')
+ if key=='qa' and any(sum(q.get('language')==lang and q.get('answer_count',0)>0 for q in value.get('cards',[]))<3 for lang in ('en','he')):raise ValueError('Incomplete bilingual answered question selection')
+ return value
+
+def merge_weeks(previous,current):
+ weeks={}
+ for w in previous+current:
+  date=w.get('target_shabbat','')
+  if re.fullmatch(r'\d{4}-\d{2}-\d{2}',date) and all(w.get(k,{}).get('he') for k in ('israel','diaspora')):weeks[date]=w
+ return [weeks[k] for k in sorted(weeks)][-220:]
+
 def collect():
  cfg=load(ROOT/'config/ecosystem.json');old=load(ROOT/'data/ecosystem.json',{});now=datetime.now(timezone.utc)
  result={**old,'schema':1,'checked_at':iso(now),'links':cfg,'status':{}}
@@ -161,7 +178,10 @@ def collect():
   pending={ex.submit(fn):k for k,fn in tasks.items()}
   for f in concurrent.futures.as_completed(pending):
    key=pending[f]
-   try:result[key]=f.result();result['status'][key]={'state':'ok','checked_at':iso(now)}
+   try:
+    value=validate_section(key,f.result())
+    if key in ('shiurim','zohar'):value['weeks']=merge_weeks(old.get(key,{}).get('weeks',[]),value['weeks'])
+    result[key]=value;result['status'][key]={'state':'ok','checked_at':iso(now)}
    except Exception as e:result['status'][key]={'state':'cached' if key in old else 'unavailable','error':str(e)[:160],'checked_at':iso(now)}
  if isinstance(result.get('music'),list):
   collections=result['music']
@@ -173,7 +193,9 @@ def collect():
      except Exception as e:
       cached=next((x for x in old.get('music',[]) if x['id']==c['id']),None)
       complete.append(cached or dict(c,tracks=[],playlists=[],series=[]))
-   result['music']=complete
+   if not any(c.get('tracks') for c in complete) and any(c.get('tracks') for c in old.get('music',[])):
+    result['music']=old['music'];result['status']['music']={'state':'cached','checked_at':iso(now),'error':'No usable track metadata; last working music collection retained'}
+   else:result['music']=complete
  if result.get('zohar'):
   try:result['zohar']['preview']=study_preview(cfg['zohar'],result['zohar']['editions'])
   except Exception:pass
@@ -182,3 +204,4 @@ def collect():
  return result
 
 if __name__=='__main__':collect()
+

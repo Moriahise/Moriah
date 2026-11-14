@@ -8,3 +8,6 @@
 
 /* Minhal haMikdash opens only on request; closing frees the live scene. */
 .minhal-section{background:#ece9df;margin-inline:-25px;padding-inline:25px}.minhal-actions,.minhal-toolbar{display:flex;align-items:center;gap:14px 24px;flex-wrap:wrap}.minhal-toolbar{justify-content:space-between;margin-top:24px;margin-bottom:12px;font-size:11px}.minhal-iframe{display:block;width:100%;height:82vh;min-height:620px;max-height:1000px;border:1px solid var(--line);background:var(--ink)}.collection-link:hover,.collection-link:focus-visible{background:var(--ink);color:var(--paper)}@media(max-width:760px){.minhal-section{margin-inline:-8px;padding-inline:16px}.minhal-actions,.minhal-toolbar{align-items:start;gap:16px}.minhal-iframe{height:78vh;min-height:520px}.minhal-actions .text-link{font-size:11px}}
+
+
+.health-tag.stale{background:#f3e7ce;color:#775820}.status-table-wrap{overflow-x:auto}.status-table{width:100%;border-collapse:collapse;font:12px/1.7 var(--sans)}.status-table th,.status-table td{text-align:start;border-bottom:1px solid var(--line);padding:10px 9px;vertical-align:top}.status-table td{max-width:310px;overflow-wrap:anywhere}

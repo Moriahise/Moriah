@@ -7,7 +7,8 @@ Public newspaper: https://moriahise.github.io/Moriah/
 
 ## What runs automatically
 
-- RSS/Atom source collection approximately every four hours.
+- RSS/Atom source collection approximately every four hours, with persistent preferred feeds, verified publisher-advertised feed discovery and bounded failover.
+- An hourly publication watchdog detects stale public data and failed deployments and dispatches bounded recovery runs using the built-in repository token. [Recovery details](docs/FEED_RECOVERY.md).
 - Hebrew ↔ English headline translation using locally executed OPUS/Argos models; no paid AI key required. Arabic and Russian video titles can be translated through English.
 - Attributed source links, official-channel video metadata, searchable headlines and a 24-section bilingual learning library.
 - Location-specific Shabbat/Parashah/Haftarah data for Jerusalem, Tel Aviv, Haifa, Vienna, London and New York. Hebcal attribution and calculation settings remain visible.
@@ -72,4 +73,5 @@ Use `python scripts/pipeline.py --offline` to rebuild from saved data without po
 - `_site/`: generated deployment artifact, not committed.
 
 Before any significant PDF layout change, render both languages and inspect the resulting pages. Do not rewrite archived snapshots to make old news look new. See [OPERATIONS.md](docs/OPERATIONS.md) for maintenance and correction procedures.
+
 

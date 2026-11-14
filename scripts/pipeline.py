@@ -84,9 +84,11 @@ def fetch(url,timeout=18,headers=None):
                 b=r.read(MAX_BYTES+1)
                 if len(b)>MAX_BYTES:raise ValueError('Response exceeds 4 MB')
                 if not safe_url(r.url):raise ValueError('Unsafe redirect')
-                return b,dict(r.headers)
+                return b,{**dict(r.headers),'_final_url':r.url}
         except HTTPError as e:
-            if e.code in (429,500,502,503,504) and attempt==0:time.sleep(1);continue
+            if e.code in (429,500,502,503,504) and attempt==0:
+                retry=e.headers.get('Retry-After','1') if e.headers else '1'
+                time.sleep(min(4,max(0.5,float(retry))) if retry.isdigit() else 1);continue
             raise
         except (TimeoutError,URLError):
             if attempt==0:continue
@@ -130,22 +132,90 @@ def classify(title,default):
     if default not in ('israel','week','security'):return default
     return next((sec for sec,p in RULES if re.search(p,title,re.I)),default)
 
-def poll(source,now):
-    status={'id':source['id'],'checked_at':iso(now),'state':'directory','items':0,'error':None}
+class FeedLinks(HTMLParser):
+    """Only advertised feed addresses; never extract publisher article bodies."""
+    def __init__(self,base,source):super().__init__();self.base=base;self.source=source;self.links=[]
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs);href=a.get('href','')
+        advertised=tag=='link' and 'alternate' in a.get('rel','').split() and a.get('type','').split(';')[0] in ('application/rss+xml','application/atom+xml','application/feed+json')
+        directory_link=tag=='a' and bool(re.search(r'(rss|/feed/?(?:\?|$)|\.xml(?:\?|$)|\.atom(?:\?|$))',href,re.I))
+        if not(advertised or directory_link):return
+        from urllib.parse import urljoin
+        url=urljoin(self.base,href)
+        if url.startswith('http://'):url='https://'+url[7:]
+        if self.source.get('feed_path_pattern') and not re.search(self.source['feed_path_pattern'],url,re.I):return
+        if feed_url_allowed(url,self.source) and url not in self.links:self.links.append(url)
+
+def feed_url_allowed(url,source):
+    if not safe_url(url):return False
+    host=urlsplit(url).hostname.removeprefix('www.')
+    domains=(source.get('allowed_domains') or [urlsplit(source['homepage']).hostname.removeprefix('www.')])+source.get('feed_domains',[])
+    return any(host==d or host.endswith('.'+d) for d in domains)
+
+def discovery_due(state,now):
+    checked=parse_date(state.get('discovered_at'))
+    return not checked or now-checked>=timedelta(hours=24)
+
+def feed_state_update(previous,status):
+    state=dict(previous or {})
+    if status.get('discovery_at'):state.update(discovered_at=status['discovery_at'],discovered_urls=status.get('discovered_urls',[])[:8])
+    if status['state']=='ok':
+        state.update(preferred_url=status['feed_url'],last_success_at=status['checked_at'],consecutive_failures=0)
+    elif status['state'] not in ('directory','disabled'):
+        state['consecutive_failures']=state.get('consecutive_failures',0)+1
+    state['last_state']=status['state'];return state
+
+def collection_health(news,statuses,now):
+    fresh=sum(parse_date(x['published_at'])>=now-timedelta(hours=36) for x in news)
+    working=sum(s['state']=='ok' and not s['id'].startswith('yt-') for s in statuses)
+    return {'checked_at':iso(now),'state':'ok' if fresh and working else 'degraded','fresh_news_36h':fresh,'working_news_sources':working,'latest_news_at':max((x['published_at'] for x in news),default=None),'recovered_sources':[s['id'] for s in statuses if s.get('recovered')], 'source_status':statuses}
+
+def poll(source,now,state=None):
+    state=state or {};status={'id':source['id'],'checked_at':iso(now),'state':'directory','items':0,'error':None,'attempts':[]}
     if not source.get('enabled',True):status['state']='disabled';return [],status
-    if not source.get('feed_urls'):return [],status
-    failures=[]
-    for url in source['feed_urls']:
+    configured=source.get('feed_urls',[])
+    if not configured and not source.get('discover_feeds',False):return [],status
+    deadline=time.monotonic()+source.get('poll_budget_seconds',45)
+    candidates=list(dict.fromkeys([state.get('preferred_url')]+configured+state.get('discovered_urls',[])))
+    candidates=[u for u in candidates if u and feed_url_allowed(u,source) and (u in configured or not source.get('feed_path_pattern') or re.search(source['feed_path_pattern'],u,re.I))][:6]
+    failures=[];best=[];best_url=None;latest=None
+    def attempt(url):
+        nonlocal best,best_url,latest
+        if time.monotonic()>=deadline:return False
         try:
-            data,headers=fetch(url)
+            data,headers=fetch(url,timeout=min(8,max(1,(deadline-time.monotonic())/2)))
+            if not feed_url_allowed(headers.get('_final_url',url),source):raise ValueError('Feed redirected outside the publisher allowlist')
             items=parse_feed(data,source,now)
             items=[x for x in items if x['published_at'] and parse_date(x['published_at'])>=now-timedelta(days=21)]
-            if not items:failures.append('No dated entries from the last 21 days');continue
-            for x in items:x['section']=classify(x['title'],source['section'])
-            status.update(state='ok',items=len(items),feed_url=url,last_success_at=iso(now),latest_at=max(x['published_at'] for x in items))
-            return items[:source.get('max_items',15)],status
-        except Exception as e:failures.append(type(e).__name__+': '+str(e)[:100])
-    status.update(state='unavailable',error='; '.join(failures)[:250])
+            if not items:raise ValueError('No dated entries from the last 21 days')
+            newest=max(x['published_at'] for x in items)
+            status['attempts'].append({'url':url,'state':'valid','items':len(items),'latest_at':newest})
+            if not latest or newest>latest:best,best_url,latest=items,url,newest
+            return parse_date(newest)>=now-timedelta(hours=source.get('stale_after_hours',72))
+        except Exception as e:
+            error=type(e).__name__+': '+str(e)[:130];failures.append(error);status['attempts'].append({'url':url,'state':'failed','error':error});return False
+    fresh=False
+    for url in candidates:
+        if attempt(url):fresh=True;break
+    if not fresh and source.get('type')!='video' and discovery_due(state,now) and time.monotonic()<deadline:
+        discovered=[]
+        for page in list(dict.fromkeys(source.get('discovery_urls',[])+[source['homepage']]))[:2]:
+            if not feed_url_allowed(page,source) or time.monotonic()>=deadline:continue
+            try:
+                b,h=fetch(page,timeout=min(6,max(1,(deadline-time.monotonic())/2)))
+                if not feed_url_allowed(h.get('_final_url',page),source):continue
+                parser=FeedLinks(page,source);parser.feed(b.decode('utf-8','replace'));discovered+=parser.links
+            except Exception as e:failures.append('Discovery: '+type(e).__name__+': '+str(e)[:90])
+        discovered=list(dict.fromkeys(discovered))[:8]
+        status.update(discovery_at=iso(now),discovered_urls=discovered)
+        for url in [u for u in discovered if u not in candidates][:4]:
+            if attempt(url):fresh=True;break
+    if best:
+        for x in best:x['section']=classify(x['title'],source['section'])
+        status.update(state='ok' if fresh else 'stale',items=len(best),feed_url=best_url,last_success_at=iso(now) if fresh else state.get('last_success_at'),latest_at=latest,recovered=bool(fresh and (state.get('consecutive_failures',0) or (best_url!=state.get('preferred_url') and best_url not in configured[:1]))),recovery='primary' if best_url in configured[:1] else 'preferred' if best_url==state.get('preferred_url') else 'backup' if best_url in configured else 'discovered')
+        if not fresh:status['error']='Publisher feed is reachable but its entries are old; alternatives were checked.'
+        return sorted(best,key=lambda x:x['published_at'],reverse=True)[:source.get('max_items',15)],status
+    status.update(state='unavailable' if configured else 'directory',error='; '.join(failures)[-500:] or 'No publisher-advertised feed found')
     return [],status
 
 class Translator:
@@ -292,17 +362,20 @@ def main():
     settings=load(ROOT/'config/settings.json');sources=load(ROOT/'config/sources.json')+load(ROOT/'config/channels.json',[])
     previous=load(ROOT/'data/latest.json',{})
     old={x['id']:x for x in previous.get('source_status',[])}
+    feed_state=load(ROOT/'data/feed-state.json',{})
     retained=previous.get('news',[])+previous.get('videos',[]);known={x['id'] for x in sources};byid={x['id']:x for x in retained if x['source_id'] in known}
     statuses=[]
     if not args.offline:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
-            for items,status in ex.map(lambda s:poll(s,now),sources):
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+            for items,status in ex.map(lambda s:poll(s,now,feed_state.get(s['id'],{})),sources):
                 last=old.get(status['id'],{})
                 if status['state']!='ok' and last.get('last_success_at'):status['last_success_at']=last['last_success_at']
                 statuses.append(status)
+                feed_state[status['id']]=feed_state_update(feed_state.get(status['id'],{}),status)
                 for x in items:byid[x['id']]=x
                 print(status['id'],status['state'],status['items'],flush=True)
     else:statuses=previous.get('source_status',[])
+    if not args.offline:save(ROOT/'data/feed-state.json',feed_state)
     cutoff=now-timedelta(days=settings.get('retention_days',21))
     items=sorted([x for x in byid.values() if x.get('published_at') and cutoff<=parse_date(x['published_at'])<=now+timedelta(minutes=15)],key=lambda x:x['published_at'],reverse=True)
     news=[x for x in items if x['type']!='video'][:settings.get('max_news',360)]
@@ -319,13 +392,16 @@ def main():
     cals=previous.get('calendars',{}) if args.offline else calendar(settings,now,previous.get('calendars',{}))
     features=load(ROOT/'content/features.json',[])
     payload={'schema_version':1,'generated_at':iso(now),'timezone':'Asia/Jerusalem','news':news,'videos':videos,'features':features,'learning_calendar':previous.get('learning_calendar',{}) if args.offline else learning_calendar(now,previous.get('learning_calendar',{})),'sections':load(ROOT/'config/sections.json'),'sources':sources,'source_status':statuses,'calendars':cals,'translation_engine':'OPUS / Argos · local CTranslate2','translation_errors':errors,'counts':{'news':len(news),'videos':len(videos),'active_sources':sum(s['state']=='ok' for s in statuses),'configured_sources':len(sources),'translated_news':sum('en' in x['titles'] and 'he' in x['titles'] for x in news)}}
+    health=collection_health(news,statuses,now)
+    payload['collection']=health
+    if previous and (args.offline or not health['working_news_sources']):payload['generated_at']=previous['generated_at']
     validate(payload)
     # Never replace the last good edition by an empty/failed live collection.
     if not news and not args.offline:
         save(ROOT/'data/health.json',{'checked_at':iso(now),'state':'degraded','source_status':statuses,'message':'No usable recent feeds; last successful edition preserved.'})
         if previous:print('No recent news: previous payload retained');return
     save(ROOT/'data/latest.json',payload)
-    save(ROOT/'data/health.json',{'checked_at':iso(now),'state':'ok' if news else 'initializing','counts':payload['counts'],'translation_errors':errors})
+    save(ROOT/'data/health.json',{**health,'counts':payload['counts'],'translation_errors':errors})
     issue_id,launch=due_issue(now,settings['launch_date'])
     issue_path=ROOT/'data/issues'/f'{issue_id}.json'
     if not issue_path.exists() and news:
@@ -345,3 +421,4 @@ def main():
     print(summary)
 
 if __name__=='__main__':main()
+
