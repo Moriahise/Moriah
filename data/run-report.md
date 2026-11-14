@@ -2,13 +2,13 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 23/41. Fully bilingual headlines: 354/360.
+Working feeds: 24/41. Fully bilingual headlines: 321/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
-- toi: HTTPError: HTTP Error 403: Forbidden; Discovery: HTTPError: HTTP Error 403: Forbidden
+- toi: HTTPError: HTTP Error 403: Forbidden
 
-- zman: HTTPError: HTTP Error 403: Forbidden; Discovery: HTTPError: HTTP Error 403: Forbidden
+- zman: HTTPError: HTTP Error 403: Forbidden
 
 - calcalist: HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found
 
@@ -18,7 +18,7 @@ Automated compilation; no human or rabbinic review claimed.
 
 - makorrishon: HTTPError: HTTP Error 403: Forbidden
 
-- now14: HTTPError: HTTP Error 403: Forbidden; Discovery: HTTPError: HTTP Error 403: Forbidden
+- kan: HTTPError: HTTP Error 403: Forbidden
 
 - channel9: TimeoutError: The read operation timed out
 
