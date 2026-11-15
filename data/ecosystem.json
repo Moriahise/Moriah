@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-15T06:23:36Z",
+  "checked_at": "2026-11-15T15:38:50Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-15T06:23:36Z"
+      "checked_at": "2026-11-15T15:38:50Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-15T06:23:36Z"
+      "checked_at": "2026-11-15T15:38:50Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-15T06:23:36Z"
+      "checked_at": "2026-11-15T15:38:50Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-15T06:23:36Z"
+      "checked_at": "2026-11-15T15:38:50Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-15T06:23:36Z"
+      "checked_at": "2026-11-15T15:38:50Z"
     }
   },
   "music": [
@@ -38258,386 +38258,386 @@
     ]
   },
   "qa": {
-    "release": "v1-0c3cf20ffae902cce0b1c8c6",
-    "total": 70988,
+    "release": "v1-50a63e4080396f1b103d886a",
+    "total": 70993,
     "cards": [
       {
-        "id": "ye-29096",
-        "title": "Facebook in the bathroom",
+        "id": "ye-34701",
+        "title": "Where was the \"beis Ha'Sereifah\"?",
         "titles": {
-          "en": "Facebook in the bathroom",
+          "en": "Where was the \"beis Ha'Sereifah\"?",
           "he": ""
         },
         "language": "en",
-        "question": "While it's certainly very crude, if not plain gross, it's not all that uncommon for people to use social media sites like Facebook while in the bathroom. Many Posekim forbid speaking in the bathroom, ",
-        "answer": "Here's a shiur talking exactly about your question (haven't listened to it) I would define texting and using social media sites to be basically the same thing. http://www.yutorah.org/lectures/lecture.cfm/782704/Rabbi_Aryeh_Lebowitz/Ten_Minute_Halacha",
-        "answer_count": 2,
+        "question": "On daf 68 of Yoma, we learn that the par chotas (chatos bull) and seir Hashem (goat for God) were intertwined and taken by cohanim to the \"beis Ha'sereifah\", outside the camp, to be burned. We also le",
+        "answer": "M'Zahav U'Mipaz page 415 brings in the name of Rabbi Yosef Ades Zatzal that the location is what is currently known as Shaar Mandelbaum in the direction of the grave of Shimon HaTzadik",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-29096",
-        "source_url": "https://judaism.stackexchange.com/questions/29096/facebook-in-the-bathroom",
-        "author": "termsofservice",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-34701",
+        "source_url": "https://judaism.stackexchange.com/questions/34701/where-was-the-beis-hasereifah",
+        "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-12512",
-        "title": "Shomer Negiah without direct contact?",
+        "id": "ye-17534",
+        "title": "Making a Berachah on rabbinically prohibited foods",
         "titles": {
-          "en": "Shomer Negiah without direct contact?",
+          "en": "Making a Berachah on rabbinically prohibited foods",
           "he": ""
         },
         "language": "en",
-        "question": "An interesting thought crossed my mind: does shomer negiah specifically only relate to direct, physical contact, or does it additionally extend to cover cases where there is no direct touch? Though I'",
-        "answer": "Interestingly, someone just ask Rav Aviner this same question (well not exactly) earlier this month. Prohibition against Touching Opposite Gender Q: Does the prohibition against touching someone of the opposite gender only apply to their actual body,",
-        "answer_count": 3,
+        "question": "Should one refrain from making a Berachah on rabbinically prohibited foods, or does that rule only apply to biblically prohibited foods?",
+        "answer": "אכל דבר איסור, אף על פי שאינו אסור אלא מדרבנן, אין מזמנין עליו ואין מברכין עליו לא בתחלה ולא בסוף. (שולחן ערוך או\"ח סימן קצו:א)‏ If one ate something prohibited, even if it was only prohibited rabbinically, one does not combine him to a zimmun, nor w",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-12512",
-        "source_url": "https://judaism.stackexchange.com/questions/12512/shomer-negiah-without-direct-contact",
-        "author": "avi",
+        "url": "https://shekhina.org/qa.html?id=ye-17534",
+        "source_url": "https://judaism.stackexchange.com/questions/17534/making-a-berachah-on-rabbinically-prohibited-foods",
+        "author": "Double AA",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "up-chabad-431589",
-        "title": "The Joy of Sin?",
+        "id": "aish-url-2933360d69103a29f2b675da",
+        "title": "Lag B’Omer on Sunday",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: I find Yom Kippur depressing. Why spend a day focusing on our sins and failures? Do we need to be reminded how far we are from being perfect?",
+        "question": "I notice that Lag B’Omer falls out on Sunday this year. Is anything different on account of this?",
         "answer": "",
         "answer_count": 1,
-        "provider": "chabad",
+        "provider": "aish",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-431589",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/431589/jewish/The-Joy-of-Sin.htm",
-        "author": "Aron Moss",
+        "url": "https://shekhina.org/qa.html?id=aish-url-2933360d69103a29f2b675da",
+        "source_url": "https://aish.com/lag-bomer-on-sunday/",
+        "author": "Rabbi Dovid Rosenfeld",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-135108",
-        "title": "Designing a Robot that could write a Sefer Torah",
+        "id": "my-140833",
+        "title": "Does Yom Kippur end mourning",
         "titles": {
-          "en": "Designing a Robot that could write a Sefer Torah",
+          "en": "Does Yom Kippur end mourning",
           "he": ""
         },
         "language": "en",
-        "question": "I watched a video on YouTube titled \" I sent robot forgeries to a handwriting expert .\" I was wondering if would it be technologically possible to design a robot that could write a Sefer Torah.",
-        "answer": "Would it be technologically possible? Yes! Tzfi Fishman, in a Jewish-Press article called: Can A Robot Write A Sefer Torah? An Interview with Rabbi Menachem Perl, Head of the Tzomet Institute writes that Rabbi Menachem Perl, head of the Tzomet Instit",
+        "question": "In halacha Yom Tov ends shloshim and shiva, my question is does the same rule apply to Yom Kippur if a close relative dies during the days of repentance? Or is Yom Kippur different from other holidays",
+        "answer": "Indeed Yom Kippur ends mourning, as the OU writes Shiv'a ends if a Jewish festival, Rosh Hashana, or Yom Kippur intervenes. Shloshim ends if a Jewish festival, Rosh Hashana, or Yom Kippur intervenes. If two of those holidays occur within the first se",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-135108",
-        "source_url": "https://judaism.stackexchange.com/questions/135108/designing-a-robot-that-could-write-a-sefer-torah",
-        "author": "Shmuel",
+        "url": "https://shekhina.org/qa.html?id=my-140833",
+        "source_url": "https://judaism.stackexchange.com/questions/140833/does-yom-kippur-end-mourning",
+        "author": "mbloch",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-117025",
-        "title": "May one bill two clients for the same hour",
+        "id": "ye-124215",
+        "title": "Can one prune a fruit tree?",
         "titles": {
-          "en": "May one bill two clients for the same hour",
+          "en": "Can one prune a fruit tree?",
           "he": ""
         },
         "language": "en",
-        "question": "If Reuven is paying Levi an amount per hour to do a task and Reuven already began doing it but he needs to wait for a computer to process and it'll take an hour or two to complete. May Levi do work fo",
-        "answer": "So the Business Halacha Institute here addresses this idea albeit with a different scenario - namely an attorney that is traveling to a client meeting in which the time and expense of the trip are billed to the client. While traveling, the attorney r",
+        "question": "Can one cut down branches of a fruit tree but not necessary cut down the entire the tree? At what point does it become bal tashchis? Is there no limit to trimming if it doesnt \"kill\" the tree?",
+        "answer": "As you are well aware, cutting down a fruit tree is subject to many prohibitions. You ask about pruning down which is more easily permissible. ShulchanAruchHarav brings details here Some Poskim rule it is forbidden to break a branch off from a fruit ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-124215",
+        "source_url": "https://judaism.stackexchange.com/questions/124215/can-one-prune-a-fruit-tree",
+        "author": "mbloch",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-104113",
+        "title": "Ideas for discovering the history of benchers",
+        "titles": {
+          "en": "Ideas for discovering the history of benchers",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I'm thinking of making a \"bencher museum\". I'd like to gather some ideas from our readership for this project. I have a selection of old benchers from the 60's as well as a larger assortment of more c",
+        "answer": "Some suggested resources: Yiddish Prof. Havah Turniansky has an article here treating old editions of bentchers. Examining the provenance of each edition may lead you to find reasons for the distribution of particular bentchers and their [stylistic] ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-104113",
+        "source_url": "https://judaism.stackexchange.com/questions/104113/ideas-for-discovering-the-history-of-benchers",
+        "author": "Oliver",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-87691",
+        "title": "Source that a Jewish girl is forbidden to have relations with a non Jew",
+        "titles": {
+          "en": "Source that a Jewish girl is forbidden to have relations with a non Jew",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I see that it is forbidden for a Jewish girl to get married to a non-Jew ( E\"H 16.1 ) but why is she forbidden to have relations with him without marriage? Source please. (I guess the source might be ",
+        "answer": "Indeed a Jewish non-married woman is forbidden to have relations with non-Jews. The key sources are Vayikra 19:29 אַל־תְּחַלֵּ֥ל אֶֽת־בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא־תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה׃ Do not degrade your daughter and make ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-87691",
+        "source_url": "https://judaism.stackexchange.com/questions/87691/source-that-a-jewish-girl-is-forbidden-to-have-relations-with-a-non-jew",
+        "author": "mbloch",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-70554",
+        "title": "Can the below procedure serve as an Agunah escape clause?",
+        "titles": {
+          "en": "Can the below procedure serve as an Agunah escape clause?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If one marries Mr. X under the assumption that he is a tzaddik (or rich or smart etc), but he is really a rasha,that marriage was done under a false understanding and is not valid and does not need a ",
+        "answer": "A twist on this is Rabbi Rackman's proposal, there is an implicit condition \"I'm only marrying you if you're the type of person who wouldn't leave me an agunah.\" Rabbi Yitzchok Breitowitz refers to this as the \"bad seed argument.\" The problem is that",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-117025",
-        "source_url": "https://judaism.stackexchange.com/questions/117025/may-one-bill-two-clients-for-the-same-hour",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-97341",
-        "title": "Is the one who fights with Jacob in Genesis 32: 25-31 a simple emissary of Esau according to a current of Jewish tradition?",
-        "titles": {
-          "en": "Is the one who fights with Jacob in Genesis 32: 25-31 a simple emissary of Esau according to a current of Jewish tradition?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I am an Italian noahide. I read the following words written by an Italian Orthodox Jew about the figure of one who fights with Jacob in Genesis 32: 25-31 This figure is defined by the tradition \"Sar E",
-        "answer": "If the guy was just some punk Eisav hired to block Jacob's entry, Jacob wouldn't let have let him go in exchange for a blessing. He already has the blessing that should have gone to Eisav. Eisav has nothing spiritual left to give him. If it was a man",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-97341",
-        "source_url": "https://judaism.stackexchange.com/questions/97341/is-the-one-who-fights-with-jacob-in-genesis-32-25-31-a-simple-emissary-of-esau",
-        "author": "Clint Eastwood",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-82003",
-        "title": "Why is it so important to have 248 words when saying shema?",
-        "titles": {
-          "en": "Why is it so important to have 248 words when saying shema?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There are 245 words in the shema. To get to the number 248 there are two minhagim that help achieve this. One is to quietly say keil melech neemon before the shema and the other is either to hear the ",
-        "answer": "Chazal held that the human body had 248 bones/limbs. Therefore Shema which is the prayer of us accepting G-d's yoke should have 248 words signifying that we accept G-d's sovereignty over us with out entire body.",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-82003",
-        "source_url": "https://judaism.stackexchange.com/questions/82003/why-is-it-so-important-to-have-248-words-when-saying-shema",
-        "author": "Yosef Mordechai Coleman",
+        "url": "https://shekhina.org/qa.html?id=ye-70554",
+        "source_url": "https://judaism.stackexchange.com/questions/70554/can-the-below-procedure-serve-as-an-agunah-escape-clause",
+        "author": "Shalom",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-65059",
-        "title": "How was Adam to conquer the land?",
+        "id": "ye-55119",
+        "title": "Is the temple allowed to refuse hekdesh?",
         "titles": {
-          "en": "How was Adam to conquer the land?",
+          "en": "Is the temple allowed to refuse hekdesh?",
           "he": ""
         },
         "language": "en",
-        "question": "In Bereshis 1:28 God tells Adam to to conquer the land, וְכִבְשֻׁהָ. How or in what way was Adam supposed to do this? Build buildings? Farm? Something else?",
-        "answer": "In Lonely Man of Faith, throughout the first chapter, R' Soloveitchik develops the idea that man is charged with overcoming his environment and conquering nature. He achieves dignity by becoming the master of his own destiny. Thus, building hospitals",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-65059",
-        "source_url": "https://judaism.stackexchange.com/questions/65059/how-was-adam-to-conquer-the-land",
-        "author": "Y e z",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-46228",
-        "title": "Judenstern (Jeckische Shabbat lamp)",
-        "titles": {
-          "en": "Judenstern (Jeckische Shabbat lamp)",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Historically, German Jews used a lamp like the one shown below for neirot Shabbat. Does anyone still make it? If so, where could it be found?",
-        "answer": "I have one original for sale. Can be contacted at +1-650-417-8552",
+        "question": "Suppose a landowner is a jerk and is sick of poor people harvesting the corner of his field. (The mitzva of Peya) If he were to consecrate his crops/field to the Temple, they would be hekdesh and the ",
+        "answer": "I've never seen a position that the Temple can refuse Hekdesh. Regarding your scenario, it's an explicit Mishna in Pe'ah 4: 7 that - if he consecrated his field before harvesting and the harvest was done while it was Hekdesh - the poor are not entitl",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-46228",
-        "source_url": "https://judaism.stackexchange.com/questions/46228/judenstern-jeckische-shabbat-lamp",
-        "author": "hermann Kanter",
+        "url": "https://shekhina.org/qa.html?id=ye-55119",
+        "source_url": "https://judaism.stackexchange.com/questions/55119/is-the-temple-allowed-to-refuse-hekdesh",
+        "author": "Danny Schoemann",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-20210922029178",
-        "title": "שיעורי נהיגה בחול המועד",
+        "id": "up-din-202503111739979",
+        "title": "קריאת מגילה – כמה לטרוח?",
         "titles": {
           "en": "",
-          "he": "שיעורי נהיגה בחול המועד"
+          "he": ""
         },
         "language": "he",
-        "question": "האם להלכה נפסק שאסור שיעורי נהיגה בחול המועד? אין לעשות שיעור נהיגה בחול המועד. בנוגע לשיעורי נהיגה יש שתי בעיות: א. פוסקי זמנינו נחלקו אם נהיגה ברכב שלא לצורך המועד מותרת או אסורה, הגר\"מ פיינשטין בעל",
+        "question": "נתבקשתי לשאול,בחורה שנמצאת בחו\"ל, אין לה מגילה כשרה, המקום הכי קרוב שקורים בציבור ממגילה כשרה זה במרחק נסיעה של שעתיים כל צד, והיא עם הרבה ציוד תיקים וכו'. האם ניתן לשמוע בזום בשידור חי ?האם יש פתרונו",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-20210922029178",
-        "source_url": "https://din.org.il/2021/09/22/%d7%a9%d7%99%d7%a2%d7%95%d7%a8%d7%99-%d7%a0%d7%94%d7%99%d7%92%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93-3/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202503111739979",
+        "source_url": "https://din.org.il/2025/03/11/%d7%a7%d7%a8%d7%99%d7%90%d7%aa-%d7%9e%d7%92%d7%99%d7%9c%d7%94-%d7%9b%d7%9e%d7%94-%d7%9c%d7%98%d7%a8%d7%95%d7%97/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-140208",
+        "title": "טכנאי תקשורת",
+        "titles": {
+          "en": "",
+          "he": "טכנאי תקשורת"
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב. אני עובד בעבודה בתור שליח כבר 4 שנים. בגלל המצב הגעתי לסיטואציה שאני חייב להרוויח הרבה יותר כסף כדי לסגור את החודש המליצו לי על טכנאי תקשורת של הוט אני בעצם מגיע להתקנות של מודמים וראוט",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-140208",
+        "source_url": "https://www.yeshiva.org.il/ask/140208",
+        "author": "הרב בנימין במברגר",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-149280",
+        "title": "האם מותר לקבל הנחה שאני זכאי לה מחברת החשמל כזכאי לקצבת נכות",
+        "titles": {
+          "en": "",
+          "he": "האם מותר לקבל הנחה שאני זכאי לה מחברת החשמל כזכאי לקצבת נכות"
+        },
+        "language": "he",
+        "question": "אני מתמודד כבר תקופה עם חולי שנקרא o.c.d שפוגע לי מאוד בתפקוד וביכולת שלי לפרנס (אני ב\"ה נשוי עם 3 ילדים) ולאחרונה קיבלתי מביטוח לאומי הכרה בקצבת נכות עם אישור של רטרו שנה אחרונה. הקיצבה מאוד עוזרת לנ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-149280",
+        "source_url": "https://www.yeshiva.org.il/ask/149280",
+        "author": "הרב משה מאיר אבינר",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "ye-6482",
+        "title": "Why 30 days of preparation for a חג",
+        "titles": {
+          "en": "",
+          "he": "Why 30 days of preparation for a חג"
+        },
+        "language": "he",
+        "question": "Why exactly 30 days to review the laws of the upcoming holidays? Is there anything about the number 30 that makes it significant?",
+        "answer": "We find by the laws of mentioning rain and asking for rain that one who is on doubt if he did or did not do so, if it is after 30 days since the change need not go back. Some hold that a correct habit can be assumed based on how many times one has sa",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-6482",
+        "source_url": "https://judaism.stackexchange.com/questions/6482/why-30-days-of-preparation-for-a-%d7%97%d7%92",
+        "author": "Yahu",
+        "author_url": null,
+        "license": "CC BY-SA 2.5",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "din-url-17206b38ba2afc56f596af5a",
+        "title": "משחק בפייטים מתחלפים בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "כרית שעשויה מפייטים מתחלפים האם מותר לשחק בה בשבת (להחליף את הפייטים)",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-17206b38ba2afc56f596af5a",
+        "source_url": "https://din.org.il/2019/11/05/%d7%9e%d7%a9%d7%97%d7%a7-%d7%91%d7%a4%d7%99%d7%99%d7%98%d7%99%d7%9d-%d7%9e%d7%aa%d7%97%d7%9c%d7%a4%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "up-din-300044",
+        "title": "טלטול חפץ חבירו בשבת, כשחבירו שובת בעיר אחרת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום וברכהאדם המתגורר בירושלים, הוריו נסעו בשבת לבני ברק, בשבת רואה שחסר לו משהו ורוצה להוציא מביתם את החפץ שנצרך לו, ולהביא לביתו, האם מותר, או שכיון שהבעלים שובתים בעיר אחרת, אסור להזיז את חפציהם יו",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-300044",
+        "source_url": "https://din.org.il/2020/12/03/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%97%d7%a4%d7%a5-%d7%97%d7%91%d7%99%d7%a8%d7%95-%d7%91%d7%a9%d7%91%d7%aa-%d7%9b%d7%a9%d7%97%d7%91%d7%99%d7%a8%d7%95-%d7%a9%d7%95%d7%91%d7%aa-%d7%91%d7%a2%d7%99%d7%a8/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-50a63e4080396f1b103d886a"
+      },
+      {
+        "id": "up-din-202311261462294",
+        "title": "הדלקת נרות חנוכה בקומה גבוהה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "דירת דופלקס קומות 3 ו-4. בחדר מדרגות יש דירה אחת בכל מפלס (כלומר כל חצי קומה דירה אחרת, כך בנוי הבנין). חלונות הקומה ה-3 הן בגובה 20 אמה חזו\"א גבולי, כלומר כ11-12 מטר. וחלונות קומה 4 ודאי מעל 20 אמה.י",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-202311261462294",
+        "source_url": "https://din.org.il/2023/11/26/%d7%94%d7%93%d7%9c%d7%a7%d7%aa-%d7%a0%d7%a8%d7%95%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-%d7%91%d7%a7%d7%95%d7%9e%d7%94-%d7%92%d7%91%d7%95%d7%94%d7%94-2/",
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "ye-141116",
-        "title": "התשובה לא ענתה לי עד הסוף",
-        "titles": {
-          "en": "",
-          "he": "התשובה לא ענתה לי עד הסוף"
-        },
-        "language": "he",
-        "question": "הרי לא יתכן שזה דבר שקרה להם רק בגלל שהרשעים האלה החליטו לעשות ככה.... (אני לא שואלת השאלה הראשונה, רק הגעתי אליה כי גם לי זה קשה) שלום לך, אי אפשר להסיר את האחריות מהרשעים הארורים. מי שנהג באכזריות נ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-141116",
-        "source_url": "https://www.yeshiva.org.il/ask/141116",
-        "author": "הרב אוריאל טויטו",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-147558",
-        "title": "עיצוב אתרים למשחקים בקוסטה ריקה וחו\"ל",
-        "titles": {
-          "en": "",
-          "he": "עיצוב אתרים למשחקים בקוסטה ריקה וחו\"ל"
-        },
-        "language": "he",
-        "question": "שלום, אני עובדת עם חברה שיש לה כל מיניי עסקים בחו\"ל, ואחד מהם זה משחקים שאפשר להרוויח עליהם כסף אם מכניסים כרטיס אשראי. הם נותנים ללקוחות בניית אתר, עיצוב, חיבור לספקי משחקים, חיבור לסליקה, חיבורים שו",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-147558",
-        "source_url": "https://www.yeshiva.org.il/ask/147558",
-        "author": "הרב יהודה אודסר",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-38063",
-        "title": "Can a כהן marry a גרושה בתולה",
-        "titles": {
-          "en": "",
-          "he": "Can a כהן marry a גרושה בתולה"
-        },
-        "language": "he",
-        "question": "We know that a כהן may only marry a woman who was not divorced. However what about a case where a woman got married then got divorced but never had relations. Is she still fit for a cohen because tech",
-        "answer": "Explicitly forbidden in the Rambam ( Isurei Bi'a Ch.19: 2) שכל נשואה בחזקת בעולה, אף על פי שנמצאת בתולה She is forbidden to any Cohen once she was divorced. As the Ramabm states ibid ( 17:13 ) that even if she was divorced after the Eirusin, the is f",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-38063",
-        "source_url": "https://judaism.stackexchange.com/questions/38063/can-a-%d7%9b%d7%94%d7%9f-marry-a-%d7%92%d7%a8%d7%95%d7%a9%d7%94-%d7%91%d7%aa%d7%95%d7%9c%d7%94",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "din-url-31fcbd85c71024997ee79e51",
-        "title": "סבון שירותים בשבת",
+        "id": "up-din-2022071915748898",
+        "title": "משחקי לוטו בשלושת השבועות",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלוםהאם בשבת מותר להשאיר את מתקן הסבון שבאסלה שעם כל ירידת מים שוטף את האסלה?",
+        "question": "בס\"דשלום רבהאם מותר למלא טופס לוטו ולהשתתף בהגרלה מיז תמוז עד ראש חודש אב או שזה אסור בגלל הצער שבימים אלה?תודה מראש.",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-31fcbd85c71024997ee79e51",
-        "source_url": "https://din.org.il/2020/10/28/%d7%a1%d7%91%d7%95%d7%9f-%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2022071915748898",
+        "source_url": "https://din.org.il/2022/07/19/%d7%9e%d7%a9%d7%97%d7%a7%d7%99-%d7%9c%d7%95%d7%98%d7%95-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       },
       {
-        "id": "up-din-347895",
-        "title": "כלי שבישלו בו בשבת",
+        "id": "up-din-2022041410001081",
+        "title": "האם חובה לבער חמץ",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר לקנות קפה בתחנת דלק שמחללת שבת, לאחר השבת ? מכיון שכידוע המ\"ב אומר בסי' שיח ס\"ק ד וז\"ל כתב המג\"א בשם הרשב\"א דגם הקדירה שבישל בה בשבת אסורה לו לבשל בה מפני שהיא בלועה מדבר האסור לו ודוקא המבשל",
+        "question": "שלום,האם אפשר לזרוק את כל החמץ לפח ביום חמישי נניח, לאכול איזה פיתה או משהו ביום שישי עד סוף זמן אכילת חמץ, ואז להגיד את הנוסח של ביעור חמץ ופשוט לא לבער שום דבר? תודה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-347895",
-        "source_url": "https://din.org.il/2021/10/06/%d7%9b%d7%9c%d7%99-%d7%a9%d7%91%d7%99%d7%a9%d7%9c%d7%95-%d7%91%d7%95-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2022041410001081",
+        "source_url": "https://din.org.il/2022/04/14/%d7%94%d7%90%d7%9d-%d7%97%d7%95%d7%91%d7%94-%d7%9c%d7%91%d7%a2%d7%a8-%d7%97%d7%9e%d7%a5/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "ye-136492",
-        "title": "חרס בשרי ומאכל חלב קר",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "אם ברשותי צלחת חרס בשרית (אשר חוממה עליה בעבר מאכל בשרי חם) ונאכל בה מאכל חלבי קר ולא ברור אם הצלחת בת יומה. מה דין הצלחת?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-136492",
-        "source_url": "https://www.yeshiva.org.il/ask/136492",
-        "author": "",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "up-din-2023072312499227",
-        "title": "לא הכין בגדים לתשעת הימים / לא שמע כל הברכה / גבינה על שניצל",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לרבנים 1 מי שלא הכין בגדים משומשים לשבוע שחל בו מה עושה? 2 מי שלא שמע את כול ברכת ההבדלה כגון שלא שמע בין ישראל לעמים (שמע בשמים ואש) מה מעכב? 3 מקל של מטאטא שנשבר בשבת לחצי או שלוש חתיכות האם זה",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2023072312499227",
-        "source_url": "https://din.org.il/2023/07/23/%d7%9c%d7%90-%d7%94%d7%9b%d7%99%d7%9f-%d7%91%d7%92%d7%93%d7%99%d7%9d-%d7%9c%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%9c%d7%90-%d7%a9%d7%9e%d7%a2-%d7%9b%d7%9c-%d7%94%d7%91%d7%a8/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
-      },
-      {
-        "id": "up-din-2024040714561225",
-        "title": "האם השנה פסח אינו בחודש האביב?",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכהזכרוני שראיתי פעם באיזה ספר שמה שכתוב בתורה שמור את חודש האביב, הכונה לחודש שאחרי תקופת האביב, מה שאומר שהשנה פסח יוצא למעשה לא בחודש האביב (ורק שאין לנו את היכולת לשנות את הלוח), האם הדבר נ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2024040714561225",
-        "source_url": "https://din.org.il/2024/04/07/%d7%94%d7%90%d7%9d-%d7%94%d7%a9%d7%a0%d7%94-%d7%a4%d7%a1%d7%97-%d7%90%d7%99%d7%a0%d7%95-%d7%91%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%90%d7%91%d7%99%d7%91/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-0c3cf20ffae902cce0b1c8c6"
+        "snapshot": "v1-50a63e4080396f1b103d886a"
       }
     ]
   }
