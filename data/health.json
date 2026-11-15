@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-11-14T23:53:54Z",
+  "checked_at": "2026-11-15T06:23:28Z",
   "state": "ok",
-  "fresh_news_36h": 318,
+  "fresh_news_36h": 360,
   "working_news_sources": 13,
-  "latest_news_at": "2026-11-15T00:02:52Z",
+  "latest_news_at": "2026-11-15T06:14:41Z",
   "recovered_sources": [],
   "source_status": [
     {
       "id": "jpost",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 28,
       "error": null,
@@ -17,18 +17,18 @@
           "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
           "state": "valid",
           "items": 28,
-          "latest_at": "2026-11-14T22:11:00Z"
+          "latest_at": "2026-11-15T02:58:54Z"
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T22:11:00Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T02:58:54Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jpost-judaism",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -41,14 +41,14 @@
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-      "last_success_at": "2026-11-14T23:53:54Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
       "latest_at": "2026-11-13T11:49:57Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jpost-culture",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 30,
       "error": null,
@@ -61,14 +61,14 @@
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-      "last_success_at": "2026-11-14T23:53:54Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
       "latest_at": "2026-11-15T00:02:52Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "toi",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -83,7 +83,7 @@
     },
     {
       "id": "zman",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -98,7 +98,7 @@
     },
     {
       "id": "ynet",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 30,
       "error": null,
@@ -107,18 +107,18 @@
           "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
           "state": "valid",
           "items": 30,
-          "latest_at": "2026-11-14T23:22:18Z"
+          "latest_at": "2026-11-15T06:14:41Z"
         }
       ],
       "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T23:22:18Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:14:41Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "ynetnews",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 30,
       "error": null,
@@ -131,14 +131,14 @@
         }
       ],
       "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
-      "last_success_at": "2026-11-14T23:53:54Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
       "latest_at": "2026-11-12T10:38:43Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yedioth",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -146,7 +146,7 @@
     },
     {
       "id": "maariv",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -155,18 +155,18 @@
           "url": "https://www.maariv.co.il/Rss/RssFeedsNews",
           "state": "valid",
           "items": 20,
-          "latest_at": "2026-11-14T22:51:31Z"
+          "latest_at": "2026-11-15T06:12:45Z"
         }
       ],
       "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T22:51:31Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:12:45Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "globes",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -175,18 +175,18 @@
           "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
           "state": "valid",
           "items": 15,
-          "latest_at": "2026-11-14T18:56:00Z"
+          "latest_at": "2026-11-15T06:03:00Z"
         }
       ],
       "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T18:56:00Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:03:00Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "calcalist",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -225,7 +225,7 @@
     },
     {
       "id": "themarker",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "ValueError: No dated entries from the last 21 days; ValueError: DTD/entity XML rejected",
@@ -244,7 +244,7 @@
     },
     {
       "id": "israelhayom",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 100,
       "error": null,
@@ -253,18 +253,18 @@
           "url": "https://www.israelhayom.co.il/rss",
           "state": "valid",
           "items": 100,
-          "latest_at": "2026-11-14T23:10:37Z"
+          "latest_at": "2026-11-15T06:13:46Z"
         }
       ],
       "feed_url": "https://www.israelhayom.co.il/rss",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T23:10:37Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:13:46Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "hamodia",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -283,7 +283,7 @@
     },
     {
       "id": "yated",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "stale",
       "items": 10,
       "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
@@ -308,7 +308,7 @@
     },
     {
       "id": "besheva",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -316,7 +316,7 @@
     },
     {
       "id": "arutz7",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -325,18 +325,18 @@
           "url": "https://www.inn.co.il/Rss.aspx?act=.1",
           "state": "valid",
           "items": 20,
-          "latest_at": "2026-11-14T23:14:46Z"
+          "latest_at": "2026-11-15T05:32:00Z"
         }
       ],
       "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T23:14:46Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T05:32:00Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "inn-en",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 10,
       "error": null,
@@ -345,18 +345,18 @@
           "url": "https://www.israelnationalnews.com/Rss.aspx",
           "state": "valid",
           "items": 10,
-          "latest_at": "2026-11-14T23:02:35Z"
+          "latest_at": "2026-11-15T06:13:57Z"
         }
       ],
       "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T23:02:35Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:13:57Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "makorrishon",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -370,27 +370,27 @@
     },
     {
       "id": "kan",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
-      "items": 25,
+      "items": 29,
       "error": null,
       "attempts": [
         {
           "url": "https://www.kan.org.il/api/newsflash/v2/Newsflash",
           "state": "valid",
-          "items": 25,
-          "latest_at": "2026-11-14T23:13:17Z"
+          "items": 29,
+          "latest_at": "2026-11-15T05:48:57Z"
         }
       ],
       "feed_url": "https://www.kan.org.il/api/newsflash/v2/Newsflash",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T23:13:17Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T05:48:57Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "keshet12",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -398,7 +398,7 @@
     },
     {
       "id": "reshet13",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -406,7 +406,7 @@
     },
     {
       "id": "now14",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -421,7 +421,7 @@
     },
     {
       "id": "kankids",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -429,7 +429,7 @@
     },
     {
       "id": "makan",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -437,7 +437,7 @@
     },
     {
       "id": "knesset-tv",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -445,7 +445,7 @@
     },
     {
       "id": "i24news",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -453,7 +453,7 @@
     },
     {
       "id": "channel9",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 50,
       "error": null,
@@ -462,18 +462,18 @@
           "url": "https://www.9tv.co.il/rss/mainfeed",
           "state": "valid",
           "items": 50,
-          "latest_at": "2026-11-14T22:34:42Z"
+          "latest_at": "2026-11-15T06:06:58Z"
         }
       ],
       "feed_url": "https://www.9tv.co.il/rss/mainfeed",
-      "last_success_at": "2026-11-14T23:53:54Z",
-      "latest_at": "2026-11-14T22:34:42Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
+      "latest_at": "2026-11-15T06:06:58Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jta",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -486,14 +486,14 @@
         }
       ],
       "feed_url": "https://www.jta.org/feed",
-      "last_success_at": "2026-11-14T23:53:54Z",
+      "last_success_at": "2026-11-15T06:23:28Z",
       "latest_at": "2026-11-13T22:28:47Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-kan11",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -508,7 +508,7 @@
     },
     {
       "id": "yt-kannews",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -523,7 +523,7 @@
     },
     {
       "id": "yt-kankids",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -538,7 +538,7 @@
     },
     {
       "id": "yt-makan33",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -553,7 +553,7 @@
     },
     {
       "id": "yt-reshet13",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -568,7 +568,7 @@
     },
     {
       "id": "yt-channel9",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -583,42 +583,37 @@
     },
     {
       "id": "yt-i24en",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
-      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "attempts": [
         {
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
           "state": "failed",
-          "error": "HTTPError: HTTP Error 500: Internal Server Error"
+          "error": "HTTPError: HTTP Error 404: Not Found"
         }
       ],
       "last_success_at": "2026-11-14T17:58:26Z"
     },
     {
       "id": "yt-knesset",
-      "checked_at": "2026-11-14T23:53:54Z",
-      "state": "stale",
-      "items": 13,
-      "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
+      "checked_at": "2026-11-15T06:23:28Z",
+      "state": "unavailable",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "attempts": [
         {
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-          "state": "valid",
-          "items": 13,
-          "latest_at": "2026-11-11T17:30:09Z"
+          "state": "failed",
+          "error": "HTTPError: HTTP Error 404: Not Found"
         }
       ],
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-      "last_success_at": "2026-11-14T11:26:10Z",
-      "latest_at": "2026-11-11T17:30:09Z",
-      "recovered": false,
-      "recovery": "primary"
+      "last_success_at": "2026-11-14T11:26:10Z"
     },
     {
       "id": "yt-n12",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -632,7 +627,7 @@
     },
     {
       "id": "yt-now14",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -647,7 +642,7 @@
     },
     {
       "id": "yt-knesset-tv",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -662,7 +657,7 @@
     },
     {
       "id": "yt-i24he",
-      "checked_at": "2026-11-14T23:53:54Z",
+      "checked_at": "2026-11-15T06:23:28Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found",
@@ -681,7 +676,7 @@
     "videos": 72,
     "active_sources": 13,
     "configured_sources": 41,
-    "translated_news": 354
+    "translated_news": 353
   },
   "translation_errors": []
 }

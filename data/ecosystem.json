@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-14T23:54:02Z",
+  "checked_at": "2026-11-15T06:23:36Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-14T23:54:02Z"
+      "checked_at": "2026-11-15T06:23:36Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-14T23:54:02Z"
+      "checked_at": "2026-11-15T06:23:36Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-14T23:54:02Z"
+      "checked_at": "2026-11-15T06:23:36Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-14T23:54:02Z"
+      "checked_at": "2026-11-15T06:23:36Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-14T23:54:02Z"
+      "checked_at": "2026-11-15T06:23:36Z"
     }
   },
   "music": [
@@ -12487,6 +12487,22 @@
         "diaspora": {
           "en": "Chayei Sarah",
           "he": "חיי שרה"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
+      },
+      {
+        "target_shabbat": "2029-11-10",
+        "hebrew_date": "ג׳ כסלו תש״צ",
+        "israel": {
+          "en": "Toldos",
+          "he": "תולדות"
+        },
+        "diaspora": {
+          "en": "Toldos",
+          "he": "תולדות"
         },
         "different_readings": false,
         "festival": null,
