@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-16T06:22:10Z",
+  "checked_at": "2026-11-16T18:29:46Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-16T06:22:10Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-16T06:22:10Z"
+      "checked_at": "2026-11-16T18:29:46Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-11-16T18:29:46Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-16T06:22:10Z"
+      "checked_at": "2026-11-16T18:29:46Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-16T06:22:10Z"
+      "checked_at": "2026-11-16T18:29:46Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-16T06:22:10Z"
+      "checked_at": "2026-11-16T18:29:46Z"
     }
   },
   "music": [
@@ -38258,197 +38258,197 @@
     ]
   },
   "qa": {
-    "release": "v1-50a63e4080396f1b103d886a",
-    "total": 70993,
+    "release": "v1-cbb0199a98c67a6802810f01",
+    "total": 70999,
     "cards": [
       {
-        "id": "ye-34656",
-        "title": "How could the time of when the Azazel red strip turns to white be imprecise?",
+        "id": "ye-36994",
+        "title": "Nazir: shaving on the start of the vow",
         "titles": {
-          "en": "How could the time of when the Azazel red strip turns to white be imprecise?",
+          "en": "Nazir: shaving on the start of the vow",
           "he": ""
         },
         "language": "en",
-        "question": "In Yoma on 67a, in the middle, it talks about the where the strip of red wool should be tied before sending the goat off the side of the mountain. As far as I understand (and with the help of the Arts",
-        "answer": "Rashi ( ibid ) clearly distinguishes between the whitening of sin and the commandment of the goat. This strongly implies that while the two may be correlated, they are ultimately independent and one does not necessarily cause the other. In other word",
+        "question": "I read that a nazir would shave his hair just prior to taking the vow because of a decree of the sages. Is it true? What is the source for this information?",
+        "answer": "There is no trace of such a decree, not in the Mishna, nor in the Rambam.",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-34656",
-        "source_url": "https://judaism.stackexchange.com/questions/34656/how-could-the-time-of-when-the-azazel-red-strip-turns-to-white-be-imprecise",
-        "author": "Baby Seal",
+        "url": "https://shekhina.org/qa.html?id=ye-36994",
+        "source_url": "https://judaism.stackexchange.com/questions/36994/nazir-shaving-on-the-start-of-the-vow",
+        "author": "Danny Schoemann",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-17508",
-        "title": "Why kiss Tzitzith?",
+        "id": "ye-20427",
+        "title": "What is the origin on metziztah b'peh?",
         "titles": {
-          "en": "Why kiss Tzitzith?",
+          "en": "What is the origin on metziztah b'peh?",
           "he": ""
         },
         "language": "en",
-        "question": "Why do we kiss Tzitzith when making the Birchath HaMitzvah, reciting Shema' , and after Baruch SheAmar (at least acc. to Minhag Ashkenaz) ? An acceptable answer (for my purposes) would either a. show ",
-        "answer": "The Kitzur Shulchan Aruch Orach Chayim 11:23 basically answers your question in Hilchos Mezuza: אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה, כֹּל מִי שֶׁיֵּשׁ לוֹ תְּפִלִּין בְּרֹאשׁוֹ וּבִזְרוֹעוֹ וְצִיצִית בְּבִגְדוֹ וּמְזוּזָה בְּפִתְחוֹ, מֻחְזָק הו",
+        "question": "Is metzitzah b'peh of biblical origin or was it instituted by the rabbis? What is the source for this practice?",
+        "answer": "The earliest source would seem to be the Mishna Shabbat 19:2 . It is brought in the Rambam ( Milah 2:2 ) and the Shulchan Aruch ( YD 264:3 ) as well.",
         "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-17508",
-        "source_url": "https://judaism.stackexchange.com/questions/17508/why-kiss-tzitzith",
-        "author": "sam",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
-      },
-      {
-        "id": "aish-url-20eb391df904fc6d62d17008",
-        "title": "The Books of the Maccabees",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I’ve been reading about the history of Hanukkah and found that a lot of the material comes from the Book of the Maccabees. What is that work? Is it a sacred work, part of the Torah, or just a work of ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "aish",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=aish-url-20eb391df904fc6d62d17008",
-        "source_url": "https://aish.com/the-books-of-the-maccabees/",
-        "author": "Rabbi Dovid Rosenfeld",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
-      },
-      {
-        "id": "my-140803",
-        "title": "Miluim- Blood from the mizbeach",
-        "titles": {
-          "en": "Miluim- Blood from the mizbeach",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The miluim sacrifices (Parshas Tetzaveh, Parshas Tzav) have a number of features that are unique. One of the most remarkable to me is Exodus 29:21 וְלָקַחְתָּ֞ מִן־הַדָּ֨ם אֲשֶׁ֥ר עַֽל־הַמִּזְבֵּ֘חַ֮ ",
-        "answer": "Yoma 5:6 , paskened by Rambam Meilah 2:11 Normally, after the blood has been thrown, it only has monetary kedusha of hekdesh. It can be redeemed and used for whatever chullin purposes you want. (The example in the mishnah is for fertilizer, I'm not s",
-        "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=my-140803",
-        "source_url": "https://judaism.stackexchange.com/questions/140803/miluim-blood-from-the-mizbeach",
-        "author": "Heshy",
+        "url": "https://shekhina.org/qa.html?id=ye-20427",
+        "source_url": "https://judaism.stackexchange.com/questions/20427/what-is-the-origin-on-metziztah-bpeh",
+        "author": "Double AA",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-124192",
-        "title": "What does it mean when G-d speaks or one hear His Voice?",
+        "id": "ye-5595",
+        "title": "Alarm clock handling on Shabbos",
         "titles": {
-          "en": "What does it mean when G-d speaks or one hear His Voice?",
+          "en": "Alarm clock handling on Shabbos",
           "he": ""
         },
         "language": "en",
-        "question": "I'd like to post a slightly odd question. When G-d speaks what does this mean? As we know, G-d is not corporeal; does not have any physical characteristics/body. Yet it’s still possible to produce wor",
-        "answer": "There is an idea that some things mentioned in relation to describing G-D are merely a description that humans can comprehend, with the real description being beyond our comprehension Midrash Tanchuma Yisro 13:1 https://www.sefaria.org/Midrash_Tanchu",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-124192",
-        "source_url": "https://judaism.stackexchange.com/questions/124192/what-does-it-mean-when-g-d-speaks-or-one-hear-his-voice",
-        "author": "Chatzkel",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
-      },
-      {
-        "id": "ye-104060",
-        "title": "What constitutes the Biblical Mefateh?",
-        "titles": {
-          "en": "What constitutes the Biblical Mefateh?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I'm trying to understand the Biblical concept of \"Mefateh\" (a \"seducer\"): The Torah says ( Shemot 22,15 ) without elaborating: וְכִי־יְפַתֶּה אִישׁ בְּתוּלָה אֲשֶׁר לֹא־אֹרָשָׂה וְשָׁכַב עִמָּהּ מָהֹר",
-        "answer": "The Talmud Yerushalmi Sotah Halacha 4,4 defines that consensual Relations means if she wanted it at the begining even if she was passive and the man siezed her (even if by the end she changed her mind and didn't want it). ויש לך תפוסה בישראל והיא אסו",
+        "question": "Are you allowed to touch an alarm clock on Shabbos?",
+        "answer": "You are allowed to touch an alarm clock on shabas. One may touch anything on shabas that one may touch during chol. ( Rema O.C. 308:3 ) As explained there, the prohibitions of Muktzah only apply to moving an object, not touching it.",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-104060",
-        "source_url": "https://judaism.stackexchange.com/questions/104060/what-constitutes-the-biblical-mefateh",
-        "author": "user15464",
+        "url": "https://shekhina.org/qa.html?id=ye-5595",
+        "source_url": "https://judaism.stackexchange.com/questions/5595/alarm-clock-handling-on-shabbos",
+        "author": "WAF",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-87642",
-        "title": "Where is the midrash of Tobit?",
+        "id": "ye-143423",
+        "title": "Universalism and Olam Haba",
         "titles": {
-          "en": "Where is the midrash of Tobit?",
+          "en": "Universalism and Olam Haba",
           "he": ""
         },
         "language": "en",
-        "question": "A summarized account of the Apocryphal work Tobit (Tuvia in Hebrew) is supposed to appear in Bereishit Rabbah. (Source: Wikipedia ) I have read that the midrashic account is connected to Jacob's vow (",
-        "answer": "I concur with @mevaqesh that it's probably a mistake on Wikipedia's part. Adolf Neubauer was referring to a midrash called \"Rabbah d'Rabbah\" 1 that appears in a manuscript that collected different texts, one of them being an Aramaic version of Sefer ",
-        "answer_count": 5,
+        "question": "I know Chabad generally maintains that all Jews will end up in Olam Haba and will be rewarded after tehiyas hameisim—even those Jews who committed major sins. I am wondering if there are any sources t",
+        "answer": "In this question we see that the Gemara has a list of specific Jews and non Jews who have no Olam Habah. This would imply that everyone else, Jewish and not, does receive Olam Habah No Olam Habah for these?",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-87642",
-        "source_url": "https://judaism.stackexchange.com/questions/87642/where-is-the-midrash-of-tobit",
-        "author": "Harel13",
+        "url": "https://shekhina.org/qa.html?id=ye-143423",
+        "source_url": "https://judaism.stackexchange.com/questions/143423/universalism-and-olam-haba",
+        "author": "Clint Eastwood",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-70518",
-        "title": "Do we need to check for nefuchos in our matzah today?",
+        "id": "ye-127710",
+        "title": "What tool did Raban Gamliel use to determine how close his ship was to the port?",
         "titles": {
-          "en": "Do we need to check for nefuchos in our matzah today?",
+          "en": "What tool did Raban Gamliel use to determine how close his ship was to the port?",
           "he": ""
         },
         "language": "en",
-        "question": "We are not supposed to eat matzoh that contains a nefucha (a \"swollen\" part/air bubble) bigger than a hazelnut. I'm not entirely sure of the reasons, but it is discussed in Mishna Berura 461:34 . Acco",
-        "answer": "This video says we do need to check The main thing is not to eat it From my experience the hashgocho usually takes responsibility to check, (but sometimes they miss some so if you find do not eat) See this answer it answers your question beautifully ",
-        "answer_count": 1,
+        "question": "In Mishna Eruvin 4:2 , Raban Gamliel tells his colleagues \"I looked out from our ship just before it got dark, and determined we were already within 2000 amot of the harbor.\" Bartenura says he used so",
+        "answer": "So this is a really fascinating topic that has bamboozled many meforshim and thinkers over the years. The Talmudology website here helps to comprehensively break it down. He first notes Rashi who says: שפופרת - קנה חלול וכשהוא ארוך אין צופין בו למרחו",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-70518",
-        "source_url": "https://judaism.stackexchange.com/questions/70518/do-we-need-to-check-for-nefuchos-in-our-matzah-today",
-        "author": "hazoriz",
+        "url": "https://shekhina.org/qa.html?id=ye-127710",
+        "source_url": "https://judaism.stackexchange.com/questions/127710/what-tool-did-raban-gamliel-use-to-determine-how-close-his-ship-was-to-the-port",
+        "author": "Dov",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-55092",
-        "title": "The Sifra on peace",
+        "id": "ye-106627",
+        "title": "Source for story about a boy who asked to be given a scar on his face instead of it being given to his wife",
         "titles": {
-          "en": "The Sifra on peace",
+          "en": "Source for story about a boy who asked to be given a scar on his face instead of it being given to his wife",
           "he": ""
         },
         "language": "en",
-        "question": "The Sifra in Parshas Bechukosi says, \"Peace is the seal of all blessings, because without peace, prosperity, health, food, and drink are worthless.\" Does anyone know where I can find the Sifra in Pars",
-        "answer": "The Sifra says ( B'chukosai 1:8 ): שמא תאמרו הרי מאכל והרי משתה אם אין שלום אין כלום ת\"ל ונתתי שלום בארץ מגיד שהשלום שקול כנגד הכל וכן הוא אומר עושה שלום ובורא רע מגיד שהשלום שקול כנגד הכל Translation: Lest you say [after reading the blessings of abu",
+        "question": "I remember once hearing a story, the gist of which is: Once there was a young girl who was going to be mugged/ accosted by a bandit. A similar aged boy saw what was about to happen, and was able to st",
+        "answer": "I don't know if this is the exact story you're thinking of, but the first story in People Speak (\"The Scar\") is quite similar. The first few pages of the story are contained in the Google Books preview . Notably, in this version it was not a bandit t",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-55092",
-        "source_url": "https://judaism.stackexchange.com/questions/55092/the-sifra-on-peace",
-        "author": "Fred",
+        "url": "https://shekhina.org/qa.html?id=ye-106627",
+        "source_url": "https://judaism.stackexchange.com/questions/106627/source-for-story-about-a-boy-who-asked-to-be-given-a-scar-on-his-face-instead-of",
+        "author": "Alex",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-90293",
+        "title": "Why are the hoshanot left on top of the Aron until Erev Pesach?",
+        "titles": {
+          "en": "Why are the hoshanot left on top of the Aron until Erev Pesach?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Follow up to minhag for throwing hoshanot on top of the aron : I've noticed that nearly all the shuls that have the hoshanot on top of the aron keep them there until Erev Pesach, and then they burn it",
+        "answer": "The Nitei Gavriel perek 79:7 writes, that there are those that throw the aravot onto the aron kodesh. On the next line, he writes: וטוב להצניעם עד עת אפיית המצות כדי להשליכם בתוך האש שאופין מצות, הואיל ואיתעב בה, חדה מצוה ליתעביד בה מצוה אחרת. \"And i",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-90293",
+        "source_url": "https://judaism.stackexchange.com/questions/90293/why-are-the-hoshanot-left-on-top-of-the-aron-until-erev-pesach",
+        "author": "aBochur",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-74102",
+        "title": "Paradise is within us?",
+        "titles": {
+          "en": "Paradise is within us?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I heard Rabbi David Wolpe say in a debate something like: The Talmud says ' You assume that the sages are in paradise but it is not so. In fact, paradise is in the sages .' Could someone tell me more ",
+        "answer": "Perhaps the Mishna in Pirkei Avot : \"One hour of good deeds in this world is greater than all of the next world\". This is brought out in the Shaar haBitachon by Rabeinu Bachye: If he is among a crowd of people, he will long for nothing else than to d",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-74102",
+        "source_url": "https://judaism.stackexchange.com/questions/74102/paradise-is-within-us",
+        "author": "ray",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-56996",
+        "title": "What was in the Ark of the Covenant?",
+        "titles": {
+          "en": "What was in the Ark of the Covenant?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Shemot 25:21 says : And you shall place the ark cover on the ark from above, and into the ark you shall place the testimony , which I will give you. This seems to be reaffirmed in Melachim I 8:9 : The",
+        "answer": "What was in the Ark? The Talmud teaches us ( Shekalim 16a and Bava Basra 14a ) that the Ark contained both sets of Tablets (the broken ones and the 2nd set) as well as the Torah Scroll the Moses wrote. וארבעה לוחות היו בו שנים שלמים ושנים שבורים דכתי",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-56996",
+        "source_url": "https://judaism.stackexchange.com/questions/56996/what-was-in-the-ark-of-the-covenant",
+        "author": "Danny Schoemann",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "up-din-2025031011081192",
@@ -38469,7 +38469,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "ye-140181",
@@ -38490,7 +38490,7 @@
         "author": "הרב בנימין במברגר",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "ye-149254",
@@ -38511,7 +38511,7 @@
         "author": "הרב דוד חי הכהן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "ye-5749",
@@ -38532,7 +38532,7 @@
         "author": "Dave",
         "author_url": null,
         "license": "CC BY-SA 2.5",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "din-url-1655f2bc38fd3ce85305f548",
@@ -38553,7 +38553,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "up-din-297615",
@@ -38574,7 +38574,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "up-din-2023012412228851",
@@ -38595,7 +38595,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "up-din-2022071814407189",
@@ -38616,7 +38616,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
         "id": "up-din-2022041314817942",
@@ -38637,7 +38637,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-50a63e4080396f1b103d886a"
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
       }
     ]
   }
