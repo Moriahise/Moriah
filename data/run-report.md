@@ -2,7 +2,7 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 23/41. Fully bilingual headlines: 242/360.
+Working feeds: 22/41. Fully bilingual headlines: 355/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
@@ -19,5 +19,7 @@ Automated compilation; no human or rabbinic review claimed.
 - makorrishon: HTTPError: HTTP Error 403: Forbidden
 
 - now14: HTTPError: HTTP Error 403: Forbidden
+
+- channel9: TimeoutError: The read operation timed out; Discovery: HTTPError: HTTP Error 403: Forbidden
 
 - yt-n12: ValueError: No dated entries from the last 21 days

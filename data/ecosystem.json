@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-17T02:55:21Z",
+  "checked_at": "2026-11-17T13:19:23Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-17T02:55:21Z"
-    },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-17T02:55:21Z"
+      "checked_at": "2026-11-17T13:19:23Z"
     },
-    "music": {
+    "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-17T02:55:21Z"
+      "checked_at": "2026-11-17T13:19:23Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-17T02:55:21Z"
+      "checked_at": "2026-11-17T13:19:23Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-17T13:19:23Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-17T02:55:21Z"
+      "checked_at": "2026-11-17T13:19:23Z"
     }
   },
   "music": [
@@ -38258,7 +38258,7 @@
     ]
   },
   "qa": {
-    "release": "v1-cbb0199a98c67a6802810f01",
+    "release": "v1-678fb5fce128009e1fc720a2",
     "total": 70999,
     "cards": [
       {
@@ -38280,7 +38280,7 @@
         "author": "sabbahillel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-20398",
@@ -38301,7 +38301,7 @@
         "author": "Michoel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-5552",
@@ -38322,7 +38322,7 @@
         "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-143583",
@@ -38343,7 +38343,7 @@
         "author": "Rabbi Kaii",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-127659",
@@ -38364,7 +38364,7 @@
         "author": "wfb",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-106595",
@@ -38385,7 +38385,7 @@
         "author": "Meuchedet",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-90253",
@@ -38406,7 +38406,7 @@
         "author": "Hershy S.",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-74052",
@@ -38427,7 +38427,7 @@
         "author": "Menachem",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
         "id": "ye-56968",
@@ -38448,196 +38448,196 @@
         "author": "AKA",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "up-din-202503061693299",
-        "title": "פורים משולש ודיני משלוח מנות לאבל",
+        "id": "ye-202104028904709",
+        "title": "גזיזת ציפורניים בערב יו\"ט אחרון – המשך",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "גזיזת ציפורניים בערב יו\"ט אחרון – המשך"
         },
         "language": "he",
-        "question": "שלום כבוד הרב,רציתי לשאול 2 שאלות:1. פורים השנה משולש. בבני ברק שהחזון איש פסק שהיא עיר מסופקת קוראים את המגילה ללא ברכה כמו המוקפים. האם השנה יקראו בבית הכנסת בבני ברק המקפיד על פסקי החזון איש במוצשק",
+        "question": "כאן באתר https://din.org.il/2013/09/24/%D7%92%D7%96%D7%99%D7%96%D7%AA-%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%9D-%D7%91%D7%97%D7%95%D7%9C-%D7%94%D7%9E%D7%95%D7%A2%D7%93/ יש תשובה שיש אחרונ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202503061693299",
-        "source_url": "https://din.org.il/2025/03/06/%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%a9%d7%95%d7%9c%d7%a9-%d7%95%d7%93%d7%99%d7%a0%d7%99-%d7%9e%d7%a9%d7%9c%d7%95%d7%97-%d7%9e%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%9c/",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-202104028904709",
+        "source_url": "https://din.org.il/2021/04/02/%d7%92%d7%96%d7%99%d7%96%d7%aa-%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%a0%d7%99%d7%99%d7%9d-%d7%91%d7%a2%d7%a8%d7%91-%d7%99%d7%95%d7%98-%d7%90%d7%97%d7%a8%d7%95%d7%9f-%d7%94%d7%9e%d7%a9%d7%9a/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "ye-140126",
-        "title": "חדשות בשבת ע\"י גוי או אחראי ביטחון",
+        "id": "ye-141041",
+        "title": "בקשות פרטיות בשמע קולנו ביום צום",
         "titles": {
           "en": "",
-          "he": "חדשות בשבת ע\"י גוי או אחראי ביטחון"
+          "he": "בקשות פרטיות בשמע קולנו ביום צום"
         },
         "language": "he",
-        "question": "שלום לרב. חילוני אני מניח שאסור, אך האם מותר לשאול בשבת אדם שמותר לו להיות עם פלאפון פתוח ולהתעדכן (אחראי על ביטחון וכדומה) מה החדשות?(כמובן מדובר במקרה של סקרנות ולא שיש צורך לדעת), כמו\"כ האם מותר לש",
+        "question": "מי שיש לו בקשות פרטיות ומבקש אותם לפני חתימת שמע קולנו בשמונה עשרה. כיצד ינהג ביום צום שמוסיפים ענינו בשמע קולינו (בתפילת היחיד). האם את הבקשות יבקש לפני ענינו או אחרי? או בצום יש לוותר על הבקשות הפרט",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-140126",
-        "source_url": "https://www.yeshiva.org.il/ask/140126",
-        "author": "הרבנות הראשית לישראל",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-149208",
-        "title": "חרק שנפל לתוך כוס ריקה",
-        "titles": {
-          "en": "",
-          "he": "חרק שנפל לתוך כוס ריקה"
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב, במידה ונפל לי חרק לתוך כיס חרס /קרמיקה ריקה מאוכל או משקה וגסס בתוכה מס דקות, מה דין הכוס? טמאה ? ואן כן - כיצד מטהרים אותה? ב\"ה שלום רב אין בעיה. מספיק לשטוף. בברכה הרב חגי פנחס בר-גיו",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-149208",
-        "source_url": "https://www.yeshiva.org.il/ask/149208",
-        "author": "הרבנות הראשית לישראל",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-5155",
-        "title": "difference between תולעים and רמה",
-        "titles": {
-          "en": "",
-          "he": "difference between תולעים and רמה"
-        },
-        "language": "he",
-        "question": "In Beshalach 16:20 : וְלֹא שָׁמְעוּ אֶל מֹשֶׁה וַיּוֹתִרוּ אֲנָשִׁים מִמֶּנּוּ עַד בֹּקֶר וַיָּרֻם תּוֹלָעִים וַיִּבְאַשׁ וַיִּקְצֹף עֲלֵהֶם מֹשֶׁה:‏ A few Pesukim later in 16:24 : וַיַּנִּיחוּ אֹתוֹ ",
-        "answer": "An interesting question, and answer. It is worrisome to argue with the Gra about the different meanings of words, particularly after the famous (apocryphal?) story of him ordering lashes for the maskil who asserted to him that gila, rina, ditza, ched",
-        "answer_count": 3,
-        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-5155",
-        "source_url": "https://judaism.stackexchange.com/questions/5155/difference-between-%d7%aa%d7%95%d7%9c%d7%a2%d7%99%d7%9d-and-%d7%a8%d7%9e%d7%94",
-        "author": "josh waxman",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "din-url-152c7ad7974059809b8fd312",
-        "title": "כרית חימום כימית וסטיקלייט בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום רב רציתי לשאול לגבי השימוש בשבת ב'כרית חימום' (שקית קטנה שע\"י ניעור השקית נעשית פעולה כימית כלשהי והשקית מתחממת עד לחום ממוצע של 55מעלות ונשארת חמה למשך כ18 שעות, בשימוש בעיקר בצבא.)? וכן, מה הדי",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-152c7ad7974059809b8fd312",
-        "source_url": "https://din.org.il/2017/01/12/%d7%9b%d7%a8%d7%99%d7%aa-%d7%97%d7%99%d7%9e%d7%95%d7%9d-%d7%9b%d7%99%d7%9e%d7%99%d7%aa-%d7%95%d7%a1%d7%98%d7%99%d7%a7%d7%9c%d7%99%d7%99%d7%98-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הדין",
+        "url": "https://shekhina.org/qa.html?id=ye-141041",
+        "source_url": "https://www.yeshiva.org.il/ask/141041",
+        "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "up-din-295926",
-        "title": "צפייה בטלוויזיה הדולקת מערב שבת",
+        "id": "ye-147501",
+        "title": "דוד חשמל ללא קולטים",
+        "titles": {
+          "en": "",
+          "he": "דוד חשמל ללא קולטים"
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב, אני גר בבניין גבוה, בדירה שלי יש רק דוד חשמל. אין אפשרות להתקין דוד שמש עם קולטים. הדוד מופעל באופן אוטומטי בשעות קבועות עם טיימר 1. מה קורה בשבת ? האם אני יכול לשטוף רגליים עם מים חמים",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-147501",
+        "source_url": "https://www.yeshiva.org.il/ask/147501",
+        "author": "הרב יצחק בן יוסף",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
+      },
+      {
+        "id": "ye-36717",
+        "title": "How long can יוצא ונכנס be?",
+        "titles": {
+          "en": "",
+          "he": "How long can יוצא ונכנס be?"
+        },
+        "language": "he",
+        "question": "In regards to kosher supervision, what is the largest single gap that a mashgiach can leave the premise and still be considered practicing יוצא ונכנס?",
+        "answer": "From the Kashrus Organizations, it sounds like it depends on what product the Mashgiach is being יוצא ונכנס for. At least for the milking process, the time frame for the Mashgiach's entering/leaving given by the OU is \"In general, Poskim have ruled t",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-36717",
+        "source_url": "https://judaism.stackexchange.com/questions/36717/how-long-can-%d7%99%d7%95%d7%a6%d7%90-%d7%95%d7%a0%d7%9b%d7%a0%d7%a1-be",
+        "author": "NJM",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
+      },
+      {
+        "id": "din-url-30e504a43148f739f56365e8",
+        "title": "סחיטה בשבת – נייר טישיו",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר להדליק טלוויזיה בערב שבת(הואיל וזו מלאכה הנעשית מבעוד יום, כמו שכותב הרמב\"ם שבת ג,א) ואם לא מדוע.תודה רבה!",
+        "question": "שלום כבוד הרבנים. האם זה נכון שאין איסור של סחיטה בשבת לגבי נייר טישיו או מגבות חד פעמיות, אפילו אם הם ספוגים במים (או בכל מיני נוזלים), ואז מותר גם לנגב שולחן מלא במים על ידי נייר טישיו בשבת, ללא חשש",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-295926",
-        "source_url": "https://din.org.il/2020/10/29/%d7%a6%d7%a4%d7%99%d7%99%d7%94-%d7%91%d7%98%d7%9c%d7%95%d7%95%d7%99%d7%96%d7%99%d7%94-%d7%94%d7%93%d7%95%d7%9c%d7%a7%d7%aa-%d7%9e%d7%a2%d7%a8%d7%91-%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-30e504a43148f739f56365e8",
+        "source_url": "https://din.org.il/2022/08/28/%d7%a1%d7%97%d7%99%d7%98%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%a0%d7%99%d7%99%d7%a8-%d7%98%d7%99%d7%a9%d7%99%d7%95/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "up-din-202212253610459",
-        "title": "השמש כבה והדליקו מהנר הקודם שהדליק",
+        "id": "up-din-345768",
+        "title": "טלטול מוקצה בשינוי / כלאחר יד – בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "יהודי שאינו יהודי אורתודוקסי עדיין, הדליק חנוכיה, ובמהלך ההדלקה הנר השמש כבה,והוא הדליקו מחדש מהנר הקודם שהדליק בחנוכיה.האם חובה שיכבה את הנרות וידליק מחדש בלי ברכות?תודה.",
+        "question": "שלום וברכהדבר איסור שהתגלגל על דבר היתר בשבת האם מותר להזיז את הדבר איסור בשבת בשינוי?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202212253610459",
-        "source_url": "https://din.org.il/2022/12/25/%d7%94%d7%a9%d7%9e%d7%a9-%d7%9b%d7%91%d7%94-%d7%95%d7%94%d7%93%d7%9c%d7%99%d7%a7%d7%95-%d7%9e%d7%94%d7%a0%d7%a8-%d7%94%d7%a7%d7%95%d7%93%d7%9d-%d7%a9%d7%94%d7%93%d7%9c%d7%99%d7%a7/",
-        "author": "רבני בית הוראה",
+        "url": "https://shekhina.org/qa.html?id=up-din-345768",
+        "source_url": "https://din.org.il/2021/09/18/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%9e%d7%95%d7%a7%d7%a6%d7%94-%d7%91%d7%a9%d7%99%d7%a0%d7%95%d7%99-%d7%9b%d7%9c%d7%90%d7%97%d7%a8-%d7%99%d7%93-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "up-din-2022071714357507",
-        "title": "למכור בחנות מתנות בשלושת השבועות",
+        "id": "ye-136438",
+        "title": "צומות מטעמי בריאות",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלוםהבוס שלי רוצה שאמשיך לעבוד בחנותולמכור מתנות יוקרתיותבשלושת השבועות האם יש בזה בעיה ומכשול?",
+        "question": "שלום כבוד הרב, אני מתעניינת הרבה בתזונה ומגלה יותר ויותר מחקרים שמראים שצום מרפא את הגוף, אבא שלי כמעט החלים לגמרי מסכרת כשהתחיל ליישם צום של 18 שעות ביום. שמעתי פעם על צדיק שהיה אוכל רק בשבתות וביתר ",
         "answer": "",
         "answer_count": 1,
-        "provider": "din",
+        "provider": "yeshiva",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2022071714357507",
-        "source_url": "https://din.org.il/2022/07/17/%d7%9c%d7%9e%d7%9b%d7%95%d7%a8-%d7%91%d7%97%d7%a0%d7%95%d7%aa-%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa/",
-        "author": "רבני בית הוראה",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-136438",
+        "source_url": "https://www.yeshiva.org.il/ask/136438",
+        "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       },
       {
-        "id": "up-din-202204123152224",
-        "title": "שימוש בסידור בפסח שמשתמשים בו במשך השנה",
+        "id": "up-din-20230720163352",
+        "title": "חובת צום תשעה באב לאשה בהריון",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב,האם ניתן להשתמש בסידור שמשתמשת בו במהלך השנה בפסח?יש בו לכלוכים שבהעברה עם היד לא יורדים..בנוסף, כעת מבשלת על כשר לאחר שביצעתי הגעלה ולא זכרתי אם הגעלתי גם את ידית הברז ..כעת שפכתי עליה ",
+        "question": "שלום רב,מה הדין לאשה הרה בחודש החמישי שצריכה לאכול מדי פעם, כי אם לא היא מקיאה, ובמיוחד בימי החום שנדרש לשתות.אשמח לתשובה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202204123152224",
-        "source_url": "https://din.org.il/2022/04/12/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%91%d7%a4%d7%a1%d7%97-%d7%a9%d7%9e%d7%a9%d7%aa%d7%9e%d7%a9%d7%99%d7%9d-%d7%91%d7%95-%d7%91%d7%9e%d7%a9%d7%9a-%d7%94%d7%a9%d7%a0/",
+        "url": "https://shekhina.org/qa.html?id=up-din-20230720163352",
+        "source_url": "https://din.org.il/2023/07/20/%d7%97%d7%95%d7%91%d7%aa-%d7%a6%d7%95%d7%9d-%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91-%d7%9c%d7%90%d7%a9%d7%94-%d7%91%d7%94%d7%a8%d7%99%d7%95%d7%9f/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
+      },
+      {
+        "id": "up-din-20240401321411",
+        "title": "מכירת חמץ בתוך קרון נגרר",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום לכבוד הרב שאלה יש לי רכב ונגררת שאני משתמש בהם בתור מחסן ואין להם רישיון חוקי כי אם היה היה צד שיהיה מותר לפי חוק להשים אותם שם ואני שם אותם באיזה חניון ציבורי שאני לא יודע למי הוא שייך ויש לי שם",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-20240401321411",
+        "source_url": "https://din.org.il/2024/04/01/%d7%9e%d7%9b%d7%99%d7%a8%d7%aa-%d7%97%d7%9e%d7%a5-%d7%91%d7%aa%d7%95%d7%9a-%d7%a7%d7%a8%d7%95%d7%9f-%d7%a0%d7%92%d7%a8%d7%a8/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-678fb5fce128009e1fc720a2"
       }
     ]
   }
