@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-16T18:29:46Z",
+  "checked_at": "2026-11-17T02:55:21Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-16T18:29:46Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-16T18:29:46Z"
+      "checked_at": "2026-11-17T02:55:21Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-16T18:29:46Z"
+      "checked_at": "2026-11-17T02:55:21Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-16T18:29:46Z"
+      "checked_at": "2026-11-17T02:55:21Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-17T02:55:21Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-16T18:29:46Z"
+      "checked_at": "2026-11-17T02:55:21Z"
     }
   },
   "music": [
@@ -38262,378 +38262,378 @@
     "total": 70999,
     "cards": [
       {
-        "id": "ye-36994",
-        "title": "Nazir: shaving on the start of the vow",
+        "id": "ye-36958",
+        "title": "Bedikat chametz when changing locations on Erev Pesach",
         "titles": {
-          "en": "Nazir: shaving on the start of the vow",
+          "en": "Bedikat chametz when changing locations on Erev Pesach",
           "he": ""
         },
         "language": "en",
-        "question": "I read that a nazir would shave his hair just prior to taking the vow because of a decree of the sages. Is it true? What is the source for this information?",
-        "answer": "There is no trace of such a decree, not in the Mishna, nor in the Rambam.",
+        "question": "Suppose someone is going to be staying somewhere for Pesach (say a hotel), but he will be going there during the day on the 14th of Nisan . When and where should he do bedikat chametz ? Presumably, he",
+        "answer": "Hilchos Pesach: Going Away, Bedikah at Hotel quoted Rabbi Blumenkrantz in 2010 (which is why the specific date was mentioned). Note that the Shulchan Aruch (Siman 436) and Chayei Adam explain that if one is taking a trip and will be away for Pesach, ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-36958",
+        "source_url": "https://judaism.stackexchange.com/questions/36958/bedikat-chametz-when-changing-locations-on-erev-pesach",
+        "author": "sabbahillel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-20398",
+        "title": "How long is Orthodox Conversion?",
+        "titles": {
+          "en": "How long is Orthodox Conversion?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "How long is the conversion process into Traditional Orthodox and Modern Orthodox? What is the minimum time period in most cases? I know converts can spend years preparing until they actually finalise ",
+        "answer": "From the Rabbinical Council of America (RCA) conversion FAQ : The amount of time for a convert to be prepared for conversion varies from case to case, depending upon the level of knowledge and experience that preceded the quest for conversion and man",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-36994",
-        "source_url": "https://judaism.stackexchange.com/questions/36994/nazir-shaving-on-the-start-of-the-vow",
-        "author": "Danny Schoemann",
+        "url": "https://shekhina.org/qa.html?id=ye-20398",
+        "source_url": "https://judaism.stackexchange.com/questions/20398/how-long-is-orthodox-conversion",
+        "author": "Michoel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-20427",
-        "title": "What is the origin on metziztah b'peh?",
+        "id": "ye-5552",
+        "title": "Married woman covering hair",
         "titles": {
-          "en": "What is the origin on metziztah b'peh?",
+          "en": "Married woman covering hair",
           "he": ""
         },
         "language": "en",
-        "question": "Is metzitzah b'peh of biblical origin or was it instituted by the rabbis? What is the source for this practice?",
-        "answer": "The earliest source would seem to be the Mishna Shabbat 19:2 . It is brought in the Rambam ( Milah 2:2 ) and the Shulchan Aruch ( YD 264:3 ) as well.",
+        "question": "Is it strictly necessary for a married woman to keep her hair covered in the following situations? If not, how important is it? 1) When alone in the house 2) When alone (or with husband) in the bedroo",
+        "answer": "Magen Avaraham Orach Chaim 75:2 says that in her own house, a lady does not have to cover her hair, however the Bais Shmuel in Even HaEzer 115:9 and the Bach says she does have to cover her hair. In Igros Moshe Even HoEzer 1:58, HaRav Moshe ZATZAL sa",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-20427",
-        "source_url": "https://judaism.stackexchange.com/questions/20427/what-is-the-origin-on-metziztah-bpeh",
-        "author": "Double AA",
+        "url": "https://shekhina.org/qa.html?id=ye-5552",
+        "source_url": "https://judaism.stackexchange.com/questions/5552/married-woman-covering-hair",
+        "author": "Gershon Gold",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-143583",
+        "title": "Is it a sin to eat your own blood?",
+        "titles": {
+          "en": "Is it a sin to eat your own blood?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Leviticus 17:12 KJV Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood. Various passages prohibit consuming bl",
+        "answer": "Human blood is permitted Biblically (Keritut 20b), but God gave the chain of Sages of the Mesora permission and encouragement to put guardrails and fences around the Torah, to prevent Jews from coming close to sin as well, and in that capacity the Sa",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-143583",
+        "source_url": "https://judaism.stackexchange.com/questions/143583/is-it-a-sin-to-eat-your-own-blood",
+        "author": "Rabbi Kaii",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-127659",
+        "title": "Did babies nurse in the wilderness?",
+        "titles": {
+          "en": "Did babies nurse in the wilderness?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "We know that the Jews were sustained by the heavenly mun for forty years in the wilderness. They didn't eat anything else, as it provided their every needs. They didn't even produce any bodily waste. ",
+        "answer": "Rashi (Bamidbar 11:5) explains why the manna did not assume the taste of those items enumerated in that pasuk: אמר ר' שמעון מפני מה המן משתנה לכל דבר חוץ מאלו מפני שהן קשים למניקות אומרים לאשה אל תאכלי שום ובצל מפני התינוק משל למלך וכו' כדאיתא בספרי.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-127659",
+        "source_url": "https://judaism.stackexchange.com/questions/127659/did-babies-nurse-in-the-wilderness",
+        "author": "wfb",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-106595",
+        "title": "\"En K-elo-heinu / Pitum\" weekday addition for Nusach Ashkenaz",
+        "titles": {
+          "en": "\"En K-elo-heinu / Pitum\" weekday addition for Nusach Ashkenaz",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I hope that my memory regarding Nusach Ashkenaz as practiced in Israel is correct, here. For Nusach Ashkenaz, one of the main differences between Israel and the diaspora that I recall is including En ",
+        "answer": "Concerning the Ketoris, the halacha says that if one forgets on spice then he is chayav misa. There is a machlokes between The Rema and the Beis Yosef if that applies to speaking. The Rema says that due to tirdas hazman, people might forget or err on",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-106595",
+        "source_url": "https://judaism.stackexchange.com/questions/106595/en-k-elo-heinu-pitum-weekday-addition-for-nusach-ashkenaz",
+        "author": "Meuchedet",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-90253",
+        "title": "Significance of making kiddush specifically before eating",
+        "titles": {
+          "en": "Significance of making kiddush specifically before eating",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What is the significance of making kiddush in general before we eat? Do the reasons differ between shabbat and chagim?",
+        "answer": "In general, there are two aspects to kiddush, in regards to your question. There is the idea of \"kiddush hayom\" - sanctifying the day, and then there is \"kiddush bemakom seudah\" - kiddush in the place of the meal. The main point of kiddush is a mitzv",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-90253",
+        "source_url": "https://judaism.stackexchange.com/questions/90253/significance-of-making-kiddush-specifically-before-eating",
+        "author": "Hershy S.",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-5595",
-        "title": "Alarm clock handling on Shabbos",
+        "id": "ye-74052",
+        "title": "Where were the Luchos for the year before the Mishkan was erected?",
         "titles": {
-          "en": "Alarm clock handling on Shabbos",
+          "en": "Where were the Luchos for the year before the Mishkan was erected?",
           "he": ""
         },
         "language": "en",
-        "question": "Are you allowed to touch an alarm clock on Shabbos?",
-        "answer": "You are allowed to touch an alarm clock on shabas. One may touch anything on shabas that one may touch during chol. ( Rema O.C. 308:3 ) As explained there, the prohibitions of Muktzah only apply to moving an object, not touching it.",
+        "question": "After the erection of the Mishkan, the Luchos were kept in the Aron therein. But there is an issue of timing. Moshe received the Luchos shortly after leaving Egypt, but the Mishkan was only erected a ",
+        "answer": "Rashi on Devarim 10:1 explains that when Moshe was commanded to hew the second luchot, he was also commanded to build a wooden ark (not the Aron that Betzalel built). This ark was used until Betzalel built the Aron (he was only told about building it",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-74052",
+        "source_url": "https://judaism.stackexchange.com/questions/74052/where-were-the-luchos-for-the-year-before-the-mishkan-was-erected",
+        "author": "Menachem",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-56968",
+        "title": "Netilat yadayim without a keli?",
+        "titles": {
+          "en": "Netilat yadayim without a keli?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "It is known that the Sefer Halakhoth Gedholoth codifies that since only the descendants of Aharon HaKohen were strictly commanded regarding netilath yadhayim with a keli , it is therefore enough for a",
+        "answer": "Washing for bread, or for Tefilla? Bread is more stringent, but tefilla would seem to be fine from a tap. Sources (Based on Beis Yosef OC 4:22) Rosh (Brachos 9:23) writes that netilas yadayim of shacharis (which he himself rules is for the purpose of",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-5595",
-        "source_url": "https://judaism.stackexchange.com/questions/5595/alarm-clock-handling-on-shabbos",
-        "author": "WAF",
+        "url": "https://shekhina.org/qa.html?id=ye-56968",
+        "source_url": "https://judaism.stackexchange.com/questions/56968/netilat-yadayim-without-a-keli",
+        "author": "AKA",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-143423",
-        "title": "Universalism and Olam Haba",
-        "titles": {
-          "en": "Universalism and Olam Haba",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I know Chabad generally maintains that all Jews will end up in Olam Haba and will be rewarded after tehiyas hameisim—even those Jews who committed major sins. I am wondering if there are any sources t",
-        "answer": "In this question we see that the Gemara has a list of specific Jews and non Jews who have no Olam Habah. This would imply that everyone else, Jewish and not, does receive Olam Habah No Olam Habah for these?",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-143423",
-        "source_url": "https://judaism.stackexchange.com/questions/143423/universalism-and-olam-haba",
-        "author": "Clint Eastwood",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-127710",
-        "title": "What tool did Raban Gamliel use to determine how close his ship was to the port?",
-        "titles": {
-          "en": "What tool did Raban Gamliel use to determine how close his ship was to the port?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In Mishna Eruvin 4:2 , Raban Gamliel tells his colleagues \"I looked out from our ship just before it got dark, and determined we were already within 2000 amot of the harbor.\" Bartenura says he used so",
-        "answer": "So this is a really fascinating topic that has bamboozled many meforshim and thinkers over the years. The Talmudology website here helps to comprehensively break it down. He first notes Rashi who says: שפופרת - קנה חלול וכשהוא ארוך אין צופין בו למרחו",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-127710",
-        "source_url": "https://judaism.stackexchange.com/questions/127710/what-tool-did-raban-gamliel-use-to-determine-how-close-his-ship-was-to-the-port",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-106627",
-        "title": "Source for story about a boy who asked to be given a scar on his face instead of it being given to his wife",
-        "titles": {
-          "en": "Source for story about a boy who asked to be given a scar on his face instead of it being given to his wife",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I remember once hearing a story, the gist of which is: Once there was a young girl who was going to be mugged/ accosted by a bandit. A similar aged boy saw what was about to happen, and was able to st",
-        "answer": "I don't know if this is the exact story you're thinking of, but the first story in People Speak (\"The Scar\") is quite similar. The first few pages of the story are contained in the Google Books preview . Notably, in this version it was not a bandit t",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-106627",
-        "source_url": "https://judaism.stackexchange.com/questions/106627/source-for-story-about-a-boy-who-asked-to-be-given-a-scar-on-his-face-instead-of",
-        "author": "Alex",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-90293",
-        "title": "Why are the hoshanot left on top of the Aron until Erev Pesach?",
-        "titles": {
-          "en": "Why are the hoshanot left on top of the Aron until Erev Pesach?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Follow up to minhag for throwing hoshanot on top of the aron : I've noticed that nearly all the shuls that have the hoshanot on top of the aron keep them there until Erev Pesach, and then they burn it",
-        "answer": "The Nitei Gavriel perek 79:7 writes, that there are those that throw the aravot onto the aron kodesh. On the next line, he writes: וטוב להצניעם עד עת אפיית המצות כדי להשליכם בתוך האש שאופין מצות, הואיל ואיתעב בה, חדה מצוה ליתעביד בה מצוה אחרת. \"And i",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-90293",
-        "source_url": "https://judaism.stackexchange.com/questions/90293/why-are-the-hoshanot-left-on-top-of-the-aron-until-erev-pesach",
-        "author": "aBochur",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-74102",
-        "title": "Paradise is within us?",
-        "titles": {
-          "en": "Paradise is within us?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I heard Rabbi David Wolpe say in a debate something like: The Talmud says ' You assume that the sages are in paradise but it is not so. In fact, paradise is in the sages .' Could someone tell me more ",
-        "answer": "Perhaps the Mishna in Pirkei Avot : \"One hour of good deeds in this world is greater than all of the next world\". This is brought out in the Shaar haBitachon by Rabeinu Bachye: If he is among a crowd of people, he will long for nothing else than to d",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-74102",
-        "source_url": "https://judaism.stackexchange.com/questions/74102/paradise-is-within-us",
-        "author": "ray",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "ye-56996",
-        "title": "What was in the Ark of the Covenant?",
-        "titles": {
-          "en": "What was in the Ark of the Covenant?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Shemot 25:21 says : And you shall place the ark cover on the ark from above, and into the ark you shall place the testimony , which I will give you. This seems to be reaffirmed in Melachim I 8:9 : The",
-        "answer": "What was in the Ark? The Talmud teaches us ( Shekalim 16a and Bava Basra 14a ) that the Ark contained both sets of Tablets (the broken ones and the 2nd set) as well as the Torah Scroll the Moses wrote. וארבעה לוחות היו בו שנים שלמים ושנים שבורים דכתי",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-56996",
-        "source_url": "https://judaism.stackexchange.com/questions/56996/what-was-in-the-ark-of-the-covenant",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "up-din-2025031011081192",
-        "title": "מחצית השקל – אישה שאין לה בעל",
+        "id": "up-din-202503061693299",
+        "title": "פורים משולש ודיני משלוח מנות לאבל",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום הרבאישה שאין לה בעל, ויש לה בנות, האם היא יכולה לפדות את שלוש המטבעות מחצית השקל בפורים?",
+        "question": "שלום כבוד הרב,רציתי לשאול 2 שאלות:1. פורים השנה משולש. בבני ברק שהחזון איש פסק שהיא עיר מסופקת קוראים את המגילה ללא ברכה כמו המוקפים. האם השנה יקראו בבית הכנסת בבני ברק המקפיד על פסקי החזון איש במוצשק",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2025031011081192",
-        "source_url": "https://din.org.il/2025/03/10/%d7%9e%d7%97%d7%a6%d7%99%d7%aa-%d7%94%d7%a9%d7%a7%d7%9c-%d7%90%d7%99%d7%a9%d7%94-%d7%a9%d7%90%d7%99%d7%9f-%d7%9c%d7%94-%d7%91%d7%a2%d7%9c/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202503061693299",
+        "source_url": "https://din.org.il/2025/03/06/%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%a9%d7%95%d7%9c%d7%a9-%d7%95%d7%93%d7%99%d7%a0%d7%99-%d7%9e%d7%a9%d7%9c%d7%95%d7%97-%d7%9e%d7%a0%d7%95%d7%aa-%d7%9c%d7%90%d7%91%d7%9c/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-140181",
-        "title": "הדלקת נר נשמה",
+        "id": "ye-140126",
+        "title": "חדשות בשבת ע\"י גוי או אחראי ביטחון",
         "titles": {
           "en": "",
-          "he": "הדלקת נר נשמה"
+          "he": "חדשות בשבת ע\"י גוי או אחראי ביטחון"
         },
         "language": "he",
-        "question": "אם עולים לקבר משותף של בעל ואשה ולאחד מהם עולים לקבר ביום הפטירה של אחד מהם האם צריך להדליק נר גם לנפטר השני? ראוי לומר גם פרק תהילים לעילוי נשמת הנפטר השני ולשים אבן על המצבה שלו. נר לא חייבים. אפשר ",
+        "question": "שלום לרב. חילוני אני מניח שאסור, אך האם מותר לשאול בשבת אדם שמותר לו להיות עם פלאפון פתוח ולהתעדכן (אחראי על ביטחון וכדומה) מה החדשות?(כמובן מדובר במקרה של סקרנות ולא שיש צורך לדעת), כמו\"כ האם מותר לש",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-140181",
-        "source_url": "https://www.yeshiva.org.il/ask/140181",
-        "author": "הרב בנימין במברגר",
+        "url": "https://shekhina.org/qa.html?id=ye-140126",
+        "source_url": "https://www.yeshiva.org.il/ask/140126",
+        "author": "הרבנות הראשית לישראל",
         "author_url": null,
         "license": "",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-149254",
-        "title": "עקיצת דבורה",
+        "id": "ye-149208",
+        "title": "חרק שנפל לתוך כוס ריקה",
         "titles": {
           "en": "",
-          "he": "עקיצת דבורה"
+          "he": "חרק שנפל לתוך כוס ריקה"
         },
         "language": "he",
-        "question": "שלום כבוד הרב , חלמתי אתמול חלום על דבורה שעוקצת אותי ביד שמאל וכשאני באה להוציא את העוקץ הוא לא שם , חוץ מזה אני לא זוכרת מה עוד קרה בחלום . אשמח לדעת מה זה אומר ? יתכן והיה לך כאב ביד והוא נעלם וזהו",
+        "question": "שלום כבוד הרב, במידה ונפל לי חרק לתוך כיס חרס /קרמיקה ריקה מאוכל או משקה וגסס בתוכה מס דקות, מה דין הכוס? טמאה ? ואן כן - כיצד מטהרים אותה? ב\"ה שלום רב אין בעיה. מספיק לשטוף. בברכה הרב חגי פנחס בר-גיו",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-149208",
+        "source_url": "https://www.yeshiva.org.il/ask/149208",
+        "author": "הרבנות הראשית לישראל",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "ye-5155",
+        "title": "difference between תולעים and רמה",
+        "titles": {
+          "en": "",
+          "he": "difference between תולעים and רמה"
+        },
+        "language": "he",
+        "question": "In Beshalach 16:20 : וְלֹא שָׁמְעוּ אֶל מֹשֶׁה וַיּוֹתִרוּ אֲנָשִׁים מִמֶּנּוּ עַד בֹּקֶר וַיָּרֻם תּוֹלָעִים וַיִּבְאַשׁ וַיִּקְצֹף עֲלֵהֶם מֹשֶׁה:‏ A few Pesukim later in 16:24 : וַיַּנִּיחוּ אֹתוֹ ",
+        "answer": "An interesting question, and answer. It is worrisome to argue with the Gra about the different meanings of words, particularly after the famous (apocryphal?) story of him ordering lashes for the maskil who asserted to him that gila, rina, ditza, ched",
+        "answer_count": 3,
+        "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-149254",
-        "source_url": "https://www.yeshiva.org.il/ask/149254",
-        "author": "הרב דוד חי הכהן",
+        "url": "https://shekhina.org/qa.html?id=ye-5155",
+        "source_url": "https://judaism.stackexchange.com/questions/5155/difference-between-%d7%aa%d7%95%d7%9c%d7%a2%d7%99%d7%9d-and-%d7%a8%d7%9e%d7%94",
+        "author": "josh waxman",
         "author_url": null,
-        "license": "",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "ye-5749",
-        "title": "Eglah Arufah (עגלה ערופה) Measurement",
-        "titles": {
-          "en": "",
-          "he": "Eglah Arufah (עגלה ערופה) Measurement"
-        },
-        "language": "he",
-        "question": "How does one measure, for עגלה ערופה purposes, which city the dead is closest to: from which part of the body?",
-        "answer": "The Mishnah in Sotah 45b cites a dispute between R' Eliezer, R' Akiva and R' Eliezer ben Yaakov as to whether the measurement is done from the corspe's navel, from his nose, or from his neck. The halachah follows R' Akiva, that the measurement is don",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-5749",
-        "source_url": "https://judaism.stackexchange.com/questions/5749/eglah-arufah-%d7%a2%d7%92%d7%9c%d7%94-%d7%a2%d7%a8%d7%95%d7%a4%d7%94-measurement",
-        "author": "Dave",
-        "author_url": null,
-        "license": "CC BY-SA 2.5",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "din-url-1655f2bc38fd3ce85305f548",
-        "title": "הפשרת חלה עם פתיתי קרח על הפלטה בשבת",
+        "id": "din-url-152c7ad7974059809b8fd312",
+        "title": "כרית חימום כימית וסטיקלייט בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום הרב האם מותר לחמם תבשיל [יבש מבושל כל צורכו מצטמק ורע לו] שיצא מהמקפיא ויש עליו פתיתי קרח קטנים [בשיעור שאפשר לרחוץ בו איבר קטן בגופו] ? ומדוע הרי זה פסיק רישא דאורייתא?",
+        "question": "שלום רב רציתי לשאול לגבי השימוש בשבת ב'כרית חימום' (שקית קטנה שע\"י ניעור השקית נעשית פעולה כימית כלשהי והשקית מתחממת עד לחום ממוצע של 55מעלות ונשארת חמה למשך כ18 שעות, בשימוש בעיקר בצבא.)? וכן, מה הדי",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-1655f2bc38fd3ce85305f548",
-        "source_url": "https://din.org.il/2026/06/29/%d7%94%d7%a4%d7%a8%d7%a9%d7%aa-%d7%97%d7%9c%d7%94-%d7%a2%d7%9c-%d7%a4%d7%aa%d7%99%d7%aa%d7%99-%d7%a7%d7%a8%d7%97-%d7%a2%d7%9c-%d7%94%d7%a4%d7%9c%d7%98%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-152c7ad7974059809b8fd312",
+        "source_url": "https://din.org.il/2017/01/12/%d7%9b%d7%a8%d7%99%d7%aa-%d7%97%d7%99%d7%9e%d7%95%d7%9d-%d7%9b%d7%99%d7%9e%d7%99%d7%aa-%d7%95%d7%a1%d7%98%d7%99%d7%a7%d7%9c%d7%99%d7%99%d7%98-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-cbb0199a98c67a6802810f01"
+      },
+      {
+        "id": "up-din-295926",
+        "title": "צפייה בטלוויזיה הדולקת מערב שבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר להדליק טלוויזיה בערב שבת(הואיל וזו מלאכה הנעשית מבעוד יום, כמו שכותב הרמב\"ם שבת ג,א) ואם לא מדוע.תודה רבה!",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-295926",
+        "source_url": "https://din.org.il/2020/10/29/%d7%a6%d7%a4%d7%99%d7%99%d7%94-%d7%91%d7%98%d7%9c%d7%95%d7%95%d7%99%d7%96%d7%99%d7%94-%d7%94%d7%93%d7%95%d7%9c%d7%a7%d7%aa-%d7%9e%d7%a2%d7%a8%d7%91-%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "up-din-297615",
-        "title": "מוקצה – מטבע כסגולה בשבת",
+        "id": "up-din-202212253610459",
+        "title": "השמש כבה והדליקו מהנר הקודם שהדליק",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב,יש לי בקע טבורי ואמרו לי כסגולה לשים מטבע בטבור ובע\"ה ה' ישלח רפואה.האם מותר להשאיר את המטבע גם בשבת?",
+        "question": "יהודי שאינו יהודי אורתודוקסי עדיין, הדליק חנוכיה, ובמהלך ההדלקה הנר השמש כבה,והוא הדליקו מחדש מהנר הקודם שהדליק בחנוכיה.האם חובה שיכבה את הנרות וידליק מחדש בלי ברכות?תודה.",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-297615",
-        "source_url": "https://din.org.il/2020/11/14/%d7%9e%d7%95%d7%a7%d7%a6%d7%94-%d7%9e%d7%98%d7%91%d7%a2-%d7%9b%d7%a1%d7%92%d7%95%d7%9c%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202212253610459",
+        "source_url": "https://din.org.il/2022/12/25/%d7%94%d7%a9%d7%9e%d7%a9-%d7%9b%d7%91%d7%94-%d7%95%d7%94%d7%93%d7%9c%d7%99%d7%a7%d7%95-%d7%9e%d7%94%d7%a0%d7%a8-%d7%94%d7%a7%d7%95%d7%93%d7%9d-%d7%a9%d7%94%d7%93%d7%9c%d7%99%d7%a7/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "up-din-2023012412228851",
-        "title": "שמן שנשאר מחנוכה",
+        "id": "up-din-2022071714357507",
+        "title": "למכור בחנות מתנות בשלושת השבועות",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר להשתמש בבקבוק השמן שנותר מחנוכה להדלקת נר לצדיק וגם וחנוכיה עצמה",
+        "question": "שלוםהבוס שלי רוצה שאמשיך לעבוד בחנותולמכור מתנות יוקרתיותבשלושת השבועות האם יש בזה בעיה ומכשול?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2023012412228851",
-        "source_url": "https://din.org.il/2023/01/24/%d7%a9%d7%9e%d7%9f-%d7%a9%d7%a0%d7%a9%d7%90%d7%a8-%d7%9e%d7%97%d7%a0%d7%95%d7%9b%d7%94/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2022071714357507",
+        "source_url": "https://din.org.il/2022/07/17/%d7%9c%d7%9e%d7%9b%d7%95%d7%a8-%d7%91%d7%97%d7%a0%d7%95%d7%aa-%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-cbb0199a98c67a6802810f01"
       },
       {
-        "id": "up-din-2022071814407189",
-        "title": "קניית רכב לאדם בעל משפחה בשלושת השבועות",
+        "id": "up-din-202204123152224",
+        "title": "שימוש בסידור בפסח שמשתמשים בו במשך השנה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "ראיתי שאתם כותבים שלאדם נשוי מותר כיון שהוא מברך \"הטוב והמטיב\", השאלה האם יש מקום להחמיר בגלל שהדבר מאוד משמח אותי ואולי זה לא ראוי בימים אלה",
+        "question": "שלום כבוד הרב,האם ניתן להשתמש בסידור שמשתמשת בו במהלך השנה בפסח?יש בו לכלוכים שבהעברה עם היד לא יורדים..בנוסף, כעת מבשלת על כשר לאחר שביצעתי הגעלה ולא זכרתי אם הגעלתי גם את ידית הברז ..כעת שפכתי עליה ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2022071814407189",
-        "source_url": "https://din.org.il/2022/07/18/%d7%a7%d7%a0%d7%99%d7%99%d7%aa-%d7%a8%d7%9b%d7%91-%d7%9c%d7%90%d7%93%d7%9d-%d7%91%d7%a2%d7%9c-%d7%9e%d7%a9%d7%a4%d7%97%d7%94-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a9%d7%91%d7%95%d7%a2%d7%95/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-cbb0199a98c67a6802810f01"
-      },
-      {
-        "id": "up-din-2022041314817942",
-        "title": "פסח בבית שיש בו כלי חמץ",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לכבוד הרב! אני חוזרת בתשובה וגרה עם הוריי, משפחתי לא מקפידה כל כך על הלכות פסח בדגש על הכשרת המטבח וכליו, אמנם בחג לא ימצא בביתי חמץ. מה עליי לעשות במקרה כזה? מותר לי להיות בבית בחג? רק אציין שאי",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2022041314817942",
-        "source_url": "https://din.org.il/2022/04/13/%d7%a4%d7%a1%d7%97-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%99%d7%a9-%d7%91%d7%95-%d7%9b%d7%9c%d7%99-%d7%97%d7%9e%d7%a5/",
+        "url": "https://shekhina.org/qa.html?id=up-din-202204123152224",
+        "source_url": "https://din.org.il/2022/04/12/%d7%a9%d7%99%d7%9e%d7%95%d7%a9-%d7%91%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%91%d7%a4%d7%a1%d7%97-%d7%a9%d7%9e%d7%a9%d7%aa%d7%9e%d7%a9%d7%99%d7%9d-%d7%91%d7%95-%d7%91%d7%9e%d7%a9%d7%9a-%d7%94%d7%a9%d7%a0/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
