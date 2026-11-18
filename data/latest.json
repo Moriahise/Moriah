@@ -1,8 +1,168 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T03:55:09Z",
+  "generated_at": "2026-11-18T04:17:53Z",
   "timezone": "Asia/Jerusalem",
   "news": [
+    {
+      "id": "fdd3a567cd379c670589",
+      "title": "Sa’ar welcomes 250 US leaders for ‘50 States, One Israel’ initiative",
+      "titles": {
+        "en": "Sa’ar welcomes 250 US leaders for ‘50 States, One Israel’ initiative",
+        "he": "סאאר מברך 250 מנהיגי ארה\"ב על יוזמת \"50 מדינות, אחת ישראל\"."
+      },
+      "source_id": "jpost",
+      "family": "jpost",
+      "section": "israel",
+      "source_language": "en",
+      "url": "https://www.jpost.com/israel-news/article-915257",
+      "published_at": "2026-11-18T04:13:26Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "c96fbbf2e29090e9b104",
+      "title": "\"ואז לאחר המתנה ארוכה, הופיעה מרכבה ובה ילדה בת 3, אלה מקומית\"",
+      "titles": {
+        "he": "\"ואז לאחר המתנה ארוכה, הופיעה מרכבה ובה ילדה בת 3, אלה מקומית\"",
+        "en": "“And then after a long gift, she appeared in a car with a 3-year-old girl, the local one.”"
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/travel/travel-abroad/article/21864450",
+      "published_at": "2026-11-18T04:05:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "6d65f23601ebf701d763",
+      "title": "חקירת גניבת הבחירות קרסה - המשימה הושגה: ישראל הפכה למדינת משטרה חשאית | בן כספית",
+      "titles": {
+        "he": "חקירת גניבת הבחירות קרסה - המשימה הושגה: ישראל הפכה למדינת משטרה חשאית | בן כספית",
+        "en": "The investigation of the theft of the elections collapsed - the task was achieved: Israel became a secret police state."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1389651",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "aa15851486b02d575e8d",
+      "title": "בליכוד לא פוסלים: ממשלת אחדות עם איזנקוט כשנתניהו שני ברוטציה | פרסום ראשון",
+      "titles": {
+        "he": "בליכוד לא פוסלים: ממשלת אחדות עם איזנקוט כשנתניהו שני ברוטציה | פרסום ראשון",
+        "en": "The Likud does not rule out: a unity government with Izko when Netanyahu is second in rotation."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/politics/article-1389627",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "2b9ca3a758a9834cb526",
+      "title": "אביה של היימנוט קסאו תוקף את נתניהו: \"הבטיח לחזור אלינו ומאז לא חזר\"",
+      "titles": {
+        "he": "אביה של היימנוט קסאו תוקף את נתניהו: \"הבטיח לחזור אלינו ומאז לא חזר\"",
+        "en": "Hayomut Kaso’s father attacks Netanyahu: “It has promised to return to us and never again.”"
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/israel/article-1389618",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "50282c5d9fa741f6f3a8",
+      "title": "לא צפוי גשם לאורך היום, מלבד חלק אחד של היום | תחזית מזג האוויר",
+      "titles": {
+        "he": "לא צפוי גשם לאורך היום, מלבד חלק אחד של היום | תחזית מזג האוויר",
+        "en": "It is not expected to rain throughout the day, except for one part of today."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/weather/article-1389613",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "001722f9cceba5575df9",
+      "title": "בא לשחרר את חותנו - ונעצר בגלל טעות של שב\"ס: \"ישבתי בתא עם דמעות\" | בלעדי",
+      "titles": {
+        "he": "בא לשחרר את חותנו - ונעצר בגלל טעות של שב\"ס: \"ישבתי בתא עם דמעות\" | בלעדי",
+        "en": "He came to free his throat, and was arrested for the mistake of B.S.: \"I sat in a cell with tears.\""
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/law/article-1389599",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "46fef77198ceb4b5a609",
+      "title": "מהשבי ומהקרבות למטבח: המקום שבו הפצועים מוצאים כוח",
+      "titles": {
+        "he": "מהשבי ומהקרבות למטבח: המקום שבו הפצועים מוצאים כוח",
+        "en": "From the kitchen and the proximity to the kitchen: where the wounded find power."
+      },
+      "source_id": "maariv",
+      "family": "maariv",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.maariv.co.il/news/opinions/article-1389578",
+      "published_at": "2026-11-18T04:00:43Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
     {
       "id": "668b772255b6717ce31c",
       "title": "התחזית: טפטוף עד גשם מקומי בחוף, בסופ\"ש - הטמפרטורות יעלו",
@@ -16,7 +176,124 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/xtnmk8apt",
       "published_at": "2026-11-18T03:53:06Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "77b6aea26a6cc5abf0c4",
+      "title": "בזמן שוול סטריט רועדת: המדד ששבר 3 שיאים ברצף",
+      "titles": {
+        "he": "בזמן שוול סטריט רועדת: המדד ששבר 3 שיאים ברצף"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563810",
+      "published_at": "2026-11-18T03:53:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {},
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ba1e1d2ca370dc67e488",
+      "title": "רון חולדאי בטור מיוחד: פרויקט הנתיבים המהירים רק מחריף את הפקקים",
+      "titles": {
+        "he": "רון חולדאי בטור מיוחד: פרויקט הנתיבים המהירים רק מחריף את הפקקים",
+        "en": "Ron Sandui in a special column: The fast-moving project only exacerbates the corks."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563806",
+      "published_at": "2026-11-18T03:52:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "81875ce5444f0c362d7f",
+      "title": "האוצר צופה ירידה בגירעון אך חושש מפריצה בתקציב הביטחון",
+      "titles": {
+        "he": "האוצר צופה ירידה בגירעון אך חושש מפריצה בתקציב הביטחון",
+        "en": "The Treasury is looking at a decline in the deficit, but fears a breach of the defense budget."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563828",
+      "published_at": "2026-11-18T03:52:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "74a94b71e1822365eb43",
+      "title": "\"הם רצו שנזרים מיידית 30 מיליון דולר\": כך התפוגגו המגעים בין רמי לוי לארקיע",
+      "titles": {
+        "he": "\"הם רצו שנזרים מיידית 30 מיליון דולר\": כך התפוגגו המגעים בין רמי לוי לארקיע",
+        "en": "“They wanted us to flow immediately 30 million dollars,” said Rami Levy."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563808",
+      "published_at": "2026-11-18T03:51:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "e698b0b0e7dd95e3130b",
+      "title": "​איראן, אוקראינה וברקע פרשת אנבידיה: מנהיגי המעצמות הגדולות בעולם נפגשים בסין",
+      "titles": {
+        "he": "​איראן, אוקראינה וברקע פרשת אנבידיה: מנהיגי המעצמות הגדולות בעולם נפגשים בסין",
+        "en": "Iran, Ukraine and the background of the Anavail affair: The world’s largest powers leaders meet in China."
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563802",
+      "published_at": "2026-11-18T03:51:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "ae5568139af6e3f90cbd",
+      "title": "ה־S&P 500 ניצח לאורך זמן. האם זה מספיק כדי להשקיע רק בארה\"ב?",
+      "titles": {
+        "he": "ה־S&P 500 ניצח לאורך זמן. האם זה מספיק כדי להשקיע רק בארה\"ב?",
+        "en": "The S&P 500 won over time.Is it enough to invest in the United States?"
+      },
+      "source_id": "globes",
+      "family": "globes",
+      "section": "economy",
+      "source_language": "he",
+      "url": "https://www.globes.co.il/news/article.aspx?did=1001563812",
+      "published_at": "2026-11-18T03:48:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -36,7 +313,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563800",
       "published_at": "2026-11-18T03:47:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -56,7 +333,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563836",
       "published_at": "2026-11-18T03:47:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -76,10 +353,50 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697772",
       "published_at": "2026-11-18T03:39:07Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "bf5e7ebc5283aa82b889",
+      "title": "מעולם לא נראתה לציבור: נחשף הסוד בן ה-2,000 שנה",
+      "titles": {
+        "he": "מעולם לא נראתה לציבור: נחשף הסוד בן ה-2,000 שנה",
+        "en": "It has never been seen publicly: the 2,000-year-old secret was revealed."
+      },
+      "source_id": "israelhayom",
+      "family": "israelhayom",
+      "section": "israel",
+      "source_language": "he",
+      "url": "https://www.israelhayom.co.il/tech/tech-news/article/21868801",
+      "published_at": "2026-11-18T03:34:00Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
+      },
+      "provenance": "publisher_feed"
+    },
+    {
+      "id": "abfa5a233f203ee504a9",
+      "title": "רוביו על מזימת \"הפצצה המלוכלכת\" של איראן: אין איום מיידי",
+      "titles": {
+        "he": "רוביו על מזימת \"הפצצה המלוכלכת\" של איראן: אין איום מיידי",
+        "en": "Most of them on Iran’s dirty bomb scene: There is no immediate threat."
+      },
+      "source_id": "arutz7",
+      "family": "arutz7",
+      "section": "security",
+      "source_language": "he",
+      "url": "https://www.inn.co.il/news/711057",
+      "published_at": "2026-11-18T03:30:05Z",
+      "observed_at": "2026-11-18T04:17:53Z",
+      "type": "news",
+      "translation": {
+        "en": "machine"
       },
       "provenance": "publisher_feed"
     },
@@ -96,7 +413,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877646",
       "published_at": "2026-11-18T03:27:03Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -116,7 +433,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/weather/article/21877633",
       "published_at": "2026-11-18T03:17:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -136,7 +453,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697771",
       "published_at": "2026-11-18T03:15:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -156,7 +473,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/health/article/21877621",
       "published_at": "2026-11-18T03:06:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -176,7 +493,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-915255",
       "published_at": "2026-11-18T03:00:51Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -196,7 +513,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/theheadline/article/hqk8eiy70",
       "published_at": "2026-11-18T03:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -216,7 +533,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/welfare/article/21875563",
       "published_at": "2026-11-18T02:53:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -236,7 +553,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697770",
       "published_at": "2026-11-18T02:51:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -256,7 +573,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/hjx7n7qrfx",
       "published_at": "2026-11-18T02:41:53Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -276,7 +593,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711056",
       "published_at": "2026-11-18T02:35:10Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -296,7 +613,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877612",
       "published_at": "2026-11-18T02:28:10Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -316,7 +633,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697769",
       "published_at": "2026-11-18T02:12:35Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -336,7 +653,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/other/article/21877600",
       "published_at": "2026-11-18T02:02:46Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -356,7 +673,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877598",
       "published_at": "2026-11-18T01:56:57Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -376,7 +693,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697768",
       "published_at": "2026-11-18T01:40:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -396,7 +713,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711055",
       "published_at": "2026-11-18T01:40:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -416,7 +733,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697767",
       "published_at": "2026-11-18T01:23:42Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -436,7 +753,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/israel/knesset-elects-speaker-from-the-change-bloc-opposing-netanyahu",
       "published_at": "2026-11-18T01:17:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -456,7 +773,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-915247",
       "published_at": "2026-11-18T01:10:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -476,7 +793,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697766",
       "published_at": "2026-11-18T00:59:04Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -496,7 +813,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877580",
       "published_at": "2026-11-18T00:55:05Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -516,7 +833,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-915245",
       "published_at": "2026-11-18T00:49:07Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -536,7 +853,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1389669",
       "published_at": "2026-11-18T00:44:47Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -556,7 +873,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697765",
       "published_at": "2026-11-18T00:38:28Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -576,7 +893,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915244",
       "published_at": "2026-11-18T00:37:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -596,7 +913,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21877566",
       "published_at": "2026-11-18T00:28:12Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -616,7 +933,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-915243",
       "published_at": "2026-11-18T00:27:30Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -636,7 +953,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915242",
       "published_at": "2026-11-18T00:13:08Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -656,7 +973,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697764",
       "published_at": "2026-11-18T00:07:26Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -676,7 +993,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/politics/article/21877518",
       "published_at": "2026-11-18T00:02:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -696,7 +1013,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/r10u7eq0gl",
       "published_at": "2026-11-17T23:52:19Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -717,7 +1034,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308825",
       "published_at": "2026-11-17T23:41:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -738,7 +1055,7 @@
       "source_language": "en",
       "url": "https://www.israelnationalnews.com/flashes/697763",
       "published_at": "2026-11-17T23:32:34Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -758,7 +1075,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/world/article-1389668",
       "published_at": "2026-11-17T23:32:08Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -778,7 +1095,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/710991",
       "published_at": "2026-11-17T23:31:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -798,7 +1115,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/israel/britain-sanctions-israeli-aid-blocking-group-and-settlement-construction-companies",
       "published_at": "2026-11-17T23:21:03Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -818,7 +1135,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/ry2vrlc0zx",
       "published_at": "2026-11-17T23:14:50Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -838,7 +1155,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/crime/article/21877466",
       "published_at": "2026-11-17T23:09:31Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -858,7 +1175,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711037",
       "published_at": "2026-11-17T22:56:19Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -878,7 +1195,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/r1etgh5azl",
       "published_at": "2026-11-17T22:56:17Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -918,7 +1235,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-915240",
       "published_at": "2026-11-17T22:42:42Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -938,7 +1255,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/sports/article-915239",
       "published_at": "2026-11-17T22:37:35Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -958,7 +1275,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/rj11rig9rzg",
       "published_at": "2026-11-17T22:31:36Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -978,7 +1295,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/rj29vbcrgx",
       "published_at": "2026-11-17T22:28:36Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1019,7 +1336,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308824",
       "published_at": "2026-11-17T22:15:49Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -1040,7 +1357,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/ryyt36kcmx",
       "published_at": "2026-11-17T22:14:30Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1060,7 +1377,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14962034",
       "published_at": "2026-11-17T22:12:54Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1080,7 +1397,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14962041",
       "published_at": "2026-11-17T22:11:27Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1100,7 +1417,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14962542",
       "published_at": "2026-11-17T22:09:33Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1120,7 +1437,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14962375",
       "published_at": "2026-11-17T22:07:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1140,7 +1457,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/ideas/90-years-later-the-reform-movement-continues-to-grapple-with-israel-and-its-meaning",
       "published_at": "2026-11-17T22:03:17Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1160,7 +1477,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14961568",
       "published_at": "2026-11-17T22:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1180,7 +1497,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/news/politics/article/21877179",
       "published_at": "2026-11-17T22:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1200,7 +1517,7 @@
       "source_language": "he",
       "url": "https://www.ynet.co.il/news/article/yokra14961356",
       "published_at": "2026-11-17T22:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1220,7 +1537,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711054",
       "published_at": "2026-11-17T21:59:48Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1240,7 +1557,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/ny/mamdani-nixes-protest-response-squad",
       "published_at": "2026-11-17T21:59:33Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1260,7 +1577,7 @@
       "source_language": "he",
       "url": "https://www.israelhayom.co.il/business/article/21877343",
       "published_at": "2026-11-17T21:49:23Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1280,7 +1597,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711052",
       "published_at": "2026-11-17T21:48:32Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1300,7 +1617,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711053",
       "published_at": "2026-11-17T21:47:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1320,7 +1637,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/ideas/the-jewish-tax-to-preserve-a-jewish-future-lower-the-cost-of-raising-jewish-kids",
       "published_at": "2026-11-17T21:42:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1360,7 +1677,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711050",
       "published_at": "2026-11-17T21:41:12Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1640,7 +1957,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711051",
       "published_at": "2026-11-17T21:26:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1700,7 +2017,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711049",
       "published_at": "2026-11-17T21:23:36Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1720,7 +2037,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563789",
       "published_at": "2026-11-17T21:23:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1741,7 +2058,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308823",
       "published_at": "2026-11-17T21:15:06Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -1762,7 +2079,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/israel/italian-gelato-champion-shrugs-off-anti-israel-backlash-fears-as-chain-expands-in-israel",
       "published_at": "2026-11-17T21:15:03Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1782,7 +2099,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711048",
       "published_at": "2026-11-17T21:12:26Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1843,7 +2160,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308822",
       "published_at": "2026-11-17T21:03:03Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -1864,7 +2181,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563602",
       "published_at": "2026-11-17T21:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -1884,7 +2201,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915232",
       "published_at": "2026-11-17T20:54:21Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -1905,7 +2222,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308821",
       "published_at": "2026-11-17T20:46:18Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -1966,7 +2283,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1389638",
       "published_at": "2026-11-17T20:35:05Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2006,7 +2323,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711047",
       "published_at": "2026-11-17T20:33:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2026,7 +2343,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1389633",
       "published_at": "2026-11-17T20:30:58Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2067,7 +2384,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308820",
       "published_at": "2026-11-17T20:22:22Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2088,7 +2405,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/law/article-1389632",
       "published_at": "2026-11-17T20:21:20Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2108,7 +2425,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711046",
       "published_at": "2026-11-17T20:21:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2149,7 +2466,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308819",
       "published_at": "2026-11-17T20:08:58Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2170,7 +2487,7 @@
       "source_language": "he",
       "url": "https://www.inn.co.il/news/711018",
       "published_at": "2026-11-17T20:05:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2190,7 +2507,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915217",
       "published_at": "2026-11-17T20:00:25Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2210,7 +2527,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-915225",
       "published_at": "2026-11-17T19:50:36Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2251,7 +2568,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308818",
       "published_at": "2026-11-17T19:49:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2292,7 +2609,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563693",
       "published_at": "2026-11-17T19:39:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2352,7 +2669,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1389607",
       "published_at": "2026-11-17T19:21:29Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2392,7 +2709,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/health/article-1389611",
       "published_at": "2026-11-17T19:15:48Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2413,7 +2730,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308817",
       "published_at": "2026-11-17T19:11:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2434,7 +2751,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/politic/1120422",
       "published_at": "2026-11-17T19:05:07Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2454,7 +2771,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/local/1120436",
       "published_at": "2026-11-17T18:59:13Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2494,7 +2811,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563738",
       "published_at": "2026-11-17T18:58:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2514,7 +2831,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1389603",
       "published_at": "2026-11-17T18:53:33Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2534,7 +2851,7 @@
       "source_language": "he",
       "url": "https://www.maariv.co.il/news/politics/article-1389600",
       "published_at": "2026-11-17T18:51:17Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2574,7 +2891,7 @@
       "source_language": "en",
       "url": "https://www.jta.org/2026/11/17/united-states/trump-says-hes-looking-into-reports-about-an-iranian-bomb-plot-in-washington",
       "published_at": "2026-11-17T18:34:44Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2594,7 +2911,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/politic/live-1119958/liveid-1120427",
       "published_at": "2026-11-17T18:28:05Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2655,7 +2972,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308816",
       "published_at": "2026-11-17T18:20:20Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2714,7 +3031,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/308815",
       "published_at": "2026-11-17T18:15:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2796,7 +3113,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/307815",
       "published_at": "2026-11-17T17:39:39Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2817,7 +3134,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-915212",
       "published_at": "2026-11-17T17:32:16Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2837,7 +3154,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/politic/1120133",
       "published_at": "2026-11-17T17:29:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -2918,7 +3235,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/307814",
       "published_at": "2026-11-17T17:15:50Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -2939,7 +3256,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/article-915188",
       "published_at": "2026-11-17T17:12:03Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -2979,7 +3296,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/defense-news/article-915201",
       "published_at": "2026-11-17T17:10:15Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3000,7 +3317,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/307813",
       "published_at": "2026-11-17T17:00:58Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -3021,7 +3338,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563852",
       "published_at": "2026-11-17T17:00:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3041,7 +3358,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/politic/1120401",
       "published_at": "2026-11-17T16:44:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3061,7 +3378,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-915207",
       "published_at": "2026-11-17T16:43:06Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -3082,7 +3399,7 @@
       "source_language": "ru",
       "url": "https://www.9tv.co.il/item/307812",
       "published_at": "2026-11-17T16:42:59Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine",
@@ -3123,7 +3440,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/global/1120394",
       "published_at": "2026-11-17T16:12:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3143,7 +3460,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/defense/live-1119938/liveid-1120387",
       "published_at": "2026-11-17T16:00:43Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3225,7 +3542,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563822",
       "published_at": "2026-11-17T15:34:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3265,7 +3582,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/global/1120368",
       "published_at": "2026-11-17T15:25:16Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3305,7 +3622,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/local/1120360",
       "published_at": "2026-11-17T14:15:54Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3365,7 +3682,7 @@
       "source_language": "he",
       "url": "https://www.globes.co.il/news/article.aspx?did=1001563723",
       "published_at": "2026-11-17T13:51:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3385,7 +3702,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/defense/live-1119938/liveid-1120344",
       "published_at": "2026-11-17T13:27:17Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -3585,7 +3902,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/defense/live-1119938",
       "published_at": "2026-11-17T12:51:53Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -4665,7 +4982,7 @@
       "source_language": "he",
       "url": "https://kan.org.il/content/kan-news/politic/1119979",
       "published_at": "2026-11-17T11:02:32Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "en": "machine"
@@ -5754,7 +6071,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-915041",
       "published_at": "2026-11-17T09:55:53Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6827,7 +7144,7 @@
       "source_language": "en",
       "url": "https://www.jpost.com/israel-news/culture/article-915118",
       "published_at": "2026-11-17T05:49:52Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "news",
       "translation": {
         "he": "machine"
@@ -6933,328 +7250,6 @@
         "he": "machine"
       },
       "provenance": "publisher_feed"
-    },
-    {
-      "id": "5f8e3ecd966cb03d23fb",
-      "title": "World Jewry: Israel is your responsibility too",
-      "titles": {
-        "en": "World Jewry: Israel is your responsibility too",
-        "he": "יהדות העולם: ישראל היא גם האחריות שלך"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/697643",
-      "published_at": "2026-11-17T02:18:51Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "1f36072338897b93a504",
-      "title": "3 ימים אחרי השבתת התעופה: תקלה נוספת שיבשה את הטיסות בארה\"ב",
-      "titles": {
-        "he": "3 ימים אחרי השבתת התעופה: תקלה נוספת שיבשה את הטיסות בארה\"ב",
-        "en": "3 days after the airport is closed: another malfunction that will land flights in the United States."
-      },
-      "source_id": "ynet",
-      "family": "yedioth",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.ynet.co.il/news/article/rkpomeyrze",
-      "published_at": "2026-11-17T02:03:15Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "d66bba04871535bd1161",
-      "title": "Прогулка на 10 минут после еды: ходьба помогает снизить скачки сахара в крови",
-      "titles": {
-        "ru": "Прогулка на 10 минут после еды: ходьба помогает снизить скачки сахара в крови",
-        "en": "Walking 10 minutes after eating: Walking helps reduce blood sugar spikes",
-        "he": "הליכה של 10 דקות לאחר האכילה: הליכה מסייעת להפחית את הספיציפי סוכר בדם"
-      },
-      "source_id": "channel9",
-      "family": "channel9",
-      "section": "israel",
-      "source_language": "ru",
-      "url": "https://www.9tv.co.il/item/301790",
-      "published_at": "2026-11-17T02:00:58Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine",
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "93e38c5d0694970d0d75",
-      "title": "כך ניסו האקרים רוסים לסחוט חצי מיליון דולר מחברה ישראלית",
-      "titles": {
-        "he": "כך ניסו האקרים רוסים לסחוט חצי מיליון דולר מחברה ישראלית",
-        "en": "Russian hackers tried to squeeze half a million dollars from an Israeli company."
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/710957",
-      "published_at": "2026-11-17T01:47:27Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "97929bf6d853a2a1e3a8",
-      "title": "המגעים להקמת הממשלה: החרדים ידרשו מגוש השינוי יותר מנתניהו",
-      "titles": {
-        "he": "המגעים להקמת הממשלה: החרדים ידרשו מגוש השינוי יותר מנתניהו",
-        "en": "The talks to the establishment of the government: the Haredim will demand more than Netanyahu’s bloc of change."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/news/politics/article/21866802",
-      "published_at": "2026-11-17T01:47:00Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "0a27c3b1e86ac178de3e",
-      "title": "חיילים שריססו את \"החומר הכתום\" - נמצאים בסיכון לפרקינסון",
-      "titles": {
-        "he": "חיילים שריססו את \"החומר הכתום\" - נמצאים בסיכון לפרקינסון",
-        "en": "Soldiers who sprayed the “eign material” are at risk for Parkinson"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/health/article/21867323",
-      "published_at": "2026-11-17T01:40:59Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c16ea492b85ca9df2f8c",
-      "title": "Michigan Sen. Elissa Slotkin is having a moment. Are Michigan’s Jews happy about it?",
-      "titles": {
-        "en": "Michigan Sen. Elissa Slotkin is having a moment. Are Michigan’s Jews happy about it?",
-        "he": "למיישיגן סנט אליסה סטרקין יש רגע, האם יהודי מישיגן שמחים על כך?"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/697642",
-      "published_at": "2026-11-17T01:40:19Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "f8d380a9dfa07a9882ef",
-      "title": "MK Yaakov Asher: There will be no split, senior rabbinic leaders will decide",
-      "titles": {
-        "en": "MK Yaakov Asher: There will be no split, senior rabbinic leaders will decide",
-        "he": "ח\"כ יעקב אשר: לא יהיו מחלוקות, מנהיגים רבניים בכירים יחליטו"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/697641",
-      "published_at": "2026-11-17T01:14:44Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "92b148606016a2af2a7b",
-      "title": "IDF on Jericho attack: Terrorists rammed Israeli vehicle, attacked occupants with weapons",
-      "titles": {
-        "en": "IDF on Jericho attack: Terrorists rammed Israeli vehicle, attacked occupants with weapons",
-        "he": "צה\"ל על תקיפת יריחו: טרוריסטים פגעו ברכב הישראלי, תקפו את הדיירים בנשק"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/697640",
-      "published_at": "2026-11-17T01:09:46Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "854f5399c64ae9ce511b",
-      "title": "‘Zio Doctors got butthurt’: Sydney doctor leaves prominent position amid accusations of antisemitism",
-      "titles": {
-        "en": "‘Zio Doctors got butthurt’: Sydney doctor leaves prominent position amid accusations of antisemitism",
-        "he": "\"הרופאים של זיו\"ר: רופא סידני עוזב עמדה בולטת בהאשמות באנטישמיות"
-      },
-      "source_id": "jta",
-      "family": "jta",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.jta.org/2026/11/16/global/zio-doctors-got-butthurt-sydney-doctor-leaves-prominent-position-amid-accusations-of-antisemitism",
-      "published_at": "2026-11-17T01:07:16Z",
-      "observed_at": "2026-11-18T03:55:09Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "56a2d5c41eb6c8f661d0",
-      "title": "שלושה פצועים בפיגוע דריסה באזור יריחו",
-      "titles": {
-        "he": "שלושה פצועים בפיגוע דריסה באזור יריחו",
-        "en": "Three injured in a demolition attack in the area of Jericho"
-      },
-      "source_id": "arutz7",
-      "family": "arutz7",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.inn.co.il/news/710952",
-      "published_at": "2026-11-17T01:06:39Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "bb0d2dbb1407f196bff9",
-      "title": "ואנס הודף את השמועות על קרע עם טראמפ: \"אין בינינו פערים\"",
-      "titles": {
-        "he": "ואנס הודף את השמועות על קרע עם טראמפ: \"אין בינינו פערים\"",
-        "en": "Vans oversaw the rumors of a rift with Trump: “There are no gaps between us.”"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21867873",
-      "published_at": "2026-11-17T01:04:51Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "bad69a91bc3c6e18f6e7",
-      "title": "הרומן האגדי מקבל עיבוד חדש עם כוכב \"משחקי הכס\"",
-      "titles": {
-        "he": "הרומן האגדי מקבל עיבוד חדש עם כוכב \"משחקי הכס\"",
-        "en": "The legendary novel gets new processing with the Star Game of Thrones."
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/culture/tv/article/21863003",
-      "published_at": "2026-11-17T01:00:00Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "697b676654c93aa5a266",
-      "title": "מולאן או רפונזל? התשובה עלולה להפתיע אתכם!",
-      "titles": {
-        "he": "מולאן או רפונזל? התשובה עלולה להפתיע אתכם!",
-        "en": "Mulan or Raponel? the answer may surprise you!"
-      },
-      "source_id": "israelhayom",
-      "family": "israelhayom",
-      "section": "israel",
-      "source_language": "he",
-      "url": "https://www.israelhayom.co.il/maariv-lanoar/test-yourself/article/21867861",
-      "published_at": "2026-11-17T00:55:10Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "en": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "63b9d1f29cc381e64264",
-      "title": "IDF probes Jericho ramming attack that left three Israelis wounded, Palestinian woman dead",
-      "titles": {
-        "en": "IDF probes Jericho ramming attack that left three Israelis wounded, Palestinian woman dead",
-        "he": "צה\"ל חוקר את יריחו על התקפה שהותירה שלושה ישראלים פצועים, אישה פלסטינית מתה."
-      },
-      "source_id": "jpost",
-      "family": "jpost",
-      "section": "security",
-      "source_language": "en",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-915105",
-      "published_at": "2026-11-17T00:51:22Z",
-      "observed_at": "2026-11-17T13:18:54Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
-    },
-    {
-      "id": "c070501b939cc6d1a2b9",
-      "title": "Sonn Har Melech slams opposition bloc over lack of female representation",
-      "titles": {
-        "en": "Sonn Har Melech slams opposition bloc over lack of female representation",
-        "he": "Sonn Har Melech slams האופוזיציה גוש על חוסר ייצוג נשים"
-      },
-      "source_id": "inn-en",
-      "family": "arutz7",
-      "section": "diaspora",
-      "source_language": "en",
-      "url": "https://www.israelnationalnews.com/flashes/697639",
-      "published_at": "2026-11-17T00:48:07Z",
-      "observed_at": "2026-11-17T02:55:11Z",
-      "type": "news",
-      "translation": {
-        "he": "machine"
-      },
-      "provenance": "publisher_feed"
     }
   ],
   "videos": [
@@ -7271,7 +7266,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=39hgLj9pS5M",
       "published_at": "2026-11-18T01:00:46Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -7292,7 +7287,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=pE5Lp9OqUtw",
       "published_at": "2026-11-18T00:08:18Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7313,7 +7308,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=PgVoZrYB5Ew",
       "published_at": "2026-11-18T00:00:41Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -7334,7 +7329,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=xwk3qME8VRo",
       "published_at": "2026-11-17T23:36:04Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7355,7 +7350,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=fpuNkcmKycc",
       "published_at": "2026-11-17T23:00:33Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -7376,7 +7371,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=bikaVnyNvas",
       "published_at": "2026-11-17T22:42:40Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7396,7 +7391,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=5V2xaye8cjQ",
       "published_at": "2026-11-17T22:20:15Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -7415,7 +7410,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=nJqjWnVh__U",
       "published_at": "2026-11-17T22:12:31Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7436,7 +7431,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=Q0SVZB-k8gk",
       "published_at": "2026-11-17T22:00:37Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -7457,7 +7452,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=_uLbhre-LpA",
       "published_at": "2026-11-17T21:57:02Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7477,7 +7472,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=5NXzLwWNJhE",
       "published_at": "2026-11-17T21:55:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -7497,7 +7492,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/shorts/Sjce7c5CjpE",
       "published_at": "2026-11-17T21:14:52Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -7519,7 +7514,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=nJ7zngMOBvk",
       "published_at": "2026-11-17T21:00:47Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "he": "machine"
@@ -7540,7 +7535,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=M5lGngOM29U",
       "published_at": "2026-11-17T21:00:37Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7561,7 +7556,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/NoysgKIrrFg",
       "published_at": "2026-11-17T21:00:20Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7582,7 +7577,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/F3WIZ5EvUq4",
       "published_at": "2026-11-17T20:55:00Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7603,7 +7598,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=7VVZLTTEsJI",
       "published_at": "2026-11-17T20:44:30Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7623,7 +7618,7 @@
       "source_language": "en",
       "url": "https://www.youtube.com/watch?v=T0x2aBWCu4I",
       "published_at": "2026-11-17T20:17:27Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -7643,7 +7638,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=nVziu1LC5ew",
       "published_at": "2026-11-17T20:15:48Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -7665,7 +7660,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=YrvAa_GQisA",
       "published_at": "2026-11-17T20:15:39Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7686,7 +7681,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=LsRbpjxYsko",
       "published_at": "2026-11-17T20:15:31Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7707,7 +7702,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=p7npRnkhOrA",
       "published_at": "2026-11-17T20:15:30Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7728,7 +7723,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=3JxGMZ2OlqY",
       "published_at": "2026-11-17T20:15:23Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7749,7 +7744,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=ujsxOWovSFQ",
       "published_at": "2026-11-17T20:15:23Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7770,7 +7765,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=b9iYxZh-uD4",
       "published_at": "2026-11-17T20:15:20Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7791,7 +7786,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=7oIGMYpDZTY",
       "published_at": "2026-11-17T20:08:44Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7812,7 +7807,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/jmgUcx0GZqw",
       "published_at": "2026-11-17T20:05:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7854,7 +7849,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=YLoD9L1kv_Y",
       "published_at": "2026-11-17T19:50:11Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7875,7 +7870,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=Ft4w70fRWlA",
       "published_at": "2026-11-17T19:44:41Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7896,7 +7891,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=kQzxtWNQQr8",
       "published_at": "2026-11-17T19:44:28Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7917,7 +7912,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=J430pnFB9Kc",
       "published_at": "2026-11-17T19:44:07Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7938,7 +7933,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=bXbbxachXNQ",
       "published_at": "2026-11-17T19:32:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7959,7 +7954,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=VIQb6wzaDcg",
       "published_at": "2026-11-17T19:19:23Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -7980,7 +7975,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=gtAVNIf-IxA",
       "published_at": "2026-11-17T19:12:52Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8022,7 +8017,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=oJBA7e21jdg",
       "published_at": "2026-11-17T19:04:53Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8043,7 +8038,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/rLzUIz8il3k",
       "published_at": "2026-11-17T19:00:31Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8084,7 +8079,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=GnIK7fEVALc",
       "published_at": "2026-11-17T18:00:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -8104,7 +8099,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/EO29j8XW7Gk",
       "published_at": "2026-11-17T17:30:04Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8126,7 +8121,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/hCue0jueVLg",
       "published_at": "2026-11-17T17:27:02Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8147,7 +8142,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/aBZeL1o89Pg",
       "published_at": "2026-11-17T17:26:22Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8168,7 +8163,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/qK8sqk-N7sM",
       "published_at": "2026-11-17T16:10:41Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8189,7 +8184,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/3cPRMCZggO4",
       "published_at": "2026-11-17T15:42:01Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8211,7 +8206,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/EBWZzY8lCms",
       "published_at": "2026-11-17T15:39:50Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8232,7 +8227,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=ob0GTaWhuv8",
       "published_at": "2026-11-17T15:00:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -8251,7 +8246,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=ylAC5gWAB1k",
       "published_at": "2026-11-17T14:27:04Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8272,7 +8267,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/Es7-lpdBkYc",
       "published_at": "2026-11-17T14:16:14Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8293,7 +8288,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=ixAZnF7o1mc",
       "published_at": "2026-11-17T13:00:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8399,7 +8394,7 @@
       "source_language": "ar",
       "url": "https://www.youtube.com/shorts/HGaGZolzq3w",
       "published_at": "2026-11-17T11:47:47Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8442,7 +8437,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=tPHSgRprGBc",
       "published_at": "2026-11-17T10:00:37Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8463,7 +8458,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/0O-_6NZN26k",
       "published_at": "2026-11-17T09:30:37Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8548,7 +8543,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/shorts/eYq9RNnYoP4",
       "published_at": "2026-11-17T00:11:57Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8571,7 +8566,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=QyXJ6zXrbjw",
       "published_at": "2026-11-16T22:47:50Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8615,7 +8610,7 @@
       "source_language": "ru",
       "url": "https://www.youtube.com/watch?v=Sf1VvNkKriI",
       "published_at": "2026-11-16T20:15:09Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine",
@@ -8637,7 +8632,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/z1icJ06dm70",
       "published_at": "2026-11-16T18:15:13Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8658,7 +8653,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/0wZxBNROXmk",
       "published_at": "2026-11-16T18:14:17Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8679,7 +8674,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/shorts/mZphJp3rCc4",
       "published_at": "2026-11-16T16:45:04Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8700,7 +8695,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=VzxVykMABsk",
       "published_at": "2026-11-16T16:00:32Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8721,7 +8716,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=ZeVtfBUzJbw",
       "published_at": "2026-11-16T15:00:23Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {
         "en": "machine"
@@ -8762,7 +8757,7 @@
       "source_language": "he",
       "url": "https://www.youtube.com/watch?v=T1UO67PanUU",
       "published_at": "2026-11-16T13:00:06Z",
-      "observed_at": "2026-11-18T03:55:09Z",
+      "observed_at": "2026-11-18T04:17:53Z",
       "type": "video",
       "translation": {},
       "provenance": "publisher_feed",
@@ -9676,7 +9671,7 @@
     }
   ],
   "learning_calendar": {
-    "fetched_at": "2026-11-18T03:55:09Z",
+    "fetched_at": "2026-11-18T04:17:53Z",
     "items": [
       {
         "title": "Bechorot 61",
@@ -10705,7 +10700,7 @@
   "source_status": [
     {
       "id": "jpost",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 27,
       "error": null,
@@ -10714,18 +10709,18 @@
           "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
           "state": "valid",
           "items": 27,
-          "latest_at": "2026-11-18T03:00:51Z"
+          "latest_at": "2026-11-18T04:13:26Z"
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-      "last_success_at": "2026-11-18T03:55:09Z",
-      "latest_at": "2026-11-18T03:00:51Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
+      "latest_at": "2026-11-18T04:13:26Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jpost-judaism",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -10738,14 +10733,14 @@
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-16T12:20:00Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jpost-culture",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 30,
       "error": null,
@@ -10758,14 +10753,14 @@
         }
       ],
       "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T22:42:42Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "toi",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10780,7 +10775,7 @@
     },
     {
       "id": "zman",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -10795,7 +10790,7 @@
     },
     {
       "id": "ynet",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 30,
       "error": null,
@@ -10808,14 +10803,14 @@
         }
       ],
       "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-18T03:53:06Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "ynetnews",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "stale",
       "items": 30,
       "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
@@ -10824,18 +10819,18 @@
           "url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
           "state": "valid",
           "items": 30,
-          "latest_at": "2026-11-11T08:15:22Z"
+          "latest_at": "2026-11-12T10:38:43Z"
         }
       ],
       "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
       "last_success_at": "2026-11-15T06:23:28Z",
-      "latest_at": "2026-11-11T08:15:22Z",
+      "latest_at": "2026-11-12T10:38:43Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yedioth",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -10843,7 +10838,7 @@
     },
     {
       "id": "maariv",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -10852,18 +10847,18 @@
           "url": "https://www.maariv.co.il/Rss/RssFeedsNews",
           "state": "valid",
           "items": 20,
-          "latest_at": "2026-11-18T00:44:47Z"
+          "latest_at": "2026-11-18T04:00:43Z"
         }
       ],
       "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-      "last_success_at": "2026-11-18T03:55:09Z",
-      "latest_at": "2026-11-18T00:44:47Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
+      "latest_at": "2026-11-18T04:00:43Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "globes",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -10872,18 +10867,18 @@
           "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
           "state": "valid",
           "items": 15,
-          "latest_at": "2026-11-18T03:47:00Z"
+          "latest_at": "2026-11-18T03:53:00Z"
         }
       ],
       "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-      "last_success_at": "2026-11-18T03:55:09Z",
-      "latest_at": "2026-11-18T03:47:00Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
+      "latest_at": "2026-11-18T03:53:00Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "calcalist",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -10922,7 +10917,7 @@
     },
     {
       "id": "themarker",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "ValueError: No dated entries from the last 21 days; ValueError: DTD/entity XML rejected",
@@ -10941,7 +10936,7 @@
     },
     {
       "id": "israelhayom",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 100,
       "error": null,
@@ -10950,18 +10945,18 @@
           "url": "https://www.israelhayom.co.il/rss",
           "state": "valid",
           "items": 100,
-          "latest_at": "2026-11-18T03:27:03Z"
+          "latest_at": "2026-11-18T04:05:00Z"
         }
       ],
       "feed_url": "https://www.israelhayom.co.il/rss",
-      "last_success_at": "2026-11-18T03:55:09Z",
-      "latest_at": "2026-11-18T03:27:03Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
+      "latest_at": "2026-11-18T04:05:00Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "hamodia",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -10980,7 +10975,7 @@
     },
     {
       "id": "yated",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "stale",
       "items": 10,
       "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
@@ -10997,11 +10992,6 @@
           "error": "ValueError: No dated entries from the last 21 days"
         }
       ],
-      "discovery_at": "2026-11-18T03:55:09Z",
-      "discovered_urls": [
-        "https://yated.com/feed/",
-        "https://yated.com/comments/feed/"
-      ],
       "feed_url": "https://yated.com/feed/",
       "last_success_at": "2026-11-14T11:26:10Z",
       "latest_at": "2026-11-11T17:09:44Z",
@@ -11010,7 +11000,7 @@
     },
     {
       "id": "besheva",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11018,7 +11008,7 @@
     },
     {
       "id": "arutz7",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -11027,18 +11017,18 @@
           "url": "https://www.inn.co.il/Rss.aspx?act=.1",
           "state": "valid",
           "items": 20,
-          "latest_at": "2026-11-18T02:35:10Z"
+          "latest_at": "2026-11-18T03:30:05Z"
         }
       ],
       "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-      "last_success_at": "2026-11-18T03:55:09Z",
-      "latest_at": "2026-11-18T02:35:10Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
+      "latest_at": "2026-11-18T03:30:05Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "inn-en",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 10,
       "error": null,
@@ -11051,14 +11041,14 @@
         }
       ],
       "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-18T03:39:07Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "makorrishon",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -11072,7 +11062,7 @@
     },
     {
       "id": "kan",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 25,
       "error": null,
@@ -11085,14 +11075,14 @@
         }
       ],
       "feed_url": "https://www.kan.org.il/api/newsflash/v2/Newsflash",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T19:07:38Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "keshet12",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11100,7 +11090,7 @@
     },
     {
       "id": "reshet13",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11108,7 +11098,7 @@
     },
     {
       "id": "now14",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -11123,7 +11113,7 @@
     },
     {
       "id": "kankids",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11131,7 +11121,7 @@
     },
     {
       "id": "makan",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11139,7 +11129,7 @@
     },
     {
       "id": "knesset-tv",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11147,7 +11137,7 @@
     },
     {
       "id": "i24news",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "directory",
       "items": 0,
       "error": "No publisher-advertised feed found",
@@ -11155,7 +11145,7 @@
     },
     {
       "id": "channel9",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 50,
       "error": null,
@@ -11168,14 +11158,14 @@
         }
       ],
       "feed_url": "https://www.9tv.co.il/rss/mainfeed",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T23:41:40Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "jta",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 20,
       "error": null,
@@ -11188,14 +11178,14 @@
         }
       ],
       "feed_url": "https://www.jta.org/feed",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-18T01:17:40Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-kan11",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11208,14 +11198,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T20:15:39Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-kannews",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11228,14 +11218,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T20:08:44Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-kankids",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11248,14 +11238,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T15:00:14Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-makan33",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11268,14 +11258,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T19:00:31Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-reshet13",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11288,14 +11278,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T17:27:02Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-channel9",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11308,14 +11298,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T21:14:52Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-i24en",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11328,14 +11318,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-18T01:00:46Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-knesset",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11348,14 +11338,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T21:57:02Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-n12",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "unavailable",
       "items": 0,
       "error": "ValueError: No dated entries from the last 21 days",
@@ -11369,7 +11359,7 @@
     },
     {
       "id": "yt-now14",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11382,14 +11372,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T23:36:04Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-knesset-tv",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11402,14 +11392,14 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-18T00:08:18Z",
       "recovered": false,
       "recovery": "primary"
     },
     {
       "id": "yt-i24he",
-      "checked_at": "2026-11-18T03:55:09Z",
+      "checked_at": "2026-11-18T04:17:53Z",
       "state": "ok",
       "items": 15,
       "error": null,
@@ -11422,7 +11412,7 @@
         }
       ],
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-      "last_success_at": "2026-11-18T03:55:09Z",
+      "last_success_at": "2026-11-18T04:17:53Z",
       "latest_at": "2026-11-17T22:20:15Z",
       "recovered": false,
       "recovery": "primary"
@@ -11437,12 +11427,12 @@
         "geonameid": 281184,
         "israel": true
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal Jerusalem November 2026",
-        "date": "2026-11-16T16:17:27.886Z",
+        "date": "2026-11-17T02:38:20.280Z",
         "version": "v1.26.0",
         "location": {
           "title": "Jerusalem, Israel",
@@ -11526,12 +11516,12 @@
         "geonameid": 293397,
         "israel": true
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal Tel Aviv November 2026",
-        "date": "2026-11-16T14:06:20.174Z",
+        "date": "2026-11-16T13:48:52.640Z",
         "version": "v1.26.0",
         "location": {
           "title": "Tel Aviv, Israel",
@@ -11615,12 +11605,12 @@
         "geonameid": 294801,
         "israel": true
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal Haifa November 2026",
-        "date": "2026-11-16T13:48:52.904Z",
+        "date": "2026-11-17T02:55:20.740Z",
         "version": "v1.26.0",
         "location": {
           "title": "Haifa, Israel",
@@ -11704,12 +11694,12 @@
         "geonameid": 2761369,
         "israel": false
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal Vienna November 2026",
-        "date": "2026-11-16T13:48:53.057Z",
+        "date": "2026-11-17T02:38:20.650Z",
         "version": "v1.26.0",
         "location": {
           "title": "Vienna, Austria",
@@ -11793,12 +11783,12 @@
         "geonameid": 2643743,
         "israel": false
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal London November 2026",
-        "date": "2026-11-16T16:17:28.241Z",
+        "date": "2026-11-16T18:29:45.556Z",
         "version": "v1.26.0",
         "location": {
           "title": "London, England, UK",
@@ -11882,12 +11872,12 @@
         "geonameid": 5128581,
         "israel": false
       },
-      "fetched_at": "2026-11-18T03:55:09Z",
+      "fetched_at": "2026-11-18T04:17:53Z",
       "shabbat_date": "2026-11-21",
       "stale": false,
       "data": {
         "title": "Hebcal New York City November 2026",
-        "date": "2026-11-17T02:38:20.883Z",
+        "date": "2026-11-16T16:17:28.322Z",
         "version": "v1.26.0",
         "location": {
           "title": "New York City, New York, USA",
@@ -11971,19 +11961,19 @@
     "videos": 72,
     "active_sources": 23,
     "configured_sources": 41,
-    "translated_news": 357
+    "translated_news": 356
   },
   "collection": {
-    "checked_at": "2026-11-18T03:55:09Z",
+    "checked_at": "2026-11-18T04:17:53Z",
     "state": "ok",
     "fresh_news_36h": 360,
     "working_news_sources": 12,
-    "latest_news_at": "2026-11-18T03:53:06Z",
+    "latest_news_at": "2026-11-18T04:13:26Z",
     "recovered_sources": [],
     "source_status": [
       {
         "id": "jpost",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 27,
         "error": null,
@@ -11992,18 +11982,18 @@
             "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
             "state": "valid",
             "items": 27,
-            "latest_at": "2026-11-18T03:00:51Z"
+            "latest_at": "2026-11-18T04:13:26Z"
           }
         ],
         "feed_url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
-        "last_success_at": "2026-11-18T03:55:09Z",
-        "latest_at": "2026-11-18T03:00:51Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
+        "latest_at": "2026-11-18T04:13:26Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "jpost-judaism",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12016,14 +12006,14 @@
           }
         ],
         "feed_url": "https://www.jpost.com/rss/rssfeedsjudaism",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-16T12:20:00Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "jpost-culture",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 30,
         "error": null,
@@ -12036,14 +12026,14 @@
           }
         ],
         "feed_url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T22:42:42Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "toi",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -12058,7 +12048,7 @@
       },
       {
         "id": "zman",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -12073,7 +12063,7 @@
       },
       {
         "id": "ynet",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 30,
         "error": null,
@@ -12086,14 +12076,14 @@
           }
         ],
         "feed_url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-18T03:53:06Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "ynetnews",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "stale",
         "items": 30,
         "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
@@ -12102,18 +12092,18 @@
             "url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
             "state": "valid",
             "items": 30,
-            "latest_at": "2026-11-11T08:15:22Z"
+            "latest_at": "2026-11-12T10:38:43Z"
           }
         ],
         "feed_url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
         "last_success_at": "2026-11-15T06:23:28Z",
-        "latest_at": "2026-11-11T08:15:22Z",
+        "latest_at": "2026-11-12T10:38:43Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yedioth",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12121,7 +12111,7 @@
       },
       {
         "id": "maariv",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 20,
         "error": null,
@@ -12130,18 +12120,18 @@
             "url": "https://www.maariv.co.il/Rss/RssFeedsNews",
             "state": "valid",
             "items": 20,
-            "latest_at": "2026-11-18T00:44:47Z"
+            "latest_at": "2026-11-18T04:00:43Z"
           }
         ],
         "feed_url": "https://www.maariv.co.il/Rss/RssFeedsNews",
-        "last_success_at": "2026-11-18T03:55:09Z",
-        "latest_at": "2026-11-18T00:44:47Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
+        "latest_at": "2026-11-18T04:00:43Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "globes",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12150,18 +12140,18 @@
             "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
             "state": "valid",
             "items": 15,
-            "latest_at": "2026-11-18T03:47:00Z"
+            "latest_at": "2026-11-18T03:53:00Z"
           }
         ],
         "feed_url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
-        "last_success_at": "2026-11-18T03:55:09Z",
-        "latest_at": "2026-11-18T03:47:00Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
+        "latest_at": "2026-11-18T03:53:00Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "calcalist",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -12200,7 +12190,7 @@
       },
       {
         "id": "themarker",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "ValueError: No dated entries from the last 21 days; ValueError: DTD/entity XML rejected",
@@ -12219,7 +12209,7 @@
       },
       {
         "id": "israelhayom",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 100,
         "error": null,
@@ -12228,18 +12218,18 @@
             "url": "https://www.israelhayom.co.il/rss",
             "state": "valid",
             "items": 100,
-            "latest_at": "2026-11-18T03:27:03Z"
+            "latest_at": "2026-11-18T04:05:00Z"
           }
         ],
         "feed_url": "https://www.israelhayom.co.il/rss",
-        "last_success_at": "2026-11-18T03:55:09Z",
-        "latest_at": "2026-11-18T03:27:03Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
+        "latest_at": "2026-11-18T04:05:00Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "hamodia",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 404: Not Found; HTTPError: HTTP Error 404: Not Found",
@@ -12258,7 +12248,7 @@
       },
       {
         "id": "yated",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "stale",
         "items": 10,
         "error": "Publisher feed is reachable but its entries are old; alternatives were checked.",
@@ -12275,11 +12265,6 @@
             "error": "ValueError: No dated entries from the last 21 days"
           }
         ],
-        "discovery_at": "2026-11-18T03:55:09Z",
-        "discovered_urls": [
-          "https://yated.com/feed/",
-          "https://yated.com/comments/feed/"
-        ],
         "feed_url": "https://yated.com/feed/",
         "last_success_at": "2026-11-14T11:26:10Z",
         "latest_at": "2026-11-11T17:09:44Z",
@@ -12288,7 +12273,7 @@
       },
       {
         "id": "besheva",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12296,7 +12281,7 @@
       },
       {
         "id": "arutz7",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 20,
         "error": null,
@@ -12305,18 +12290,18 @@
             "url": "https://www.inn.co.il/Rss.aspx?act=.1",
             "state": "valid",
             "items": 20,
-            "latest_at": "2026-11-18T02:35:10Z"
+            "latest_at": "2026-11-18T03:30:05Z"
           }
         ],
         "feed_url": "https://www.inn.co.il/Rss.aspx?act=.1",
-        "last_success_at": "2026-11-18T03:55:09Z",
-        "latest_at": "2026-11-18T02:35:10Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
+        "latest_at": "2026-11-18T03:30:05Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "inn-en",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 10,
         "error": null,
@@ -12329,14 +12314,14 @@
           }
         ],
         "feed_url": "https://www.israelnationalnews.com/Rss.aspx",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-18T03:39:07Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "makorrishon",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -12350,7 +12335,7 @@
       },
       {
         "id": "kan",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 25,
         "error": null,
@@ -12363,14 +12348,14 @@
           }
         ],
         "feed_url": "https://www.kan.org.il/api/newsflash/v2/Newsflash",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T19:07:38Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "keshet12",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12378,7 +12363,7 @@
       },
       {
         "id": "reshet13",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12386,7 +12371,7 @@
       },
       {
         "id": "now14",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -12401,7 +12386,7 @@
       },
       {
         "id": "kankids",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12409,7 +12394,7 @@
       },
       {
         "id": "makan",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12417,7 +12402,7 @@
       },
       {
         "id": "knesset-tv",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12425,7 +12410,7 @@
       },
       {
         "id": "i24news",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "directory",
         "items": 0,
         "error": "No publisher-advertised feed found",
@@ -12433,7 +12418,7 @@
       },
       {
         "id": "channel9",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 50,
         "error": null,
@@ -12446,14 +12431,14 @@
           }
         ],
         "feed_url": "https://www.9tv.co.il/rss/mainfeed",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T23:41:40Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "jta",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 20,
         "error": null,
@@ -12466,14 +12451,14 @@
           }
         ],
         "feed_url": "https://www.jta.org/feed",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-18T01:17:40Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-kan11",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12486,14 +12471,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKqFqiCe1dCUxRe0_YNZ6gg",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T20:15:39Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-kannews",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12506,14 +12491,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HwfTAcjBESKZRJq6BTCpg",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T20:08:44Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-kankids",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12526,14 +12511,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_fUfLFo31WTFZPxgr1EcLA",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T15:00:14Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-makan33",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12546,14 +12531,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0_B_wGJuCn9YktQ0mEuHAQ",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T19:00:31Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-reshet13",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12566,14 +12551,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyYs3ZtsGMmt3L5eaywsXA",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T17:27:02Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-channel9",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12586,14 +12571,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixtbfonx_QIjS1DB96zcFg",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T21:14:52Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-i24en",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12606,14 +12591,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHDpsWKADrDia0c99X37vg",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-18T01:00:46Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-knesset",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12626,14 +12611,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4elaDPpw25TipG2U33paLA",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T21:57:02Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-n12",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "unavailable",
         "items": 0,
         "error": "ValueError: No dated entries from the last 21 days",
@@ -12647,7 +12632,7 @@
       },
       {
         "id": "yt-now14",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12660,14 +12645,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEImtWikw9usC1pl_9m1nQ",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T23:36:04Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-knesset-tv",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12680,14 +12665,14 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpjNXONNE-JUz7QACB1Cgcw",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-18T00:08:18Z",
         "recovered": false,
         "recovery": "primary"
       },
       {
         "id": "yt-i24he",
-        "checked_at": "2026-11-18T03:55:09Z",
+        "checked_at": "2026-11-18T04:17:53Z",
         "state": "ok",
         "items": 15,
         "error": null,
@@ -12700,7 +12685,7 @@
           }
         ],
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisowXt5wZkp2sR3rFh9lnQ",
-        "last_success_at": "2026-11-18T03:55:09Z",
+        "last_success_at": "2026-11-18T04:17:53Z",
         "latest_at": "2026-11-17T22:20:15Z",
         "recovered": false,
         "recovery": "primary"
