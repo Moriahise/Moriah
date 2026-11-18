@@ -78,6 +78,23 @@ POLICIES='''<h1>Sources, privacy & editorial policy<br>מקורות, פרטיו�
 <h2>Editions & corrections / גיליונות ותיקונים</h2><p>The news desk is refreshed approximately every four hours. Weekly issues are frozen snapshots, normally published after 18:00 Asia/Jerusalem on Wednesday. GitHub schedules may be delayed. An archived issue is not today’s news. Corrections must preserve the original issue and publish a documented revision. <a href="https://github.com/Moriahise/Moriah/issues/new">Report a correction or a rights concern here.</a> Do not post private personal information in a public issue.</p><p dir="rtl" lang="he">הדסק מתעדכן בקירוב בכל ארבע שעות. גיליון שבועי הוא תמונת מצב שמורה, המופקת בדרך כלל ביום רביעי אחרי 18:00 לפי שעון ירושלים. תזמוני GitHub עשויים להתעכב. גיליון מהארכיון אינו חדשות היום. תיקון מהותי דורש גרסה מתועדת תוך שמירת הגיליון הקודם. פניות תיקון וזכויות מתקבלות בקישור לעיל; אין לפרסם בו מידע אישי פרטי.</p>
 <h2>Credits / קרדיטים</h2><p>Original publisher and programme rights remain with their owners. Translation models: Argos Open Tech, OPUS/OPUS-MT and their contributors; <a href="https://github.com/argosopentech/argospm-index">model catalogue</a>. Inference: <a href="https://opennmt.net/CTranslate2/">CTranslate2</a>. Each model’s supplied README/metadata accompanies the cached installation; software and model licences are distinct. Illustrations: original MORIAH vector artwork. No endorsement by a named institution is implied.</p>'''
 
+def chavruta_tip(calendar):
+    """An optional companion to the current Jerusalem reading or festival."""
+    if not calendar or calendar.get('stale'):
+        return ''
+    items = calendar.get('data', {}).get('items', [])
+    if any(x.get('category') == 'holiday' and 'chanukah' in x.get('title', '').lower() for x in items):
+        slug, title_en, title_he = 'chanukah', 'Chanukah: what are the two schools counting?', 'חנוכה: מה מונים בית שמאי ובית הלל?'
+    elif any(x.get('category') == 'parashat' and x.get('hebrew') == 'פרשת ויצא' for x in items):
+        slug, title_en, title_he = 'bet-el', 'Vayetzei: what does Jacob notice at Bethel?', 'ויצא: מה מגלה יעקב בבית אל?'
+    else:
+        return ''
+    campaign = '?utm_source=moriah&amp;utm_medium=editorial&amp;utm_campaign=' + slug
+    return (f'<p class="small"><a lang="en" hreflang="en" href="https://shekhina.org/learn/en/{slug}/{campaign}">'
+            f'{title_en} · Chavruta sheet</a> · <a lang="he" dir="rtl" hreflang="he" '
+            f'href="https://shekhina.org/learn/he/{slug}/{campaign}">{title_he} · דף לחברותא</a></p>')
+
+
 def build(out,pdfs):
     data=load(ROOT/'data/latest.json');validate(data)
     if out.exists():shutil.rmtree(out)
@@ -85,6 +102,10 @@ def build(out,pdfs):
     shutil.copytree(ROOT/'assets',out/'assets')
     shutil.copytree(ROOT/'data',out/'data',ignore=shutil.ignore_patterns('translations.json','run-report.md'))
     index=(ROOT/'web/index.html').read_text()
+    study_line = '<div class="study-line">'
+    tip = chavruta_tip(data.get('calendars', {}).get('jerusalem'))
+    if tip:
+        index = index.replace(study_line, tip + study_line, 1)
     fallback='<ul>'+''.join(f'<li><a href="{esc(x["url"])}">{esc(x["title"])}</a></li>' for x in data['news'][:10])+'</ul>'
     index=index.replace('__NOSCRIPT__',fallback).replace('assets/app.js','assets/app.js?v='+asset_version('app.js')).replace('assets/integrations.js','assets/integrations.js?v='+asset_version('integrations.js')).replace('assets/style.css','assets/style.css?v='+asset_version('style.css'))
     (out/'index.html').write_text(index)
