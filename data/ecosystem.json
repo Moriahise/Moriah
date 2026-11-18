@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-18T07:22:59Z",
+  "checked_at": "2026-11-18T17:14:13Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-18T07:22:59Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-18T07:22:59Z"
+      "checked_at": "2026-11-18T17:14:13Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-18T07:22:59Z"
+      "checked_at": "2026-11-18T17:14:13Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-18T17:14:13Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-18T07:22:59Z"
+      "checked_at": "2026-11-18T17:14:13Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-18T07:22:59Z"
+      "checked_at": "2026-11-18T17:14:13Z"
     }
   },
   "music": [
@@ -38286,386 +38286,386 @@
     ]
   },
   "qa": {
-    "release": "v1-731310eaa1fd5f0bf3015801",
-    "total": 71000,
+    "release": "v1-f07512051e8c8ac94c188d88",
+    "total": 71003,
     "cards": [
       {
-        "id": "ye-36927",
-        "title": "Eved Knani versus a Woman",
+        "id": "ye-40966",
+        "title": "How are nazir and sota connected?",
         "titles": {
-          "en": "Eved Knani versus a Woman",
+          "en": "How are nazir and sota connected?",
           "he": ""
         },
         "language": "en",
-        "question": "In terms of obligation in mitzvos, what is the difference between an Eved Knani and a woman? And if they are the same, why do we have two separate brachos for each in the morning prayers?",
-        "answer": "The שלמי חגיגה in 6:(4) (starting on page 30 ) has 2 long pieces discussing this – and from what I understand, women and Eved Knani are incidentally similar in their obligations. (Not completely incidental, as their dispensations have the same source",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-36927",
-        "source_url": "https://judaism.stackexchange.com/questions/36927/eved-knani-versus-a-woman",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-20368",
-        "title": "Death of two of Aharon's sons",
-        "titles": {
-          "en": "Death of two of Aharon's sons",
-          "he": ""
-        },
-        "language": "en",
-        "question": "On Yom Kippur we read Parshas Acharei Mos, which discusses the death of two of Aharon's sons. Medrash Vayikra Rabba 20:6 says that they died as they were drunk on wine (Shetuyei Yayin). How were they ",
-        "answer": "Mechilta Parshas Yisro 18:9 says that in the well of Miriam you were able to taste honey, milk, new wine, old wine. ר׳ אלעזר המודעי אומר בטובת הבאר הגיד לו אמר לו באר שנתן לנו המקום אנו טועמין בה טעם דבש טעם חלב טעם יין חדש טעם יין ישן Perhaps this w",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-20368",
-        "source_url": "https://judaism.stackexchange.com/questions/20368/death-of-two-of-aharons-sons",
-        "author": "Gershon Gold",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-5531",
-        "title": "what are you allowed to lie about?",
-        "titles": {
-          "en": "what are you allowed to lie about?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "we learn from sarah that in a situation where you can get a person very angry (which is equated to idolatry) it is OK to lie to them. in what other situations is it OK to lie to a person?",
-        "answer": "When there is a serious risk of causing bad relations between people if the lie is not told. See K'subos 17 . This is learned from the acceptability of praising an apparently unpraiseworthy bride on her wedding day. I have vastly oversimplified the i",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-5531",
-        "source_url": "https://judaism.stackexchange.com/questions/5531/what-are-you-allowed-to-lie-about",
-        "author": "WAF",
-        "author_url": null,
-        "license": "CC BY-SA 2.5",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-143356",
-        "title": "Buridan's Ass Paradox in Judaism",
-        "titles": {
-          "en": "Buridan's Ass Paradox in Judaism",
-          "he": ""
-        },
-        "language": "en",
-        "question": "According to Wikipedia , this paradox is described as: It refers to a hypothetical situation wherein an ass (donkey) that is equally hungry and thirsty is placed precisely midway between a stack of ha",
-        "answer": "Given a choice between two mitzvot, which one should you do? There are scattered guidelines. For example: -Do first the one that recurs more frequently: תָּדִיר וְשֶׁאֵינוֹ תָּדִיר — תָּדִיר קוֹדֵם -- Tadir veshe'eno tadir, tadir kodem . [Berakhot 27",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-143356",
-        "source_url": "https://judaism.stackexchange.com/questions/143356/buridans-ass-paradox-in-judaism",
-        "author": "Maurice Mizrahi",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-127618",
-        "title": "Why no issur hana'a on leather from non-kosher animals?",
-        "titles": {
-          "en": "Why no issur hana'a on leather from non-kosher animals?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In the second perek of Maseches Pesachim, there's a sugya dealing with a machlokes between Rabbi Abahu and Chizkiya regarding whether there is an issur hana'a in addition to issur achila regarding all",
-        "answer": "I found a couple answers: The רשב\"א in שאלות ותשובות 3:223 points out that the Gemora's answer on 23A for שרצים applies to animals/birds as well. See https://www.hebrewbooks.org/pdfpager.aspx?req=1378&st=&pgnum=145 The Pnei Yehoshua to Pesachim 23A s",
+        "question": "The gemara Nazir 2a quotes a baraisa saying that כל הרואה סוטה בקלקולה יזיר עצמו מן היין Anyone who sees a sota in her disgrace ( would / should ) swear off wine. The word יזיר, as I understand it cou",
+        "answer": "Tol'dos Yitzchak (by Rabbi Yitzchak Karo, uncle of the Bes Yosef ) has two explanations : \"to tell you whoever sees a sota in her detriment…\": its explanation is as a way of a command: he's obliged to swear off of wine, in his seeing her death due to",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-127618",
-        "source_url": "https://judaism.stackexchange.com/questions/127618/why-no-issur-hanaa-on-leather-from-non-kosher-animals",
-        "author": "torahmike",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-40966",
+        "source_url": "https://judaism.stackexchange.com/questions/40966/how-are-nazir-and-sota-connected",
+        "author": "msh210",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-106557",
-        "title": "translate inscription on pendant",
+        "id": "ye-25954",
+        "title": "Bitcoin and Halakha",
         "titles": {
-          "en": "translate inscription on pendant",
+          "en": "Bitcoin and Halakha",
           "he": ""
         },
         "language": "en",
-        "question": "Can somebody help me translate the inscription on this pendant? I had it for many years but I never found out. I tried to translate myself but, well... you can imagine... I guess it must be a quote fr",
-        "answer": "It is the letters of the Hebrew alphabet (Aleph-bais) in order, but the letter samech (the fifteenth) is damaged, and the gimel (the third letter) looks like a nun, and the heh (fifth letter) looks like a hes. The first letter, Aleph, is near one of ",
+        "question": "What are the halakhot that apply to bitcoin ? Is it halakhickly money? What even is the halakhic definition of money? Can bitcoin transactions be made over shabbat? That sort of thing.",
+        "answer": "http://www.ou.org/torah/tt/5763/korach63/specialfeatures_mitzvot.htm Jewish law distinguishes three categories of value: goods, which have inherent value; a note, which is a promise of value from a particular individual; and money, which is abstract ",
+        "answer_count": 4,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-25954",
+        "source_url": "https://judaism.stackexchange.com/questions/25954/bitcoin-and-halakha",
+        "author": "Ariel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-8799",
+        "title": "Question about the actions of Pinchas when he killed Zimri",
+        "titles": {
+          "en": "Question about the actions of Pinchas when he killed Zimri",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Gemara ( Sanhedrin 82A ), while relating the story of Pinchas killing Zimri, tells us the following: \" And Phineas, the son of Eleazar, the son of Aaron the priest, saw it. \" (Bamidbar 25:7) Now, ",
+        "answer": "The Chidushei HaRan in Sanhedrin gives two answers (I hope I'm translating correctly): Pinchas wasn't asking what the law was, and Moshe wasn't answering him. Moshe said \"let he who read the letter be the agent\". He was saying that I'm not telling yo",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-8799",
+        "source_url": "https://judaism.stackexchange.com/questions/8799/question-about-the-actions-of-pinchas-when-he-killed-zimri",
+        "author": "Menachem",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-150493",
+        "title": "Bilaam's limitations",
+        "titles": {
+          "en": "Bilaam's limitations",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What is the source of Hashem telling Bilaam that he won't succeed, and Bilaam, too proud, withholds this information to Balak's envoys, only saying that Hashem told him not to go?",
+        "answer": "This is stated by Rashi on Bamidbar 22:13 based on Midrash Tanchuma, Balak 6 : \"\"...to go with you\", but only with princes greater than you. This tells us that he was of a proud nature and he did not wish to divulge that he was under the control of t",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-150493",
+        "source_url": "https://judaism.stackexchange.com/questions/150493/bilaams-limitations",
+        "author": "Harel13",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-130921",
+        "title": "Forgiveness after repentance?",
+        "titles": {
+          "en": "Forgiveness after repentance?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "There are many teachings that a sincere repentance will bring forgiveness. One example: Shim'on bar Yohai said: If a person was perfectly just all his days and at the end he rebelled, he lost all he w",
+        "answer": "Rabbeinu Yonah in Perek 4 discusses this, and explains that although Teshuva removed the bulk of the sin, there’s still a residue that must be removed with condiments. Here are some excerpts 4:1 - כן יש נפש חולה מעוון רב, ואף על פי שנרפא רוב החולי וס",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-130921",
+        "source_url": "https://judaism.stackexchange.com/questions/130921/forgiveness-after-repentance",
+        "author": "Chatzkel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-110877",
+        "title": "Jewish theological position concerning Zionism and the State of Israel",
+        "titles": {
+          "en": "Jewish theological position concerning Zionism and the State of Israel",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Several orthodox groups, most notably Neturei Karta and Satmar, are opposed to the State of Israel on religious grounds. According to them, since the messiah has not yet arrived, the Jewish people hav",
+        "answer": "To explain the lenient theological explanation, it is first important to understand what the basis of the opposition towards the state of Israel is. In extremely short: The medrash on shir hashirim cites 3 oaths that were made, 2 by the jewish people",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-110877",
+        "source_url": "https://judaism.stackexchange.com/questions/110877/jewish-theological-position-concerning-zionism-and-the-state-of-israel",
+        "author": "nosh",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-93650",
+        "title": "Source for Tashlumin On Pesach?",
+        "titles": {
+          "en": "Source for Tashlumin On Pesach?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Gemara in Chagigah 9a (according to Rashi and Steinsaltz) derives by Gezeira Shavah from Pesach that you can bring tashlumin for the first day of Sukkot the whole holiday. In Chagigah 17a and Rosh",
+        "answer": "I think you misunderstand the Gemara on 9a. We’re not learning Sukkos from Pesach, but rather Pesach from Sukkos. The translation that follows is how I understood the Gemara. נאמר עצרת בשביעי של פסח ונאמר עצרת בשמיני של חג מה להלן לתשלומין אף כאן לתש",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-93650",
+        "source_url": "https://judaism.stackexchange.com/questions/93650/source-for-tashlumin-on-pesach",
+        "author": "DonielF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-78154",
+        "title": "Why is the word \"commanded\"' in the bracha for bris and tevilah for conversion?",
+        "titles": {
+          "en": "Why is the word \"commanded\"' in the bracha for bris and tevilah for conversion?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The bracha on bris mila for conversion uses the phrase, \"commanded us to\". But we are not commanded to convert anyone who asks. So why does the bracha use that phrase? The bracha for bris appears on p",
+        "answer": "I will try to give you some elements of answer. For the beracha lamul et hagerim (to circumcise converts) . There are several opinions concerning the beracha before and after the Mila. The Beracha before the Mia: Two girsaot in Gemara. Acccording to ",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-106557",
-        "source_url": "https://judaism.stackexchange.com/questions/106557/translate-inscription-on-pendant",
-        "author": "Mordechai",
+        "url": "https://shekhina.org/qa.html?id=ye-78154",
+        "source_url": "https://judaism.stackexchange.com/questions/78154/why-is-the-word-commanded-in-the-bracha-for-bris-and-tevilah-for-conversion",
+        "author": "kouty",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-90215",
-        "title": "Can a robot count in a minyan?",
+        "id": "ye-60641",
+        "title": "Halachic permissibility of playing cards (i.e., poker) for money",
         "titles": {
-          "en": "Can a robot count in a minyan?",
+          "en": "Halachic permissibility of playing cards (i.e., poker) for money",
           "he": ""
         },
         "language": "en",
-        "question": "Can a robot count in a minyan? This answer brings that a robot is not Mechuyav in Mitzvot. I'd like to know if there are sources stating any other reasons (if any).",
-        "answer": "R. Tzvi Hirsch Ashkenazi has a responsum (Shu\"t Chacham Tzvi siman 93) about whether a being created using the Sefer Yetzira can count for a minyan, and his conclusion is that it cannot. אלא ודאי שאינו מצטרף לעשרה לכל דבר שבקדושה כך נ\"ל Similarly, R.",
+        "question": "Are there any important halachic issues related to gambling--specifically, on card games? (I'm thinking Texas Hold 'Em, but kvitlach also comes to mind.) Obviously it can't be done on Shabbos or Yom T",
+        "answer": "If it is being played for money there is an issue of stealing. The source for gambling in general is found in the Mishna in Sanhedrin (24b-25a) See this site: The Halachic Prohibitions Involved in Gambling The Mishnah in two separate places addresses",
         "answer_count": 3,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-90215",
-        "source_url": "https://judaism.stackexchange.com/questions/90215/can-a-robot-count-in-a-minyan",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-60641",
+        "source_url": "https://judaism.stackexchange.com/questions/60641/halachic-permissibility-of-playing-cards-i-e-poker-for-money",
+        "author": "Shoel U'Meishiv",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-73986",
-        "title": "Why is death like release ropes of a boat?",
-        "titles": {
-          "en": "Why is death like release ropes of a boat?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The gemarah in moed katan (28b-29a) records two statements regarding the experience of death either being as difficult as passing a (knotted?) rope through a hole [Rashi explains this refers to ropes ",
-        "answer": "(How do you know this is not experientially true?) Rabbi Mordechai Miller explained the greater the attachment the neshama has to the guf and its lusts, the more painful it is when it is seperated. He gave an analogy of pulling a dressing from a woun",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-73986",
-        "source_url": "https://judaism.stackexchange.com/questions/73986/why-is-death-like-release-ropes-of-a-boat",
-        "author": "pcoz",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-56938",
-        "title": "Halakhoth for Baking Matzah",
-        "titles": {
-          "en": "Halakhoth for Baking Matzah",
-          "he": ""
-        },
-        "language": "en",
-        "question": "i've read conflicting things about baking ones own Matzah. So apparently it can only be baked in a \"professional oven that can be heated to over 600 degrees,\" which doesn't make sense to me since befo",
-        "answer": "Don't use normal flour. It can be bleached and enriched, which means it might already be chametz. Long ago people had wood-fired ovens. If you knew what you were doing with a good wood-fired oven, you could easily get a temperature of 600 degrees Far",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-56938",
-        "source_url": "https://judaism.stackexchange.com/questions/56938/halakhoth-for-baking-matzah",
-        "author": "Shalom",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "ye-202504099790035",
-        "title": "האם עשיית שיעורי בית על מחשב נחשבת מלאכה בחוה\"מ",
+        "id": "ye-2017100312089064",
+        "title": "פח אשפה בסוכה",
         "titles": {
           "en": "",
-          "he": "האם עשיית שיעורי בית על מחשב נחשבת מלאכה בחוה\"מ"
+          "he": "פח אשפה בסוכה"
         },
         "language": "he",
-        "question": "האם בחוה\"מ מותר לעשות שיעורי בית שהם על המחשב כגון שרטוטים של בתים וכו בלימודי אדריכלות? אסור לשרטט בשבת במחשב, זה נחשב מעשה אומן, ובכלל העיסוק במלאכת חול מותרת רק בדבר האבד. ברכה והצלחה",
+        "question": "האם מותר לשים פח אשפה בסוכה? אשמח למקור תודה רבה שלום רב, כתב בשו\"ע סי' תרלט סעי' א': \"אבל כלי אכילה לאחר האכילה, כגון קדירות וקערות, חוץ לסוכה…ואל יעשה שום תשמיש בזוי בסוכה, כדי שלא יהיו מצות בזויות ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "history",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-2017100312089064",
+        "source_url": "https://din.org.il/2017/10/03/%d7%a4%d7%97-%d7%90%d7%a4%d7%a9%d7%94-%d7%91%d7%a1%d7%95%d7%9b%d7%94/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "up-din-2012091415372310",
+        "title": "מעיכת תפוחי אדמה וקילוף ירקות בקולפן ביום טוב",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר לאשכנזי למעוך תפוחי אדמה ב\"מועך\" ביו\"ט והאם מותר לו לקלף תפוחי אדמה במקלף [קולפן] ביו\"ט",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-202504099790035",
-        "source_url": "https://din.org.il/2025/04/09/%d7%94%d7%90%d7%9d-%d7%a2%d7%a9%d7%99%d7%99%d7%aa-%d7%a9%d7%99%d7%a2%d7%95%d7%a8%d7%99-%d7%91%d7%99%d7%aa-%d7%a2%d7%9c-%d7%9e%d7%97%d7%a9%d7%91-%d7%a0%d7%97%d7%a9%d7%91%d7%aa-%d7%9e%d7%9c%d7%90%d7%9b/",
-        "author": "רבני בית הוראה",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-2012091415372310",
+        "source_url": "https://din.org.il/2012/09/14/%d7%9e%d7%a2%d7%99%d7%9b%d7%aa-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%95%d7%a7%d7%99%d7%9c%d7%95%d7%a3-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%91%d7%a7%d7%95%d7%9c%d7%a4%d7%9f-%d7%91/",
+        "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-2024061411948634",
-        "title": "מדידת תבלין ביום טוב",
+        "id": "yeshiva-145710",
+        "title": "השיטות בענין פתיל תכלת – דעת התוספות",
         "titles": {
           "en": "",
-          "he": "מדידת תבלין ביום טוב"
+          "he": ""
         },
         "language": "he",
-        "question": "שלום לרבנים למה בפסח הרב עובדיה מתיר למדוד כזית מצה ואילו ביום טוב אוסר למדוד למשל קמח לסעודת החג שגם זה מצוה? תודה רבה כאשר המדידה אכן נצרכת מאוד למאכל מותר למדוד כמבואר בשו\"ע סי' תקד סעי' ד ומשנה בר",
+        "question": "שלום וברכה! אני רואה אנשים הולכים עם פתיל תכלת והתחלתי לחקור את הנושא וראיתי במאמרים רבים אודות שיטת הרמב\"ם והראב\"ד ופחות על שיטת התוספות. האם נכון לפסוק כתוספות? מי מרבני זמננו מסתמך עליו? ונוהג לפיו",
         "answer": "",
         "answer_count": 1,
-        "provider": "din",
+        "provider": "yeshiva",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=yeshiva-145710",
+        "source_url": "https://www.yeshiva.org.il/ask/145710",
+        "author": "הרב שמואל אריאל",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "ye-93923",
+        "title": "Are Beis Shammai and Beis Hillel really arguing about the minimum size of a succah or whether it qualifies as a דירת קבע or דירת עראי?",
+        "titles": {
+          "en": "",
+          "he": "Are Beis Shammai and Beis Hillel really arguing about the minimum size of a succah or whether it qualifies as a דירת קבע or דירת עראי?"
+        },
+        "language": "he",
+        "question": "What are Beis Shammai and Beis Hillel really arguing about in Succah Daf 3a when the Mishna states: מי שהיה ראשו ורובו בסוכה ושולחנו בתוך הבית ב\"ש פוסלין ובית הלל מכשירין ?",
+        "answer": "What is the source of the dispute between Beis Shammai and Beis Hillel regarding the minimum size of a sukkah? Mishna 28b states: כל שבעת הימים אדם עושה סוכתו קבע וביתו עראי. The Rabbis further taught the Baraisa on 28b that states: ת”ר כל שבעת הימים",
+        "answer_count": 1,
+        "provider": "miyodeya",
         "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2024061411948634",
-        "source_url": "https://din.org.il/2024/06/14/%d7%9e%d7%93%d7%99%d7%93%d7%aa-%d7%aa%d7%91%d7%9c%d7%99%d7%9f-%d7%91%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-93923",
+        "source_url": "https://judaism.stackexchange.com/questions/93923/are-beis-shammai-and-beis-hillel-really-arguing-about-the-minimum-size-of-a-succ",
+        "author": "613JLM",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "din-url-6770b28f4981a81c67f5d44a",
+        "title": "ילדים – לנגן בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב,הבת שלי בת 8.האם מותר לה לנגן בגיטרה בשבת?בנוסף, האם מותר להשתמש במשחק לוח מחיק שלא באמת כותבים על הלוח (זה עט פלא) כזה אבל זה מדמה פעולת כתיבה בשבת?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-6770b28f4981a81c67f5d44a",
+        "source_url": "https://din.org.il/2022/01/16/%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a0%d7%92%d7%9f-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-145402",
-        "title": "ניסיונות בצבא - איך להתכונן?",
+        "id": "up-din-424970",
+        "title": "לדוד א' באורי בראש חודש אלול",
         "titles": {
           "en": "",
-          "he": "ניסיונות בצבא - איך להתכונן?"
+          "he": ""
         },
         "language": "he",
-        "question": "שלום וברכה, אני בן 18 בתהליך חזרה בתשובה ואמור להתגייס לקרבי בעוד כמה חודשים. לצערי הרב, פספסתי את המועד ואני לא יכול להתגייס דרך ישיבת הסדר או מכינה וכדומה, מה שאומר שאני אמור להתגייס באופן רגיל. אני",
+        "question": "שלום רב,מתי מתחילים להגיד את מזמור \"לדוד ה' אורי וישעי\" אחרי התפילה?האם ב ל' באב שהוא א' ראש חודש אלול או ביום א' אלול ?אני אשכנזי לצורך השאלה. תודה רבה וחודש טוב.",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-424970",
+        "source_url": "https://din.org.il/2023/08/16/%d7%9c%d7%93%d7%95%d7%93-%d7%90-%d7%91%d7%90%d7%95%d7%a8%d7%99-%d7%91%d7%a8%d7%90%d7%a9-%d7%97%d7%95%d7%93%d7%a9-%d7%90%d7%9c%d7%95%d7%9c/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "up-din-13010",
+        "title": "תספורת וסידור הזקן בספירת העומר לצורך ראיון עבודה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אני עומד לסיים משרה בשבוע הקרוב, האם מותר לי להסתפר ולסדר את זקני בספירת העומר לצורך ראיון עבודה? כי במצבי הנוכחי אני נראה פרוע מאוד ואם אסתפר ואסדר את זקני אראה כאדם מסודר יותר ויגברו סיכויי להתקבל ל",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-13010",
+        "source_url": "https://din.org.il/2011/05/16/%d7%aa%d7%a1%d7%a4%d7%95%d7%a8%d7%aa-%d7%95%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%96%d7%a7%d7%9f-%d7%91%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8-%d7%9c%d7%a6%d7%95%d7%a8%d7%9a/",
+        "author": "רבני בית ההוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
+      },
+      {
+        "id": "yeshiva-137433",
+        "title": "אכילת קטניות היום יום יד' ניסן לאשכנזים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר לאכול קטניות לאשכנזים לאחר זמן ביעור חמץ עד הערב?",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-145402",
-        "source_url": "https://www.yeshiva.org.il/ask/145402",
-        "author": "הרב יהושע שפירא",
+        "url": "https://shekhina.org/qa.html?id=yeshiva-137433",
+        "source_url": "https://www.yeshiva.org.il/ask/137433",
+        "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       },
       {
-        "id": "ye-68365",
-        "title": "Are Cherubim (כרובים) on top of the ark exception or contradiction?",
-        "titles": {
-          "en": "",
-          "he": "Are Cherubim (כרובים) on top of the ark exception or contradiction?"
-        },
-        "language": "he",
-        "question": "Jews are forbidden to create any graven images of anything in the heavens yet Hashem commanded the ark be adorned with cherubim. Is this an exception or a contradiction?",
-        "answer": "It's a clear exception. I heard Rabbi Benjamin Blech suggest that Judaism values education so highly that God made an exception to allow that imagery -- note that the Cherubim had the faces of a young boy and girl. Anything other than this exception,",
-        "answer_count": 11,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-68365",
-        "source_url": "https://judaism.stackexchange.com/questions/68365/are-cherubim-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%9d-on-top-of-the-ark-exception-or-contradiction",
-        "author": "Shalom",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "din-url-4c0d32ca2914e22bef33ea7a",
-        "title": "משחקי קופסא בשבת",
+        "id": "up-din-201404067939796",
+        "title": "מזון כשר לפסח לכלבים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום אשמח בבקשה לדעת, אני רוצה לשחק משחקי קופסא עם אימי בשבת , היא אינה שומרת תורה ומצוות, לכן אני רוצה לברר שלא להכשיל אותה בדברים שאנשים דתיים רגילים להימנע מהם בשבת .כמו כן אשמח לברר לגבי האפשרות ל",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=din-url-4c0d32ca2914e22bef33ea7a",
-        "source_url": "https://din.org.il/2021/04/13/%d7%9e%d7%a9%d7%97%d7%a7%d7%99-%d7%a7%d7%95%d7%a4%d7%a1%d7%90-%d7%91%d7%a9%d7%91%d7%aa-2/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "up-din-389872",
-        "title": "שעון במקום שאין עירוב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכה ותודה מראש בעיר עם עירוב , מותר לקחת בכיס שעון יד ללא רצועה ולהוציאו מהכיס ברחוב כדי לדעת מה השעה? (השעון נמצא בכיס ללא תפס , רק ה'עיגול' )",
+        "question": "שלום.נא דחוף. בחנויות יש אריזות דוגלי או בונזו רגיל המכיל חיטה ודגן באריזתו כשעל החבילה מדבקה עגולה עם כשרות שמציינת שמדבקה באה לבטל מה שמצויין על הריזה וזה כשר לפסח ללא דגן. האם ניתן לסמוך על מדבקות ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-389872",
-        "source_url": "https://din.org.il/2022/10/11/%d7%a9%d7%a2%d7%95%d7%9f-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%90%d7%99%d7%9f-%d7%a2%d7%99%d7%a8%d7%95%d7%91/",
-        "author": "הרב ירוחם ארלנגר‎",
+        "url": "https://shekhina.org/qa.html?id=up-din-201404067939796",
+        "source_url": "https://din.org.il/2014/04/06/%d7%9e%d7%96%d7%95%d7%9f-%d7%9b%d7%a9%d7%a8-%d7%9c%d7%a4%d7%a1%d7%97-%d7%9c%d7%9b%d7%9c%d7%91%d7%99%d7%9d/",
+        "author": "הרב יוסף זריצקי",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "yeshiva-135824",
-        "title": "שעטנז בנעלי בית UGG",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לכבוד הרב, האם מותר לקנות נעלי בית של חברת UGG? דגם זה עשוי בחלקו החיצוני 100% עור וריפוד הנעל עשיו מצמר כבשים והסוליה גומי האם יש חשש לשעטנז תודה.",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-135824",
-        "source_url": "https://www.yeshiva.org.il/ask/135824",
-        "author": "הרב גדעון ויצמן",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "up-din-202408143029482",
-        "title": "מוצאי תשעה באב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכההאם מותר לגזור ציפורניים במוצאי תשעה באב? ולהתקלח?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-202408143029482",
-        "source_url": "https://din.org.il/2024/08/14/%d7%9e%d7%95%d7%a6%d7%90%d7%99-%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91-2/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
-      },
-      {
-        "id": "up-din-2025041014943701",
-        "title": "הוצאת מצות מהמקפיא בשבת לצורך החג",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום וברכה.האם אני יכול להוציא את המצות מהמקפיא בשבת שיפשירו לי לליל הסדר,",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2025041014943701",
-        "source_url": "https://din.org.il/2025/04/10/%d7%94%d7%95%d7%a6%d7%90%d7%aa-%d7%9e%d7%a6%d7%95%d7%aa-%d7%9e%d7%94%d7%9e%d7%a7%d7%a4%d7%99%d7%90-%d7%91%d7%a9%d7%91%d7%aa-%d7%9c%d7%a6%d7%95%d7%a8%d7%9a-%d7%94%d7%97%d7%92/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-731310eaa1fd5f0bf3015801"
+        "snapshot": "v1-f07512051e8c8ac94c188d88"
       }
     ]
   }
