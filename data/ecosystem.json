@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-19T12:59:21Z",
+  "checked_at": "2026-11-19T23:02:39Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-19T12:59:21Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-19T12:59:21Z"
+      "checked_at": "2026-11-19T23:02:39Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-19T12:59:21Z"
+      "checked_at": "2026-11-19T23:02:39Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-19T23:02:39Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-19T12:59:21Z"
+      "checked_at": "2026-11-19T23:02:39Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-19T12:59:21Z"
+      "checked_at": "2026-11-19T23:02:39Z"
     }
   },
   "music": [
@@ -34626,6 +34626,2792 @@
         "target_shabbat": "2031-01-15",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-90/"
+      },
+      {
+        "id": "cycle-15-kiddushin-2",
+        "title": {
+          "en": "Kiddushin 2 — How a Woman Is Acquired, and Why the Mishnah Says So",
+          "he": "קידושין ב׳ — כיצד האישה נקנית, ומדוע המשנה מנסחת כך"
+        },
+        "parashah": {
+          "en": "Kiddushin 2",
+          "he": "קידושין דף 2"
+        },
+        "target_shabbat": "2031-01-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-2/"
+      },
+      {
+        "id": "cycle-15-kiddushin-3",
+        "title": {
+          "en": "Kiddushin 3 — Ways, Matters, and the Father's Money",
+          "he": "קידושין ג׳ — דרכים, דברים וכסף האב"
+        },
+        "parashah": {
+          "en": "Kiddushin 3",
+          "he": "קידושין דף 3"
+        },
+        "target_shabbat": "2031-01-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-3/"
+      },
+      {
+        "id": "cycle-15-kiddushin-4",
+        "title": {
+          "en": "Kiddushin 4 — Leaving Without Money, and Testing Every Inference",
+          "he": "קידושין ד׳ — יציאה בלא כסף, ובחינת כל היקש"
+        },
+        "parashah": {
+          "en": "Kiddushin 4",
+          "he": "קידושין דף 4"
+        },
+        "target_shabbat": "2031-01-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-4/"
+      },
+      {
+        "id": "cycle-15-kiddushin-5",
+        "title": {
+          "en": "Kiddushin 5 — Document, Chuppah, and the Words That Betroth",
+          "he": "קידושין ה׳ — שטר, חופה והמילים המקדשות"
+        },
+        "parashah": {
+          "en": "Kiddushin 5",
+          "he": "קידושין דף 5"
+        },
+        "target_shabbat": "2031-01-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-5/"
+      },
+      {
+        "id": "cycle-15-kiddushin-6",
+        "title": {
+          "en": "Kiddushin 6 — Formulas, Context, and Money That Comes Back",
+          "he": "קידושין ו׳ — לשונות, הקשר וכסף החוזר"
+        },
+        "parashah": {
+          "en": "Kiddushin 6",
+          "he": "קידושין דף 6"
+        },
+        "target_shabbat": "2031-01-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-6/"
+      },
+      {
+        "id": "cycle-15-kiddushin-7",
+        "title": {
+          "en": "Kiddushin 7 — Guarantors, Slaves, and Half a Betrothal",
+          "he": "קידושין ז׳ — ערב, עבד, וחצי קידושין"
+        },
+        "parashah": {
+          "en": "Kiddushin 7",
+          "he": "קידושין דף 7"
+        },
+        "target_shabbat": "2031-01-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-7/"
+      },
+      {
+        "id": "cycle-15-kiddushin-8",
+        "title": {
+          "en": "Kiddushin 8 — Fixed Value, Partial Payment, and Where the Money Goes",
+          "he": "קידושין ח׳ — שווי קצוב, תשלום חסר, ולאן הולך הכסף"
+        },
+        "parashah": {
+          "en": "Kiddushin 8",
+          "he": "קידושין דף 8"
+        },
+        "target_shabbat": "2031-01-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-8/"
+      },
+      {
+        "id": "cycle-15-kiddushin-9",
+        "title": {
+          "en": "Kiddushin 9 — \"Give, Give,\" the Document, and the Verse for Intercourse",
+          "he": "קידושין ט׳ — \"הב, הב\", השטר והפסוק לביאה"
+        },
+        "parashah": {
+          "en": "Kiddushin 9",
+          "he": "קידושין דף 9"
+        },
+        "target_shabbat": "2031-01-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-9/"
+      },
+      {
+        "id": "cycle-15-kiddushin-10",
+        "title": {
+          "en": "Kiddushin 10 — When Intercourse Acquires, and What It Creates",
+          "he": "קידושין י׳ — מתי הביאה קונה, ומה היא יוצרת"
+        },
+        "parashah": {
+          "en": "Kiddushin 10",
+          "he": "קידושין דף 10"
+        },
+        "target_shabbat": "2031-01-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-10/"
+      },
+      {
+        "id": "cycle-15-kiddushin-11",
+        "title": {
+          "en": "Kiddushin 11 — Hidden Defects and the Dinar of Beit Shammai",
+          "he": "קידושין י״א — מומים נסתרים ודינר של בית שמאי"
+        },
+        "parashah": {
+          "en": "Kiddushin 11",
+          "he": "קידושין דף 11"
+        },
+        "target_shabbat": "2031-01-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-11/"
+      },
+      {
+        "id": "cycle-15-kiddushin-12",
+        "title": {
+          "en": "Kiddushin 12 — The Value of a Peruta and the Weight of Doubt",
+          "he": "קידושין י״ב — שוויה של פרוטה ומשקלו של ספק"
+        },
+        "parashah": {
+          "en": "Kiddushin 12",
+          "he": "קידושין דף 12"
+        },
+        "target_shabbat": "2031-01-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-12/"
+      },
+      {
+        "id": "cycle-15-kiddushin-13",
+        "title": {
+          "en": "Kiddushin 13 — Silence, Expertise, and the End of a Marriage",
+          "he": "קידושין י״ג — שתיקה, בקיאות וסיום הנישואין"
+        },
+        "parashah": {
+          "en": "Kiddushin 13",
+          "he": "קידושין דף 13"
+        },
+        "target_shabbat": "2031-01-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-13/"
+      },
+      {
+        "id": "cycle-15-kiddushin-14",
+        "title": {
+          "en": "Kiddushin 14 — The Yevama's Release and the Hebrew Slave's Acquisition",
+          "he": "קידושין י״ד — יציאת היבמה וקניין העבד העברי"
+        },
+        "parashah": {
+          "en": "Kiddushin 14",
+          "he": "קידושין דף 14"
+        },
+        "target_shabbat": "2031-01-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-14/"
+      },
+      {
+        "id": "cycle-15-kiddushin-15",
+        "title": {
+          "en": "Kiddushin 15 — One Who Sells Himself, the Pierced Slave, and Redemption",
+          "he": "קידושין ט״ו — המוכר עצמו, הנרצע והגאולה"
+        },
+        "parashah": {
+          "en": "Kiddushin 15",
+          "he": "קידושין דף 15"
+        },
+        "target_shabbat": "2031-01-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-15/"
+      },
+      {
+        "id": "cycle-15-kiddushin-16",
+        "title": {
+          "en": "Kiddushin 16 — The Document, the Ways Out, and Reish Lakish Refuted",
+          "he": "קידושין ט״ז — השטר, דרכי היציאה ופירכת ריש לקיש"
+        },
+        "parashah": {
+          "en": "Kiddushin 16",
+          "he": "קידושין דף 16"
+        },
+        "target_shabbat": "2031-01-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-16/"
+      },
+      {
+        "id": "cycle-15-kiddushin-17",
+        "title": {
+          "en": "Kiddushin 17 — The Size of the Gift and Who Inherits a Slave's Service",
+          "he": "קידושין י״ז — שיעור ההענקה ומי יורש את עבודת העבד"
+        },
+        "parashah": {
+          "en": "Kiddushin 17",
+          "he": "קידושין דף 17"
+        },
+        "target_shabbat": "2031-01-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-17/"
+      },
+      {
+        "id": "cycle-15-kiddushin-18",
+        "title": {
+          "en": "Kiddushin 18 — Sold for His Theft, and the Maidservant's Protections",
+          "he": "קידושין י״ח — נמכר בגניבתו, והגנות האמה העבריה"
+        },
+        "parashah": {
+          "en": "Kiddushin 18",
+          "he": "קידושין דף 18"
+        },
+        "target_shabbat": "2031-02-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-18/"
+      },
+      {
+        "id": "cycle-15-kiddushin-19",
+        "title": {
+          "en": "Kiddushin 19 — Designation: Who, How, and Against What Conditions",
+          "he": "קידושין י״ט — יעוד: מי, כיצד ונגד אילו תנאים"
+        },
+        "parashah": {
+          "en": "Kiddushin 19",
+          "he": "קידושין דף 19"
+        },
+        "target_shabbat": "2031-02-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-19/"
+      },
+      {
+        "id": "cycle-15-kiddushin-20",
+        "title": {
+          "en": "Kiddushin 20 — Leniency in Redemption and the Dust of the Sabbatical Year",
+          "he": "קידושין כ׳ — קולא בפדיון ואבקה של שביעית"
+        },
+        "parashah": {
+          "en": "Kiddushin 20",
+          "he": "קידושין דף 20"
+        },
+        "target_shabbat": "2031-02-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-20/"
+      },
+      {
+        "id": "cycle-15-kiddushin-21",
+        "title": {
+          "en": "Kiddushin 21 — Who Redeems, the Pierced Ear, and the Captive Woman",
+          "he": "קידושין כ״א — מי גואל, האוזן הנרצעת והאשת יפת תואר"
+        },
+        "parashah": {
+          "en": "Kiddushin 21",
+          "he": "קידושין דף 21"
+        },
+        "target_shabbat": "2031-02-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-21/"
+      },
+      {
+        "id": "cycle-15-kiddushin-22",
+        "title": {
+          "en": "Kiddushin 22 — The Ear That Heard at Sinai",
+          "he": "קידושין כ״ב — האוזן ששמעה בסיני"
+        },
+        "parashah": {
+          "en": "Kiddushin 22",
+          "he": "קידושין דף 22"
+        },
+        "target_shabbat": "2031-02-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-22/"
+      },
+      {
+        "id": "cycle-15-kiddushin-23",
+        "title": {
+          "en": "Kiddushin 23 — How a Canaanite Slave Goes Free",
+          "he": "קידושין כ״ג — כיצד עבד כנעני יוצא לחירות"
+        },
+        "parashah": {
+          "en": "Kiddushin 23",
+          "he": "קידושין דף 23"
+        },
+        "target_shabbat": "2031-02-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-23/"
+      },
+      {
+        "id": "cycle-15-kiddushin-24",
+        "title": {
+          "en": "Kiddushin 24 — Tooth, Eye, and the Limbs That Free a Slave",
+          "he": "קידושין כ״ד — שן, עין וראשי איברים המוציאים עבד"
+        },
+        "parashah": {
+          "en": "Kiddushin 24",
+          "he": "קידושין דף 24"
+        },
+        "target_shabbat": "2031-02-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-24/"
+      },
+      {
+        "id": "cycle-15-kiddushin-25",
+        "title": {
+          "en": "Kiddushin 25 — The Tongue, the Elders of Nezonya, and Acquiring an Animal",
+          "he": "קידושין כ״ה — הלשון, זקני נזוניא וקניין בהמה"
+        },
+        "parashah": {
+          "en": "Kiddushin 25",
+          "he": "קידושין דף 25"
+        },
+        "target_shabbat": "2031-02-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-25/"
+      },
+      {
+        "id": "cycle-15-kiddushin-26",
+        "title": {
+          "en": "Kiddushin 26 — Land, Movables, and Acquisition Together with Land",
+          "he": "קידושין כ״ו — קרקע, מטלטלין וקניין אגב"
+        },
+        "parashah": {
+          "en": "Kiddushin 26",
+          "he": "קידושין דף 26"
+        },
+        "target_shabbat": "2031-02-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-26/"
+      },
+      {
+        "id": "cycle-15-kiddushin-27",
+        "title": {
+          "en": "Kiddushin 27 — Along with Land, and the Extension of an Oath",
+          "he": "קידושין כ״ז — אגב קרקע וגלגול שבועה"
+        },
+        "parashah": {
+          "en": "Kiddushin 27",
+          "he": "קידושין דף 27"
+        },
+        "target_shabbat": "2031-02-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-27/"
+      },
+      {
+        "id": "cycle-15-kiddushin-28",
+        "title": {
+          "en": "Kiddushin 28 — How Far an Oath Extends, Exchange, and the Temple's Acquisition",
+          "he": "קידושין כ״ח — עד היכן גלגול שבועה, חליפין וקניין הקדש"
+        },
+        "parashah": {
+          "en": "Kiddushin 28",
+          "he": "קידושין דף 28"
+        },
+        "target_shabbat": "2031-02-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-28/"
+      },
+      {
+        "id": "cycle-15-kiddushin-29",
+        "title": {
+          "en": "Kiddushin 29 — What a Father Owes His Son",
+          "he": "קידושין כ״ט — מה חייב האב לבנו"
+        },
+        "parashah": {
+          "en": "Kiddushin 29",
+          "he": "קידושין דף 29"
+        },
+        "target_shabbat": "2031-02-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-29/"
+      },
+      {
+        "id": "cycle-15-kiddushin-30",
+        "title": {
+          "en": "Kiddushin 30 — Teaching Torah, Facing the Evil Inclination, and Honoring Parents",
+          "he": "קידושין ל׳ — לימוד תורה, מול היצר הרע וכיבוד הורים"
+        },
+        "parashah": {
+          "en": "Kiddushin 30",
+          "he": "קידושין דף 30"
+        },
+        "target_shabbat": "2031-02-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-30/"
+      },
+      {
+        "id": "cycle-15-kiddushin-31",
+        "title": {
+          "en": "Kiddushin 31 — How Far Honoring Parents Reaches",
+          "he": "קידושין ל״א — עד היכן כיבוד אב ואם"
+        },
+        "parashah": {
+          "en": "Kiddushin 31",
+          "he": "קידושין דף 31"
+        },
+        "target_shabbat": "2031-02-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-31/"
+      },
+      {
+        "id": "cycle-15-kiddushin-32",
+        "title": {
+          "en": "Kiddushin 32 — Who Pays, How to Correct, and Who May Waive Honor",
+          "he": "קידושין ל״ב — משל מי, כיצד מעירים, ומי רשאי למחול על כבודו"
+        },
+        "parashah": {
+          "en": "Kiddushin 32",
+          "he": "קידושין דף 32"
+        },
+        "target_shabbat": "2031-02-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-32/"
+      },
+      {
+        "id": "cycle-15-kiddushin-33",
+        "title": {
+          "en": "Kiddushin 33 — Rising Before Sages, Elders, and a Torah Scroll",
+          "he": "קידושין ל״ג — קימה מפני חכמים, זקנים וספר תורה"
+        },
+        "parashah": {
+          "en": "Kiddushin 33",
+          "he": "קידושין דף 33"
+        },
+        "target_shabbat": "2031-02-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-33/"
+      },
+      {
+        "id": "cycle-15-kiddushin-34",
+        "title": {
+          "en": "Kiddushin 34 — Time-Bound Mitzvot and the Search for a Model",
+          "he": "קידושין ל״ד — מצוות עשה שהזמן גרמא והחיפוש אחר דגם"
+        },
+        "parashah": {
+          "en": "Kiddushin 34",
+          "he": "קידושין דף 34"
+        },
+        "target_shabbat": "2031-02-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-34/"
+      },
+      {
+        "id": "cycle-15-kiddushin-35",
+        "title": {
+          "en": "Kiddushin 35 — Women, Prohibitions, and the Beard",
+          "he": "קידושין ל״ה — נשים, לאווין והזקן"
+        },
+        "parashah": {
+          "en": "Kiddushin 35",
+          "he": "קידושין דף 35"
+        },
+        "target_shabbat": "2031-02-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-35/"
+      },
+      {
+        "id": "cycle-15-kiddushin-36",
+        "title": {
+          "en": "Kiddushin 36 — Sons of God, and What Only Men Do in the Temple",
+          "he": "קידושין ל״ו — בנים למקום, ומה שרק אנשים עושים במקדש"
+        },
+        "parashah": {
+          "en": "Kiddushin 36",
+          "he": "קידושין דף 36"
+        },
+        "target_shabbat": "2031-02-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-36/"
+      },
+      {
+        "id": "cycle-15-kiddushin-37",
+        "title": {
+          "en": "Kiddushin 37 — Mitzvot of the Body and Mitzvot of the Land",
+          "he": "קידושין ל״ז — חובת הגוף וחובת קרקע"
+        },
+        "parashah": {
+          "en": "Kiddushin 37",
+          "he": "קידושין דף 37"
+        },
+        "target_shabbat": "2031-02-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-37/"
+      },
+      {
+        "id": "cycle-15-kiddushin-38",
+        "title": {
+          "en": "Kiddushin 38 — Manna, Moses' Day, and Mitzvot Outside the Land",
+          "he": "קידושין ל״ח — המן, יום משה, ומצוות בחוצה לארץ"
+        },
+        "parashah": {
+          "en": "Kiddushin 38",
+          "he": "קידושין דף 38"
+        },
+        "target_shabbat": "2031-02-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-38/"
+      },
+      {
+        "id": "cycle-15-kiddushin-39",
+        "title": {
+          "en": "Kiddushin 39 — Orla Abroad, Mixed Seeds, and the Reward for a Mitzva",
+          "he": "קידושין ל״ט — ערלה בחוצה לארץ, כלאים ושכר מצווה"
+        },
+        "parashah": {
+          "en": "Kiddushin 39",
+          "he": "קידושין דף 39"
+        },
+        "target_shabbat": "2031-02-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-39/"
+      },
+      {
+        "id": "cycle-15-kiddushin-40",
+        "title": {
+          "en": "Kiddushin 40 — Resisting Temptation, Fruits of Merit, and Study That Leads to Action",
+          "he": "קידושין מ׳ — עמידה בניסיון, פירות הזכות ותלמוד המביא לידי מעשה"
+        },
+        "parashah": {
+          "en": "Kiddushin 40",
+          "he": "קידושין דף 40"
+        },
+        "target_shabbat": "2031-02-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-40/"
+      },
+      {
+        "id": "cycle-15-kiddushin-41",
+        "title": {
+          "en": "Kiddushin 41 — Agency in Betrothal and the Sources of the Law of Agents",
+          "he": "קידושין מ״א — שליחות בקידושין ומקורות דין השליח"
+        },
+        "parashah": {
+          "en": "Kiddushin 41",
+          "he": "קידושין דף 41"
+        },
+        "target_shabbat": "2031-02-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-41/"
+      },
+      {
+        "id": "cycle-15-kiddushin-42",
+        "title": {
+          "en": "Kiddushin 42 — Agency for Offerings, Guardians for Orphans, and No Agent for a Transgression",
+          "he": "קידושין מ״ב — שליחות בקדשים, אפוטרופוס ליתומים ואין שליח לדבר עבירה"
+        },
+        "parashah": {
+          "en": "Kiddushin 42",
+          "he": "קידושין דף 42"
+        },
+        "target_shabbat": "2031-02-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-42/"
+      },
+      {
+        "id": "cycle-15-kiddushin-43",
+        "title": {
+          "en": "Kiddushin 43 — The Source for \"No Agent for a Transgression,\" the Agent as Witness, and the Betrothed Young Woman",
+          "he": "קידושין מ״ג — מקור \"אין שליח לדבר עבירה\", שליח נעשה עד ונערה המאורסה"
+        },
+        "parashah": {
+          "en": "Kiddushin 43",
+          "he": "קידושין דף 43"
+        },
+        "target_shabbat": "2031-02-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-43/"
+      },
+      {
+        "id": "cycle-15-kiddushin-44",
+        "title": {
+          "en": "Kiddushin 44 — Who Receives a Young Woman's Betrothal and Divorce, and the Minor Betrothed Without Her Father",
+          "he": "קידושין מ״ד — מי מקבל קידושי נערה וגיטה, וקטנה שנתקדשה שלא לדעת אביה"
+        },
+        "parashah": {
+          "en": "Kiddushin 44",
+          "he": "קידושין דף 44"
+        },
+        "target_shabbat": "2031-02-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-44/"
+      },
+      {
+        "id": "cycle-15-kiddushin-45",
+        "title": {
+          "en": "Kiddushin 45 — The Father's Consent, Betrothals Under the Poplars, and Teruma for the Married Daughter",
+          "he": "קידושין מ״ה — רצון האב, קידושין תותי ציפי ותרומה לבת הנשואה"
+        },
+        "parashah": {
+          "en": "Kiddushin 45",
+          "he": "קידושין דף 45"
+        },
+        "target_shabbat": "2031-02-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-45/"
+      },
+      {
+        "id": "cycle-15-kiddushin-46",
+        "title": {
+          "en": "Kiddushin 46 — Who May Block a Minor's Betrothal, Betrothal with Dates, and One Who Betroths His Sister",
+          "he": "קידושין מ״ו — מי מעכב קידושי קטנה, קידושין בתמרות והמקדש אחותו"
+        },
+        "parashah": {
+          "en": "Kiddushin 46",
+          "he": "קידושין דף 46"
+        },
+        "target_shabbat": "2031-03-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-46/"
+      },
+      {
+        "id": "cycle-15-kiddushin-47",
+        "title": {
+          "en": "Kiddushin 47 — \"With These,\" Betrothal with a Loan, and the Loan as a Deposit",
+          "he": "קידושין מ״ז — ״באלו״, המקדש במלוה ומלוה כפקדון"
+        },
+        "parashah": {
+          "en": "Kiddushin 47",
+          "he": "קידושין דף 47"
+        },
+        "target_shabbat": "2031-03-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-47/"
+      },
+      {
+        "id": "cycle-15-kiddushin-48",
+        "title": {
+          "en": "Kiddushin 48 — Betrothal with a Document, with a Wage, and with a Mistaken Object",
+          "he": "קידושין מ״ח — קידושין בשטר, בשכר ובטעות בחפץ"
+        },
+        "parashah": {
+          "en": "Kiddushin 48",
+          "he": "קידושין דף 48"
+        },
+        "target_shabbat": "2031-03-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-48/"
+      },
+      {
+        "id": "cycle-15-kiddushin-49",
+        "title": {
+          "en": "Kiddushin 49 — Conditions of Status and Learning, the Ten Measures, and Matters of the Heart",
+          "he": "קידושין מ״ט — תנאי יוחסין ולימוד, עשרה קבים ודברים שבלב"
+        },
+        "parashah": {
+          "en": "Kiddushin 49",
+          "he": "קידושין דף 49"
+        },
+        "target_shabbat": "2031-03-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-49/"
+      },
+      {
+        "id": "cycle-15-kiddushin-50",
+        "title": {
+          "en": "Kiddushin 50 — The Source of \"Matters in the Heart,\" Conditions in Betrothal, and Betrothal Gifts",
+          "he": "קידושין נ׳ — מקור \"דברים שבלב\", תנאים בקידושין וסבלונות"
+        },
+        "parashah": {
+          "en": "Kiddushin 50",
+          "he": "קידושין דף 50"
+        },
+        "target_shabbat": "2031-03-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-50/"
+      },
+      {
+        "id": "cycle-15-kiddushin-51",
+        "title": {
+          "en": "Kiddushin 51 — What Cannot Take Effect in Sequence, and Betrothal Not Fit for Consummation",
+          "he": "קידושין נ״א — כל שאינו בזה אחר זה, וקידושין שאין מסורין לביאה"
+        },
+        "parashah": {
+          "en": "Kiddushin 51",
+          "he": "קידושין דף 51"
+        },
+        "target_shabbat": "2031-03-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-51/"
+      },
+      {
+        "id": "cycle-15-kiddushin-52",
+        "title": {
+          "en": "Kiddushin 52 — The Halakha Follows Abaye, Betrothal with Stolen Property, and the Priest's Portion",
+          "he": "קידושין נ״ב — הלכה כאביי, קידושין בגזל וחלק הכהן"
+        },
+        "parashah": {
+          "en": "Kiddushin 52",
+          "he": "קידושין דף 52"
+        },
+        "target_shabbat": "2031-03-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-52/"
+      },
+      {
+        "id": "cycle-15-kiddushin-53",
+        "title": {
+          "en": "Kiddushin 53 — The Priests' Shares, Second Tithe, and Unwitting Use of Consecrated Property",
+          "he": "קידושין נ״ג — חלוקת הכהנים, מעשר שני ושגגת הקדש"
+        },
+        "parashah": {
+          "en": "Kiddushin 53",
+          "he": "קידושין דף 53"
+        },
+        "target_shabbat": "2031-03-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-53/"
+      },
+      {
+        "id": "cycle-15-kiddushin-54",
+        "title": {
+          "en": "Kiddushin 54 — Rabbi Meir on Consecrated Property and the Ruling on Tithe and Consecration",
+          "he": "קידושין נ״ד — שיטת רבי מאיר בהקדש והפסק במעשר ובהקדש"
+        },
+        "parashah": {
+          "en": "Kiddushin 54",
+          "he": "קידושין דף 54"
+        },
+        "target_shabbat": "2031-03-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-54/"
+      },
+      {
+        "id": "cycle-15-kiddushin-55",
+        "title": {
+          "en": "Kiddushin 55 — An Animal Found Near Jerusalem and Rabbi Meir's Desacralization",
+          "he": "קידושין נ״ה — בהמה שנמצאה בסביבות ירושלים וחילול ההקדש לרבי מאיר"
+        },
+        "parashah": {
+          "en": "Kiddushin 55",
+          "he": "קידושין דף 55"
+        },
+        "target_shabbat": "2031-03-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-55/"
+      },
+      {
+        "id": "cycle-15-kiddushin-56",
+        "title": {
+          "en": "Kiddushin 56 — Animals Bought with Tithe Money and Betrothal with Forbidden Benefit",
+          "he": "קידושין נ״ו — בהמה במעות מעשר וקידושין באיסורי הנאה"
+        },
+        "parashah": {
+          "en": "Kiddushin 56",
+          "he": "קידושין דף 56"
+        },
+        "target_shabbat": "2031-03-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-56/"
+      },
+      {
+        "id": "cycle-15-kiddushin-57",
+        "title": {
+          "en": "Kiddushin 57 — The Expositions of \"Et,\" the Leper's Birds, and Items Forbidden for Benefit",
+          "he": "קידושין נ״ז — דרשת ״את״, ציפורי מצורע ואיסורי הנאה"
+        },
+        "parashah": {
+          "en": "Kiddushin 57",
+          "he": "קידושין דף 57"
+        },
+        "target_shabbat": "2031-03-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-57/"
+      },
+      {
+        "id": "cycle-15-kiddushin-58",
+        "title": {
+          "en": "Kiddushin 58 — Proceeds of Forbidden Items, the Benefit of Discretion, and the Deceitful Agent",
+          "he": "קידושין נ״ח — דמי איסורי הנאה, טובת הנאה והשליח הרמאי"
+        },
+        "parashah": {
+          "en": "Kiddushin 58",
+          "he": "קידושין דף 58"
+        },
+        "target_shabbat": "2031-03-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-58/"
+      },
+      {
+        "id": "cycle-15-kiddushin-59",
+        "title": {
+          "en": "Kiddushin 59 — The Deceitful Agent, the Poor Man and the Cake, and Retracting a Betrothal",
+          "he": "קידושין נ״ט — השליח הרמאי, עני המהפך בחררה וחזרה מקידושין"
+        },
+        "parashah": {
+          "en": "Kiddushin 59",
+          "he": "קידושין דף 59"
+        },
+        "target_shabbat": "2031-03-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-59/"
+      },
+      {
+        "id": "cycle-15-kiddushin-60",
+        "title": {
+          "en": "Kiddushin 60 — Successive Conditional Betrothals and \"On Condition That I Give You Two Hundred Zuz\"",
+          "he": "קידושין ס׳ — קידושין מותנים זה אחר זה ו״על מנת שאתן לך מאתים זוז״"
+        },
+        "parashah": {
+          "en": "Kiddushin 60",
+          "he": "קידושין דף 60"
+        },
+        "target_shabbat": "2031-03-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-60/"
+      },
+      {
+        "id": "cycle-15-kiddushin-61",
+        "title": {
+          "en": "Kiddushin 61 — Crevices in a Field and the Double Condition of the Children of Gad and Reuben",
+          "he": "קידושין ס״א — נקעים בשדה ותנאי כפול של בני גד ובני ראובן"
+        },
+        "parashah": {
+          "en": "Kiddushin 61",
+          "he": "קידושין דף 61"
+        },
+        "target_shabbat": "2031-03-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-61/"
+      },
+      {
+        "id": "cycle-15-kiddushin-62",
+        "title": {
+          "en": "Kiddushin 62 — Doubled Verses, Betrothal After a Future Event, and \"Whatever Is in His Power\"",
+          "he": "קידושין ס״ב — פסוקים כפולים, קידושין לאחר מאורע עתידי ו״כל שבידו״"
+        },
+        "parashah": {
+          "en": "Kiddushin 62",
+          "he": "קידושין דף 62"
+        },
+        "target_shabbat": "2031-03-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-62/"
+      },
+      {
+        "id": "cycle-15-kiddushin-63",
+        "title": {
+          "en": "Kiddushin 63 — Transferring What Does Not Yet Exist, Conditions of Service, and the Father's Credibility",
+          "he": "קידושין ס״ג — הקנאת דבר שלא בא לעולם, תנאי שירות ונאמנות האב"
+        },
+        "parashah": {
+          "en": "Kiddushin 63",
+          "he": "קידושין דף 63"
+        },
+        "target_shabbat": "2031-03-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-63/"
+      },
+      {
+        "id": "cycle-15-kiddushin-64",
+        "title": {
+          "en": "Kiddushin 64 — The Father's Credibility, \"I Have Children,\" and the Eldest and Youngest Daughter",
+          "he": "קידושין ס״ד — נאמנות האב, ״יש לי בנים״ והבת הגדולה והקטנה"
+        },
+        "parashah": {
+          "en": "Kiddushin 64",
+          "he": "קידושין דף 64"
+        },
+        "target_shabbat": "2031-03-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-64/"
+      },
+      {
+        "id": "cycle-15-kiddushin-65",
+        "title": {
+          "en": "Kiddushin 65 — Disputed Betrothal Claims and Betrothal Before One Witness",
+          "he": "קידושין ס״ה — טענות קידושין סותרות וקידושין בעד אחד"
+        },
+        "parashah": {
+          "en": "Kiddushin 65",
+          "he": "קידושין דף 65"
+        },
+        "target_shabbat": "2031-03-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-65/"
+      },
+      {
+        "id": "cycle-15-kiddushin-66",
+        "title": {
+          "en": "Kiddushin 66 — One Witness, King Yannai and the Sages, and the Lineage of Offspring",
+          "he": "קידושין ס״ו — עד אחד, ינאי המלך וחכמי ישראל, ויחוס הולד"
+        },
+        "parashah": {
+          "en": "Kiddushin 66",
+          "he": "קידושין דף 66"
+        },
+        "target_shabbat": "2031-03-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-66/"
+      },
+      {
+        "id": "cycle-15-kiddushin-67",
+        "title": {
+          "en": "Kiddushin 67 — The Scope of \"Any Case,\" Lineage Among the Nations, and the Source That Betrothal Fails With Forbidden Relatives",
+          "he": "קידושין ס״ז — היקף ״כל מקום״, יחוס באומות ומקור שאין קידושין תופסין בעריות"
+        },
+        "parashah": {
+          "en": "Kiddushin 67",
+          "he": "קידושין דף 67"
+        },
+        "target_shabbat": "2031-03-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-67/"
+      },
+      {
+        "id": "cycle-15-kiddushin-68",
+        "title": {
+          "en": "Kiddushin 68 — Betrothal With Those Forbidden by Negative Commandments, and the Children of a Maidservant and a Gentile Woman",
+          "he": "קידושין ס״ח — קידושין בחייבי לאוין, וולד שפחה ונכרית"
+        },
+        "parashah": {
+          "en": "Kiddushin 68",
+          "he": "קידושין דף 68"
+        },
+        "target_shabbat": "2031-03-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-68/"
+      },
+      {
+        "id": "cycle-15-kiddushin-69",
+        "title": {
+          "en": "Kiddushin 69 — Purifying Mamzerim and the Ten Lineages That Came Up From Babylonia",
+          "he": "קידושין ס״ט — טהרת ממזרים ועשרה יוחסין שעלו מבבל"
+        },
+        "parashah": {
+          "en": "Kiddushin 69",
+          "he": "קידושין דף 69"
+        },
+        "target_shabbat": "2031-03-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-69/"
+      },
+      {
+        "id": "cycle-15-kiddushin-70",
+        "title": {
+          "en": "Kiddushin 70 — Unfit Marriages and the Man From Neharde'a",
+          "he": "קידושין ע׳ — נישואין שאינם הוגנים והאיש מנהרדעא"
+        },
+        "parashah": {
+          "en": "Kiddushin 70",
+          "he": "קידושין דף 70"
+        },
+        "target_shabbat": "2031-03-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-70/"
+      },
+      {
+        "id": "cycle-15-kiddushin-71",
+        "title": {
+          "en": "Kiddushin 71 — Assimilated Families, the Divine Names, and the Lineage of Babylonia",
+          "he": "קידושין ע״א — משפחה שנטמעה, שמות ה׳ ויחוס בבל"
+        },
+        "parashah": {
+          "en": "Kiddushin 71",
+          "he": "קידושין דף 71"
+        },
+        "target_shabbat": "2031-03-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-71/"
+      },
+      {
+        "id": "cycle-15-kiddushin-72",
+        "title": {
+          "en": "Kiddushin 72 — The Borders of Babylonia, Rabbi's Deathbed Words, and Mamzerim in the Future",
+          "he": "קידושין ע״ב — גבולות בבל, דברי רבי בשעת פטירתו וממזרים לעתיד לבוא"
+        },
+        "parashah": {
+          "en": "Kiddushin 72",
+          "he": "קידושין דף 72"
+        },
+        "target_shabbat": "2031-03-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-72/"
+      },
+      {
+        "id": "cycle-15-kiddushin-73",
+        "title": {
+          "en": "Kiddushin 73 — Converts and Mamzerim, the Shetuki and the Foundling",
+          "he": "קידושין ע״ג — גר וממזרת, שתוקי ואסופי"
+        },
+        "parashah": {
+          "en": "Kiddushin 73",
+          "he": "קידושין דף 73"
+        },
+        "target_shabbat": "2031-03-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-73/"
+      },
+      {
+        "id": "cycle-15-kiddushin-74",
+        "title": {
+          "en": "Kiddushin 74 — Credibility of Seller, Judge and Parents, Abba Shaul's \"Beduki,\" and Those Forbidden to Enter the Congregation",
+          "he": "קידושין ע״ד — נאמנות המוכר, הדיין וההורים, ״בדוקי״ של אבא שאול, ואסורי קהל"
+        },
+        "parashah": {
+          "en": "Kiddushin 74",
+          "he": "קידושין דף 74"
+        },
+        "target_shabbat": "2031-03-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-74/"
+      },
+      {
+        "id": "cycle-15-kiddushin-75",
+        "title": {
+          "en": "Kiddushin 75 — Who Disqualifies a Woman From the Priesthood, the Pregnant Betrothed Woman, and the Samaritans",
+          "he": "קידושין ע״ה — מי פוסל מן הכהונה, ארוסה שעיברה והכותים"
+        },
+        "parashah": {
+          "en": "Kiddushin 75",
+          "he": "קידושין דף 75"
+        },
+        "target_shabbat": "2031-03-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-75/"
+      },
+      {
+        "id": "cycle-15-kiddushin-76",
+        "title": {
+          "en": "Kiddushin 76 — The Samaritans' Flaw and Investigating the Four Mothers",
+          "he": "קידושין ע״ו — פסול הכותים ובדיקת ארבע אמהות"
+        },
+        "parashah": {
+          "en": "Kiddushin 76",
+          "he": "קידושין דף 76"
+        },
+        "target_shabbat": "2031-03-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-76/"
+      },
+      {
+        "id": "cycle-15-kiddushin-77",
+        "title": {
+          "en": "Kiddushin 77 — The Daughter of a Ḥalal and Multiple Prohibitions on a Priest",
+          "he": "קידושין ע״ז — בת חלל ואיסורים מרובים בכהן"
+        },
+        "parashah": {
+          "en": "Kiddushin 77",
+          "he": "קידושין דף 77"
+        },
+        "target_shabbat": "2031-04-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-77/"
+      },
+      {
+        "id": "cycle-15-kiddushin-78",
+        "title": {
+          "en": "Kiddushin 78 — Lashes for a High Priest, the Convert's Daughter, and \"This Son of Mine Is a Mamzer\"",
+          "he": "קידושין ע״ח — מלקות לכהן גדול, בת גר, ו״בני זה ממזר״"
+        },
+        "parashah": {
+          "en": "Kiddushin 78",
+          "he": "קידושין דף 78"
+        },
+        "target_shabbat": "2031-04-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-78/"
+      },
+      {
+        "id": "cycle-15-kiddushin-79",
+        "title": {
+          "en": "Kiddushin 79 — Competing Betrothals, the Woman Who Matured, and the Family From Overseas",
+          "he": "קידושין ע״ט — קידושין מתחרים, הבוגרת עכשיו, והמשפחה שבאה ממדינת הים"
+        },
+        "parashah": {
+          "en": "Kiddushin 79",
+          "he": "קידושין דף 79"
+        },
+        "target_shabbat": "2031-04-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-79/"
+      },
+      {
+        "id": "cycle-15-kiddushin-80",
+        "title": {
+          "en": "Kiddushin 80 — Presumptions of Family and Purity, and the Laws of Seclusion",
+          "he": "קידושין פ׳ — חזקות משפחה וטהרה ודיני ייחוד"
+        },
+        "parashah": {
+          "en": "Kiddushin 80",
+          "he": "קידושין דף 80"
+        },
+        "target_shabbat": "2031-04-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-80/"
+      },
+      {
+        "id": "cycle-15-kiddushin-81",
+        "title": {
+          "en": "Kiddushin 81 — Seclusion in Practice and the Sages Tested by the Inclination",
+          "he": "קידושין פ״א — ייחוד למעשה וחכמים שנתנסו ביצר"
+        },
+        "parashah": {
+          "en": "Kiddushin 81",
+          "he": "קידושין דף 81"
+        },
+        "target_shabbat": "2031-04-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-81/"
+      },
+      {
+        "id": "cycle-15-kiddushin-82",
+        "title": {
+          "en": "Kiddushin 82 — Teachers, Trades and Livelihood — the Close of the Tractate",
+          "he": "קידושין פ״ב — מלמדים, אומנויות ופרנסה — סיום המסכת"
+        },
+        "parashah": {
+          "en": "Kiddushin 82",
+          "he": "קידושין דף 82"
+        },
+        "target_shabbat": "2031-04-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-kiddushin-82/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-2",
+        "title": {
+          "en": "Bava Kamma 2 — Four Primary Categories and the Logic of Subcategories",
+          "he": "בבא קמא ב׳ — ארבעה אבות נזיקין והיגיון התולדות"
+        },
+        "parashah": {
+          "en": "Bava Kamma 2",
+          "he": "בבא קמא דף 2"
+        },
+        "target_shabbat": "2031-04-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-2/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-3",
+        "title": {
+          "en": "Bava Kamma 3 — Searching for the Dissimilar Subcategory",
+          "he": "בבא קמא ג׳ — החיפוש אחר התולדה שאינה כאב"
+        },
+        "parashah": {
+          "en": "Bava Kamma 3",
+          "he": "בבא קמא דף 3"
+        },
+        "target_shabbat": "2031-04-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-3/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-4",
+        "title": {
+          "en": "Bava Kamma 4 — Reading the Mishnah's Contrasts and Counting Primary Categories",
+          "he": "בבא קמא ד׳ — קריאת ניגודי המשנה ומניין האבות"
+        },
+        "parashah": {
+          "en": "Bava Kamma 4",
+          "he": "בבא קמא דף 4"
+        },
+        "target_shabbat": "2031-04-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-4/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-5",
+        "title": {
+          "en": "Bava Kamma 5 — What Each List Includes and Why the Torah Wrote Every Category",
+          "he": "בבא קמא ה׳ — מה כוללת כל רשימה ומדוע כתבה התורה כל אב"
+        },
+        "parashah": {
+          "en": "Bava Kamma 5",
+          "he": "בבא קמא דף 5"
+        },
+        "target_shabbat": "2031-04-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-5/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-6",
+        "title": {
+          "en": "Bava Kamma 6 — What the Common Denominator Adds, and Whose Best Land",
+          "he": "בבא קמא ו׳ — מה מוסיף הצד השווה, ומיטב של מי"
+        },
+        "parashah": {
+          "en": "Bava Kamma 6",
+          "he": "בבא קמא דף 6"
+        },
+        "target_shabbat": "2031-04-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-6/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-7",
+        "title": {
+          "en": "Bava Kamma 7 — Best Land, Market Value, and the Measure of Payment",
+          "he": "בבא קמא ז׳ — מיטב, שווי שוק ומידת התשלום"
+        },
+        "parashah": {
+          "en": "Bava Kamma 7",
+          "he": "בבא קמא דף 7"
+        },
+        "target_shabbat": "2031-04-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-7/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-8",
+        "title": {
+          "en": "Bava Kamma 8 — Liened Property, Buyers, and Waiving a Rabbinic Benefit",
+          "he": "בבא קמא ח׳ — נכסים משועבדים, לקוחות, ומחילה על תקנת חכמים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 8",
+          "he": "בבא קמא דף 8"
+        },
+        "target_shabbat": "2031-04-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-8/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-9",
+        "title": {
+          "en": "Bava Kamma 9 — Possession, Money as Land, and the Second Chapter of Liability",
+          "he": "בבא קמא ט׳ — חזקה, כסף כקרקע, ותנאי החיוב"
+        },
+        "parashah": {
+          "en": "Bava Kamma 9",
+          "he": "בבא קמא דף 9"
+        },
+        "target_shabbat": "2031-04-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-9/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-10",
+        "title": {
+          "en": "Bava Kamma 10 — Partial Causes and Full Liability",
+          "he": "בבא קמא י׳ — גורם חלקי וחיוב מלא"
+        },
+        "parashah": {
+          "en": "Bava Kamma 10",
+          "he": "בבא קמא דף 10"
+        },
+        "target_shabbat": "2031-04-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-10/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-11",
+        "title": {
+          "en": "Bava Kamma 11 — The Carcass, Appraisal, and Ulla's Rulings in Rabbi Elazar's Name",
+          "he": "בבא קמא י״א — הנבלה, השומה ומימרות עולא בשם רבי אלעזר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 11",
+          "he": "בבא קמא דף 11"
+        },
+        "target_shabbat": "2031-04-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-11/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-12",
+        "title": {
+          "en": "Bava Kamma 12 — Are Slaves Land or Movables, and What Is \"Property Not Subject to Me'ila\"?",
+          "he": "בבא קמא י״ב — עבדים — קרקע או מטלטלין, ומהם \"נכסים שאין בהם מעילה\"?"
+        },
+        "parashah": {
+          "en": "Bava Kamma 12",
+          "he": "בבא קמא דף 12"
+        },
+        "target_shabbat": "2031-04-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-12/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-13",
+        "title": {
+          "en": "Bava Kamma 13 — Sacred Property, Owned Property, and Shared Domains",
+          "he": "בבא קמא י״ג — נכסי קדשים, נכסים מיוחדים ורשות השותפים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 13",
+          "he": "בבא קמא דף 13"
+        },
+        "target_shabbat": "2031-04-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-13/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-14",
+        "title": {
+          "en": "Bava Kamma 14 — Courtyards of Partners and the Court's Valuation",
+          "he": "בבא קמא י״ד — חצר השותפין ושומת בית הדין"
+        },
+        "parashah": {
+          "en": "Bava Kamma 14",
+          "he": "בבא קמא דף 14"
+        },
+        "target_shabbat": "2031-04-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-14/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-15",
+        "title": {
+          "en": "Bava Kamma 15 — Women, Witnesses, and the Nature of Half-Damage",
+          "he": "בבא קמא ט״ו — נשים, עדים וטיבו של חצי נזק"
+        },
+        "parashah": {
+          "en": "Bava Kamma 15",
+          "he": "בבא קמא דף 15"
+        },
+        "target_shabbat": "2031-04-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-15/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-16",
+        "title": {
+          "en": "Bava Kamma 16 — The Incomplete Mishnah, Wild Animals, and Hezekiah's Burial",
+          "he": "בבא קמא ט״ז — משנה חסורי מיחסרא, חיות טורפות וקבורת חזקיהו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 16",
+          "he": "בבא קמא דף 16"
+        },
+        "target_shabbat": "2031-04-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-16/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-17",
+        "title": {
+          "en": "Bava Kamma 17 — Honoring the Righteous, Torah with Kindness, and the Foot That Breaks",
+          "he": "בבא קמא י״ז — כבוד הצדיק, תורה וגמילות חסדים, והרגל המשברת"
+        },
+        "parashah": {
+          "en": "Bava Kamma 17",
+          "he": "בבא קמא דף 17"
+        },
+        "target_shabbat": "2031-04-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-17/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-18",
+        "title": {
+          "en": "Bava Kamma 18 — Pebbles: Body, Best Land, and Forewarning",
+          "he": "בבא קמא י״ח — צרורות: גופו, עלייה וייעוד"
+        },
+        "parashah": {
+          "en": "Bava Kamma 18",
+          "he": "בבא קמא דף 18"
+        },
+        "target_shabbat": "2031-04-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-18/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-19",
+        "title": {
+          "en": "Bava Kamma 19 — Unresolved Dilemmas of Pebbles and the Laws of Shen",
+          "he": "בבא קמא י״ט — בעיות הצרורות שלא הוכרעו ודיני השן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 19",
+          "he": "בבא קמא דף 19"
+        },
+        "target_shabbat": "2031-04-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-19/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-20",
+        "title": {
+          "en": "Bava Kamma 20 — Benefit Without Loss: Living in Another's Courtyard",
+          "he": "בבא קמא כ׳ — זה נהנה וזה לא חסר: הדר בחצר חבירו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 20",
+          "he": "בבא קמא דף 20"
+        },
+        "target_shabbat": "2031-04-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-20/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-21",
+        "title": {
+          "en": "Bava Kamma 21 — Rent Without Loss, Turning Aside, and Jumping Animals",
+          "he": "בבא קמא כ״א — שכר בלא חסרון, החזרת הראש ובהמות קופצות"
+        },
+        "parashah": {
+          "en": "Bava Kamma 21",
+          "he": "בבא קמא דף 21"
+        },
+        "target_shabbat": "2031-04-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-21/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-22",
+        "title": {
+          "en": "Bava Kamma 22 — Fire as Arrow or as Property",
+          "he": "בבא קמא כ״ב — אשו משום חציו או משום ממונו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 22",
+          "he": "בבא קמא דף 22"
+        },
+        "target_shabbat": "2031-04-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-22/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-23",
+        "title": {
+          "en": "Bava Kamma 23 — Hidden Fire, an Animal's Mouth, and Becoming Forewarned",
+          "he": "בבא קמא כ״ג — טמון באש, פי הפרה, וייעוד השור"
+        },
+        "parashah": {
+          "en": "Bava Kamma 23",
+          "he": "בבא קמא דף 23"
+        },
+        "target_shabbat": "2031-04-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-23/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-24",
+        "title": {
+          "en": "Bava Kamma 24 — Days or Times: How an Ox Becomes Forewarned",
+          "he": "בבא קמא כ״ד — ימים או פעמים: כיצד נעשה השור מועד"
+        },
+        "parashah": {
+          "en": "Bava Kamma 24",
+          "he": "בבא קמא דף 24"
+        },
+        "target_shabbat": "2031-04-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-24/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-25",
+        "title": {
+          "en": "Bava Kamma 25 — \"It Is Sufficient\": The Limits of an A Fortiori Argument",
+          "he": "בבא קמא כ״ה — \"דיו\": גבולות הקל וחומר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 25",
+          "he": "בבא קמא דף 25"
+        },
+        "target_shabbat": "2031-04-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-25/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-26",
+        "title": {
+          "en": "Bava Kamma 26 — Blocked Inferences and a Person Always Forewarned",
+          "he": "בבא קמא כ״ו — היסקים חסומים ואדם המועד לעולם"
+        },
+        "parashah": {
+          "en": "Bava Kamma 26",
+          "he": "בבא קמא דף 26"
+        },
+        "target_shabbat": "2031-05-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-26/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-27",
+        "title": {
+          "en": "Bava Kamma 27 — Rabba's Rulings, the Jug in the Road, and Taking the Law into One's Hands",
+          "he": "בבא קמא כ״ז — פסקי רבה, הכד ברשות הרבים, ועביד איניש דינא לנפשיה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 27",
+          "he": "בבא קמא דף 27"
+        },
+        "target_shabbat": "2031-05-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-27/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-28",
+        "title": {
+          "en": "Bava Kamma 28 — Self-Help Tested and the Broken Jug",
+          "he": "בבא קמא כ״ח — עשיית דין לעצמו בבחינה, והכד שנשברה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 28",
+          "he": "בבא קמא דף 28"
+        },
+        "target_shabbat": "2031-05-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-28/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-29",
+        "title": {
+          "en": "Bava Kamma 29 — The Moment of Falling and Renouncing a Hazard",
+          "he": "בבא קמא כ״ט — שעת נפילה והמפקיר נזקיו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 29",
+          "he": "בבא קמא דף 29"
+        },
+        "target_shabbat": "2031-05-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-29/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-30",
+        "title": {
+          "en": "Bava Kamma 30 — Water, Thorns, Piety, and Penalties on Obstacles",
+          "he": "בבא קמא ל׳ — מים, קוצים, חסידות וקנס על התקלה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 30",
+          "he": "בבא קמא דף 30"
+        },
+        "target_shabbat": "2031-05-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-30/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-31",
+        "title": {
+          "en": "Bava Kamma 31 — Potters on the Road: Stumbling, Stopping, and Warning",
+          "he": "בבא קמא ל״א — קדרים בדרך: נתקל, עמידה והתראה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 31",
+          "he": "בבא קמא דף 31"
+        },
+        "target_shabbat": "2031-05-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-31/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-32",
+        "title": {
+          "en": "Bava Kamma 32 — Permission to Walk, Running for Shabbat, and the Carpenter's Shop",
+          "he": "בבא קמא ל״ב — רשות להלך, ריצה לקראת שבת וחנות הנגר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 32",
+          "he": "בבא קמא דף 32"
+        },
+        "target_shabbat": "2031-05-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-32/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-33",
+        "title": {
+          "en": "Bava Kamma 33 — Mutual Damage and Whose Ox It Is",
+          "he": "בבא קמא ל״ג — נזק הדדי, ושור של מי"
+        },
+        "parashah": {
+          "en": "Bava Kamma 33",
+          "he": "בבא קמא דף 33"
+        },
+        "target_shabbat": "2031-05-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-33/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-34",
+        "title": {
+          "en": "Bava Kamma 34 — Changing Values, the Carcass Divided, and Liability for One's Own Act",
+          "he": "בבא קמא ל״ד — שינוי שווי, חלוקת הנבלה, וחיוב על מעשה עצמו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 34",
+          "he": "בבא קמא דף 34"
+        },
+        "target_shabbat": "2031-05-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-34/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-35",
+        "title": {
+          "en": "Bava Kamma 35 — The Clever Ox, Doubtful Claims, and Who Bears the Proof",
+          "he": "בבא קמא ל״ה — השור הפיקח, טענות ספק, ועל מי הראיה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 35",
+          "he": "בבא קמא דף 35"
+        },
+        "target_shabbat": "2031-05-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-35/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-36",
+        "title": {
+          "en": "Bava Kamma 36 — Several Victims, One Ox, and the Hand of the Poor",
+          "he": "בבא קמא ל״ו — ניזקים רבים, שור אחד, וידן של עניים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 36",
+          "he": "בבא קמא דף 36"
+        },
+        "target_shabbat": "2031-05-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-36/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-37",
+        "title": {
+          "en": "Bava Kamma 37 — Partial Forewarning and Patterns of Goring",
+          "he": "בבא קמא ל״ז — ייעוד חלקי ודפוסי נגיחה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 37",
+          "he": "בבא קמא דף 37"
+        },
+        "target_shabbat": "2031-05-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-37/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-38",
+        "title": {
+          "en": "Bava Kamma 38 — The Gentile's Ox, Ruth and Naamah, and the Samaritans",
+          "he": "בבא קמא ל״ח — שור הנכרי, רות ונעמה, והכותים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 38",
+          "he": "בבא קמא דף 38"
+        },
+        "target_shabbat": "2031-05-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-38/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-39",
+        "title": {
+          "en": "Bava Kamma 39 — The Ox of a Deaf-Mute, Imbecile, or Minor and the Guardian",
+          "he": "בבא קמא ל״ט — שור של חרש שוטה וקטן והאפוטרופוס"
+        },
+        "parashah": {
+          "en": "Bava Kamma 39",
+          "he": "בבא קמא דף 39"
+        },
+        "target_shabbat": "2031-05-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-39/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-40",
+        "title": {
+          "en": "Bava Kamma 40 — Ransom as Atonement, a Borrowed Ox, and the Stadium Ox",
+          "he": "בבא קמא מ׳ — כופר ככפרה, שור שאול ושור האצטדין"
+        },
+        "parashah": {
+          "en": "Bava Kamma 40",
+          "he": "בבא קמא דף 40"
+        },
+        "target_shabbat": "2031-05-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-40/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-41",
+        "title": {
+          "en": "Bava Kamma 41 — The Killing Ox: Forewarning, Its Flesh, and \"The Owner Shall Be Clear\"",
+          "he": "בבא קמא מ״א — השור הממית: ייעוד, בשרו, ו\"בעל השור נקי\""
+        },
+        "parashah": {
+          "en": "Bava Kamma 41",
+          "he": "בבא קמא דף 41"
+        },
+        "target_shabbat": "2031-05-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-41/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-42",
+        "title": {
+          "en": "Bava Kamma 42 — Clear of What? Offspring, a Slave, and a Woman's Heirs",
+          "he": "בבא קמא מ״ב — נקי ממה? דמי ולדות, דמי עבד ויורשי האשה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 42",
+          "he": "בבא קמא דף 42"
+        },
+        "target_shabbat": "2031-05-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-42/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-43",
+        "title": {
+          "en": "Bava Kamma 43 — Ransom and Slave Payment Without Intent",
+          "he": "בבא קמא מ״ג — כופר ודמי עבד בשוגג"
+        },
+        "parashah": {
+          "en": "Bava Kamma 43",
+          "he": "בבא קמא דף 43"
+        },
+        "target_shabbat": "2031-05-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-43/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-44",
+        "title": {
+          "en": "Bava Kamma 44 — Intent, Unintended Killing, and Oxen Without Owners",
+          "he": "בבא קמא מ״ד — כוונה, הריגה שלא בכוונה ושוורים שאין להם בעלים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 44",
+          "he": "בבא קמא דף 44"
+        },
+        "target_shabbat": "2031-05-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-44/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-45",
+        "title": {
+          "en": "Bava Kamma 45 — Judgment in the Ox's Presence and Degrees of Guarding",
+          "he": "בבא קמא מ״ה — דין השור בפניו ודרגות השמירה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 45",
+          "he": "בבא קמא דף 45"
+        },
+        "target_shabbat": "2031-05-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-45/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-46",
+        "title": {
+          "en": "Bava Kamma 46 — The Cow and Its Calf: Doubt and the Burden of Proof",
+          "he": "בבא קמא מ״ו — הפרה וולדה: ספק ועל מי הראיה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 46",
+          "he": "בבא קמא דף 46"
+        },
+        "target_shabbat": "2031-05-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-46/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-47",
+        "title": {
+          "en": "Bava Kamma 47 — The Calf's Value and Permission to Enter",
+          "he": "בבא קמא מ״ז — שומת הוולד ורשות להכניס"
+        },
+        "parashah": {
+          "en": "Bava Kamma 47",
+          "he": "בבא קמא דף 47"
+        },
+        "target_shabbat": "2031-05-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-47/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-48",
+        "title": {
+          "en": "Bava Kamma 48 — Guest and Host: Who Bears the Guarding",
+          "he": "בבא קמא מ״ח — אורח ובעל הבית: על מי השמירה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 48",
+          "he": "בבא קמא דף 48"
+        },
+        "target_shabbat": "2031-05-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-48/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-49",
+        "title": {
+          "en": "Bava Kamma 49 — Compensation for the Fetus and the Convert's Estate",
+          "he": "בבא קמא מ״ט — דמי ולדות ונכסי הגר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 49",
+          "he": "בבא קמא דף 49"
+        },
+        "target_shabbat": "2031-05-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-49/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-50",
+        "title": {
+          "en": "Bava Kamma 50 — The Pit-Digger's Daughter and the Ten Handbreadths",
+          "he": "בבא קמא נ׳ — בתו של חופר שיחין ועשרה טפחים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 50",
+          "he": "בבא קמא דף 50"
+        },
+        "target_shabbat": "2031-05-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-50/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-51",
+        "title": {
+          "en": "Bava Kamma 51 — Partners in a Pit and the Depth That Kills",
+          "he": "בבא קמא נ״א — שותפים בבור והעומק הממית"
+        },
+        "parashah": {
+          "en": "Bava Kamma 51",
+          "he": "בבא קמא דף 51"
+        },
+        "target_shabbat": "2031-05-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-51/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-52",
+        "title": {
+          "en": "Bava Kamma 52 — Covering Properly: Oxen, Camels, and Rot",
+          "he": "בבא קמא נ״ב — כיסוי כראוי: שוורים, גמלים ורקבון"
+        },
+        "parashah": {
+          "en": "Bava Kamma 52",
+          "he": "בבא קמא דף 52"
+        },
+        "target_shabbat": "2031-05-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-52/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-53",
+        "title": {
+          "en": "Bava Kamma 53 — Forward, Backward, and Rabbi Natan's Shared Liability",
+          "he": "בבא קמא נ״ג — לפניו ולאחוריו ושותפות הנזק של רבי נתן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 53",
+          "he": "בבא קמא דף 53"
+        },
+        "target_shabbat": "2031-05-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-53/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-54",
+        "title": {
+          "en": "Bava Kamma 54 — \"Ox or Donkey\": When the Torah Speaks of the Common Case",
+          "he": "בבא קמא נ״ד — \"שור או חמור\": דיברה תורה בהווה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 54",
+          "he": "בבא קמא דף 54"
+        },
+        "target_shabbat": "2031-05-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-54/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-55",
+        "title": {
+          "en": "Bava Kamma 55 — \"Good\" in the Commandments and the Limits of Guarding",
+          "he": "בבא קמא נ״ה — \"טוב\" בדברות וגבולות השמירה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 55",
+          "he": "בבא קמא דף 55"
+        },
+        "target_shabbat": "2031-05-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-55/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-56",
+        "title": {
+          "en": "Bava Kamma 56 — Liable Before Heaven and the Shepherd's Place",
+          "he": "בבא קמא נ״ו — חייב בדיני שמים ומקומו של הרועה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 56",
+          "he": "בבא קמא דף 56"
+        },
+        "target_shabbat": "2031-05-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-56/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-57",
+        "title": {
+          "en": "Bava Kamma 57 — The Finder as Guardian and the Armed Bandit",
+          "he": "בבא קמא נ״ז — המוצא כשומר והלסטים המזוין"
+        },
+        "parashah": {
+          "en": "Bava Kamma 57",
+          "he": "בבא קמא דף 57"
+        },
+        "target_shabbat": "2031-06-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-57/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-58",
+        "title": {
+          "en": "Bava Kamma 58 — Benefit, Damage, and the Sixtieth Part",
+          "he": "בבא קמא נ״ח — הנאה, נזק ושישים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 58",
+          "he": "בבא קמא דף 58"
+        },
+        "target_shabbat": "2031-06-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-58/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-59",
+        "title": {
+          "en": "Bava Kamma 59 — Budding Vines, the Mourner of Jerusalem, and the Kindled Fire",
+          "he": "בבא קמא נ״ט — סמדר, אבל ירושלים והאש ששולחה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 59",
+          "he": "בבא קמא דף 59"
+        },
+        "target_shabbat": "2031-06-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-59/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-60",
+        "title": {
+          "en": "Bava Kamma 60 — Fire That Goes Out: Thorns, Plague, and David's Question",
+          "he": "בבא קמא ס׳ — אש שיוצאת: קוצים, דבר ושאלת דוד"
+        },
+        "parashah": {
+          "en": "Bava Kamma 60",
+          "he": "בבא קמא דף 60"
+        },
+        "target_shabbat": "2031-06-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-60/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-61",
+        "title": {
+          "en": "Bava Kamma 61 — How Far Fire Travels and the Hidden in the Stack",
+          "he": "בבא קמא ס״א — עד היכן האש עוברת והטמון בגדיש"
+        },
+        "parashah": {
+          "en": "Bava Kamma 61",
+          "he": "בבא קמא דף 61"
+        },
+        "target_shabbat": "2031-06-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-61/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-62",
+        "title": {
+          "en": "Bava Kamma 62 — Hidden Valuables, the Hanukkah Lamp, and Double Payment",
+          "he": "בבא קמא ס״ב — חפצים טמונים, נר חנוכה ותשלומי כפל"
+        },
+        "parashah": {
+          "en": "Bava Kamma 62",
+          "he": "בבא קמא דף 62"
+        },
+        "target_shabbat": "2031-06-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-62/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-63",
+        "title": {
+          "en": "Bava Kamma 63 — Double Payment: What Is Included and Who Pays",
+          "he": "בבא קמא ס״ג — תשלומי כפל: מה נכלל ומי משלם"
+        },
+        "parashah": {
+          "en": "Bava Kamma 63",
+          "he": "בבא קמא דף 63"
+        },
+        "target_shabbat": "2031-06-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-63/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-64",
+        "title": {
+          "en": "Bava Kamma 64 — \"Theft, Ox, Donkey, Sheep, Alive\": Reading the Verse of the Thief",
+          "he": "בבא קמא ס״ד — \"גניבה, שור, חמור, שה, חיים\": קריאת פסוק הגנב"
+        },
+        "parashah": {
+          "en": "Bava Kamma 64",
+          "he": "בבא קמא דף 64"
+        },
+        "target_shabbat": "2031-06-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-64/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-65",
+        "title": {
+          "en": "Bava Kamma 65 — When Is a Theft Valued? Lamb, Ram, and Change",
+          "he": "בבא קמא ס״ה — לפי מתי שמים הגניבה? טלה, איל ושינוי"
+        },
+        "parashah": {
+          "en": "Bava Kamma 65",
+          "he": "בבא קמא דף 65"
+        },
+        "target_shabbat": "2031-06-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-65/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-66",
+        "title": {
+          "en": "Bava Kamma 66 — Change and Despair: When Does a Thief Acquire?",
+          "he": "בבא קמא ס״ו — שינוי ויאוש: מתי קונה הגזלן?"
+        },
+        "parashah": {
+          "en": "Bava Kamma 66",
+          "he": "בבא קמא דף 66"
+        },
+        "target_shabbat": "2031-06-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-66/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-67",
+        "title": {
+          "en": "Bava Kamma 67 — Names That Return and the Ox and Sheep of the Fourfold Penalty",
+          "he": "בבא קמא ס״ז — שמות החוזרים ושור ושה של ארבעה וחמשה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 67",
+          "he": "בבא קמא דף 67"
+        },
+        "target_shabbat": "2031-06-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-67/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-68",
+        "title": {
+          "en": "Bava Kamma 68 — The Second Thief and Selling Before Despair",
+          "he": "בבא קמא ס״ח — הגנב השני ומכירה לפני יאוש"
+        },
+        "parashah": {
+          "en": "Bava Kamma 68",
+          "he": "בבא קמא דף 68"
+        },
+        "target_shabbat": "2031-06-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-68/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-69",
+        "title": {
+          "en": "Bava Kamma 69 — The Pious Ones' Coins and Rabbi Yoḥanan's Consistency",
+          "he": "בבא קמא ס״ט — מעות הצנועין ועקביות רבי יוחנן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 69",
+          "he": "בבא קמא דף 69"
+        },
+        "target_shabbat": "2031-06-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-69/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-70",
+        "title": {
+          "en": "Bava Kamma 70 — Power of Attorney and the Fourfold Penalty Despite Sin",
+          "he": "בבא קמא ע׳ — הרשאה וקנס ארבעה וחמשה למרות העבירה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 70",
+          "he": "בבא קמא דף 70"
+        },
+        "target_shabbat": "2031-06-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-70/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-71",
+        "title": {
+          "en": "Bava Kamma 71 — Slaughter by an Agent and Five Half-Oxen",
+          "he": "בבא קמא ע״א — טביחה על ידי שליח וחמשה חצאי בקר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 71",
+          "he": "בבא קמא דף 71"
+        },
+        "target_shabbat": "2031-06-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-71/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-72",
+        "title": {
+          "en": "Bava Kamma 72 — When Is Slaughter Complete? Conspiring Witnesses",
+          "he": "בבא קמא ע״ב — מתי נגמרת השחיטה? עדים זוממים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 72",
+          "he": "בבא קמא דף 72"
+        },
+        "target_shabbat": "2031-06-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-72/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-73",
+        "title": {
+          "en": "Bava Kamma 73 — Contradiction and Conspiracy: The Time of Speech",
+          "he": "בבא קמא ע״ג — הכחשה והזמה: תוך כדי דיבור"
+        },
+        "parashah": {
+          "en": "Bava Kamma 73",
+          "he": "בבא קמא דף 73"
+        },
+        "target_shabbat": "2031-06-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-73/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-74",
+        "title": {
+          "en": "Bava Kamma 74 — The Slave's Eye and Tooth, and the One Who Admits a Fine",
+          "he": "בבא קמא ע״ד — עין העבד ושינו, והמודה בקנס"
+        },
+        "parashah": {
+          "en": "Bava Kamma 74",
+          "he": "בבא קמא דף 74"
+        },
+        "target_shabbat": "2031-06-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-74/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-75",
+        "title": {
+          "en": "Bava Kamma 75 — Admitting a Fine and Sumakhos's Threefold Payment",
+          "he": "בבא קמא ע״ה — המודה בקנס ותשלומי שלשה של סומכוס"
+        },
+        "parashah": {
+          "en": "Bava Kamma 75",
+          "he": "בבא קמא דף 75"
+        },
+        "target_shabbat": "2031-06-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-75/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-76",
+        "title": {
+          "en": "Bava Kamma 76 — Stealing Consecrated Animals and \"Ready to Be Sprinkled\"",
+          "he": "בבא קמא ע״ו — גניבת קדשים ו\"כל העומד לזרוק\""
+        },
+        "parashah": {
+          "en": "Bava Kamma 76",
+          "he": "בבא קמא דף 76"
+        },
+        "target_shabbat": "2031-06-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-76/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-77",
+        "title": {
+          "en": "Bava Kamma 77 — Sale and Slaughter Together: Tereifa and Mixed Breeds",
+          "he": "בבא קמא ע״ז — מכירה וטביחה יחד: טרפה וכלאים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 77",
+          "he": "בבא קמא דף 77"
+        },
+        "target_shabbat": "2031-06-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-77/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-78",
+        "title": {
+          "en": "Bava Kamma 78 — Holding Back a Part: The Thief Who Sells All But a Hundredth",
+          "he": "בבא קמא ע״ח — שייר בה: הגנב שמכר חוץ מאחד ממאה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 78",
+          "he": "בבא קמא דף 78"
+        },
+        "target_shabbat": "2031-06-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-78/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-79",
+        "title": {
+          "en": "Bava Kamma 79 — Thief and Robber: Fearing People More Than God",
+          "he": "בבא קמא ע״ט — גנב וגזלן: מתיירא מבני אדם יותר מן המקום"
+        },
+        "parashah": {
+          "en": "Bava Kamma 79",
+          "he": "בבא קמא דף 79"
+        },
+        "target_shabbat": "2031-06-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-79/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-80",
+        "title": {
+          "en": "Bava Kamma 80 — The Pious Man's Goat and the Settlement of the Land",
+          "he": "בבא קמא פ׳ — העז של החסיד ויישוב ארץ ישראל"
+        },
+        "parashah": {
+          "en": "Bava Kamma 80",
+          "he": "בבא קמא דף 80"
+        },
+        "target_shabbat": "2031-06-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-80/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-81",
+        "title": {
+          "en": "Bava Kamma 81 — Joshua's Ten Conditions",
+          "he": "בבא קמא פ״א — עשרה תנאים שהתנה יהושע"
+        },
+        "parashah": {
+          "en": "Bava Kamma 81",
+          "he": "בבא קמא דף 81"
+        },
+        "target_shabbat": "2031-06-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-81/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-82",
+        "title": {
+          "en": "Bava Kamma 82 — Ezra's Ordinances, Jerusalem's Laws, and the Pig on the Wall",
+          "he": "בבא קמא פ״ב — תקנות עזרא, דיני ירושלים והחזיר שעל החומה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 82",
+          "he": "בבא קמא דף 82"
+        },
+        "target_shabbat": "2031-06-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-82/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-83",
+        "title": {
+          "en": "Bava Kamma 83 — Barking Dogs and \"An Eye for an Eye\"",
+          "he": "בבא קמא פ״ג — כלבים נובחים ו\"עין תחת עין\""
+        },
+        "parashah": {
+          "en": "Bava Kamma 83",
+          "he": "בבא קמא דף 83"
+        },
+        "target_shabbat": "2031-06-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-83/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-84",
+        "title": {
+          "en": "Bava Kamma 84 — Proofs That \"An Eye for an Eye\" Is Money, and Judging in Babylonia",
+          "he": "בבא קמא פ״ד — ראיות ש\"עין תחת עין\" ממון, ודין בבבל"
+        },
+        "parashah": {
+          "en": "Bava Kamma 84",
+          "he": "בבא קמא דף 84"
+        },
+        "target_shabbat": "2031-06-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-84/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-85",
+        "title": {
+          "en": "Bava Kamma 85 — Pain, Healing, and Loss of Time",
+          "he": "בבא קמא פ״ה — צער, ריפוי ושבת"
+        },
+        "parashah": {
+          "en": "Bava Kamma 85",
+          "he": "בבא קמא דף 85"
+        },
+        "target_shabbat": "2031-06-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-85/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-86",
+        "title": {
+          "en": "Bava Kamma 86 — Temporary Injury and the Measure of Shame",
+          "he": "בבא קמא פ״ו — נזק זמני ומידת הבושת"
+        },
+        "parashah": {
+          "en": "Bava Kamma 86",
+          "he": "בבא קמא דף 86"
+        },
+        "target_shabbat": "2031-06-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-86/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-87",
+        "title": {
+          "en": "Bava Kamma 87 — Commanded and Doing, and Injuring One's Daughter",
+          "he": "בבא קמא פ״ז — מצווה ועושה, והחובל בבתו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 87",
+          "he": "בבא קמא דף 87"
+        },
+        "target_shabbat": "2031-07-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-87/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-88",
+        "title": {
+          "en": "Bava Kamma 88 — The Slave's Brotherhood and the Ordinance of Usha",
+          "he": "בבא קמא פ״ח — האחווה של העבד ותקנת אושא"
+        },
+        "parashah": {
+          "en": "Bava Kamma 88",
+          "he": "בבא קמא דף 88"
+        },
+        "target_shabbat": "2031-07-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-88/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-89",
+        "title": {
+          "en": "Bava Kamma 89 — The Financial Advantage of a Ketubba",
+          "he": "בבא קמא פ״ט — טובת הנאת כתובה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 89",
+          "he": "בבא קמא דף 89"
+        },
+        "target_shabbat": "2031-07-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-89/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-90",
+        "title": {
+          "en": "Bava Kamma 90 — Fines for Insult and the Woman Who Uncovered Her Hair",
+          "he": "בבא קמא צ׳ — קנסות על עלבון והאשה שפרעה ראשה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 90",
+          "he": "בבא קמא דף 90"
+        },
+        "target_shabbat": "2031-07-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-90/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-91",
+        "title": {
+          "en": "Bava Kamma 91 — Assessing Injury and Harming Oneself",
+          "he": "בבא קמא צ״א — אומד הנזק והחובל בעצמו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 91",
+          "he": "בבא קמא דף 91"
+        },
+        "target_shabbat": "2031-07-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-91/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-92",
+        "title": {
+          "en": "Bava Kamma 92 — Asking Forgiveness and Proverbs from Scripture",
+          "he": "בבא קמא צ״ב — בקשת מחילה ומשלים מן הכתובים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 92",
+          "he": "בבא קמא דף 92"
+        },
+        "target_shabbat": "2031-07-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-92/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-93",
+        "title": {
+          "en": "Bava Kamma 93 — Curses, Consent, and the Robber's Change",
+          "he": "בבא קמא צ״ג — קללות, הסכמה ושינוי הגזלן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 93",
+          "he": "בבא קמא דף 93"
+        },
+        "target_shabbat": "2031-07-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-93/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-94",
+        "title": {
+          "en": "Bava Kamma 94 — Blessing over Stolen Bread and the Ordinance for Penitents",
+          "he": "בבא קמא צ״ד — ברכה על לחם גזול ותקנת השבים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 94",
+          "he": "בבא קמא דף 94"
+        },
+        "target_shabbat": "2031-07-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-94/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-95",
+        "title": {
+          "en": "Bava Kamma 95 — Penalty or Ownership: Rabbi Meir on the Robber's Gains",
+          "he": "בבא קמא צ״ה — קנס או בעלות: רבי מאיר ברווחי הגזלן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 95",
+          "he": "בבא קמא דף 95"
+        },
+        "target_shabbat": "2031-07-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-95/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-96",
+        "title": {
+          "en": "Bava Kamma 96 — Changes of Name and the Robber's Oxen",
+          "he": "בבא קמא צ״ו — שינויי השם ושורי הגזלן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 96",
+          "he": "בבא קמא דף 96"
+        },
+        "target_shabbat": "2031-07-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-96/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-97",
+        "title": {
+          "en": "Bava Kamma 97 — Using Another's Slave and the Coin That Lost Its Value",
+          "he": "בבא קמא צ״ז — שימוש בעבד חבירו והמטבע שנפסל"
+        },
+        "parashah": {
+          "en": "Bava Kamma 97",
+          "he": "בבא קמא דף 97"
+        },
+        "target_shabbat": "2031-07-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-97/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-98",
+        "title": {
+          "en": "Bava Kamma 98 — Rabba's Exemptions and the Craftsman Who Damaged",
+          "he": "בבא קמא צ״ח — פטורי רבה והאומן שקלקל"
+        },
+        "parashah": {
+          "en": "Bava Kamma 98",
+          "he": "בבא קמא דף 98"
+        },
+        "target_shabbat": "2031-07-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-98/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-99",
+        "title": {
+          "en": "Bava Kamma 99 — The Craftsman's Improvement and the Expert's Mistake",
+          "he": "בבא קמא צ״ט — שבח האומן וטעות המומחה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 99",
+          "he": "בבא קמא דף 99"
+        },
+        "target_shabbat": "2031-07-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-99/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-100",
+        "title": {
+          "en": "Bava Kamma 100 — Beyond the Letter of the Law and the Dyer's Mistake",
+          "he": "בבא קמא ק׳ — לפנים משורת הדין וטעות הצבע"
+        },
+        "parashah": {
+          "en": "Bava Kamma 100",
+          "he": "בבא קמא דף 100"
+        },
+        "target_shabbat": "2031-07-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-100/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-101",
+        "title": {
+          "en": "Bava Kamma 101 — Is Dye Substantial? Chairs, Colors, and Forbidden Peels",
+          "he": "בבא קמא ק״א — העמדת צבע — יש בה ממש? כסאות, צבעים וקליפות אסורות"
+        },
+        "parashah": {
+          "en": "Bava Kamma 101",
+          "he": "בבא קמא דף 101"
+        },
+        "target_shabbat": "2031-07-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-101/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-102",
+        "title": {
+          "en": "Bava Kamma 102 — Sabbatical Produce, the Agent Who Deviated, and the Exilarch's Name",
+          "he": "בבא קמא ק״ב — פירות שביעית, השליח ששינה ושם ריש גלותא"
+        },
+        "parashah": {
+          "en": "Bava Kamma 102",
+          "he": "בבא קמא דף 102"
+        },
+        "target_shabbat": "2031-07-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-102/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-103",
+        "title": {
+          "en": "Bava Kamma 103 — Following the Victim to Media",
+          "he": "בבא קמא ק״ג — יוליכנו אחריו למדי"
+        },
+        "parashah": {
+          "en": "Bava Kamma 103",
+          "he": "בבא קמא דף 103"
+        },
+        "target_shabbat": "2031-07-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-103/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-104",
+        "title": {
+          "en": "Bava Kamma 104 — Agents for Restitution and the Fifth of the Heirs",
+          "he": "בבא קמא ק״ד — שלוחים להשבה וחומש של יורשים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 104",
+          "he": "בבא קמא דף 104"
+        },
+        "target_shabbat": "2031-07-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-104/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-105",
+        "title": {
+          "en": "Bava Kamma 105 — Less Than a Peruta and False Oaths on Deposits",
+          "he": "בבא קמא ק״ה — פחות משוה פרוטה ושבועת שקר בפקדון"
+        },
+        "parashah": {
+          "en": "Bava Kamma 105",
+          "he": "בבא קמא דף 105"
+        },
+        "target_shabbat": "2031-07-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-105/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-106",
+        "title": {
+          "en": "Bava Kamma 106 — The Oath That Exempts and the Claim of Theft",
+          "he": "בבא קמא ק״ו — השבועה הפוטרת וטענת גנב"
+        },
+        "parashah": {
+          "en": "Bava Kamma 106",
+          "he": "בבא קמא דף 106"
+        },
+        "target_shabbat": "2031-07-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-106/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-107",
+        "title": {
+          "en": "Bava Kamma 107 — Partial Admission and the Four Bailees",
+          "he": "בבא קמא ק״ז — מודה במקצת וארבעה שומרים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 107",
+          "he": "בבא קמא דף 107"
+        },
+        "target_shabbat": "2031-07-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-107/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-108",
+        "title": {
+          "en": "Bava Kamma 108 — Fifth and Double, Bailee and Owner",
+          "he": "בבא קמא ק״ח — חומש וכפל, שומר ובעלים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 108",
+          "he": "בבא קמא דף 108"
+        },
+        "target_shabbat": "2031-07-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-108/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-109",
+        "title": {
+          "en": "Bava Kamma 109 — Robbing a Convert and the Priests' Share",
+          "he": "בבא קמא ק״ט — גזל הגר וחלק הכהנים"
+        },
+        "parashah": {
+          "en": "Bava Kamma 109",
+          "he": "בבא קמא דף 109"
+        },
+        "target_shabbat": "2031-07-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-109/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-110",
+        "title": {
+          "en": "Bava Kamma 110 — The Convert's Restitution and the Priestly Watches",
+          "he": "בבא קמא ק״י — השבת גזל הגר ומשמרות הכהונה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 110",
+          "he": "בבא קמא דף 110"
+        },
+        "target_shabbat": "2031-07-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-110/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-111",
+        "title": {
+          "en": "Bava Kamma 111 — Restitution Before the Offering, and the Robber's Heirs",
+          "he": "בבא קמא קי״א — השבה קודם לאשם, ויורשי הגזלן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 111",
+          "he": "בבא קמא דף 111"
+        },
+        "target_shabbat": "2031-07-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-111/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-112",
+        "title": {
+          "en": "Bava Kamma 112 — The Robber's Heirs and Judgment in Absence",
+          "he": "בבא קמא קי״ב — יורשי הגזלן ודין שלא בפני בעל דין"
+        },
+        "parashah": {
+          "en": "Bava Kamma 112",
+          "he": "בבא קמא דף 112"
+        },
+        "target_shabbat": "2031-07-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-112/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-113",
+        "title": {
+          "en": "Bava Kamma 113 — Tax Collectors and the Law of the Kingdom",
+          "he": "בבא קמא קי״ג — מוכסין ודינא דמלכותא"
+        },
+        "parashah": {
+          "en": "Bava Kamma 113",
+          "he": "בבא קמא דף 113"
+        },
+        "target_shabbat": "2031-07-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-113/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-114",
+        "title": {
+          "en": "Bava Kamma 114 — Despair Before Robbers and Recognizing One's Vessels",
+          "he": "בבא קמא קי״ד — יאוש מפני גזלנים והמכיר כליו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 114",
+          "he": "בבא קמא דף 114"
+        },
+        "target_shabbat": "2031-07-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-114/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-115",
+        "title": {
+          "en": "Bava Kamma 115 — The Market Ordinance and Saving Another's Honey",
+          "he": "בבא קמא קט״ו — תקנת השוק והצלת דבשו של חבירו"
+        },
+        "parashah": {
+          "en": "Bava Kamma 115",
+          "he": "בבא קמא דף 115"
+        },
+        "target_shabbat": "2031-07-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-115/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-116",
+        "title": {
+          "en": "Bava Kamma 116 — \"I Was Fooling You\" and Sharing Losses on the Road",
+          "he": "בבא קמא קט״ז — \"משטה אני בך\" וחלוקת הפסדים בדרך"
+        },
+        "parashah": {
+          "en": "Bava Kamma 116",
+          "he": "בבא קמא דף 116"
+        },
+        "target_shabbat": "2031-07-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-116/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-117",
+        "title": {
+          "en": "Bava Kamma 117 — The Informer, Rav Kahana's Journey, and the Flooded Field",
+          "he": "בבא קמא קי״ז — המוסר, מסעו של רב כהנא והשדה ששטפה נהר"
+        },
+        "parashah": {
+          "en": "Bava Kamma 117",
+          "he": "בבא קמא דף 117"
+        },
+        "target_shabbat": "2031-07-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-117/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-118",
+        "title": {
+          "en": "Bava Kamma 118 — Returning to the Owner: Place, Doubt, and the Counted Flock",
+          "he": "בבא קמא קי״ח — השבה לבעלים: מקום, ספק והעדר שנמנה"
+        },
+        "parashah": {
+          "en": "Bava Kamma 118",
+          "he": "בבא קמא דף 118"
+        },
+        "target_shabbat": "2031-08-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-118/"
+      },
+      {
+        "id": "cycle-15-bava-kamma-119",
+        "title": {
+          "en": "Bava Kamma 119 — Suspect Goods, the Soul of the Robbed, and the Craftsman's Leftovers",
+          "he": "בבא קמא קי״ט — סחורה חשודה, נפשו של הנגזל ושיירי האומן"
+        },
+        "parashah": {
+          "en": "Bava Kamma 119",
+          "he": "בבא קמא דף 119"
+        },
+        "target_shabbat": "2031-08-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-119/"
       }
     ],
     "calendar": {
@@ -39536,379 +42322,379 @@
     "total": 71006,
     "cards": [
       {
-        "id": "ye-45612",
-        "title": "Why wine for kiddush?",
+        "id": "ye-45572",
+        "title": "Deut. 29:15 -- why not \"you passed\" or \"we passed\"?",
         "titles": {
-          "en": "Why wine for kiddush?",
+          "en": "Deut. 29:15 -- why not \"you passed\" or \"we passed\"?",
           "he": ""
         },
         "language": "en",
-        "question": "Why do we use wine (or grape juice - fruit of the vine) when sanctifying Shabbat? How was it first determined that wine was holy and that it is used to satisfy and make holy the coming holiday or shab",
-        "answer": "According to Rambam the requirement of saying kiddush and havdalah over wine is a Rabbinic addition to the Torah commandment to sanctify the Sabbath by saying kiddush at it's beginning and havdalah at it's end. הלכות שבת כט,ו מדברי סופרים לקדש על היי",
-        "answer_count": 2,
+        "question": "In this week's parsha , Moshe says to Bnei Yisrael (Devarim 29:15 ): כִּי אַתֶּם יְדַעְתֶּם אֵת אֲשֶׁר יָשַׁבְנוּ בְּאֶרֶץ מִצְרָיִם וְאֵת אֲשֶׁר עָבַרְנוּ בְּקֶרֶב הַגּוֹיִם אֲשֶׁר עֲבַרְתֶּם For you",
+        "answer": "The Meshech Chochmah on this posuk explains that Moshe was reproving Yisrael here by saying that we all passed through the various nations, but only you sinned. We, the righteous who did not sin in any of the places that we passed through, passed thr",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-45612",
-        "source_url": "https://judaism.stackexchange.com/questions/45612/why-wine-for-kiddush",
-        "author": "Robert S. Barnes",
+        "url": "https://shekhina.org/qa.html?id=ye-45572",
+        "source_url": "https://judaism.stackexchange.com/questions/45572/deut-2915-why-not-you-passed-or-we-passed",
+        "author": "user4523",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-28540",
-        "title": "What is a Hava Amina Teretz?",
+        "id": "ye-28491",
+        "title": "Why did Chava give Adam the fruit to eat?",
         "titles": {
-          "en": "What is a Hava Amina Teretz?",
+          "en": "Why did Chava give Adam the fruit to eat?",
           "he": ""
         },
         "language": "en",
-        "question": "B\"H If \"hava amina\" means slightest notion, what is a hava amina teretz? I think teretz means an answer. So what is a slightest notion answer?",
-        "answer": "Just to provide you with a quick answer that may help you, although I'm not sure it's what you're looking for, a Havah Amina is not quite as you understand it. It is an initial assumption which the Gemara then goes on to probe to find out if it is co",
-        "answer_count": 2,
+        "question": "For what reason did Chava give Adam fruit from the tree of knowledge to eat?",
+        "answer": "In a comment to the OP's question Fred cites the well-known Rashi (see above). The Bartenura on the Torah expands on this Rashi (text borrowed from Sefaria.org, produced here in full): ותתן גם לאישה שלא תמות היא ויחיה הוא וישא אשה אחרת. קשה למה נתכונ",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-28540",
-        "source_url": "https://judaism.stackexchange.com/questions/28540/what-is-a-hava-amina-teretz",
-        "author": "Seth J",
+        "url": "https://shekhina.org/qa.html?id=ye-28491",
+        "source_url": "https://judaism.stackexchange.com/questions/28491/why-did-chava-give-adam-the-fruit-to-eat",
+        "author": "Shmuel Brown",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-11632",
-        "title": "Why is Rosh Chodesh sometimes TWO days?",
+        "id": "ye-11569",
+        "title": "Why should a choshed bichsherim bless the k'sherim?",
         "titles": {
-          "en": "Why is Rosh Chodesh sometimes TWO days?",
+          "en": "Why should a choshed bichsherim bless the k'sherim?",
           "he": ""
         },
         "language": "en",
-        "question": "Why for certain months of the year do we celebrate the festival of Rosh Chodesh for two days while on other Roshei Chadashim we have one day of Rosh Chodesh?",
-        "answer": "Tur ( Orach Chaim 427 ) explains as follows: A lunar month is 29-1/2 days plus some extra chalakim. Since a month has to have an integral number of days, the months (usually) alternate between 30 and 29. The 30th day, then, is always going to have to",
-        "answer_count": 4,
+        "question": "Bavli , B'rachos 31:2 says (in my own translation): \" Eli answered [ Chana ], saying 'go to peace'\": Rabbi El'azar said, from here we derive, about someone who suspects his fellow of a matter that tha",
+        "answer": "Where else do we learn to bless one we wrongly accuse? We could learn that lesson in Parashat Vayeitze from Lavan who blessed his daughters and grandchildren (Breishit 32:1) after accusing Jacob of stealing his idols (Breishit 31:30). Lavan's blessin",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-11632",
-        "source_url": "https://judaism.stackexchange.com/questions/11632/why-is-rosh-chodesh-sometimes-two-days",
-        "author": "Alex",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-11569",
+        "source_url": "https://judaism.stackexchange.com/questions/11569/why-should-a-choshed-bichsherim-bless-the-ksherim",
+        "author": "David P. Hochman",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "up-chabad-2836839",
-        "title": "The Giving of the Torah and Jewish Marriage Practices",
+        "id": "up-chabad-279478",
+        "title": "Will I Be the Next Runaway Bride?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "ביום חתונתו – יום מתן תורה שעטרוהו להם למלך לקבלו עולו On His wedding day. (Song of Songs 3:11) The day the Torah was given, when they crowned Him as King and accepted His yoke. (Rashi, ibid.) QUESTIO",
+        "question": "Question: I'm sure you read about the runaway bride whose story was in all the newspapers a couple of weeks ago. She didn't show up to her own wedding. I think I can relate to her. I am getting marrie",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "tanach",
+        "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-2836839",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/2836839/jewish/The-Giving-of-the-Torah-and-Jewish-Marriage-Practices.htm",
-        "author": "Moshe Bogomilsky",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-279478",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/279478/jewish/Will-I-Be-the-Next-Runaway-Bride.htm",
+        "author": "Aron Moss",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-134437",
-        "title": "Can one use a chess clock on Shabbat",
+        "id": "ye-134405",
+        "title": "Is eating a BeanBoozled jelly bean bal tishaktzu?",
         "titles": {
-          "en": "Can one use a chess clock on Shabbat",
+          "en": "Is eating a BeanBoozled jelly bean bal tishaktzu?",
           "he": ""
         },
         "language": "en",
-        "question": "Can one use an analog chess clock on Shabbat? This would require setting the timers, and continually starting and stopping it until the little red flag falls (no buzzer)",
-        "answer": "It is not allowed. One is not allowed to wind up a mechanical watch on Shabbat (see SSK 28:28 based on the mishna berura 338:16) You also have a problem with stopping and starting a mechanical timer, which is not allowed (see SSk 28:35 based on the C",
+        "question": "The Shulchan Aruch YD (116:6) writes : אסור לאכול מאכלים ומשקים שנפשו של אדם קצה בהם כגון משקים ואוכלים שנתערבו בהם קיא או צואה וליחה סרוחה וכיוצא בהם וכן אסור לאכול ולשתות בכלים הצואים שנפשו של אדם ק",
+        "answer": "The OU Rabbinical representative responded via email by saying there are two categories of foods in question: Inherently disgusting foods (e.g., rotten eggs) - One transgresses bal tishaktzu by consuming this food regardless of whether Healthy, good ",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-134437",
-        "source_url": "https://judaism.stackexchange.com/questions/134437/can-one-use-a-chess-clock-on-shabbat",
-        "author": "Yoreinu",
+        "url": "https://shekhina.org/qa.html?id=ye-134405",
+        "source_url": "https://judaism.stackexchange.com/questions/134405/is-eating-a-beanboozled-jelly-bean-bal-tishaktzu",
+        "author": "NJM",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-115228",
-        "title": "Why is Elijah mentioned in the blessings of the haftorah and in grace after meals?",
+        "id": "ye-115192",
+        "title": "Cleaning tefillin from Covid19 contact",
         "titles": {
-          "en": "Why is Elijah mentioned in the blessings of the haftorah and in grace after meals?",
+          "en": "Cleaning tefillin from Covid19 contact",
           "he": ""
         },
         "language": "en",
-        "question": "In the blessings of the haftorah, Elijah is mentioned and in grace after meals he is also mentioned. Why?",
-        "answer": "I don't believe there is an answer specific to your question, other than to say Elijah is beloved because he is the harbinger of the Messiah, and so is frequently invoked in our tradition to perform many tasks: - During Havdalah , at the conclusion o",
+        "question": "If someone contacts COVID-19, then everything they touch has to be disinfected. This is normally done with a wet disinfectant. Are there any recommendations for how to do this for tefillin to avoid da",
+        "answer": "Use Loewian's link (in his comment) to clean the tefillin or find another method that you prefer. For a few dollars/shekels you can buy tefilin ink or marker in your local seforim shop. Apply when necessary. [It's more important that the straps are 1",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-115228",
-        "source_url": "https://judaism.stackexchange.com/questions/115228/why-is-elijah-mentioned-in-the-blessings-of-the-haftorah-and-in-grace-after-meal",
-        "author": "Maurice Mizrahi",
+        "url": "https://shekhina.org/qa.html?id=ye-115192",
+        "source_url": "https://judaism.stackexchange.com/questions/115192/cleaning-tefillin-from-covid19-contact",
+        "author": "Geltman",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-96685",
-        "title": "Men making Kiddush (Shabbos day) for women after eating at shul",
+        "id": "ye-96643",
+        "title": "Chazal Heimlich Maneuver",
         "titles": {
-          "en": "Men making Kiddush (Shabbos day) for women after eating at shul",
+          "en": "Chazal Heimlich Maneuver",
           "he": ""
         },
         "language": "en",
-        "question": "Women and men are both equally chayiv in kiddush, at least on shabbos. Additionally there is a commonly known rule that a non obligated person (or obligated on a lower level) cannot fulfill a mitzvah ",
-        "answer": "I think you are confusing the different concepts. The discussion about a man being motze his wife on Friday night is a very different conversation to that of Shabbos day. Friday night: This discussion revolves around the dispute whether arvus - the c",
+        "question": "The Gemara Shabbos (67a) records תני תנא בפרק אמוראי קמיה דרבי חייא בר אבין אמר ליה כולהו אית בהו משום דרכי האמורי לבר מהני מי שיש לו עצם בגרונו מביא מאותו המין ומניח ליה על קדקדו ולימא הכי חד חד נחית",
+        "answer": "Yes, the incantation will work today, but only if you are precise in your pronunciation of the Hebrew letters, in the manner that Chazal historically pronounced them. This is the only incantation which is not superstition, because it makes total rati",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-96685",
-        "source_url": "https://judaism.stackexchange.com/questions/96685/men-making-kiddush-shabbos-day-for-women-after-eating-at-shul",
-        "author": "chortkov2",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-96643",
+        "source_url": "https://judaism.stackexchange.com/questions/96643/chazal-heimlich-maneuver",
+        "author": "josh waxman",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-81304",
-        "title": "Is it okay for a man to straighten his hair?",
+        "id": "ye-81269",
+        "title": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)?",
         "titles": {
-          "en": "Is it okay for a man to straighten his hair?",
+          "en": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)?",
           "he": ""
         },
         "language": "en",
-        "question": "Is a man allowed to use a flat iron to straighten his hair if the person doesn't like having curly hair?",
-        "answer": "kitzur shulchan aruch chapter 171 halacha 1 \"It is forbiden for a man to wear even one garment that is designed as a woman's, although he is dressed in a manner that clearly indicates that he is a man.\" ... \"This prohabition does not apply to clothes",
+        "question": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)? https://youtu.be/udYM4FuYdiA",
+        "answer": "Anyone who follows the 7 laws of Noah is a B’nai Noah. The issue is usually worshiping false gods as the other 6 are relatively uncommon these days. Worshiping of Allah is NOT considered idol worship is Allah is, even by Muslims the god of Abraham.",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-81304",
-        "source_url": "https://judaism.stackexchange.com/questions/81304/is-it-okay-for-a-man-to-straighten-his-hair",
-        "author": "L123",
+        "url": "https://shekhina.org/qa.html?id=ye-81269",
+        "source_url": "https://judaism.stackexchange.com/questions/81269/does-judaism-regard-muslims-as-bnai-noah-righteous-gentiles",
+        "author": "Morons",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-64408",
-        "title": "Why did Cain (Kayin) kill Abel (Hevel)?",
+        "id": "ye-64383",
+        "title": "What mitzvot existed for humanity prior to Noach?",
         "titles": {
-          "en": "Why did Cain (Kayin) kill Abel (Hevel)?",
+          "en": "What mitzvot existed for humanity prior to Noach?",
           "he": ""
         },
         "language": "en",
-        "question": "In Bereshis 4:8 we read: וַיֹּאמֶר קַיִן, אֶל-הֶבֶל אָחִיו; וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה, וַיָּקָם קַיִן אֶל-הֶבֶל אָחִיו וַיַּהַרְגֵהוּ And Cain spoke unto Abel his brother. And it came to pass, wh",
-        "answer": "Haamek Davar (see his commentary to the whole section for context) explains as follows. Abel was dependent on the farmer Cain for the staple, bread; thus, Cain was allowed to work him as needed and even to hit him in the course of training him to wor",
-        "answer_count": 5,
+        "question": "I am aware that Ramba\"m lists the commandment of \"Be fruitful and multiply\" (Breishit 1) as being the first mitzvah listed in the Torah (See Minyan Hamitzvot #212 ). However, this mitzvah is not one o",
+        "answer": "According to Rambam in Mishne Torah ( Hilchot Melachim u'Milchamot 9:1 ) there was 6 laws prior to Noah and they were given to Adam (includind the prohibition of idolatry and murder). Therefore, yes there was knowledge of such laws since Adam, they d",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "general",
+        "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-64408",
-        "source_url": "https://judaism.stackexchange.com/questions/64408/why-did-cain-kayin-kill-abel-hevel",
-        "author": "msh210",
+        "url": "https://shekhina.org/qa.html?id=ye-64383",
+        "source_url": "https://judaism.stackexchange.com/questions/64383/what-mitzvot-existed-for-humanity-prior-to-noach",
+        "author": "Renato S. Grun",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-2017100211579072",
-        "title": "האם חובה לבנות סוכה?",
+        "id": "ye-201710011429021",
+        "title": "בניית סוכה במרפסת מקורה",
         "titles": {
           "en": "",
-          "he": "האם חובה לבנות סוכה?"
+          "he": "בניית סוכה במרפסת מקורה"
         },
         "language": "he",
-        "question": "שלום כבוד הרב יש לי שאלה האם חובה לבנות סוכה בחג סוכות או שאפשר פשוט פעם אחת ללכת לאכול בסוכה שבבית כנסת ליד הבית? כי ההורים שלי לא רוצים להקים סוכה. מחוץ לבית יכולים לגנוב לנו את הסוכה אם נקים אותה ו",
+        "question": "אשמח לדעת האם ניתן לבנות סוכה במרפסת שהחלק המקורה נמצא בגובה 5 -6 מטר מהסכך כלומר ריצפת המרפסת שמעלי, ואם סוכה זו נפסלת האם ניתן לברך (בניין חדש אין סוכה בקרבת מקום במרחק סביר ) שלום וברכה תחת החלק המ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "tanach",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2017100211579072",
-        "source_url": "https://din.org.il/2017/10/02/%d7%94%d7%90%d7%9d-%d7%97%d7%95%d7%91%d7%94-%d7%9c%d7%91%d7%a0%d7%95%d7%aa-%d7%a1%d7%95%d7%9b%d7%94/",
+        "url": "https://shekhina.org/qa.html?id=ye-201710011429021",
+        "source_url": "https://din.org.il/2017/10/01/%d7%91%d7%a0%d7%99%d7%99%d7%aa-%d7%a1%d7%95%d7%9b%d7%94-%d7%91%d7%9e%d7%a8%d7%a4%d7%a1%d7%aa-%d7%9e%d7%a7%d7%95%d7%a8%d7%94/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "up-din-2011092516615799",
-        "title": "מי שיש לו איש מכירות גוי שעובד ביום טוב",
+        "id": "up-din-201010141803983",
+        "title": "הכנסת ספר תורה תחת חופה בשבת ויום טוב",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "מי שיש לו איש מכירות [הנקראים בלע\"ז סעילסמע\"ן] גוים גמורים במסחר שלו ומקבלים שכרם בין מספר קבוע לשבוע וגם כמה אחוז קומיסיון – שכר עמלה, ורוצים על דעת עצמם לעבוד גם בימים טובים ומצד הבעה\"ב אין להם התחי",
+        "question": "שאלה: שאלה ששמעתי: בית כנסת שעשה הכנסת ספר תורה בשמחת תורה, האם מותר להוביל את הספר מתחת לחופה או שיש לחשוש לאיסור עשיית אוהל ביו\"ט?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2011092516615799",
-        "source_url": "https://din.org.il/2011/09/25/%d7%9e%d7%99-%d7%a9%d7%99%d7%a9-%d7%9c%d7%95-%d7%90%d7%99%d7%a9-%d7%9e%d7%9b%d7%99%d7%a8%d7%95%d7%aa-%d7%92%d7%95%d7%99-%d7%a9%d7%a2%d7%95%d7%91%d7%93-%d7%91%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/",
+        "url": "https://shekhina.org/qa.html?id=up-din-201010141803983",
+        "source_url": "https://din.org.il/2010/10/14/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%95%d7%a8%d7%94-%d7%91%d7%97%d7%95%d7%a4%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%95%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/",
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "yeshiva-145635",
-        "title": "תודה רבה!",
+        "id": "yeshiva-145565",
+        "title": "צום ט באב לטסים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "א. האם מותר באופן זה גם בתשעת הימים? ב. אשמח לקצת הרחבה לטעם ההיתר",
+        "question": "תודה רבה לרב על המענה המפורט. אבקש לחדד את השאלה, עיקר השאלה הוא מתי צריך להתחיל את הצום, שכן בתחילת הטיסה כשהמטוס ממריא הצום עדיין לא החל. לכן השאלה היא האם צריך להתחיל את הצום לפי השעה של המקום ממנו",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-145635",
-        "source_url": "https://www.yeshiva.org.il/ask/145635",
-        "author": "הרב ליעד אוריין",
+        "url": "https://shekhina.org/qa.html?id=yeshiva-145565",
+        "source_url": "https://www.yeshiva.org.il/ask/145565",
+        "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-93417",
-        "title": "If a woman proclaims \"I am a male\", will she become obligated to observe all mitzvos which men are obligated, because of שוייה לנפשה חתיכה דאיסורא?",
+        "id": "ye-92594",
+        "title": "What language is called by the Gemara עברית / Ivrit and who were the עברים / Ivrim?",
         "titles": {
           "en": "",
-          "he": "If a woman proclaims \"I am a male\", will she become obligated to observe all mitzvos which men are obligated, because of שוייה לנפשה חתיכה דאיסורא?"
+          "he": "What language is called by the Gemara עברית / Ivrit and who were the עברים / Ivrim?"
         },
         "language": "he",
-        "question": "If a woman proclaims \"I am a male, (and I underwent gender-change surgery)\", will she become obligated to observe all mitzvos which men are obligated, because of שוייה לנפשה חתיכה דאיסורא - She render",
-        "answer": "The statement \"I am a man\" is either: a potential issur Gavra (acceptance upon oneself), in which case there is no chaticha deissura which is an Issue cheftza (article that is designated to become forbidden), rather a Shavua see note.* Also See ran N",
+        "question": "Gemara Megilla 18a: מיתיבי קראה גיפטית עברית עילמית מדית יוונית לא יצא [The Gemara is discussing languages for reading the Megilla... It is taught in a baraita: If one reads the Megilla in Coptic [Gip",
+        "answer": "Jastrow's dictionary (s.v. עברי) glosses עברית לעבריים as \"an Aramaic translation read before Aramaean Jews.\" Some explanation: Abraham was called העברי because he came from the other side (עבר) of the river and spoke לשון עברי ( Bereshit Rabba 42:8 ",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "talmud",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-93417",
-        "source_url": "https://judaism.stackexchange.com/questions/93417/if-a-woman-proclaims-i-am-a-male-will-she-become-obligated-to-observe-all-mit",
-        "author": "yosefkorn",
+        "url": "https://shekhina.org/qa.html?id=ye-92594",
+        "source_url": "https://judaism.stackexchange.com/questions/92594/what-language-is-called-by-the-gemara-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-ivrit-and-who-were-the-%d7%a2%d7%91%d7%a8%d7%99%d7%9d-ivr",
+        "author": "b a",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "din-url-668022b9d68569a4666783ff",
-        "title": "שטיפת חסה בשבת",
+        "id": "din-url-65983f2e58ecff7fab31b459",
+        "title": "שערה שנתפסה במסיכה בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר להשרות לשטוף חסה בחג?",
+        "question": "שלום וברכהכאשר שער נתפס במסיכה בשבת, וכשמושכים את המסיכה השער יכול להתלש, [אמנם יתכן לכאו' שהשער יתנתק מהמסיכה], האם מותר למשוך את המסיכה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-668022b9d68569a4666783ff",
-        "source_url": "https://din.org.il/2018/09/07/%d7%a9%d7%98%d7%99%d7%a4%d7%aa-%d7%97%d7%a1%d7%94-%d7%91%d7%a9%d7%91%d7%aa-3/",
-        "author": "הרב ירוחם ארלנגר‎",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "up-din-424420",
-        "title": "הזמנה שהגיעה לארץ בשבת – הנאה ממעשה שבת של יהודי מחלל שבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב, קנינו מוצר מסין ומופיע במעקב משלוח שהמוצר הגיע לארץ בשבת (אם הבנתי נכון), האם צריך לחשוש שיהודים התעסקו בזה בשבת בשדה תעופה או בשחרור מהמכס? ואם כן מותר ליהנות מהמוצר?תודה רבה.",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-424420",
-        "source_url": "https://din.org.il/2023/08/13/%d7%94%d7%96%d7%9e%d7%a0%d7%94-%d7%a9%d7%94%d7%92%d7%99%d7%a2%d7%94-%d7%9c%d7%90%d7%a8%d7%a5-%d7%91%d7%a9%d7%91%d7%aa-%d7%94%d7%a0%d7%90%d7%94-%d7%9e%d7%9e%d7%a2%d7%a9%d7%94-%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=din-url-65983f2e58ecff7fab31b459",
+        "source_url": "https://din.org.il/2020/11/01/%d7%a9%d7%a2%d7%a8%d7%94-%d7%a9%d7%a0%d7%aa%d7%a4%d7%a1%d7%94-%d7%91%d7%9e%d7%a1%d7%99%d7%9b%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "up-din-12849",
-        "title": "השתתפות בשמחה שיש בה מוזיקה בספירת העומר",
+        "id": "up-din-422337",
+        "title": "ציצית בשמיכה ומגבת / ציצית בלילה במקום שאין עירוב",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום אני מוזמן לבר מצווה חילונית בימי הספירה [י\"א אייר]. באירוע יהיה די ג'יי [תקליטן] האם מותר לי לשבת בזמן שהמוזיקה מתנגנת תודה על האתר המדהים. \"מיום שחרב ביהמ\"ק אין לו לקב\"ה בעולמו אלא ד' אמות של הל",
+        "question": "מגבת סדין שמיכה מתעטפים בהם הרי בניגוב/בשינה למה לא שמים בהם ציצית?שמעתי שיש המקפידים לא ללכת עם ציצית בש\"ק (לא לובשים ט\"ק ואילו את הט\"ג מביאים לביהכנ\"ס לפני ש\"ק ומשאירים שם עד מוצש\"ק) כי חוששים לדעת ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-12849",
-        "source_url": "https://din.org.il/2011/05/09/%d7%94%d7%a9%d7%aa%d7%aa%d7%a4%d7%95%d7%aa-%d7%91%d7%a9%d7%9e%d7%97%d7%94-%d7%a9%d7%99%d7%a9-%d7%91%d7%94-%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%91%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95/",
-        "author": "רבני בית ההוראה",
+        "url": "https://shekhina.org/qa.html?id=up-din-422337",
+        "source_url": "https://din.org.il/2023/07/26/%d7%a6%d7%99%d7%a6%d7%99%d7%aa-%d7%91%d7%a9%d7%9e%d7%99%d7%9b%d7%94-%d7%95%d7%9e%d7%92%d7%91%d7%aa-%d7%a6%d7%99%d7%a6%d7%99%d7%aa-%d7%91%d7%9c%d7%99%d7%9c%d7%94-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9/",
+        "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "yeshiva-137350",
-        "title": "האם צריך לשים ציצית בפשמינה?",
+        "id": "up-din-127872",
+        "title": "מוזיקה בבית הספר בספירת העומר / מה גדול יותר לימוד התורה או עשיית המצוות?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם צריך לשים ציצית במין צעיף גדול שמתעטפים בו בראש בצואר ולפעמים בבטן שקוראים לו פשמינה",
+        "question": "שלום כבוד הרב יש לי שאלה האם מותר לי לקנות בחנות שיש בה שירים ברקע? והאם מותר לשמוע שירים בלג בעומר? שמעתי שיש התר לשמוע מוזיקה ווקאלית או משהוא כזה, והאם כבוד הרב יכול להסביר מזה מוזיקה וואקלית והאם ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-127872",
+        "source_url": "https://din.org.il/2016/05/19/%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%94%d7%a1%d7%a4%d7%a8-%d7%91%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8-%d7%9e%d7%94-%d7%92%d7%93%d7%95%d7%9c/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "yeshiva-137239",
+        "title": "אמירת קדיש בבית הקברות ביורצייט",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "אני איני דתי אך מסורתי. מתפלל מספר פעמים בשבוע תפילת מנחה בעבודה, ובמהלך המנחה אומר קדיש על הוריי שנפטרו. ביום השנה על הוריי אני עורך בעצמי את טקס האזכרה (תהילים, תפילת אל מלא רחמים, אותיות נשמה וכול)",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-137350",
-        "source_url": "https://www.yeshiva.org.il/ask/137350",
-        "author": "הרב דוד חי הכהן",
+        "url": "https://shekhina.org/qa.html?id=yeshiva-137239",
+        "source_url": "https://www.yeshiva.org.il/ask/137239",
+        "author": "הרב נועם דביר מייזלס",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "up-din-201303285532974",
-        "title": "וואלזין וקרם ידים לפסח",
+        "id": "up-din-201303241491158",
+        "title": "לאכול לפני בדיקת חמץ כשאינו יכול לבדוק",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר להשתמש בוואזליו לשפתיים בפסח? האם קרם ידים דורש כשרות לפסח?",
+        "question": "האם מותר לאכול לפני בדיקת חמץ כשעדיין לא מתאפשר לו לבדוק את חמצו?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201303285532974",
-        "source_url": "https://din.org.il/2013/03/28/%d7%95%d7%95%d7%90%d7%9c%d7%96%d7%99%d7%9f-%d7%95%d7%a7%d7%a8%d7%9d-%d7%99%d7%93%d7%99%d7%9d-%d7%9c%d7%a4%d7%a1%d7%97/",
-        "author": "הרב יוסף זריצקי",
+        "url": "https://shekhina.org/qa.html?id=up-din-201303241491158",
+        "source_url": "https://din.org.il/2013/03/24/%d7%9c%d7%90%d7%9b%d7%95%d7%9c-%d7%9c%d7%a4%d7%a0%d7%99-%d7%91%d7%93%d7%99%d7%a7%d7%aa-%d7%97%d7%9e%d7%a5-%d7%9b%d7%a9%d7%90%d7%99%d7%a0%d7%95-%d7%99%d7%9b%d7%95%d7%9c-%d7%9c%d7%90%d7%9b%d7%95%d7%9c/",
+        "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ad54402d2ab626e839fe2427"
