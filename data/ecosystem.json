@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-19T01:52:00Z",
+  "checked_at": "2026-11-19T12:59:21Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-19T01:52:00Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-19T01:52:00Z"
+      "checked_at": "2026-11-19T12:59:21Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-19T01:52:00Z"
+      "checked_at": "2026-11-19T12:59:21Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-19T12:59:21Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-19T01:52:00Z"
+      "checked_at": "2026-11-19T12:59:21Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-19T01:52:00Z"
+      "checked_at": "2026-11-19T12:59:21Z"
     }
   },
   "music": [
@@ -33380,6 +33380,1252 @@
         "target_shabbat": "2030-10-18",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sotah-49/"
+      },
+      {
+        "id": "cycle-15-gittin-2",
+        "title": {
+          "en": "Gittin 2 — Why the Agent Must Speak: Lishmah, Confirmation, and the Borders of the Land",
+          "he": "מדוע השליח צריך לומר: לשמה, קיום, וגבולות הארץ"
+        },
+        "parashah": {
+          "en": "Gittin 2",
+          "he": "גיטין דף 2"
+        },
+        "target_shabbat": "2030-10-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-2/"
+      },
+      {
+        "id": "cycle-15-gittin-3",
+        "title": {
+          "en": "Gittin 3 — A Leniency That Looks Like a Stringency: Why Each Reason Needs Its Own Wording",
+          "he": "קולא שנראית כחומרא: מדוע כל טעם צריך את לשונו"
+        },
+        "parashah": {
+          "en": "Gittin 3",
+          "he": "גיטין דף 3"
+        },
+        "target_shabbat": "2030-10-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-3/"
+      },
+      {
+        "id": "cycle-15-gittin-4",
+        "title": {
+          "en": "Gittin 4 — Each Amora Answers in His Own Terms: Tanna, Border Towns, and Two Hostile Governors",
+          "he": "כל אמורא מתרץ לטעמיה: תנא, עיירות הספר ושני שלטונות עוינים"
+        },
+        "parashah": {
+          "en": "Gittin 4",
+          "he": "גיטין דף 4"
+        },
+        "target_shabbat": "2030-10-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-4/"
+      },
+      {
+        "id": "cycle-15-gittin-5",
+        "title": {
+          "en": "Gittin 5 — When the Agent Cannot Speak: Later Generations, Decrees, and the Formula of the Sages",
+          "he": "כשהשליח אינו יכול לומר: דורות אחרונים, גזירות, ומטבע שטבעו חכמים"
+        },
+        "parashah": {
+          "en": "Gittin 5",
+          "he": "גיטין דף 5"
+        },
+        "target_shabbat": "2030-10-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-5/"
+      },
+      {
+        "id": "cycle-15-gittin-6",
+        "title": {
+          "en": "Gittin 6 — Where Witnesses Can Be Found: Babylonia, Markets, and the Authority of Rabbi Evyatar",
+          "he": "היכן העדים מצויים: בבל, שווקים, וסמכותו של רבי אביתר"
+        },
+        "parashah": {
+          "en": "Gittin 6",
+          "he": "גיטין דף 6"
+        },
+        "target_shabbat": "2030-10-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-6/"
+      },
+      {
+        "id": "cycle-15-gittin-7",
+        "title": {
+          "en": "Gittin 7 — Silence, Mourning, and a Ship at Sea: From Aggada Back to the Map",
+          "he": "שתיקה, אבל וספינה בים: מן האגדה בחזרה אל המפה"
+        },
+        "parashah": {
+          "en": "Gittin 7",
+          "he": "גיטין דף 7"
+        },
+        "target_shabbat": "2030-10-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-7/"
+      },
+      {
+        "id": "cycle-15-gittin-8",
+        "title": {
+          "en": "Gittin 8 — Islands, Syria, and a Slave’s Document: Where the Land Ends and What a Get Can Carry",
+          "he": "איים, סוריא ושטר של עבד: היכן הארץ נגמרת ומה גט יכול לשאת"
+        },
+        "parashah": {
+          "en": "Gittin 8",
+          "he": "גיטין דף 8"
+        },
+        "target_shabbat": "2030-10-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-8/"
+      },
+      {
+        "id": "cycle-15-gittin-9",
+        "title": {
+          "en": "Gittin 9 — Counting the Ways a Get and a Bill of Freedom Are Alike",
+          "he": "למנות את הדרכים ששוו גיטי נשים לשחרורי עבדים"
+        },
+        "parashah": {
+          "en": "Gittin 9",
+          "he": "גיטין דף 9"
+        },
+        "target_shabbat": "2030-10-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-9/"
+      },
+      {
+        "id": "cycle-15-gittin-10",
+        "title": {
+          "en": "Gittin 10 — Samaritan Witnesses and Gentile Courts: Who May Sign a Get?",
+          "he": "עדים כותים וערכאות של גויים: מי רשאי לחתום על גט?"
+        },
+        "parashah": {
+          "en": "Gittin 10",
+          "he": "גיטין דף 10"
+        },
+        "target_shabbat": "2030-10-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-10/"
+      },
+      {
+        "id": "cycle-15-gittin-11",
+        "title": {
+          "en": "Gittin 11 — Names, Courts, and Benefit in Absence: Who Signs and Who Acquires",
+          "he": "שמות, ערכאות וזכייה שלא בפניו: מי חותם ומי קונה"
+        },
+        "parashah": {
+          "en": "Gittin 11",
+          "he": "גיטין דף 11"
+        },
+        "target_shabbat": "2030-10-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-11/"
+      },
+      {
+        "id": "cycle-15-gittin-12",
+        "title": {
+          "en": "Gittin 12 — “Work for Me, but I Will Not Feed You”: The Slave’s Maintenance and the Limits of Benefit",
+          "he": "״עשה עמי ואיני זנך״: מזונות העבד וגבולות הזכות"
+        },
+        "parashah": {
+          "en": "Gittin 12",
+          "he": "גיטין דף 12"
+        },
+        "target_shabbat": "2030-10-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-12/"
+      },
+      {
+        "id": "cycle-15-gittin-13",
+        "title": {
+          "en": "Gittin 13 — After Death and in the Presence of Three: How Instructions Transfer Rights",
+          "he": "לאחר מיתה ובמעמד שלושתן: כיצד הוראה מעבירה זכויות"
+        },
+        "parashah": {
+          "en": "Gittin 13",
+          "he": "גיטין דף 13"
+        },
+        "target_shabbat": "2030-10-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-13/"
+      },
+      {
+        "id": "cycle-15-gittin-14",
+        "title": {
+          "en": "Gittin 14 — Rules Without Reasons and Agents Under Pressure",
+          "he": "הלכה בלא טעמא ושליחים תחת לחץ"
+        },
+        "parashah": {
+          "en": "Gittin 14",
+          "he": "גיטין דף 14"
+        },
+        "target_shabbat": "2030-10-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-14/"
+      },
+      {
+        "id": "cycle-15-gittin-15",
+        "title": {
+          "en": "Gittin 15 — All by One Method: Half-Declarations, Mixed Proofs, and Combining Measures",
+          "he": "הכול בדרך אחת: חצאי אמירות, ראיות מעורבות וצירוף שיעורים"
+        },
+        "parashah": {
+          "en": "Gittin 15",
+          "he": "גיטין דף 15"
+        },
+        "target_shabbat": "2030-11-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-15/"
+      },
+      {
+        "id": "cycle-15-gittin-16",
+        "title": {
+          "en": "Gittin 16 — Halves That Do Not Combine and Two Who Bring a Get",
+          "he": "חצאים שאינם מצטרפים ושניים שהביאו גט"
+        },
+        "parashah": {
+          "en": "Gittin 16",
+          "he": "גיטין דף 16"
+        },
+        "target_shabbat": "2030-11-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-16/"
+      },
+      {
+        "id": "cycle-15-gittin-17",
+        "title": {
+          "en": "Gittin 17 — Why a Get Carries a Date: Sister’s Daughter, Fruits, and the Limits of Precision",
+          "he": "מדוע גט נושא זמן: בת אחותו, פירות, וגבולות הדיוק"
+        },
+        "parashah": {
+          "en": "Gittin 17",
+          "he": "גיטין דף 17"
+        },
+        "target_shabbat": "2030-11-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-17/"
+      },
+      {
+        "id": "cycle-15-gittin-18",
+        "title": {
+          "en": "Gittin 18 — Counting From the Writing: Dates, Waiting Periods, and Ten Who Were Told to Write",
+          "he": "מונים משעת כתיבה: זמנים, הבחנה, ועשרה שנאמר להם לכתוב"
+        },
+        "parashah": {
+          "en": "Gittin 18",
+          "he": "גיטין דף 18"
+        },
+        "target_shabbat": "2030-11-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-18/"
+      },
+      {
+        "id": "cycle-15-gittin-19",
+        "title": {
+          "en": "Gittin 19 — What a Get Is Written With: Ink, Tracing, and Invisible Writing",
+          "he": "במה כותבים גט: דיו, העברה על כתב, וכתב שאינו נראה"
+        },
+        "parashah": {
+          "en": "Gittin 19",
+          "he": "גיטין דף 19"
+        },
+        "target_shabbat": "2030-11-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-19/"
+      },
+      {
+        "id": "cycle-15-gittin-20",
+        "title": {
+          "en": "Gittin 20 — Writing, Engraving, and Owning the Surface: What Makes a Get Hers",
+          "he": "כתיבה, חקיקה ובעלות על המשטח: מה הופך גט לשלה"
+        },
+        "parashah": {
+          "en": "Gittin 20",
+          "he": "גיטין דף 20"
+        },
+        "target_shabbat": "2030-11-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-20/"
+      },
+      {
+        "id": "cycle-15-gittin-21",
+        "title": {
+          "en": "Gittin 21 — Acquiring the Get: Slaves, Courtyards, a Cow’s Horn, and Writing on the Ground",
+          "he": "קניית הגט: עבד, חצר, קרן של פרה וכתיבה במחובר"
+        },
+        "parashah": {
+          "en": "Gittin 21",
+          "he": "גיטין דף 21"
+        },
+        "target_shabbat": "2030-11-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-21/"
+      },
+      {
+        "id": "cycle-15-gittin-22",
+        "title": {
+          "en": "Gittin 22 — Pots, Roots, and Hides: Where Things Belong and What They Are Made Of",
+          "he": "עציצים, שורשים ועורות: היכן דברים שייכים וממה הם עשויים"
+        },
+        "parashah": {
+          "en": "Gittin 22",
+          "he": "גיטין דף 22"
+        },
+        "target_shabbat": "2030-11-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-22/"
+      },
+      {
+        "id": "cycle-15-gittin-23",
+        "title": {
+          "en": "Gittin 23 — Who May Write, Who May Carry: Understanding, Covenant, and Trust",
+          "he": "מי כותב ומי מביא: דעת, ברית ונאמנות"
+        },
+        "parashah": {
+          "en": "Gittin 23",
+          "he": "גיטין דף 23"
+        },
+        "target_shabbat": "2030-11-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-23/"
+      },
+      {
+        "id": "cycle-15-gittin-24",
+        "title": {
+          "en": "Gittin 24 — For Her and for Him: A Woman Bearing Her Own Get and the Meaning of Lishmah",
+          "he": "לה ולשמו: אישה המביאה את גיטה ומשמעות לשמה"
+        },
+        "parashah": {
+          "en": "Gittin 24",
+          "he": "גיטין דף 24"
+        },
+        "target_shabbat": "2030-11-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-24/"
+      },
+      {
+        "id": "cycle-15-gittin-25",
+        "title": {
+          "en": "Gittin 25 — Bereira: Can a Choice Made Later Define What Was Meant Before?",
+          "he": "ברירה: האם בחירה מאוחרת יכולה לקבוע מה הייתה הכוונה מלכתחילה?"
+        },
+        "parashah": {
+          "en": "Gittin 25",
+          "he": "גיטין דף 25"
+        },
+        "target_shabbat": "2030-11-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-25/"
+      },
+      {
+        "id": "cycle-15-gittin-26",
+        "title": {
+          "en": "Gittin 26 — Templates and the Enactment: What a Scribe May Prepare in Advance",
+          "he": "טפסים ותקנה: מה סופר רשאי להכין מראש"
+        },
+        "parashah": {
+          "en": "Gittin 26",
+          "he": "גיטין דף 26"
+        },
+        "target_shabbat": "2030-11-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-26/"
+      },
+      {
+        "id": "cycle-15-gittin-27",
+        "title": {
+          "en": "Gittin 27 — A Get That Was Lost: Caravans, Identical Names, and Distinguishing Marks",
+          "he": "גט שאבד: שיירות, שמות זהים וסימנים"
+        },
+        "parashah": {
+          "en": "Gittin 27",
+          "he": "גיטין דף 27"
+        },
+        "target_shabbat": "2030-11-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-27/"
+      },
+      {
+        "id": "cycle-15-gittin-28",
+        "title": {
+          "en": "Gittin 28 — Presumed Alive: Old Age, Illness, and Those in Danger",
+          "he": "בחזקת שהוא קיים: זקנה, חולי ומי שנמצא בסכנה"
+        },
+        "parashah": {
+          "en": "Gittin 28",
+          "he": "גיטין דף 28"
+        },
+        "target_shabbat": "2030-11-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-28/"
+      },
+      {
+        "id": "cycle-15-gittin-29",
+        "title": {
+          "en": "Gittin 29 — An Agent Who Appoints an Agent: Illness, Instructions, and the Chain of Authority",
+          "he": "שליח עושה שליח: חולי, הוראות ושרשרת הסמכות"
+        },
+        "parashah": {
+          "en": "Gittin 29",
+          "he": "גיטין דף 29"
+        },
+        "target_shabbat": "2030-11-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-29/"
+      },
+      {
+        "id": "cycle-15-gittin-30",
+        "title": {
+          "en": "Gittin 30 — Loans Repaid in Tithes: Conditions, Duress, and the Presumption of Life",
+          "he": "הלוואה הנפרעת במתנות: תנאים, אונס וחזקת חיים"
+        },
+        "parashah": {
+          "en": "Gittin 30",
+          "he": "גיטין דף 30"
+        },
+        "target_shabbat": "2030-11-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-30/"
+      },
+      {
+        "id": "cycle-15-gittin-31",
+        "title": {
+          "en": "Gittin 31 — Produce Set Aside and the East Wind: From Presumptions to Aggada",
+          "he": "פירות מונחים ורוח קדים: מן החזקות אל האגדה"
+        },
+        "parashah": {
+          "en": "Gittin 31",
+          "he": "גיטין דף 31"
+        },
+        "target_shabbat": "2030-11-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-31/"
+      },
+      {
+        "id": "cycle-15-gittin-32",
+        "title": {
+          "en": "Gittin 32 — Cancelling a Get: Words That Undo and Words That Do Nothing",
+          "he": "ביטול גט: מילים המבטלות ומילים שאינן מועילות"
+        },
+        "parashah": {
+          "en": "Gittin 32",
+          "he": "גיטין דף 32"
+        },
+        "target_shabbat": "2030-11-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-32/"
+      },
+      {
+        "id": "cycle-15-gittin-33",
+        "title": {
+          "en": "Gittin 33 — “What Then Is the Power of the Court?” Cancellation, Annulment, and Ten Scribes",
+          "he": "״אם כן מה כוח בית דין יפה?״ ביטול, הפקעה ועשרה סופרים"
+        },
+        "parashah": {
+          "en": "Gittin 33",
+          "he": "גיטין דף 33"
+        },
+        "target_shabbat": "2030-11-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-33/"
+      },
+      {
+        "id": "cycle-15-gittin-34",
+        "title": {
+          "en": "Gittin 34 — Revealed Intent and Every Name He Has: Rabban Gamliel’s Enactments Continue",
+          "he": "גילוי דעת וכל שום שיש לו: המשך תקנות רבן גמליאל"
+        },
+        "parashah": {
+          "en": "Gittin 34",
+          "he": "גיטין דף 34"
+        },
+        "target_shabbat": "2030-11-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-34/"
+      },
+      {
+        "id": "cycle-15-gittin-35",
+        "title": {
+          "en": "Gittin 35 — An Oath Too Dangerous to Take: The Widow, the Gold Dinar, and the Vow",
+          "he": "שבועה מסוכנת מדי: האלמנה, דינר הזהב והנדר"
+        },
+        "parashah": {
+          "en": "Gittin 35",
+          "he": "גיטין דף 35"
+        },
+        "target_shabbat": "2030-11-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-35/"
+      },
+      {
+        "id": "cycle-15-gittin-36",
+        "title": {
+          "en": "Gittin 36 — Signatures, Prozbul, and the Court’s Power to Expropriate",
+          "he": "חתימות, פרוזבול וכוח בית הדין להפקיע"
+        },
+        "parashah": {
+          "en": "Gittin 36",
+          "he": "גיטין דף 36"
+        },
+        "target_shabbat": "2030-11-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-36/"
+      },
+      {
+        "id": "cycle-15-gittin-37",
+        "title": {
+          "en": "Gittin 37 — Prozbul in Practice and a Slave Redeemed From Captivity",
+          "he": "פרוזבול למעשה ועבד שנפדה מן השבי"
+        },
+        "parashah": {
+          "en": "Gittin 37",
+          "he": "גיטין דף 37"
+        },
+        "target_shabbat": "2030-11-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-37/"
+      },
+      {
+        "id": "cycle-15-gittin-38",
+        "title": {
+          "en": "Gittin 38 — Freedom, Captivity, and the Command “You Shall Work Them Forever”",
+          "he": "חירות, שבי, והציווי ״לעולם בהם תעבודו״"
+        },
+        "parashah": {
+          "en": "Gittin 38",
+          "he": "גיטין דף 38"
+        },
+        "target_shabbat": "2030-11-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-38/"
+      },
+      {
+        "id": "cycle-15-gittin-39",
+        "title": {
+          "en": "Gittin 39 — Freedom by Renunciation or by Document: The Slave Between Property and Person",
+          "he": "חירות בהפקר או בשטר: העבד בין ממון לאדם"
+        },
+        "parashah": {
+          "en": "Gittin 39",
+          "he": "גיטין דף 39"
+        },
+        "target_shabbat": "2030-11-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-39/"
+      },
+      {
+        "id": "cycle-15-gittin-40",
+        "title": {
+          "en": "Gittin 40 — Acts That Free a Slave: Marriage, Tefillin, Last Words, and a Mortgaged Slave",
+          "he": "מעשים המשחררים עבד: נישואין, תפילין, דברי שכיב מרע ועבד אפותיקי"
+        },
+        "parashah": {
+          "en": "Gittin 40",
+          "he": "גיטין דף 40"
+        },
+        "target_shabbat": "2030-11-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-40/"
+      },
+      {
+        "id": "cycle-15-gittin-41",
+        "title": {
+          "en": "Gittin 41 — Half Slave, Half Free: Liens, Hidden Damage, and the Purpose of Creation",
+          "he": "חציו עבד וחציו בן חורין: שעבוד, היזק שאינו ניכר ותכלית הבריאה"
+        },
+        "parashah": {
+          "en": "Gittin 41",
+          "he": "גיטין דף 41"
+        },
+        "target_shabbat": "2030-11-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-41/"
+      },
+      {
+        "id": "cycle-15-gittin-42",
+        "title": {
+          "en": "Gittin 42 — Freed in Part: Gifts to Slaves, Damages, and the Unfinished Release",
+          "he": "משוחרר למחצה: מתנה לעבדים, נזקים ושחרור שלא נגמר"
+        },
+        "parashah": {
+          "en": "Gittin 42",
+          "he": "גיטין דף 42"
+        },
+        "target_shabbat": "2030-11-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-42/"
+      },
+      {
+        "id": "cycle-15-gittin-43",
+        "title": {
+          "en": "Gittin 43 — Half a Betrothal? Stumbling Over Torah and the Slave Sold to Gentiles",
+          "he": "חצי קידושין? מכשול בדברי תורה ועבד שנמכר לגוי"
+        },
+        "parashah": {
+          "en": "Gittin 43",
+          "he": "גיטין דף 43"
+        },
+        "target_shabbat": "2030-11-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-43/"
+      },
+      {
+        "id": "cycle-15-gittin-44",
+        "title": {
+          "en": "Gittin 44 — A Hundred Times His Value: Fining the Sale of a Slave Beyond Jewish Life",
+          "he": "עד מאה בדמיו: קנס על מכירת עבד אל מחוץ לחיי ישראל"
+        },
+        "parashah": {
+          "en": "Gittin 44",
+          "he": "גיטין דף 44"
+        },
+        "target_shabbat": "2030-11-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-44/"
+      },
+      {
+        "id": "cycle-15-gittin-45",
+        "title": {
+          "en": "Gittin 45 — Captives, Fugitives and Holy Books: Limits Set for the Good of Society",
+          "he": "שבויים, בורחים וספרי קודש: גבולות מפני תיקון העולם"
+        },
+        "parashah": {
+          "en": "Gittin 45",
+          "he": "גיטין דף 45"
+        },
+        "target_shabbat": "2030-12-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-45/"
+      },
+      {
+        "id": "cycle-15-gittin-46",
+        "title": {
+          "en": "Gittin 46 — A Word Said at Divorce: Reputation, Vows and the Fear of Undoing",
+          "he": "מילה שנאמרת בשעת הגט: שם רע, נדרים והחשש לקלקול"
+        },
+        "parashah": {
+          "en": "Gittin 46",
+          "he": "גיטין דף 46"
+        },
+        "target_shabbat": "2030-12-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-46/"
+      },
+      {
+        "id": "cycle-15-gittin-47",
+        "title": {
+          "en": "Gittin 47 — Resh Lakish Among the Ludaei, and Who Owns the Land of Israel",
+          "he": "ריש לקיש בין הלודאי, ולמי שייכת ארץ ישראל"
+        },
+        "parashah": {
+          "en": "Gittin 47",
+          "he": "גיטין דף 47"
+        },
+        "target_shabbat": "2030-12-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-47/"
+      },
+      {
+        "id": "cycle-15-gittin-48",
+        "title": {
+          "en": "Gittin 48 — Owning the Fruit or the Field, and a New Chapter on Land for Payment",
+          "he": "קניין פירות או קניין הגוף, ופרק חדש על קרקע לתשלום"
+        },
+        "parashah": {
+          "en": "Gittin 48",
+          "he": "גיטין דף 48"
+        },
+        "target_shabbat": "2030-12-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-48/"
+      },
+      {
+        "id": "cycle-15-gittin-49",
+        "title": {
+          "en": "Gittin 49 — Best, Middle and Poorest Land: The Reasons Behind the Grades",
+          "he": "עידית, בינונית וזיבורית: הטעמים שמאחורי הדרגות"
+        },
+        "parashah": {
+          "en": "Gittin 49",
+          "he": "גיטין דף 49"
+        },
+        "target_shabbat": "2030-12-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-49/"
+      },
+      {
+        "id": "cycle-15-gittin-50",
+        "title": {
+          "en": "Gittin 50 — Guarantors, Orphans and Gifts: Who Is Protected When a Debt Is Collected",
+          "he": "ערבים, יתומים ומתנות: על מי מגינים בשעת גביית חוב"
+        },
+        "parashah": {
+          "en": "Gittin 50",
+          "he": "גיטין דף 50"
+        },
+        "target_shabbat": "2030-12-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-50/"
+      },
+      {
+        "id": "cycle-15-gittin-51",
+        "title": {
+          "en": "Gittin 51 — Fixed, Written and Public: Claims Against Buyers and the Finder’s Oath",
+          "he": "קצוב, כתוב וידוע: תביעות כלפי לוקחים ושבועת המוצא"
+        },
+        "parashah": {
+          "en": "Gittin 51",
+          "he": "גיטין דף 51"
+        },
+        "target_shabbat": "2030-12-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-51/"
+      },
+      {
+        "id": "cycle-15-gittin-52",
+        "title": {
+          "en": "Gittin 52 — Guardians of Orphans: Trust, Limits and Peace in the Home",
+          "he": "אפוטרופסים ליתומים: אמון, גבולות ושלום בית"
+        },
+        "parashah": {
+          "en": "Gittin 52",
+          "he": "גיטין דף 52"
+        },
+        "target_shabbat": "2030-12-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-52/"
+      },
+      {
+        "id": "cycle-15-gittin-53",
+        "title": {
+          "en": "Gittin 53 — Damage No One Can See: Defiling, Mixing and Pouring Another’s Wine",
+          "he": "נזק שאין רואים אותו: מטמא, מדמע ומנסך"
+        },
+        "parashah": {
+          "en": "Gittin 53",
+          "he": "גיטין דף 53"
+        },
+        "target_shabbat": "2030-12-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-53/"
+      },
+      {
+        "id": "cycle-15-gittin-54",
+        "title": {
+          "en": "Gittin 54 — Fines, Good Intentions and a Person’s Word About His Own Acts",
+          "he": "קנסות, כוונות טובות ונאמנות אדם על מעשיו"
+        },
+        "parashah": {
+          "en": "Gittin 54",
+          "he": "גיטין דף 54"
+        },
+        "target_shabbat": "2030-12-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-54/"
+      },
+      {
+        "id": "cycle-15-gittin-55",
+        "title": {
+          "en": "Gittin 55 — For the Sake of Penitents: The Stolen Beam, the Stolen Offering and the Sikarikon",
+          "he": "מפני תקנת השבים: המריש הגזול, החטאת הגזולה והסיקריקון"
+        },
+        "parashah": {
+          "en": "Gittin 55",
+          "he": "גיטין דף 55"
+        },
+        "target_shabbat": "2030-12-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-55/"
+      },
+      {
+        "id": "cycle-15-gittin-56",
+        "title": {
+          "en": "Gittin 56 — Kamtza and Bar Kamtza: How Jerusalem Fell and What Was Saved",
+          "he": "קמצא ובר קמצא: כיצד נפלה ירושלים ומה ניצל"
+        },
+        "parashah": {
+          "en": "Gittin 56",
+          "he": "גיטין דף 56"
+        },
+        "target_shabbat": "2030-12-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-56/"
+      },
+      {
+        "id": "cycle-15-gittin-57",
+        "title": {
+          "en": "Gittin 57 — Tur Malka, Beitar and Martyrdom: “For Your Sake We Are Killed All Day”",
+          "he": "טור מלכא, ביתר ומסירות נפש: ״כי עליך הורגנו כל היום״"
+        },
+        "parashah": {
+          "en": "Gittin 57",
+          "he": "גיטין דף 57"
+        },
+        "target_shabbat": "2030-12-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-57/"
+      },
+      {
+        "id": "cycle-15-gittin-58",
+        "title": {
+          "en": "Gittin 58 — The Children of Beitar, the Carpenter’s Apprentice and the Laws of Confiscated Land",
+          "he": "ילדי ביתר, שוליא דנגרי ודיני קרקע שנגזלה"
+        },
+        "parashah": {
+          "en": "Gittin 58",
+          "he": "גיטין דף 58"
+        },
+        "target_shabbat": "2030-12-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-58/"
+      },
+      {
+        "id": "cycle-15-gittin-59",
+        "title": {
+          "en": "Gittin 59 — Torah and Greatness, Children’s Business and the Ways of Peace",
+          "he": "תורה וגדולה, מקח פעוטות ודרכי שלום"
+        },
+        "parashah": {
+          "en": "Gittin 59",
+          "he": "גיטין דף 59"
+        },
+        "target_shabbat": "2030-12-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-59/"
+      },
+      {
+        "id": "cycle-15-gittin-60",
+        "title": {
+          "en": "Gittin 60 — Written and Oral Torah, and Who Waters First",
+          "he": "תורה שבכתב ושבעל פה, ומי משקה ראשון"
+        },
+        "parashah": {
+          "en": "Gittin 60",
+          "he": "גיטין דף 60"
+        },
+        "target_shabbat": "2030-12-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-60/"
+      },
+      {
+        "id": "cycle-15-gittin-61",
+        "title": {
+          "en": "Gittin 61 — Peace with Neighbors: The Poor, the Unlearned and Gentiles",
+          "he": "שלום עם השכנים: עניים, עמי הארץ וגוים"
+        },
+        "parashah": {
+          "en": "Gittin 61",
+          "he": "גיטין דף 61"
+        },
+        "target_shabbat": "2030-12-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-61/"
+      },
+      {
+        "id": "cycle-15-gittin-62",
+        "title": {
+          "en": "Gittin 62 — Greeting Kings and Appointing Agents: The End of Hanizakin and the Start of Hamevi",
+          "he": "שלום למלכים ומינוי שלוחים: סוף פרק הניזקין ותחילת פרק התקבל"
+        },
+        "parashah": {
+          "en": "Gittin 62",
+          "he": "גיטין דף 62"
+        },
+        "target_shabbat": "2030-12-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-62/"
+      },
+      {
+        "id": "cycle-15-gittin-63",
+        "title": {
+          "en": "Gittin 63 — When the Agent’s Mission Changes: Receiving, Delivering and Doubtful Divorce",
+          "he": "כשהשליחות משתנה: קבלה, הולכה וגירושין בספק"
+        },
+        "parashah": {
+          "en": "Gittin 63",
+          "he": "גיטין דף 63"
+        },
+        "target_shabbat": "2030-12-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-63/"
+      },
+      {
+        "id": "cycle-15-gittin-64",
+        "title": {
+          "en": "Gittin 64 — Deposit or Divorce? Whom We Believe and Who Can Guard a Get",
+          "he": "פיקדון או גירושין? את מי מאמינים ומי יכולה לשמור את גיטה"
+        },
+        "parashah": {
+          "en": "Gittin 64",
+          "he": "גיטין דף 64"
+        },
+        "target_shabbat": "2030-12-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-64/"
+      },
+      {
+        "id": "cycle-15-gittin-65",
+        "title": {
+          "en": "Gittin 65 — Words That Appoint an Agent: Place, Teruma and the Language of Divorce",
+          "he": "מילים הממנות שליח: מקום, תרומה ולשון גירושין"
+        },
+        "parashah": {
+          "en": "Gittin 65",
+          "he": "גיטין דף 65"
+        },
+        "target_shabbat": "2030-12-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-65/"
+      },
+      {
+        "id": "cycle-15-gittin-66",
+        "title": {
+          "en": "Gittin 66 — A Voice from the Pit and Instructions Passed On",
+          "he": "קול מן הבור והוראות שנמסרות הלאה"
+        },
+        "parashah": {
+          "en": "Gittin 66",
+          "he": "גיטין דף 66"
+        },
+        "target_shabbat": "2030-12-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-66/"
+      },
+      {
+        "id": "cycle-15-gittin-67",
+        "title": {
+          "en": "Gittin 67 — “His Reasoning Is With Him”: Rabbi Yosei, the Sages’ Praises and Kordiakos",
+          "he": "״נימוקו עמו״: רבי יוסי, שבחי החכמים וקורדייקוס"
+        },
+        "parashah": {
+          "en": "Gittin 67",
+          "he": "גיטין דף 67"
+        },
+        "target_shabbat": "2030-12-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-67/"
+      },
+      {
+        "id": "cycle-15-gittin-68",
+        "title": {
+          "en": "Gittin 68 — Solomon, Ashmedai and the Shamir",
+          "he": "שלמה, אשמדאי והשמיר"
+        },
+        "parashah": {
+          "en": "Gittin 68",
+          "he": "גיטין דף 68"
+        },
+        "target_shabbat": "2030-12-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-68/"
+      },
+      {
+        "id": "cycle-15-gittin-69",
+        "title": {
+          "en": "Gittin 69 — Talmudic Remedies: Eyes, Blood, Heart and Spleen",
+          "he": "רפואות התלמוד: עיניים, דם, לב וטחול"
+        },
+        "parashah": {
+          "en": "Gittin 69",
+          "he": "גיטין דף 69"
+        },
+        "target_shabbat": "2030-12-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-69/"
+      },
+      {
+        "id": "cycle-15-gittin-70",
+        "title": {
+          "en": "Gittin 70 — Moderation and Clarity of Mind: From Healthy Living to a Valid Instruction",
+          "he": "מתינות וצלילות הדעת: מאורח חיים בריא להוראה כשרה"
+        },
+        "parashah": {
+          "en": "Gittin 70",
+          "he": "גיטין דף 70"
+        },
+        "target_shabbat": "2030-12-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-70/"
+      },
+      {
+        "id": "cycle-15-gittin-71",
+        "title": {
+          "en": "Gittin 71 — Writing in Place of Speech: The Deaf, the Mute and Who Instructs the Scribe",
+          "he": "כתב במקום דיבור: החרש, האלם ומי מצווה על הסופר"
+        },
+        "parashah": {
+          "en": "Gittin 71",
+          "he": "גיטין דף 71"
+        },
+        "target_shabbat": "2030-12-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-71/"
+      },
+      {
+        "id": "cycle-15-gittin-72",
+        "title": {
+          "en": "Gittin 72 — “If I Die”: A Get That Must Take Effect in Life",
+          "he": "״אם מתי״: גט שחייב לחול בחיים"
+        },
+        "parashah": {
+          "en": "Gittin 72",
+          "he": "גיטין דף 72"
+        },
+        "target_shabbat": "2030-12-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-72/"
+      },
+      {
+        "id": "cycle-15-gittin-73",
+        "title": {
+          "en": "Gittin 73 — A Get That Depends on Death: Recovery, Unusual Accidents and the Days In Between",
+          "he": "גט התלוי במיתה: החלמה, אונס שאינו מצוי והימים שבינתיים"
+        },
+        "parashah": {
+          "en": "Gittin 73",
+          "he": "גיטין דף 73"
+        },
+        "target_shabbat": "2030-12-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-73/"
+      },
+      {
+        "id": "cycle-15-gittin-74",
+        "title": {
+          "en": "Gittin 74 — “On Condition That You Give Me”: Conditions in Divorce and Betrothal",
+          "he": "״על מנת שתתני לי״: תנאים בגירושין ובקידושין"
+        },
+        "parashah": {
+          "en": "Gittin 74",
+          "he": "גיטין דף 74"
+        },
+        "target_shabbat": "2030-12-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-74/"
+      },
+      {
+        "id": "cycle-15-gittin-75",
+        "title": {
+          "en": "Gittin 75 — The Laws of Conditions: The Paper, the Doubled Condition and the Nursing Mother",
+          "he": "דיני תנאים: הנייר, התנאי הכפול והמניקה"
+        },
+        "parashah": {
+          "en": "Gittin 75",
+          "he": "גיטין דף 75"
+        },
+        "target_shabbat": "2030-12-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-75/"
+      },
+      {
+        "id": "cycle-15-gittin-76",
+        "title": {
+          "en": "Gittin 76 — “If I Do Not Return Within Thirty Days”: Journeys, Borders and Conditional Divorce",
+          "he": "״אם לא באתי מכאן ועד שלשים יום״: מסעות, גבולות וגירושין בתנאי"
+        },
+        "parashah": {
+          "en": "Gittin 76",
+          "he": "גיטין דף 76"
+        },
+        "target_shabbat": "2031-01-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-76/"
+      },
+      {
+        "id": "cycle-15-gittin-77",
+        "title": {
+          "en": "Gittin 77 — A Get Thrown into Her Courtyard",
+          "he": "גט שנזרק לחצרה"
+        },
+        "parashah": {
+          "en": "Gittin 77",
+          "he": "גיטין דף 77"
+        },
+        "target_shabbat": "2031-01-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-77/"
+      },
+      {
+        "id": "cycle-15-gittin-78",
+        "title": {
+          "en": "Gittin 78 — In Her Lap, Near Her, Within Her Reach: When a Get Reaches the Wife",
+          "he": "בחיקה, קרוב לה, בהישג ידה: מתי מגיע הגט לאישה"
+        },
+        "parashah": {
+          "en": "Gittin 78",
+          "he": "גיטין דף 78"
+        },
+        "target_shabbat": "2031-01-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-78/"
+      },
+      {
+        "id": "cycle-15-gittin-79",
+        "title": {
+          "en": "Gittin 79 — Roofs, Courtyards and Airspace: Where a Get Is Guarded",
+          "he": "גגות, חצרות ואויר: היכן הגט משתמר"
+        },
+        "parashah": {
+          "en": "Gittin 79",
+          "he": "גיטין דף 79"
+        },
+        "target_shabbat": "2031-01-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-79/"
+      },
+      {
+        "id": "cycle-15-gittin-80",
+        "title": {
+          "en": "Gittin 80 — Dating a Get: The Kingdom, the Place and the Consequences of Error",
+          "he": "תאריך הגט: המלכות, המקום ותוצאות הטעות"
+        },
+        "parashah": {
+          "en": "Gittin 80",
+          "he": "גיטין דף 80"
+        },
+        "target_shabbat": "2031-01-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-80/"
+      },
+      {
+        "id": "cycle-15-gittin-81",
+        "title": {
+          "en": "Gittin 81 — Rumors, Earlier Generations and the Bald Get",
+          "he": "קול, דורות ראשונים וגט קרח"
+        },
+        "parashah": {
+          "en": "Gittin 81",
+          "he": "גיטין דף 81"
+        },
+        "target_shabbat": "2031-01-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-81/"
+      },
+      {
+        "id": "cycle-15-gittin-82",
+        "title": {
+          "en": "Gittin 82 — “Permitted to Every Man Except…”: The Limited Divorce",
+          "he": "״הרי את מותרת לכל אדם אלא לפלוני״: גירושין מוגבלים"
+        },
+        "parashah": {
+          "en": "Gittin 82",
+          "he": "גיטין דף 82"
+        },
+        "target_shabbat": "2031-01-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-82/"
+      },
+      {
+        "id": "cycle-15-gittin-83",
+        "title": {
+          "en": "Gittin 83 — “One Does Not Answer the Lion After His Death”: The Elders Refute Rabbi Eliezer",
+          "he": "״אין משיבין את הארי לאחר מיתה״: הזקנים משיבים על דברי רבי אליעזר"
+        },
+        "parashah": {
+          "en": "Gittin 83",
+          "he": "גיטין דף 83"
+        },
+        "target_shabbat": "2031-01-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-83/"
+      },
+      {
+        "id": "cycle-15-gittin-84",
+        "title": {
+          "en": "Gittin 84 — Impossible Conditions and Conditions Against the Torah",
+          "he": "תנאים בלתי אפשריים ותנאים על מה שכתוב בתורה"
+        },
+        "parashah": {
+          "en": "Gittin 84",
+          "he": "גיטין דף 84"
+        },
+        "target_shabbat": "2031-01-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-84/"
+      },
+      {
+        "id": "cycle-15-gittin-85",
+        "title": {
+          "en": "Gittin 85 — “You Are Permitted to Any Man”: The Exclusions and the Text of the Get",
+          "he": "״הרי את מותרת לכל אדם״: הסייגים ונוסח הגט"
+        },
+        "parashah": {
+          "en": "Gittin 85",
+          "he": "גיטין דף 85"
+        },
+        "target_shabbat": "2031-01-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-85/"
+      },
+      {
+        "id": "cycle-15-gittin-86",
+        "title": {
+          "en": "Gittin 86 — Three Invalid Gittin and the Halakha Like Rabbi Elazar",
+          "he": "שלושה גיטין פסולין והלכה כרבי אלעזר"
+        },
+        "parashah": {
+          "en": "Gittin 86",
+          "he": "גיטין דף 86"
+        },
+        "target_shabbat": "2031-01-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-86/"
+      },
+      {
+        "id": "cycle-15-gittin-87",
+        "title": {
+          "en": "Gittin 87 — Many Gittin on One Sheet: General Text, Separate Forms and Signatures",
+          "he": "גיטין רבים בדף אחד: כלל, טופס וחתימות"
+        },
+        "parashah": {
+          "en": "Gittin 87",
+          "he": "גיטין דף 87"
+        },
+        "target_shabbat": "2031-01-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-87/"
+      },
+      {
+        "id": "cycle-15-gittin-88",
+        "title": {
+          "en": "Gittin 88 — “And You Shall Have Grown Old in the Land”: Signatures, Exile and the Coerced Get",
+          "he": "״ונושנתם בארץ״: חתימות, גלות וגט מעושה"
+        },
+        "parashah": {
+          "en": "Gittin 88",
+          "he": "גיטין דף 88"
+        },
+        "target_shabbat": "2031-01-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-88/"
+      },
+      {
+        "id": "cycle-15-gittin-89",
+        "title": {
+          "en": "Gittin 89 — A Rumor in Town: When Talk Creates a Legal Status",
+          "he": "קול בעיר: מתי דיבור יוצר מעמד משפטי"
+        },
+        "parashah": {
+          "en": "Gittin 89",
+          "he": "גיטין דף 89"
+        },
+        "target_shabbat": "2031-01-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-89/"
+      },
+      {
+        "id": "cycle-15-gittin-90",
+        "title": {
+          "en": "Gittin 90 — “Even the Altar Sheds Tears”: The Grounds for Divorce and the End of the Tractate",
+          "he": "״אפילו מזבח מוריד עליו דמעות״: עילות הגירושין וסיום המסכת"
+        },
+        "parashah": {
+          "en": "Gittin 90",
+          "he": "גיטין דף 90"
+        },
+        "target_shabbat": "2031-01-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-gittin-90/"
       }
     ],
     "calendar": {
@@ -38286,197 +39532,197 @@
     ]
   },
   "qa": {
-    "release": "v1-3ad3089062eb2968169e4adb",
-    "total": 71005,
+    "release": "v1-ad54402d2ab626e839fe2427",
+    "total": 71006,
     "cards": [
       {
-        "id": "ye-40929",
-        "title": "Why Choose Talmud Bavli For The Daily Study",
+        "id": "ye-45612",
+        "title": "Why wine for kiddush?",
         "titles": {
-          "en": "Why Choose Talmud Bavli For The Daily Study",
+          "en": "Why wine for kiddush?",
           "he": ""
         },
         "language": "en",
-        "question": "As we know it is a big custom to learn a daf of Talmud Bavli a day (Dafyomi). My question is why did they choose to pick Talmud Bavli. There are so many other Subjects that could actually affect your ",
-        "answer": "In the olden days - as stated in Pirkei Avoth בן חמש למקרא - one would only learn Shas (Talmud Bavli) after becoming proficient in Chumash and Mishna. One would then concentrate on Shas as it's the basis for Halacho. Besides, it's really difficult to",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-40929",
-        "source_url": "https://judaism.stackexchange.com/questions/40929/why-choose-talmud-bavli-for-the-daily-study",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-25927",
-        "title": "Is every mishna mentioned in the Bavli?",
-        "titles": {
-          "en": "Is every mishna mentioned in the Bavli?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "On a previous question that I asked, one correspondent pointed out the existence of a Mishnaic index, which lists every page of the early rabbinic literature on which there is a reference (or allusion",
-        "answer": "Not every Mishna is mentioned in the Bavli. As a counterexample (selected at random) the opening phrase of Keilim 14:3 does not appear in the Bavli.",
+        "question": "Why do we use wine (or grape juice - fruit of the vine) when sanctifying Shabbat? How was it first determined that wine was holy and that it is used to satisfy and make holy the coming holiday or shab",
+        "answer": "According to Rambam the requirement of saying kiddush and havdalah over wine is a Rabbinic addition to the Torah commandment to sanctify the Sabbath by saying kiddush at it's beginning and havdalah at it's end. הלכות שבת כט,ו מדברי סופרים לקדש על היי",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-25927",
-        "source_url": "https://judaism.stackexchange.com/questions/25927/is-every-mishna-mentioned-in-the-bavli",
-        "author": "Double AA",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-45612",
+        "source_url": "https://judaism.stackexchange.com/questions/45612/why-wine-for-kiddush",
+        "author": "Robert S. Barnes",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-8755",
-        "title": "Amon and Moav today",
+        "id": "ye-28540",
+        "title": "What is a Hava Amina Teretz?",
         "titles": {
-          "en": "Amon and Moav today",
+          "en": "What is a Hava Amina Teretz?",
           "he": ""
         },
         "language": "en",
-        "question": "The Halacha is that a Jewish woman may not marry a convert of Amon and Moav. Is there any way to know who is a descendant of Amon and Moav today?",
-        "answer": "No, the nations were mixed up in the days of Sennacherib the Assyrian. The Rambam writes When Sannecherib, King of Assyria, arose, he confused the identity of all the nations, mixing them together, and exiling them from their place. The Egyptians tha",
-        "answer_count": 1,
+        "question": "B\"H If \"hava amina\" means slightest notion, what is a hava amina teretz? I think teretz means an answer. So what is a slightest notion answer?",
+        "answer": "Just to provide you with a quick answer that may help you, although I'm not sure it's what you're looking for, a Havah Amina is not quite as you understand it. It is an initial assumption which the Gemara then goes on to probe to find out if it is co",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-28540",
+        "source_url": "https://judaism.stackexchange.com/questions/28540/what-is-a-hava-amina-teretz",
+        "author": "Seth J",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-11632",
+        "title": "Why is Rosh Chodesh sometimes TWO days?",
+        "titles": {
+          "en": "Why is Rosh Chodesh sometimes TWO days?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Why for certain months of the year do we celebrate the festival of Rosh Chodesh for two days while on other Roshei Chadashim we have one day of Rosh Chodesh?",
+        "answer": "Tur ( Orach Chaim 427 ) explains as follows: A lunar month is 29-1/2 days plus some extra chalakim. Since a month has to have an integral number of days, the months (usually) alternate between 30 and 29. The 30th day, then, is always going to have to",
+        "answer_count": 4,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-8755",
-        "source_url": "https://judaism.stackexchange.com/questions/8755/amon-and-moav-today",
-        "author": "avi",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-150452",
-        "title": "Does a Jewish man who did not have Bar Mitzva count for a minyan?",
-        "titles": {
-          "en": "Does a Jewish man who did not have Bar Mitzva count for a minyan?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I'm a Jewish man and I chose not to have a bar mitzva ceremony. Occasionally, I get asked to participate in a minyan. Would I even halachically count?",
-        "answer": "There is no such thing as a bar mitzvah ceremony that confers adulthood on you. If you are halachically Jewish, male, and have had your 13th Hebrew birthday you are an adult and can be counted for a minyan.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-150452",
-        "source_url": "https://judaism.stackexchange.com/questions/150452/does-a-jewish-man-who-did-not-have-bar-mitzva-count-for-a-minyan",
-        "author": "DavefromBaltimore",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-130881",
-        "title": "Sources for Allowing Cholov Stam",
-        "titles": {
-          "en": "Sources for Allowing Cholov Stam",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I'm aware that Rov Moshe ruled that cholov Stam is okay under pressing circumstances. Is there leniency in consuming cholov stam if one can easily afford Yisroel, but wants to save some money? Or if t",
-        "answer": "First, you are mistaken about Rav Moshe's position. I know from his son Rav Reuvein that they routinely had chalav hacompanies at home. Rav Moshe held chalav yisrael was no required when the milk had USDA certification. Full stop. He did say it was a",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-130881",
-        "source_url": "https://judaism.stackexchange.com/questions/130881/sources-for-allowing-cholov-stam",
-        "author": "Micha Berger",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-110846",
-        "title": "Difference between \"face of\" and \"faces of\" in Hebrew",
-        "titles": {
-          "en": "Difference between \"face of\" and \"faces of\" in Hebrew",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If you want to say \"face of gold\" (sing.) in Hebrew, you say פני זהב. If you want to say \"faces of gold\" (plural) in Hebrew, you say _______. Part of the difficulty is that the Hebrew word for \"face\",",
-        "answer": "If you want to say \"faces of gold\" (plural) in Hebrew, you also say פני זהב ...or, if you want to refer to particular gold faces made by Betzalel, you could say פני הכרבים . It seems that there's no difference in the word used in either case.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-110846",
-        "source_url": "https://judaism.stackexchange.com/questions/110846/difference-between-face-of-and-faces-of-in-hebrew",
-        "author": "Heshy",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-93621",
-        "title": "Claim of \"are we worse?\" connection",
-        "titles": {
-          "en": "Claim of \"are we worse?\" connection",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I noticed twice there was a group of people who came to Moshe and said: \"are we any worse / למה נגרע?\" Or: \"why should it be worse / למה יגרע?\". Those who were tamei and the daughters of Tzelophchad .",
-        "answer": "None of the standard Jewish commentaries at either location seem to make note of this. However, some modern authorities have commented on this connection, such as Rav Amnon Bazak here and Professor Natan Aviezer here , see also here and here . (Googl",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-93621",
-        "source_url": "https://judaism.stackexchange.com/questions/93621/claim-of-are-we-worse-connection",
-        "author": "רבות מחשבות",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
-      },
-      {
-        "id": "ye-78131",
-        "title": "Books on Dating and Marriage",
-        "titles": {
-          "en": "Books on Dating and Marriage",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Which books on the halakha and minhagim of dating and marriage are generally considered the most reliable?",
-        "answer": "Dating: is not halochikly obligated, or an official minhag (which a Rov wrote about in a book), so I guess there should not be any books , (unless the book is giving the logic and advice (and not the \"halakha and minhagim\") of how to do it) Marriage:",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-78131",
-        "source_url": "https://judaism.stackexchange.com/questions/78131/books-on-dating-and-marriage",
-        "author": "hazoriz",
+        "url": "https://shekhina.org/qa.html?id=ye-11632",
+        "source_url": "https://judaism.stackexchange.com/questions/11632/why-is-rosh-chodesh-sometimes-two-days",
+        "author": "Alex",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
-        "id": "ye-60606",
-        "title": "Al Tarbeh Sicha Im Haisha- including Text Messaging?",
+        "id": "up-chabad-2836839",
+        "title": "The Giving of the Torah and Jewish Marriage Practices",
         "titles": {
-          "en": "Al Tarbeh Sicha Im Haisha- including Text Messaging?",
+          "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "The Mishna in Pirkei Avot says \"Al Tarbeh Sicha Im Haisha\", do not converse excessively with a woman. Does this apply to text messages as well?",
-        "answer": "Avos DeRabbi Nasan ( 7:3 ) defines the problem as bringing home gossip to your wife, how you were treated negatively, how you treated others in response, etc. According to that, the medium of communication - speaking, writing, in person or at a dista",
+        "question": "ביום חתונתו – יום מתן תורה שעטרוהו להם למלך לקבלו עולו On His wedding day. (Song of Songs 3:11) The day the Torah was given, when they crowned Him as King and accepted His yoke. (Rashi, ibid.) QUESTIO",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "chabad",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-chabad-2836839",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/2836839/jewish/The-Giving-of-the-Torah-and-Jewish-Marriage-Practices.htm",
+        "author": "Moshe Bogomilsky",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-134437",
+        "title": "Can one use a chess clock on Shabbat",
+        "titles": {
+          "en": "Can one use a chess clock on Shabbat",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Can one use an analog chess clock on Shabbat? This would require setting the timers, and continually starting and stopping it until the little red flag falls (no buzzer)",
+        "answer": "It is not allowed. One is not allowed to wind up a mechanical watch on Shabbat (see SSK 28:28 based on the mishna berura 338:16) You also have a problem with stopping and starting a mechanical timer, which is not allowed (see SSk 28:35 based on the C",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-60606",
-        "source_url": "https://judaism.stackexchange.com/questions/60606/al-tarbeh-sicha-im-haisha-including-text-messaging",
-        "author": "Yishai",
+        "url": "https://shekhina.org/qa.html?id=ye-134437",
+        "source_url": "https://judaism.stackexchange.com/questions/134437/can-one-use-a-chess-clock-on-shabbat",
+        "author": "Yoreinu",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-115228",
+        "title": "Why is Elijah mentioned in the blessings of the haftorah and in grace after meals?",
+        "titles": {
+          "en": "Why is Elijah mentioned in the blessings of the haftorah and in grace after meals?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In the blessings of the haftorah, Elijah is mentioned and in grace after meals he is also mentioned. Why?",
+        "answer": "I don't believe there is an answer specific to your question, other than to say Elijah is beloved because he is the harbinger of the Messiah, and so is frequently invoked in our tradition to perform many tasks: - During Havdalah , at the conclusion o",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-115228",
+        "source_url": "https://judaism.stackexchange.com/questions/115228/why-is-elijah-mentioned-in-the-blessings-of-the-haftorah-and-in-grace-after-meal",
+        "author": "Maurice Mizrahi",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-96685",
+        "title": "Men making Kiddush (Shabbos day) for women after eating at shul",
+        "titles": {
+          "en": "Men making Kiddush (Shabbos day) for women after eating at shul",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Women and men are both equally chayiv in kiddush, at least on shabbos. Additionally there is a commonly known rule that a non obligated person (or obligated on a lower level) cannot fulfill a mitzvah ",
+        "answer": "I think you are confusing the different concepts. The discussion about a man being motze his wife on Friday night is a very different conversation to that of Shabbos day. Friday night: This discussion revolves around the dispute whether arvus - the c",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-96685",
+        "source_url": "https://judaism.stackexchange.com/questions/96685/men-making-kiddush-shabbos-day-for-women-after-eating-at-shul",
+        "author": "chortkov2",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-81304",
+        "title": "Is it okay for a man to straighten his hair?",
+        "titles": {
+          "en": "Is it okay for a man to straighten his hair?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Is a man allowed to use a flat iron to straighten his hair if the person doesn't like having curly hair?",
+        "answer": "kitzur shulchan aruch chapter 171 halacha 1 \"It is forbiden for a man to wear even one garment that is designed as a woman's, although he is dressed in a manner that clearly indicates that he is a man.\" ... \"This prohabition does not apply to clothes",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-81304",
+        "source_url": "https://judaism.stackexchange.com/questions/81304/is-it-okay-for-a-man-to-straighten-his-hair",
+        "author": "L123",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
+      },
+      {
+        "id": "ye-64408",
+        "title": "Why did Cain (Kayin) kill Abel (Hevel)?",
+        "titles": {
+          "en": "Why did Cain (Kayin) kill Abel (Hevel)?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In Bereshis 4:8 we read: וַיֹּאמֶר קַיִן, אֶל-הֶבֶל אָחִיו; וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה, וַיָּקָם קַיִן אֶל-הֶבֶל אָחִיו וַיַּהַרְגֵהוּ And Cain spoke unto Abel his brother. And it came to pass, wh",
+        "answer": "Haamek Davar (see his commentary to the whole section for context) explains as follows. Abel was dependent on the farmer Cain for the staple, bread; thus, Cain was allowed to work him as needed and even to hit him in the course of training him to wor",
+        "answer_count": 5,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-64408",
+        "source_url": "https://judaism.stackexchange.com/questions/64408/why-did-cain-kayin-kill-abel-hevel",
+        "author": "msh210",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "ye-2017100211579072",
@@ -38497,7 +39743,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "up-din-2011092516615799",
@@ -38518,7 +39764,7 @@
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "yeshiva-145635",
@@ -38539,7 +39785,7 @@
         "author": "הרב ליעד אוריין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "ye-93417",
@@ -38560,7 +39806,7 @@
         "author": "yosefkorn",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "din-url-668022b9d68569a4666783ff",
@@ -38581,7 +39827,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "up-din-424420",
@@ -38602,7 +39848,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "up-din-12849",
@@ -38623,7 +39869,7 @@
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "yeshiva-137350",
@@ -38644,7 +39890,7 @@
         "author": "הרב דוד חי הכהן",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       },
       {
         "id": "up-din-201303285532974",
@@ -38665,7 +39911,7 @@
         "author": "הרב יוסף זריצקי",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-3ad3089062eb2968169e4adb"
+        "snapshot": "v1-ad54402d2ab626e839fe2427"
       }
     ]
   }
