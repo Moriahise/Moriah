@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-20T07:08:58Z",
+  "checked_at": "2026-11-20T16:57:28Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-20T07:08:58Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-20T07:08:58Z"
+      "checked_at": "2026-11-20T16:57:28Z"
     },
-    "daf": {
+    "music": {
       "state": "ok",
-      "checked_at": "2026-11-20T07:08:58Z"
+      "checked_at": "2026-11-20T16:57:28Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-20T07:08:58Z"
+      "checked_at": "2026-11-20T16:57:28Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-20T16:57:28Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-20T07:08:58Z"
+      "checked_at": "2026-11-20T16:57:28Z"
     }
   },
   "music": [
@@ -37412,6 +37412,1658 @@
         "target_shabbat": "2031-08-02",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-kamma-119/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-2",
+        "title": {
+          "en": "Bava Metzia 2 — Two Holding a Garment: Claims, Oaths, and the Logic of Division",
+          "he": "שניים אוחזין בטלית: טענות, שבועות והיגיון החלוקה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 2",
+          "he": "בבא מציעא דף 2"
+        },
+        "target_shabbat": "2031-08-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-2/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-3",
+        "title": {
+          "en": "Bava Metzia 3 — An Oath of the Sages and Rabbi Ḥiyya’s Kal va-Ḥomer",
+          "he": "שבועה של תקנת חכמים וקל וחומר של רבי חייא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 3",
+          "he": "בבא מציעא דף 3"
+        },
+        "target_shabbat": "2031-08-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-3/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-4",
+        "title": {
+          "en": "Bava Metzia 4 — The Common Denominator and the Debtor Who Says “Here It Is”",
+          "he": "הצד השווה והלווה האומר ״הילך״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 4",
+          "he": "בבא מציעא דף 4"
+        },
+        "target_shabbat": "2031-08-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-4/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-5",
+        "title": {
+          "en": "Bava Metzia 5 — Suspected About Money, Trusted With an Oath?",
+          "he": "חשוד על הממון ונאמן בשבועה?"
+        },
+        "parashah": {
+          "en": "Bava Metzia 5",
+          "he": "בבא מציעא דף 5"
+        },
+        "target_shabbat": "2031-08-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-5/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-6",
+        "title": {
+          "en": "Bava Metzia 6 — Seizing Before the Court and Consecrating What Is in Doubt",
+          "he": "תקפה אחד בפנינו והקדש ספק"
+        },
+        "parashah": {
+          "en": "Bava Metzia 6",
+          "he": "בבא מציעא דף 6"
+        },
+        "target_shabbat": "2031-08-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-6/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-7",
+        "title": {
+          "en": "Bava Metzia 7 — What the Hand Reaches and What the Document Proves",
+          "he": "עד מקום שידו מגעת ומה שהשטר מוכיח"
+        },
+        "parashah": {
+          "en": "Bava Metzia 7",
+          "he": "בבא מציעא דף 7"
+        },
+        "target_shabbat": "2031-08-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-7/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-8",
+        "title": {
+          "en": "Bava Metzia 8 — Lifting for Another, and the Rider Versus the Leader",
+          "he": "המגביה מציאה לחבירו, והרוכב מול המנהיג"
+        },
+        "parashah": {
+          "en": "Bava Metzia 8",
+          "he": "בבא מציעא דף 8"
+        },
+        "target_shabbat": "2031-08-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-8/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-9",
+        "title": {
+          "en": "Bava Metzia 9 — The Way People Acquire, and a Courtyard That Walks",
+          "he": "כדרך שבני אדם קונין, וחצר מהלכת"
+        },
+        "parashah": {
+          "en": "Bava Metzia 9",
+          "he": "בבא מציעא דף 9"
+        },
+        "target_shabbat": "2031-08-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-9/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-10",
+        "title": {
+          "en": "Bava Metzia 10 — Four Cubits, a Courtyard, and the Hand of the Worker",
+          "he": "ארבע אמות, חצר, ויד הפועל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 10",
+          "he": "בבא מציעא דף 10"
+        },
+        "target_shabbat": "2031-08-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-10/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-11",
+        "title": {
+          "en": "Bava Metzia 11 — A Field That Is Guarded, and a Gift Given on a Ship",
+          "he": "חצר המשתמרת, ומתנה שניתנה בספינה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 11",
+          "he": "בבא מציעא דף 11"
+        },
+        "target_shabbat": "2031-08-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-11/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-12",
+        "title": {
+          "en": "Bava Metzia 12 — Whose Find Is It? Children, Servants, Wives, and Lost Documents",
+          "he": "של מי המציאה? בנים, עבדים, אשה ושטרות אבודים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 12",
+          "he": "בבא מציעא דף 12"
+        },
+        "target_shabbat": "2031-08-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-12/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-13",
+        "title": {
+          "en": "Bava Metzia 13 — A Document Written Before the Loan: Payment, Collusion, and Liens",
+          "he": "שטר שנכתב לפני ההלוואה: פירעון, קנוניא ושעבוד"
+        },
+        "parashah": {
+          "en": "Bava Metzia 13",
+          "he": "בבא מציעא דף 13"
+        },
+        "target_shabbat": "2031-08-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-13/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-14",
+        "title": {
+          "en": "Bava Metzia 14 — Guarantees, Improvements, and the Buyer Whose Field Is Taken",
+          "he": "אחריות, שבח, והלוקח ששדהו נטרפת"
+        },
+        "parashah": {
+          "en": "Bava Metzia 14",
+          "he": "בבא מציעא דף 14"
+        },
+        "target_shabbat": "2031-08-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-14/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-15",
+        "title": {
+          "en": "Bava Metzia 15 — The Creditor’s Reach and the Buyer Who Knew",
+          "he": "ידו של בעל החוב והלוקח שידע"
+        },
+        "parashah": {
+          "en": "Bava Metzia 15",
+          "he": "בבא מציעא דף 15"
+        },
+        "target_shabbat": "2031-08-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-15/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-16",
+        "title": {
+          "en": "Bava Metzia 16 — Selling What You Do Not Yet Own, and Documents of the Court",
+          "he": "מכירת מה שעדיין אינו שלך, ושטרי בית דין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 16",
+          "he": "בבא מציעא דף 16"
+        },
+        "target_shabbat": "2031-08-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-16/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-17",
+        "title": {
+          "en": "Bava Metzia 17 — The Proven Denier and the Pearl Under the Shard",
+          "he": "המוחזק כפרן והמרגלית שתחת החרס"
+        },
+        "parashah": {
+          "en": "Bava Metzia 17",
+          "he": "בבא מציעא דף 17"
+        },
+        "target_shabbat": "2031-08-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-17/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-18",
+        "title": {
+          "en": "Bava Metzia 18 — A Lost Get: Caravans, Two Men of the Same Name, and Identifying Marks",
+          "he": "גט שאבד: שיירות, שני יוסף בן שמעון, וסימנים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 18",
+          "he": "בבא מציעא דף 18"
+        },
+        "target_shabbat": "2031-08-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-18/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-19",
+        "title": {
+          "en": "Bava Metzia 19 — Found Gittin, Manumissions, and Gifts That Can Be Revoked",
+          "he": "גיטין, שחרורים ומתנות שאפשר לחזור מהן"
+        },
+        "parashah": {
+          "en": "Bava Metzia 19",
+          "he": "בבא מציעא דף 19"
+        },
+        "target_shabbat": "2031-08-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-19/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-20",
+        "title": {
+          "en": "Bava Metzia 20 — Bundles of Documents, a Split Cedar, and a Receipt in the Lender’s Hand",
+          "he": "צרורות שטרות, ארז שנבקע, ושובר ביד המלווה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 20",
+          "he": "בבא מציעא דף 20"
+        },
+        "target_shabbat": "2031-08-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-20/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-21",
+        "title": {
+          "en": "Bava Metzia 21 — Finds That Belong to the Finder, and Despair Without Knowledge",
+          "he": "מציאות שהן של המוצא, ויאוש שלא מדעת"
+        },
+        "parashah": {
+          "en": "Bava Metzia 21",
+          "he": "בבא מציעא דף 21"
+        },
+        "target_shabbat": "2031-08-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-21/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-22",
+        "title": {
+          "en": "Bava Metzia 22 — The Law Follows Abaye: Despair, Consent, and Wind-Blown Dates",
+          "he": "הלכה כאביי: יאוש, רצון ותמרים שהפיל הרוח"
+        },
+        "parashah": {
+          "en": "Bava Metzia 22",
+          "he": "בבא מציעא דף 22"
+        },
+        "target_shabbat": "2031-08-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-22/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-23",
+        "title": {
+          "en": "Bava Metzia 23 — Marks That Will Be Trampled, Food on the Road, and Three Things Scholars Say Differently",
+          "he": "סימן העשוי לידרס, אוכלין בדרך, ושלושה דברים שחכמים משנים בהם"
+        },
+        "parashah": {
+          "en": "Bava Metzia 23",
+          "he": "בבא מציעא דף 23"
+        },
+        "target_shabbat": "2031-08-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-23/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-24",
+        "title": {
+          "en": "Bava Metzia 24 — A Silver Cup, a Majority of Gentiles, and Beyond the Letter of the Law",
+          "he": "כוס של כסף, רוב נכרים, ולפנים משורת הדין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 24",
+          "he": "בבא מציעא דף 24"
+        },
+        "target_shabbat": "2031-08-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-24/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-25",
+        "title": {
+          "en": "Bava Metzia 25 — Towers of Coins, Hidden Birds, and Objects in a Wall",
+          "he": "מגדלי מטבעות, גוזלות מוצנעים וחפצים בכותל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 25",
+          "he": "בבא מציעא דף 25"
+        },
+        "target_shabbat": "2031-08-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-25/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-26",
+        "title": {
+          "en": "Bava Metzia 26 — Who Lost It? Tenants, Two or Three Passers-By, and the Money Changer’s Table",
+          "he": "מי איבד? שוכרים, שניים או שלושה עוברים, ושולחנו של השולחני"
+        },
+        "parashah": {
+          "en": "Bava Metzia 26",
+          "he": "בבא מציעא דף 26"
+        },
+        "target_shabbat": "2031-08-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-26/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-27",
+        "title": {
+          "en": "Bava Metzia 27 — The Garment as a Model, a Peruta’s Worth, and Whether Signs Are Biblical",
+          "he": "השמלה כדגם, שווה פרוטה, ושאלת סימנים דאורייתא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 27",
+          "he": "בבא מציעא דף 27"
+        },
+        "target_shabbat": "2031-08-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-27/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-28",
+        "title": {
+          "en": "Bava Metzia 28 — Ranking Signs, Announcing at the Festivals, and the Stone of Claims",
+          "he": "דירוג סימנים, הכרזה ברגלים ואבן הטוען"
+        },
+        "parashah": {
+          "en": "Bava Metzia 28",
+          "he": "בבא מציעא דף 28"
+        },
+        "target_shabbat": "2031-08-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-28/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-29",
+        "title": {
+          "en": "Bava Metzia 29 — Using the Money, Reading the Books, and Shaking the Garment",
+          "he": "שימוש במעות, קריאה בספרים וניעור הכסות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 29",
+          "he": "בבא מציעא דף 29"
+        },
+        "target_shabbat": "2031-08-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-29/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-30",
+        "title": {
+          "en": "Bava Metzia 30 — When One May Ignore, and Going Beyond the Letter of the Law",
+          "he": "מתי מותר להתעלם, ולפנים משורת הדין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 30",
+          "he": "בבא מציעא דף 30"
+        },
+        "target_shabbat": "2031-08-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-30/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-31",
+        "title": {
+          "en": "Bava Metzia 31 — “Return, You Shall Return”: The Doubled Verbs of the Torah",
+          "he": "״השב תשיבם״: הפעלים הכפולים שבתורה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 31",
+          "he": "בבא מציעא דף 31"
+        },
+        "target_shabbat": "2031-09-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-31/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-32",
+        "title": {
+          "en": "Bava Metzia 32 — Unloading, Loading, and the Suffering of Animals",
+          "he": "פריקה, טעינה וצער בעלי חיים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 32",
+          "he": "בבא מציעא דף 32"
+        },
+        "target_shabbat": "2031-09-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-32/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-33",
+        "title": {
+          "en": "Bava Metzia 33 — His Own, His Father’s, His Teacher’s: Priorities in Returning",
+          "he": "שלו, של אביו ושל רבו: סדרי עדיפויות בהשבה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 33",
+          "he": "בבא מציעא דף 33"
+        },
+        "target_shabbat": "2031-09-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-33/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-34",
+        "title": {
+          "en": "Bava Metzia 34 — Transferring the Double Payment, and the Oath That It Is Not in His Hands",
+          "he": "הקניית הכפל, ושבועה שאינה ברשותו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 34",
+          "he": "בבא מציעא דף 34"
+        },
+        "target_shabbat": "2031-09-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-34/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-35",
+        "title": {
+          "en": "Bava Metzia 35 — The Lender’s Oath, Lost Cloaks, and an Appraisal That Returns",
+          "he": "שבועת המלווה, הכיפין שאבדו ושומא שחוזרת"
+        },
+        "parashah": {
+          "en": "Bava Metzia 35",
+          "he": "בבא מציעא דף 35"
+        },
+        "target_shabbat": "2031-09-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-35/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-36",
+        "title": {
+          "en": "Bava Metzia 36 — A Guardian Who Hands Over to a Guardian, and Negligence Ending in Accident",
+          "he": "שומר שמסר לשומר, ותחילתו בפשיעה וסופו באונס"
+        },
+        "parashah": {
+          "en": "Bava Metzia 36",
+          "he": "בבא מציעא דף 36"
+        },
+        "target_shabbat": "2031-09-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-36/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-37",
+        "title": {
+          "en": "Bava Metzia 37 — “I Stole From One of You”: Doubt, Fines, and Leaving It Until Elijah",
+          "he": "״גזלתי לאחד מכם״: ספק, קנס, ויהא מונח עד שיבוא אליהו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 37",
+          "he": "בבא מציעא דף 37"
+        },
+        "target_shabbat": "2031-09-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-37/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-38",
+        "title": {
+          "en": "Bava Metzia 38 — Produce That Is Spoiling, and the Property of a Captive",
+          "he": "פירות המתקלקלים ונכסי שבוי"
+        },
+        "parashah": {
+          "en": "Bava Metzia 38",
+          "he": "בבא מציעא דף 38"
+        },
+        "target_shabbat": "2031-09-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-38/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-39",
+        "title": {
+          "en": "Bava Metzia 39 — Guarding the Absent and the Young: Captives, Fugitives, and Minors",
+          "he": "שמירה על הנעדר והקטן: שבויים, בורחים וקטנים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 39",
+          "he": "בבא מציעא דף 39"
+        },
+        "target_shabbat": "2031-09-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-39/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-40",
+        "title": {
+          "en": "Bava Metzia 40 — Expected Shrinkage: Grain, Wine, Oil, and the Guardian’s Allowance",
+          "he": "חסרונות צפויים: תבואה, יין, שמן וקצבת השומר"
+        },
+        "parashah": {
+          "en": "Bava Metzia 40",
+          "he": "בבא מציעא דף 40"
+        },
+        "target_shabbat": "2031-09-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-40/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-41",
+        "title": {
+          "en": "Bava Metzia 41 — Misappropriation Without Loss: The Jug, the Shepherd’s Staff, and Two Verses",
+          "he": "שליחות יד בלא חסרון: החבית, מקל הרועה ושני פסוקים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 41",
+          "he": "בבא מציעא דף 41"
+        },
+        "target_shabbat": "2031-09-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-41/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-42",
+        "title": {
+          "en": "Bava Metzia 42 — Guarding Money, and the Blessing Hidden From the Eye",
+          "he": "שמירת כספים, וברכה הסמויה מן העין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 42",
+          "he": "בבא מציעא דף 42"
+        },
+        "target_shabbat": "2031-09-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-42/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-43",
+        "title": {
+          "en": "Bava Metzia 43 — Using a Deposit, and the Value of What Was Taken",
+          "he": "שימוש בפיקדון, ושווי מה שנלקח"
+        },
+        "parashah": {
+          "en": "Bava Metzia 43",
+          "he": "בבא מציעא דף 43"
+        },
+        "target_shabbat": "2031-09-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-43/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-44",
+        "title": {
+          "en": "Bava Metzia 44 — Intent and Act, and Which Coin Is Money",
+          "he": "מחשבה ומעשה, ואיזו מטבע היא כסף"
+        },
+        "parashah": {
+          "en": "Bava Metzia 44",
+          "he": "בבא מציעא דף 44"
+        },
+        "target_shabbat": "2031-09-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-44/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-45",
+        "title": {
+          "en": "Bava Metzia 45 — Gold, Second Tithe, and Coins as Exchange",
+          "he": "זהב, מעשר שני, ומטבע בחליפין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 45",
+          "he": "בבא מציעא דף 45"
+        },
+        "target_shabbat": "2031-09-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-45/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-46",
+        "title": {
+          "en": "Bava Metzia 46 — Coins Cannot Be Acquired by Ḥalipin",
+          "he": "אין מטבע נקנה בחליפין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 46",
+          "he": "בבא מציעא דף 46"
+        },
+        "target_shabbat": "2031-09-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-46/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-47",
+        "title": {
+          "en": "Bava Metzia 47 — The Shoe of Boaz, and Whether Money Acquires",
+          "he": "נעלו של בועז, והאם מעות קונות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 47",
+          "he": "בבא מציעא דף 47"
+        },
+        "target_shabbat": "2031-09-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-47/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-48",
+        "title": {
+          "en": "Bava Metzia 48 — The Curse of “He Who Exacted Payment,” and the Down Payment",
+          "he": "קללת ״מי שפרע״, ודין הערבון"
+        },
+        "parashah": {
+          "en": "Bava Metzia 48",
+          "he": "בבא מציעא דף 48"
+        },
+        "target_shabbat": "2031-09-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-48/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-49",
+        "title": {
+          "en": "Bava Metzia 49 — “Let Your Yes Be Righteous,” and the Measure of Overcharge",
+          "he": "״שיהא הן שלך צדק״, ושיעור האונאה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 49",
+          "he": "בבא מציעא דף 49"
+        },
+        "target_shabbat": "2031-09-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-49/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-50",
+        "title": {
+          "en": "Bava Metzia 50 — Less Than a Sixth, a Sixth, More Than a Sixth",
+          "he": "פחות משתות, שתות, יתר על שתות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 50",
+          "he": "בבא מציעא דף 50"
+        },
+        "target_shabbat": "2031-09-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-50/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-51",
+        "title": {
+          "en": "Bava Metzia 51 — Who Is Protected by Ona’ah, and Waiving It",
+          "he": "מי מוגן באונאה, ומחילה עליה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 51",
+          "he": "בבא מציעא דף 51"
+        },
+        "target_shabbat": "2031-09-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-51/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-52",
+        "title": {
+          "en": "Bava Metzia 52 — The Worn Coin and the “Bad Soul”",
+          "he": "הסלע החסירה ו״נפש רעה״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 52",
+          "he": "בבא מציעא דף 52"
+        },
+        "target_shabbat": "2031-09-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-52/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-53",
+        "title": {
+          "en": "Bava Metzia 53 — Second Tithe Worth Less Than a Peruta",
+          "he": "מעשר שני שאין בו שוה פרוטה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 53",
+          "he": "בבא מציעא דף 53"
+        },
+        "target_shabbat": "2031-09-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-53/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-54",
+        "title": {
+          "en": "Bava Metzia 54 — The Added Fifth: How It Is Counted and What It Is",
+          "he": "החומש: כיצד מחשבים אותו ומהו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 54",
+          "he": "בבא מציעא דף 54"
+        },
+        "target_shabbat": "2031-09-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-54/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-55",
+        "title": {
+          "en": "Bava Metzia 55 — Five Perutot and Five Fifths",
+          "he": "חמש פרוטות וחמשה חומשין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 55",
+          "he": "בבא מציעא דף 55"
+        },
+        "target_shabbat": "2031-09-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-55/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-56",
+        "title": {
+          "en": "Bava Metzia 56 — Things Without Ona’ah: Slaves, Documents, Land, and the Sacred",
+          "he": "דברים שאין להם אונאה: עבדים, שטרות, קרקעות והקדשות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 56",
+          "he": "בבא מציעא דף 56"
+        },
+        "target_shabbat": "2031-09-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-56/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-57",
+        "title": {
+          "en": "Bava Metzia 57 — Voiding the Sale of the Sacred, and Interest on Temple Property",
+          "he": "ביטול מקח בהקדש, ורבית להקדש"
+        },
+        "parashah": {
+          "en": "Bava Metzia 57",
+          "he": "בבא מציעא דף 57"
+        },
+        "target_shabbat": "2031-09-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-57/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-58",
+        "title": {
+          "en": "Bava Metzia 58 — Wronging With Words",
+          "he": "אונאת דברים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 58",
+          "he": "בבא מציעא דף 58"
+        },
+        "target_shabbat": "2031-09-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-58/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-59",
+        "title": {
+          "en": "Bava Metzia 59 — The Oven of Akhnai and the Gates of Ona’ah",
+          "he": "תנור של עכנאי ושערי אונאה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 59",
+          "he": "בבא מציעא דף 59"
+        },
+        "target_shabbat": "2031-09-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-59/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-60",
+        "title": {
+          "en": "Bava Metzia 60 — Mixing, Adorning, and the Opening of Interest",
+          "he": "ערבוב, פרכוס ופתיחת דיני רבית"
+        },
+        "parashah": {
+          "en": "Bava Metzia 60",
+          "he": "בבא מציעא דף 60"
+        },
+        "target_shabbat": "2031-09-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-60/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-61",
+        "title": {
+          "en": "Bava Metzia 61 — Interest, Theft, False Weights, and the Exodus",
+          "he": "רבית, גזל, משקלות ויציאת מצרים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 61",
+          "he": "בבא מציעא דף 61"
+        },
+        "target_shabbat": "2031-10-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-61/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-62",
+        "title": {
+          "en": "Bava Metzia 62 — “Your Brother Shall Live With You,” and Returning Interest",
+          "he": "״וחי אחיך עמך״, והחזרת רבית"
+        },
+        "parashah": {
+          "en": "Bava Metzia 62",
+          "he": "בבא מציעא דף 62"
+        },
+        "target_shabbat": "2031-10-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-62/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-63",
+        "title": {
+          "en": "Bava Metzia 63 — Paying in Advance, and the Wage for Waiting",
+          "he": "פסיקה על הפירות, ואגר נטר"
+        },
+        "parashah": {
+          "en": "Bava Metzia 63",
+          "he": "בבא מציעא דף 63"
+        },
+        "target_shabbat": "2031-10-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-63/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-64",
+        "title": {
+          "en": "Bava Metzia 64 — Growing Produce, Living in the Borrower’s Yard",
+          "he": "פירות הגדלים, ודירה בחצר הלווה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 64",
+          "he": "בבא מציעא דף 64"
+        },
+        "target_shabbat": "2031-10-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-64/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-65",
+        "title": {
+          "en": "Bava Metzia 65 — Rent Versus Sale, and Selling on Credit",
+          "he": "מרבין על השכר, וטרשא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 65",
+          "he": "בבא מציעא דף 65"
+        },
+        "target_shabbat": "2031-10-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-65/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-66",
+        "title": {
+          "en": "Bava Metzia 66 — Mere Words and Asmakhta",
+          "he": "פטומי מילי ואסמכתא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 66",
+          "he": "בבא מציעא דף 66"
+        },
+        "target_shabbat": "2031-10-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-66/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-67",
+        "title": {
+          "en": "Bava Metzia 67 — The Mortgage and Its Fruits",
+          "he": "משכנתא ופירותיה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 67",
+          "he": "בבא מציעא דף 67"
+        },
+        "target_shabbat": "2031-10-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-67/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-68",
+        "title": {
+          "en": "Bava Metzia 68 — Investment Partnerships and the Idle Worker’s Wage",
+          "he": "עיסקא ושכר כפועל בטל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 68",
+          "he": "בבא מציעא דף 68"
+        },
+        "target_shabbat": "2031-10-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-68/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-69",
+        "title": {
+          "en": "Bava Metzia 69 — Partners, Herdsmen, and Rent for Money",
+          "he": "שותפים, מגדלי בהמות, ושכירות מעות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 69",
+          "he": "בבא מציעא דף 69"
+        },
+        "target_shabbat": "2031-10-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-69/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-70",
+        "title": {
+          "en": "Bava Metzia 70 — Orphans’ Money and Iron Flock",
+          "he": "מעות של יתומים וצאן ברזל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 70",
+          "he": "בבא מציעא דף 70"
+        },
+        "target_shabbat": "2031-10-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-70/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-71",
+        "title": {
+          "en": "Bava Metzia 71 — The Blindness of Lenders at Interest",
+          "he": "סמיות עיניהם של מלוי ברבית"
+        },
+        "parashah": {
+          "en": "Bava Metzia 71",
+          "he": "בבא מציעא דף 71"
+        },
+        "target_shabbat": "2031-10-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-71/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-72",
+        "title": {
+          "en": "Bava Metzia 72 — The Penalized Document and the Market Price",
+          "he": "שטר שכתוב בו רבית, ופסיקה על השער"
+        },
+        "parashah": {
+          "en": "Bava Metzia 72",
+          "he": "בבא מציעא דף 72"
+        },
+        "target_shabbat": "2031-10-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-72/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-73",
+        "title": {
+          "en": "Bava Metzia 73 — Transported Goods, Vineyards, and the Sages’ Dealings",
+          "he": "פירות המובלים, פרדסים ועסקי החכמים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 73",
+          "he": "בבא מציעא דף 73"
+        },
+        "target_shabbat": "2031-10-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-73/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-74",
+        "title": {
+          "en": "Bava Metzia 74 — Sitomta and the Missing Steps",
+          "he": "סיטומתא ושלבים חסרים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 74",
+          "he": "בבא מציעא דף 74"
+        },
+        "target_shabbat": "2031-10-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-74/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-75",
+        "title": {
+          "en": "Bava Metzia 75 — Hillel’s Stringency and Interest in Words",
+          "he": "חומרת הלל ורבית דברים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 75",
+          "he": "בבא מציעא דף 75"
+        },
+        "target_shabbat": "2031-10-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-75/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-76",
+        "title": {
+          "en": "Bava Metzia 76 — Hiring Workers and Retracting",
+          "he": "השוכר את הפועלים וחזרו בהן"
+        },
+        "parashah": {
+          "en": "Bava Metzia 76",
+          "he": "בבא מציעא דף 76"
+        },
+        "target_shabbat": "2031-10-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-76/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-77",
+        "title": {
+          "en": "Bava Metzia 77 — The Worker’s Upper Hand and Rabbi Dosa",
+          "he": "יד פועל על העליונה ורבי דוסא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 77",
+          "he": "בבא מציעא דף 77"
+        },
+        "target_shabbat": "2031-10-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-77/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-78",
+        "title": {
+          "en": "Bava Metzia 78 — The Rented Donkey and Deviating From the Owner’s Wishes",
+          "he": "השוכר את החמור והמעביר על דעת בעל הבית"
+        },
+        "parashah": {
+          "en": "Bava Metzia 78",
+          "he": "בבא מציעא דף 78"
+        },
+        "target_shabbat": "2031-10-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-78/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-79",
+        "title": {
+          "en": "Bava Metzia 79 — The Donkey That Died Midway and the Sunken Ship",
+          "he": "החמור שמתה בחצי הדרך והספינה שטבעה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 79",
+          "he": "בבא מציעא דף 79"
+        },
+        "target_shabbat": "2031-10-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-79/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-80",
+        "title": {
+          "en": "Bava Metzia 80 — Overloading, Hidden Faults, and Craftsmen as Guardians",
+          "he": "תוספת משא, מום שסנפו, ואומנים כשומרים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 80",
+          "he": "בבא מציעא דף 80"
+        },
+        "target_shabbat": "2031-10-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-80/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-81",
+        "title": {
+          "en": "Bava Metzia 81 — Guarding With the Owner and “Put It Down Before Me”",
+          "he": "שמירה בבעלים ו״הנח לפני״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 81",
+          "he": "בבא מציעא דף 81"
+        },
+        "target_shabbat": "2031-10-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-81/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-82",
+        "title": {
+          "en": "Bava Metzia 82 — The Pledge, the Lost Item, and the Broken Barrel",
+          "he": "המשכון, שומר אבידה והחבית שנשברה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 82",
+          "he": "בבא מציעא דף 82"
+        },
+        "target_shabbat": "2031-10-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-82/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-83",
+        "title": {
+          "en": "Bava Metzia 83 — “That You May Walk in the Way of the Good”",
+          "he": "״למען תלך בדרך טובים״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 83",
+          "he": "בבא מציעא דף 83"
+        },
+        "target_shabbat": "2031-10-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-83/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-84",
+        "title": {
+          "en": "Bava Metzia 84 — Rabbi Yoḥanan and Reish Lakish, and the Suffering of Rabbi Elazar",
+          "he": "רבי יוחנן וריש לקיש, ויסורי רבי אלעזר"
+        },
+        "parashah": {
+          "en": "Bava Metzia 84",
+          "he": "בבא מציעא דף 84"
+        },
+        "target_shabbat": "2031-10-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-84/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-85",
+        "title": {
+          "en": "Bava Metzia 85 — Rebbi’s Suffering and Rabbi Ḥiyya’s Deeds",
+          "he": "יסורי רבי ומעשי רבי חייא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 85",
+          "he": "בבא מציעא דף 85"
+        },
+        "target_shabbat": "2031-10-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-85/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-86",
+        "title": {
+          "en": "Bava Metzia 86 — Rabba bar Naḥmani and Abraham’s Hospitality",
+          "he": "רבה בר נחמני והכנסת האורחים של אברהם"
+        },
+        "parashah": {
+          "en": "Bava Metzia 86",
+          "he": "בבא מציעא דף 86"
+        },
+        "target_shabbat": "2031-10-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-86/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-87",
+        "title": {
+          "en": "Bava Metzia 87 — Saying Little and Doing Much, and the Worker Who Eats",
+          "he": "אומרים מעט ועושים הרבה, ופועל האוכל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 87",
+          "he": "בבא מציעא דף 87"
+        },
+        "target_shabbat": "2031-10-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-87/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-88",
+        "title": {
+          "en": "Bava Metzia 88 — When Produce Becomes Obligated in Tithes, and the Muzzled Worker",
+          "he": "קביעות למעשר, וחסימת הפועל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 88",
+          "he": "בבא מציעא דף 88"
+        },
+        "target_shabbat": "2031-10-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-88/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-89",
+        "title": {
+          "en": "Bava Metzia 89 — “You Shall Not Muzzle an Ox While Threshing”",
+          "he": "״לא תחסום שור בדישו״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 89",
+          "he": "בבא מציעא דף 89"
+        },
+        "target_shabbat": "2031-10-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-89/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-90",
+        "title": {
+          "en": "Bava Metzia 90 — The Prohibition of Muzzling an Animal",
+          "he": "איסור חסימת בהמה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 90",
+          "he": "בבא מציעא דף 90"
+        },
+        "target_shabbat": "2031-10-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-90/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-91",
+        "title": {
+          "en": "Bava Metzia 91 — Hands and Feet, and Which Vine the Worker May Eat From",
+          "he": "בידיו וברגליו, ומאיזו גפן אוכל הפועל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 91",
+          "he": "בבא מציעא דף 91"
+        },
+        "target_shabbat": "2031-10-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-91/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-92",
+        "title": {
+          "en": "Bava Metzia 92 — Does the Worker Eat His Own or Heaven’s?",
+          "he": "פועל משלו הוא אוכל או משל שמים?"
+        },
+        "parashah": {
+          "en": "Bava Metzia 92",
+          "he": "בבא מציעא דף 92"
+        },
+        "target_shabbat": "2031-11-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-92/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-93",
+        "title": {
+          "en": "Bava Metzia 93 — The Four Guardians and the Shepherd’s Duty",
+          "he": "ארבעה שומרים וחובת הרועה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 93",
+          "he": "בבא מציעא דף 93"
+        },
+        "target_shabbat": "2031-11-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-93/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-94",
+        "title": {
+          "en": "Bava Metzia 94 — Stipulations by Guardians and “When Its Owner Is With It”",
+          "he": "תנאי השומרים ו״בעליו עמו״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 94",
+          "he": "בבא מציעא דף 94"
+        },
+        "target_shabbat": "2031-11-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-94/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-95",
+        "title": {
+          "en": "Bava Metzia 95 — The Borrower’s Liability and Negligence with the Owner",
+          "he": "חיובי השואל ופשיעה בבעלים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 95",
+          "he": "בבא מציעא דף 95"
+        },
+        "target_shabbat": "2031-11-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-95/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-96",
+        "title": {
+          "en": "Bava Metzia 96 — Borrowing with the Owner: Inquiries of Rami bar Ḥama",
+          "he": "שאלה בבעלים: בעיותיו של רמי בר חמא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 96",
+          "he": "בבא מציעא דף 96"
+        },
+        "target_shabbat": "2031-11-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-96/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-97",
+        "title": {
+          "en": "Bava Metzia 97 — The Broken Axe, the Cat and the Mice, and “With the Owner” in Daily Life",
+          "he": "הנרגא שנשברה, השונרא והעכברים, ו״בעליו עמו״ בחיי היום־יום"
+        },
+        "parashah": {
+          "en": "Bava Metzia 97",
+          "he": "בבא מציעא דף 97"
+        },
+        "target_shabbat": "2031-11-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-97/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-98",
+        "title": {
+          "en": "Bava Metzia 98 — “I Do Not Know,” Rolling Oaths and Borrowing That Interrupts Renting",
+          "he": "״איני יודע״, גלגול שבועה ושאילה המפסיקה שכירות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 98",
+          "he": "בבא מציעא דף 98"
+        },
+        "target_shabbat": "2031-11-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-98/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-99",
+        "title": {
+          "en": "Bava Metzia 99 — When the Borrowing Begins, and Valuing What Was Taken",
+          "he": "מתי מתחילה השאילה, ושומת הנגזל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 99",
+          "he": "בבא מציעא דף 99"
+        },
+        "target_shabbat": "2031-11-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-99/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-100",
+        "title": {
+          "en": "Bava Metzia 100 — The Calf Born in Doubt and Sumchus’s Division",
+          "he": "הוולד שנולד בספק וחלוקת סומכוס"
+        },
+        "parashah": {
+          "en": "Bava Metzia 100",
+          "he": "בבא מציעא דף 100"
+        },
+        "target_shabbat": "2031-11-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-100/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-101",
+        "title": {
+          "en": "Bava Metzia 101 — Trees Swept Away, Planting Uninvited, and Renting a House",
+          "he": "עצים ששטפם נהר, נוטע שלא ברשות ושכירות בית"
+        },
+        "parashah": {
+          "en": "Bava Metzia 101",
+          "he": "בבא מציעא דף 101"
+        },
+        "target_shabbat": "2031-11-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-101/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-102",
+        "title": {
+          "en": "Bava Metzia 102 — The Mezuzah, the Manure, and the Leap Month",
+          "he": "המזוזה, הזבל וחודש העיבור"
+        },
+        "parashah": {
+          "en": "Bava Metzia 102",
+          "he": "בבא מציעא דף 102"
+        },
+        "target_shabbat": "2031-11-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-102/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-103",
+        "title": {
+          "en": "Bava Metzia 103 — Rent Claims, Lasting Loans and the Customs of Sharecropping",
+          "he": "טענות שכירות, שאילה לעולם ומנהגי האריסות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 103",
+          "he": "בבא מציעא דף 103"
+        },
+        "target_shabbat": "2031-11-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-103/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-104",
+        "title": {
+          "en": "Bava Metzia 104 — Expounding the Language of Ordinary People",
+          "he": "דורש לשון הדיוט"
+        },
+        "parashah": {
+          "en": "Bava Metzia 104",
+          "he": "בבא מציעא דף 104"
+        },
+        "target_shabbat": "2031-11-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-104/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-105",
+        "title": {
+          "en": "Bava Metzia 105 — Weeding, a Field Worth Tending, and Measures of Four Kav",
+          "he": "ניכוש, שדה הראויה לטיפול ושיעורי ארבעה קבין"
+        },
+        "parashah": {
+          "en": "Bava Metzia 105",
+          "he": "בבא מציעא דף 105"
+        },
+        "target_shabbat": "2031-11-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-105/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-106",
+        "title": {
+          "en": "Bava Metzia 106 — Regional Calamity, Miracles and the Land’s Agency",
+          "he": "מכת מדינה, ניסים ושליחותא דארעא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 106",
+          "he": "בבא מציעא דף 106"
+        },
+        "target_shabbat": "2031-11-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-106/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-107",
+        "title": {
+          "en": "Bava Metzia 107 — Rotating Crops, Neighbors’ Boundaries and the Blessings of Deuteronomy",
+          "he": "מחזור גידולים, גבולות שכנים וברכות משנה תורה"
+        },
+        "parashah": {
+          "en": "Bava Metzia 107",
+          "he": "בבא מציעא דף 107"
+        },
+        "target_shabbat": "2031-11-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-107/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-108",
+        "title": {
+          "en": "Bava Metzia 108 — The Forest on the Riverbank and the Neighbor’s Right of Pre-emption",
+          "he": "היער שעל גדת הנהר ודינא דבר מצרא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 108",
+          "he": "בבא מציעא דף 108"
+        },
+        "target_shabbat": "2031-11-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-108/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-109",
+        "title": {
+          "en": "Bava Metzia 109 — The Tenant’s Improvements and the Departing Planter",
+          "he": "שבח המקבל והשתלא המסתלק"
+        },
+        "parashah": {
+          "en": "Bava Metzia 109",
+          "he": "בבא מציעא דף 109"
+        },
+        "target_shabbat": "2031-11-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-109/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-110",
+        "title": {
+          "en": "Bava Metzia 110 — Disputed Terms, Orphans’ Improvements and Paying Workers on Time",
+          "he": "תנאים שנויים במחלוקת, שבח יתומים ותשלום שכר בזמנו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 110",
+          "he": "בבא מציעא דף 110"
+        },
+        "target_shabbat": "2031-11-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-110/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-111",
+        "title": {
+          "en": "Bava Metzia 111 — Withholding Wages: Oshek and Gezel",
+          "he": "כובש שכר שכיר: עושק וגזל"
+        },
+        "parashah": {
+          "en": "Bava Metzia 111",
+          "he": "בבא מציעא דף 111"
+        },
+        "target_shabbat": "2031-11-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-111/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-112",
+        "title": {
+          "en": "Bava Metzia 112 — “He Risks His Life for It”: The Worker’s Wages and His Oath",
+          "he": "״ואליו הוא נושא את נפשו״: שכר השכיר ושבועתו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 112",
+          "he": "בבא מציעא דף 112"
+        },
+        "target_shabbat": "2031-11-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-112/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-113",
+        "title": {
+          "en": "Bava Metzia 113 — Taking a Pledge and “All Israel Are Children of Kings”",
+          "he": "משכון ו״כל ישראל בני מלכים הן״"
+        },
+        "parashah": {
+          "en": "Bava Metzia 113",
+          "he": "בבא מציעא דף 113"
+        },
+        "target_shabbat": "2031-11-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-113/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-114",
+        "title": {
+          "en": "Bava Metzia 114 — Arranging for a Debtor, and Elijah in the Cemetery",
+          "he": "סידור לבעל חוב, ואליהו בבית הקברות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 114",
+          "he": "בבא מציעא דף 114"
+        },
+        "target_shabbat": "2031-11-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-114/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-115",
+        "title": {
+          "en": "Bava Metzia 115 — The Guarantor, the Widow and the Millstone",
+          "he": "הערב, האלמנה והריחים"
+        },
+        "parashah": {
+          "en": "Bava Metzia 115",
+          "he": "בבא מציעא דף 115"
+        },
+        "target_shabbat": "2031-11-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-115/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-116",
+        "title": {
+          "en": "Bava Metzia 116 — The Slaughtering Knife and the Collapsed Two-Story House",
+          "he": "סכינא דאשכבתא והבית והעלייה שנפלו"
+        },
+        "parashah": {
+          "en": "Bava Metzia 116",
+          "he": "בבא מציעא דף 116"
+        },
+        "target_shabbat": "2031-11-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-116/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-117",
+        "title": {
+          "en": "Bava Metzia 117 — Upper and Lower: Repairing and Rebuilding a Shared House",
+          "he": "עליון ותחתון: תיקון ובנייה של בית משותף"
+        },
+        "parashah": {
+          "en": "Bava Metzia 117",
+          "he": "בבא מציעא דף 117"
+        },
+        "target_shabbat": "2031-11-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-117/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-118",
+        "title": {
+          "en": "Bava Metzia 118 — Fallen Stones, Ownerless Property and Two Gardens",
+          "he": "אבנים שנפלו, הפקר ושתי גנות"
+        },
+        "parashah": {
+          "en": "Bava Metzia 118",
+          "he": "בבא מציעא דף 118"
+        },
+        "target_shabbat": "2031-11-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-118/"
+      },
+      {
+        "id": "cycle-15-bava-metzia-119",
+        "title": {
+          "en": "Bava Metzia 119 — Root and Foliage, Rabbi Shimon’s Compromise and the Completion of Bava Metzia",
+          "he": "עיקר ונוף, הכרעת רבי שמעון וסיום מסכת בבא מציעא"
+        },
+        "parashah": {
+          "en": "Bava Metzia 119",
+          "he": "בבא מציעא דף 119"
+        },
+        "target_shabbat": "2031-11-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-119/"
       }
     ],
     "calendar": {
@@ -42318,386 +43970,386 @@
     ]
   },
   "qa": {
-    "release": "v1-ad54402d2ab626e839fe2427",
-    "total": 71006,
+    "release": "v1-3f2483c5f68a8875f8ef6ad0",
+    "total": 71009,
     "cards": [
       {
-        "id": "ye-45572",
-        "title": "Deut. 29:15 -- why not \"you passed\" or \"we passed\"?",
+        "id": "ye-47960",
+        "title": "Why do pigul, nosar, and tame incur kares?",
         "titles": {
-          "en": "Deut. 29:15 -- why not \"you passed\" or \"we passed\"?",
+          "en": "Why do pigul, nosar, and tame incur kares?",
           "he": ""
         },
         "language": "en",
-        "question": "In this week's parsha , Moshe says to Bnei Yisrael (Devarim 29:15 ): כִּי אַתֶּם יְדַעְתֶּם אֵת אֲשֶׁר יָשַׁבְנוּ בְּאֶרֶץ מִצְרָיִם וְאֵת אֲשֶׁר עָבַרְנוּ בְּקֶרֶב הַגּוֹיִם אֲשֶׁר עֲבַרְתֶּם For you",
-        "answer": "The Meshech Chochmah on this posuk explains that Moshe was reproving Yisrael here by saying that we all passed through the various nations, but only you sinned. We, the righteous who did not sin in any of the places that we passed through, passed thr",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-45572",
-        "source_url": "https://judaism.stackexchange.com/questions/45572/deut-2915-why-not-you-passed-or-we-passed",
-        "author": "user4523",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-28491",
-        "title": "Why did Chava give Adam the fruit to eat?",
-        "titles": {
-          "en": "Why did Chava give Adam the fruit to eat?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "For what reason did Chava give Adam fruit from the tree of knowledge to eat?",
-        "answer": "In a comment to the OP's question Fred cites the well-known Rashi (see above). The Bartenura on the Torah expands on this Rashi (text borrowed from Sefaria.org, produced here in full): ותתן גם לאישה שלא תמות היא ויחיה הוא וישא אשה אחרת. קשה למה נתכונ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-28491",
-        "source_url": "https://judaism.stackexchange.com/questions/28491/why-did-chava-give-adam-the-fruit-to-eat",
-        "author": "Shmuel Brown",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-11569",
-        "title": "Why should a choshed bichsherim bless the k'sherim?",
-        "titles": {
-          "en": "Why should a choshed bichsherim bless the k'sherim?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Bavli , B'rachos 31:2 says (in my own translation): \" Eli answered [ Chana ], saying 'go to peace'\": Rabbi El'azar said, from here we derive, about someone who suspects his fellow of a matter that tha",
-        "answer": "Where else do we learn to bless one we wrongly accuse? We could learn that lesson in Parashat Vayeitze from Lavan who blessed his daughters and grandchildren (Breishit 32:1) after accusing Jacob of stealing his idols (Breishit 31:30). Lavan's blessin",
+        "question": "As described in e.g. Rambam hilchos Pisule Hamukdashin chapter 18, there are bunch of things that render a korban invalid, and someone who eats from it gets whipped. However, there are three types of ",
+        "answer": "I don't know if he had a source, but a Rebbe of mine - Rav Yitzchok Fruchter of Jerusalem - explained this concept at various times. There are three types of invalid korban that someone who eats gets kares: a korban that was prepared with intent to e",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-11569",
-        "source_url": "https://judaism.stackexchange.com/questions/11569/why-should-a-choshed-bichsherim-bless-the-ksherim",
-        "author": "David P. Hochman",
+        "url": "https://shekhina.org/qa.html?id=ye-47960",
+        "source_url": "https://judaism.stackexchange.com/questions/47960/why-do-pigul-nosar-and-tame-incur-kares",
+        "author": "Danny Schoemann",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-chabad-279478",
-        "title": "Will I Be the Next Runaway Bride?",
+        "id": "ye-29721",
+        "title": "Is the child of a convert, conceived after she converted, Jewish?",
+        "titles": {
+          "en": "Is the child of a convert, conceived after she converted, Jewish?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? I understand that non-Jewish mothers with Jewish husbands do not have Jewish children ",
+        "answer": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? Yes. Children of a Jewish mother are Jewish, regardless. If mom converted she's Jewish. (A child who was in the mother's womb when mom c",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-29721",
+        "source_url": "https://judaism.stackexchange.com/questions/29721/is-the-child-of-a-convert-conceived-after-she-converted-jewish",
+        "author": "Shalom",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-13319",
+        "title": "Shmita and Joseph's Dreams",
+        "titles": {
+          "en": "Shmita and Joseph's Dreams",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Shmita is every 7 years and we leave the land unused. In Egypt there were 7 years of feast, then 7 years of famine. As leaving the land unused could be considered famine like conditions, are there any",
+        "answer": "The MaHaral says that the number 7 is the number of natural occurrence, while the number 8 is for supernatural. Therefore a baby has his Bris on the 8th day to show that we are L'Maalah M'Derech Hatevah. There are many things in the Torah with the nu",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-13319",
+        "source_url": "https://judaism.stackexchange.com/questions/13319/shmita-and-josephs-dreams",
+        "author": "Gershon Gold",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "up-chabad-625408",
+        "title": "Was King David wrong for waging so many battles?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: I'm sure you read about the runaway bride whose story was in all the newspapers a couple of weeks ago. She didn't show up to her own wedding. I think I can relate to her. I am getting marrie",
+        "question": "Question: I've heard it said that King David was denied the opportunity to build the Holy Temple because he had \"blood on his hands\" from the many wars he waged. If this is the case, why do we hold Da",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "general",
+        "category": "kabbalah",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-279478",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/279478/jewish/Will-I-Be-the-Next-Runaway-Bride.htm",
-        "author": "Aron Moss",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-625408",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/625408/jewish/Was-King-David-wrong-for-waging-so-many-battles.htm",
+        "author": "Moshe Goldman",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-134405",
-        "title": "Is eating a BeanBoozled jelly bean bal tishaktzu?",
+        "id": "ye-136108",
+        "title": "Maps/blueprints of the interior of the Temple Mount",
         "titles": {
-          "en": "Is eating a BeanBoozled jelly bean bal tishaktzu?",
+          "en": "Maps/blueprints of the interior of the Temple Mount",
           "he": ""
         },
         "language": "en",
-        "question": "The Shulchan Aruch YD (116:6) writes : אסור לאכול מאכלים ומשקים שנפשו של אדם קצה בהם כגון משקים ואוכלים שנתערבו בהם קיא או צואה וליחה סרוחה וכיוצא בהם וכן אסור לאכול ולשתות בכלים הצואים שנפשו של אדם ק",
-        "answer": "The OU Rabbinical representative responded via email by saying there are two categories of foods in question: Inherently disgusting foods (e.g., rotten eggs) - One transgresses bal tishaktzu by consuming this food regardless of whether Healthy, good ",
+        "question": "I am looking for resources that have maps and/or blueprints of the interior of the Temple Mount. For example, showing the various tunnel systems, stairs, gates, chambers, etc. I would even appreciate ",
+        "answer": "You might want to consider looking at the works of Leen Ritmeyer who is a leading expert on the subject matter. His book The Quest is a good overview on the topic, and he created a detailed map of the Temple Mount here that was featured in National G",
         "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-136108",
+        "source_url": "https://judaism.stackexchange.com/questions/136108/maps-blueprints-of-the-interior-of-the-temple-mount",
+        "author": "Dov",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-117933",
+        "title": "Rabbi Saadia Gaon on the 10 Lost Tribes",
+        "titles": {
+          "en": "Rabbi Saadia Gaon on the 10 Lost Tribes",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I have read that Rabbi Saadia Gaon, a great sage who lived from 882 to 942, considered the Assyrian Exile to be in modern day Afghanistan, Pakistan, and parts of Iran. Would anyone be able to confirm ",
+        "answer": "Okay, it was tough, but I found the text of the quote: In Me'asef Nidachim by Avraham Harkavy , he writes: \"בכתאב אלמהאצרה (אשכל הכפר) לר' משה בן עזרא יביא את דברי הרס\"ג אודות שכחת לה\"ק אצל בני ישראל בגלות בבל, ואלה סוף דבריו: וכדלך ערץ באקי גאליה אל",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-117933",
+        "source_url": "https://judaism.stackexchange.com/questions/117933/rabbi-saadia-gaon-on-the-10-lost-tribes",
+        "author": "Harel13",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-98374",
+        "title": "Steipler keeping 2 days yomtov in Bnei Brak",
+        "titles": {
+          "en": "Steipler keeping 2 days yomtov in Bnei Brak",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I was listening to a shuir of Rav Hershel Schacter and he mentioned that the Steipler kept 2 days yomtov undercover in Bnei Brak. I think he mentioned the source as the Orchos Rabbeinu,even though he ",
+        "answer": "This is indeed in Orchos Rabbeinu. It can be found in Volume II p. 136 of the 2014 edition. Here is an image of it:",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-98374",
+        "source_url": "https://judaism.stackexchange.com/questions/98374/steipler-keeping-2-days-yomtov-in-bnei-brak",
+        "author": "Alex",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-82953",
+        "title": "What were the approximate ages of the heads of house(niseim) in parshat bamidbar. Above or below 60 years old",
+        "titles": {
+          "en": "What were the approximate ages of the heads of house(niseim) in parshat bamidbar. Above or below 60 years old",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Having just read last weeks parsha bamidbar. I wanted to know approximately how old the heads of house (niseim) of Israel were when the jews were counted. Were they older than 60 and they were not par",
+        "answer": "Elishama ben Amihud was Yehoshua's grandfather (Divrei Hayamim 1:7:26-27), and Yehoshua was 58 years old at the time(*). So at least one nasi was over 60. (*) Yehoshua lived 110 years (Yehoshua 24:29). This was 14 years after going into Eretz Yisrael",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-82953",
+        "source_url": "https://judaism.stackexchange.com/questions/82953/what-were-the-approximate-ages-of-the-heads-of-houseniseim-in-parshat-bamidbar",
+        "author": "Heshy",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-65890",
+        "title": "Very small damage to someone else's property",
+        "titles": {
+          "en": "Very small damage to someone else's property",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If someone walks past a parked car with a stroller, the stroller got caught on the plastic casing around the number plate and a small piece broke off, is it wrong to walk off? What would halacha say t",
+        "answer": "It would seem from the Shulchan Aruch in Choshen Mishpat סימן שעח - אסור להזיק ממון חברו that one is responsible for all damage caused in the public domain, even unintentionally. א: אָסוּר לְהַזִּיק מָמוֹן חֲבֵרוֹ. וְאִם הִזִּיקוֹ, אַף עַל פִּי שֶׁאֵ",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-134405",
-        "source_url": "https://judaism.stackexchange.com/questions/134405/is-eating-a-beanboozled-jelly-bean-bal-tishaktzu",
-        "author": "NJM",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-115192",
-        "title": "Cleaning tefillin from Covid19 contact",
-        "titles": {
-          "en": "Cleaning tefillin from Covid19 contact",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If someone contacts COVID-19, then everything they touch has to be disinfected. This is normally done with a wet disinfectant. Are there any recommendations for how to do this for tefillin to avoid da",
-        "answer": "Use Loewian's link (in his comment) to clean the tefillin or find another method that you prefer. For a few dollars/shekels you can buy tefilin ink or marker in your local seforim shop. Apply when necessary. [It's more important that the straps are 1",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-115192",
-        "source_url": "https://judaism.stackexchange.com/questions/115192/cleaning-tefillin-from-covid19-contact",
-        "author": "Geltman",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-96643",
-        "title": "Chazal Heimlich Maneuver",
-        "titles": {
-          "en": "Chazal Heimlich Maneuver",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The Gemara Shabbos (67a) records תני תנא בפרק אמוראי קמיה דרבי חייא בר אבין אמר ליה כולהו אית בהו משום דרכי האמורי לבר מהני מי שיש לו עצם בגרונו מביא מאותו המין ומניח ליה על קדקדו ולימא הכי חד חד נחית",
-        "answer": "Yes, the incantation will work today, but only if you are precise in your pronunciation of the Hebrew letters, in the manner that Chazal historically pronounced them. This is the only incantation which is not superstition, because it makes total rati",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-96643",
-        "source_url": "https://judaism.stackexchange.com/questions/96643/chazal-heimlich-maneuver",
-        "author": "josh waxman",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-81269",
-        "title": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)?",
-        "titles": {
-          "en": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Does Judaism Regard Muslims as B'nai Noah (Righteous Gentiles)? https://youtu.be/udYM4FuYdiA",
-        "answer": "Anyone who follows the 7 laws of Noah is a B’nai Noah. The issue is usually worshiping false gods as the other 6 are relatively uncommon these days. Worshiping of Allah is NOT considered idol worship is Allah is, even by Muslims the god of Abraham.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-81269",
-        "source_url": "https://judaism.stackexchange.com/questions/81269/does-judaism-regard-muslims-as-bnai-noah-righteous-gentiles",
-        "author": "Morons",
+        "url": "https://shekhina.org/qa.html?id=ye-65890",
+        "source_url": "https://judaism.stackexchange.com/questions/65890/very-small-damage-to-someone-elses-property",
+        "author": "Danny Schoemann",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-64383",
-        "title": "What mitzvot existed for humanity prior to Noach?",
-        "titles": {
-          "en": "What mitzvot existed for humanity prior to Noach?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I am aware that Ramba\"m lists the commandment of \"Be fruitful and multiply\" (Breishit 1) as being the first mitzvah listed in the Torah (See Minyan Hamitzvot #212 ). However, this mitzvah is not one o",
-        "answer": "According to Rambam in Mishne Torah ( Hilchot Melachim u'Milchamot 9:1 ) there was 6 laws prior to Noah and they were given to Adam (includind the prohibition of idolatry and murder). Therefore, yes there was knowledge of such laws since Adam, they d",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-64383",
-        "source_url": "https://judaism.stackexchange.com/questions/64383/what-mitzvot-existed-for-humanity-prior-to-noach",
-        "author": "Renato S. Grun",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "ye-201710011429021",
-        "title": "בניית סוכה במרפסת מקורה",
+        "id": "ye-201910167146228",
+        "title": "תיקון הסוכה בחול המועד",
         "titles": {
           "en": "",
-          "he": "בניית סוכה במרפסת מקורה"
+          "he": "תיקון הסוכה בחול המועד"
         },
         "language": "he",
-        "question": "אשמח לדעת האם ניתן לבנות סוכה במרפסת שהחלק המקורה נמצא בגובה 5 -6 מטר מהסכך כלומר ריצפת המרפסת שמעלי, ואם סוכה זו נפסלת האם ניתן לברך (בניין חדש אין סוכה בקרבת מקום במרחק סביר ) שלום וברכה תחת החלק המ",
+        "question": "האם מותר לתקן סוכה שנהרסה בגלל מזג האוויר בחול המועד? עמשא עמירם- שלום רב. מותר לבנות סוכה בחול המועד כיון שהיא מצווה השייכת לחול המועד, וכשם שהתירו לכתוב תפילין ומזוזות כשצריך להם בחול המועד. מקורות:",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-201710011429021",
-        "source_url": "https://din.org.il/2017/10/01/%d7%91%d7%a0%d7%99%d7%99%d7%aa-%d7%a1%d7%95%d7%9b%d7%94-%d7%91%d7%9e%d7%a8%d7%a4%d7%a1%d7%aa-%d7%9e%d7%a7%d7%95%d7%a8%d7%94/",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-201910167146228",
+        "source_url": "https://din.org.il/2019/10/16/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%a1%d7%95%d7%9b%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-din-201010141803983",
-        "title": "הכנסת ספר תורה תחת חופה בשבת ויום טוב",
+        "id": "ye-201209257966098",
+        "title": "מחילת העוונות ביום הכיפורים, ובליעת אוכל שבין השיניים",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "מחילת העוונות ביום הכיפורים, ובליעת אוכל שבין השיניים"
         },
         "language": "he",
-        "question": "שאלה: שאלה ששמעתי: בית כנסת שעשה הכנסת ספר תורה בשמחת תורה, האם מותר להוביל את הספר מתחת לחופה או שיש לחשוש לאיסור עשיית אוהל ביו\"ט?",
+        "question": "היי. אני חיי במשפחה חילונית ואני רוצה להתחזק לכן יש לי שאלה לגבי הצום ביום כיפור (היום) 1 . זה נכון שמי שצם ושומר את יום כיפור ה' מכפר לו את כל החטאים שעשה? 2 . מי שנשאר לו אוכל בשיניים ובצום בולע אות",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201010141803983",
-        "source_url": "https://din.org.il/2010/10/14/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%a1%d7%a4%d7%a8-%d7%aa%d7%95%d7%a8%d7%94-%d7%91%d7%97%d7%95%d7%a4%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%95%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-201209257966098",
+        "source_url": "https://din.org.il/2012/09/25/%d7%9e%d7%97%d7%99%d7%9c%d7%aa-%d7%94%d7%a2%d7%95%d7%95%d7%a0%d7%95%d7%aa-%d7%91%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%95%d7%91%d7%9c%d7%99%d7%a2%d7%aa-%d7%90%d7%95/",
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "yeshiva-145565",
-        "title": "צום ט באב לטסים",
+        "id": "ye-142522",
+        "title": "אגרות קודש",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "אגרות קודש"
         },
         "language": "he",
-        "question": "תודה רבה לרב על המענה המפורט. אבקש לחדד את השאלה, עיקר השאלה הוא מתי צריך להתחיל את הצום, שכן בתחילת הטיסה כשהמטוס ממריא הצום עדיין לא החל. לכן השאלה היא האם צריך להתחיל את הצום לפי השעה של המקום ממנו",
+        "question": "שאלתי את הרבי אם להתקדם ולצאת לשידוכים וציינתי שעוד חצי שנה אני מסיימת שיירות לאומי יצא לי 18- _ 120-121 קכ- קכא שלום רב, נאמר \"תמים תהיה עם ה' אלוקיך\". שבי וחשבי עם עצמך ורצוי עם דמות מבוגרת שמלווה א",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-145565",
-        "source_url": "https://www.yeshiva.org.il/ask/145565",
-        "author": "הרב דניאל קירש",
+        "url": "https://shekhina.org/qa.html?id=ye-142522",
+        "source_url": "https://www.yeshiva.org.il/ask/142522",
+        "author": "רבנים שונים",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-92594",
-        "title": "What language is called by the Gemara עברית / Ivrit and who were the עברים / Ivrim?",
+        "id": "ye-118861",
+        "title": "Did the כלי המקדש (menorah, shulchan, etc) need to be made לשמה?",
         "titles": {
           "en": "",
-          "he": "What language is called by the Gemara עברית / Ivrit and who were the עברים / Ivrim?"
+          "he": "Did the כלי המקדש (menorah, shulchan, etc) need to be made לשמה?"
         },
         "language": "he",
-        "question": "Gemara Megilla 18a: מיתיבי קראה גיפטית עברית עילמית מדית יוונית לא יצא [The Gemara is discussing languages for reading the Megilla... It is taught in a baraita: If one reads the Megilla in Coptic [Gip",
-        "answer": "Jastrow's dictionary (s.v. עברי) glosses עברית לעבריים as \"an Aramaic translation read before Aramaean Jews.\" Some explanation: Abraham was called העברי because he came from the other side (עבר) of the river and spoke לשון עברי ( Bereshit Rabba 42:8 ",
+        "question": "When they were made did they need to be made leshem menoras hamikdash, leshem shulchan shel hamikdash, etc?",
+        "answer": "Yes all keilim need to be made lishma. Rambam (courtsey of Chabad) Bais Habechira 1:20: אֵין עוֹשִׂין כָּל הַכֵּלִים מִתְּחִלָּתָן אֶלָּא לְשֵׁם הַקֹּדֶשׁ. וְאִם נַעֲשׂוּ מִתְּחִלָּתָן לְהֶדְיוֹט אֵין עוֹשִׂין אוֹתָן לְגָבוֹהַּ. וּכְלִי גָּבוֹהַּ עַד",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "talmud",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-92594",
-        "source_url": "https://judaism.stackexchange.com/questions/92594/what-language-is-called-by-the-gemara-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-ivrit-and-who-were-the-%d7%a2%d7%91%d7%a8%d7%99%d7%9d-ivr",
-        "author": "b a",
+        "url": "https://shekhina.org/qa.html?id=ye-118861",
+        "source_url": "https://judaism.stackexchange.com/questions/118861/did-the-%d7%9b%d7%9c%d7%99-%d7%94%d7%9e%d7%a7%d7%93%d7%a9-menorah-shulchan-etc-need-to-be-made-%d7%9c%d7%a9%d7%9e%d7%94",
+        "author": "sam",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "din-url-65983f2e58ecff7fab31b459",
-        "title": "שערה שנתפסה במסיכה בשבת",
+        "id": "din-url-82b325f046cc0257f89f23bc",
+        "title": "פתיחת חנות בבעלות יהודי בשבתות וימים טובים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום וברכהכאשר שער נתפס במסיכה בשבת, וכשמושכים את המסיכה השער יכול להתלש, [אמנם יתכן לכאו' שהשער יתנתק מהמסיכה], האם מותר למשוך את המסיכה",
+        "question": "שלום וברכה יהודי בעלים של חנות במקום שאין לו אפשרות לסגור בשבתות וימים טובים מה היא תקנתו ? הפועלים העובדים הם גויים תודה רבה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-65983f2e58ecff7fab31b459",
-        "source_url": "https://din.org.il/2020/11/01/%d7%a9%d7%a2%d7%a8%d7%94-%d7%a9%d7%a0%d7%aa%d7%a4%d7%a1%d7%94-%d7%91%d7%9e%d7%a1%d7%99%d7%9b%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "up-din-422337",
-        "title": "ציצית בשמיכה ומגבת / ציצית בלילה במקום שאין עירוב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "מגבת סדין שמיכה מתעטפים בהם הרי בניגוב/בשינה למה לא שמים בהם ציצית?שמעתי שיש המקפידים לא ללכת עם ציצית בש\"ק (לא לובשים ט\"ק ואילו את הט\"ג מביאים לביהכנ\"ס לפני ש\"ק ומשאירים שם עד מוצש\"ק) כי חוששים לדעת ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-422337",
-        "source_url": "https://din.org.il/2023/07/26/%d7%a6%d7%99%d7%a6%d7%99%d7%aa-%d7%91%d7%a9%d7%9e%d7%99%d7%9b%d7%94-%d7%95%d7%9e%d7%92%d7%91%d7%aa-%d7%a6%d7%99%d7%a6%d7%99%d7%aa-%d7%91%d7%9c%d7%99%d7%9c%d7%94-%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9/",
-        "author": "הרב ירוחם ארלנגר‎",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "up-din-127872",
-        "title": "מוזיקה בבית הספר בספירת העומר / מה גדול יותר לימוד התורה או עשיית המצוות?",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב יש לי שאלה האם מותר לי לקנות בחנות שיש בה שירים ברקע? והאם מותר לשמוע שירים בלג בעומר? שמעתי שיש התר לשמוע מוזיקה ווקאלית או משהוא כזה, והאם כבוד הרב יכול להסביר מזה מוזיקה וואקלית והאם ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-127872",
-        "source_url": "https://din.org.il/2016/05/19/%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%91%d7%91%d7%99%d7%aa-%d7%94%d7%a1%d7%a4%d7%a8-%d7%91%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8-%d7%9e%d7%94-%d7%92%d7%93%d7%95%d7%9c/",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=din-url-82b325f046cc0257f89f23bc",
+        "source_url": "https://din.org.il/2015/09/17/%d7%a4%d7%aa%d7%99%d7%97%d7%aa-%d7%97%d7%a0%d7%95%d7%aa-%d7%91%d7%91%d7%a2%d7%9c%d7%95%d7%aa-%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%91%d7%a9%d7%91%d7%aa%d7%95%d7%aa-%d7%95%d7%99%d7%9e%d7%99%d7%9d-%d7%98/",
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "yeshiva-137239",
-        "title": "אמירת קדיש בבית הקברות ביורצייט",
+        "id": "up-din-460891",
+        "title": "מוקצה בדלת המקפיא",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "אני איני דתי אך מסורתי. מתפלל מספר פעמים בשבוע תפילת מנחה בעבודה, ובמהלך המנחה אומר קדיש על הוריי שנפטרו. ביום השנה על הוריי אני עורך בעצמי את טקס האזכרה (תהילים, תפילת אל מלא רחמים, אותיות נשמה וכול)",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=yeshiva-137239",
-        "source_url": "https://www.yeshiva.org.il/ask/137239",
-        "author": "הרב נועם דביר מייזלס",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
-      },
-      {
-        "id": "up-din-201303241491158",
-        "title": "לאכול לפני בדיקת חמץ כשאינו יכול לבדוק",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "האם מותר לאכול לפני בדיקת חמץ כשעדיין לא מתאפשר לו לבדוק את חמצו?",
+        "question": "דלת של מקפיא או מקרר שיש בה מוקצה אז צריך לשים בה לפני שבת דבר חשוב שאינו מוקצה בכדי שהדלת לא תהפוך לבסיס (עכ\"פ לכתחילה)שאלתי לפ\"ד הרמ\"א שלכתחילה אם יש אפשרות לנער את המוקצה אז צריך לנערו ובמקפיא א\"א ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201303241491158",
-        "source_url": "https://din.org.il/2013/03/24/%d7%9c%d7%90%d7%9b%d7%95%d7%9c-%d7%9c%d7%a4%d7%a0%d7%99-%d7%91%d7%93%d7%99%d7%a7%d7%aa-%d7%97%d7%9e%d7%a5-%d7%9b%d7%a9%d7%90%d7%99%d7%a0%d7%95-%d7%99%d7%9b%d7%95%d7%9c-%d7%9c%d7%90%d7%9b%d7%95%d7%9c/",
-        "author": "רבני בית ההוראה",
+        "url": "https://shekhina.org/qa.html?id=up-din-460891",
+        "source_url": "https://din.org.il/2024/07/21/%d7%9e%d7%95%d7%a7%d7%a6%d7%94-%d7%91%d7%93%d7%9c%d7%aa-%d7%94%d7%9e%d7%a7%d7%a4%d7%99%d7%90/",
+        "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ad54402d2ab626e839fe2427"
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "up-din-266221",
+        "title": "אבלות ספירת העומר",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום! האם מנהגי האבלות של ספירות העומר חלים גם באסרו חג פסח? תודה!",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-266221",
+        "source_url": "https://din.org.il/2020/04/16/%d7%90%d7%91%d7%9c%d7%95%d7%aa-%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "up-din-2015071913528420",
+        "title": "שמיעת מוזיקה לספרדים בתשעת הימים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר השנה שחל תשעה באב במוצאי שבת לשמוע מוזיקה??? אני רוצה",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-2015071913528420",
+        "source_url": "https://din.org.il/2015/07/19/%d7%a9%d7%9e%d7%99%d7%a2%d7%aa-%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%9c%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "up-din-201604057457898",
+        "title": "ביעור חמץ מוקדם",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "כב' הרב, נוסע אי\"ה לפסח השנה ביום חמישי י\"ג בניסן בבוקר מוקדם. מהבית. מתי לעשות ביעור חמץ?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201604057457898",
+        "source_url": "https://din.org.il/2016/04/05/%d7%91%d7%99%d7%a2%d7%95%d7%a8-%d7%97%d7%9e%d7%a5-%d7%9e%d7%95%d7%a7%d7%93%d7%9d/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       }
     ]
   }
