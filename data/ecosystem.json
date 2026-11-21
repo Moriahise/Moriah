@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-20T16:57:28Z",
+  "checked_at": "2026-11-21T01:29:24Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-20T16:57:28Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-20T16:57:28Z"
+      "checked_at": "2026-11-21T01:29:24Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-20T16:57:28Z"
+      "checked_at": "2026-11-21T01:29:24Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-20T16:57:28Z"
+      "checked_at": "2026-11-21T01:29:24Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-21T01:29:24Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-20T16:57:28Z"
+      "checked_at": "2026-11-21T01:29:24Z"
     }
   },
   "music": [
@@ -12525,12 +12525,12 @@
       }
     ],
     "preview": {
-      "id": "5787-2026-11-14",
+      "id": "5787-2026-11-21",
       "text": {
         "en": "Four anchored studies across the complete Zohar parashah, with a continuous original-text reading route",
         "he": "ארבעה עיונים מעוגנים במקור מחברים את הפתיחה, שני אזורי אמצע והסיום. קראו כסדרן את כל פסקאות המקור שביניהם; המקור המלא מובא בהמשך."
       },
-      "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-14/"
+      "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-21/"
     }
   },
   "daf": {
@@ -43974,378 +43974,378 @@
     "total": 71009,
     "cards": [
       {
-        "id": "ye-47960",
-        "title": "Why do pigul, nosar, and tame incur kares?",
+        "id": "ye-47919",
+        "title": "Why isn't the bible 100% historically accurate?",
         "titles": {
-          "en": "Why do pigul, nosar, and tame incur kares?",
+          "en": "Why isn't the bible 100% historically accurate?",
           "he": ""
         },
         "language": "en",
-        "question": "As described in e.g. Rambam hilchos Pisule Hamukdashin chapter 18, there are bunch of things that render a korban invalid, and someone who eats from it gets whipped. However, there are three types of ",
-        "answer": "I don't know if he had a source, but a Rebbe of mine - Rav Yitzchok Fruchter of Jerusalem - explained this concept at various times. There are three types of invalid korban that someone who eats gets kares: a korban that was prepared with intent to e",
-        "answer_count": 1,
+        "question": "In day school my teachers often said that the torah isn't a history book. Today academicians, historians, and the like diligently present historical inaccuracies in the bible. For example the story of",
+        "answer": "I would challenge the premise of your question. When we talk about any \"history\", how can we confirm its truth, especially, if we weren't witnesses to these events. (You can also argue that even for those who were present, the eyes see or don't see, ",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "history",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-47960",
-        "source_url": "https://judaism.stackexchange.com/questions/47960/why-do-pigul-nosar-and-tame-incur-kares",
-        "author": "Danny Schoemann",
+        "url": "https://shekhina.org/qa.html?id=ye-47919",
+        "source_url": "https://judaism.stackexchange.com/questions/47919/why-isnt-the-bible-100-historically-accurate",
+        "author": "DanF",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-29721",
-        "title": "Is the child of a convert, conceived after she converted, Jewish?",
+        "id": "ye-29693",
+        "title": "How did Avraham discover that God exists?",
         "titles": {
-          "en": "Is the child of a convert, conceived after she converted, Jewish?",
+          "en": "How did Avraham discover that God exists?",
           "he": ""
         },
         "language": "en",
-        "question": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? I understand that non-Jewish mothers with Jewish husbands do not have Jewish children ",
-        "answer": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? Yes. Children of a Jewish mother are Jewish, regardless. If mom converted she's Jewish. (A child who was in the mother's womb when mom c",
-        "answer_count": 1,
+        "question": "How did Avraham discover that God exists? Was because of logic or tradition since Adam? If was by logic, why do we call him Ivri (from Ever, his grandfather). Please bring sources.",
+        "answer": "There is a midrash in Bereshit Rabbah 39 where Avraham deduces the existence of God who created the world, and only then did God call out to Avraham lech l'cha . A summary of the midrash from my notes after a class : Mashal: One day a man was traveli",
+        "answer_count": 3,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-29721",
-        "source_url": "https://judaism.stackexchange.com/questions/29721/is-the-child-of-a-convert-conceived-after-she-converted-jewish",
-        "author": "Shalom",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-29693",
+        "source_url": "https://judaism.stackexchange.com/questions/29693/how-did-avraham-discover-that-god-exists",
+        "author": "Monica Cellio",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-13319",
-        "title": "Shmita and Joseph's Dreams",
+        "id": "ye-13281",
+        "title": "How does someone not know they're Jewish?",
         "titles": {
-          "en": "Shmita and Joseph's Dreams",
+          "en": "How does someone not know they're Jewish?",
           "he": ""
         },
         "language": "en",
-        "question": "Shmita is every 7 years and we leave the land unused. In Egypt there were 7 years of feast, then 7 years of famine. As leaving the land unused could be considered famine like conditions, are there any",
-        "answer": "The MaHaral says that the number 7 is the number of natural occurrence, while the number 8 is for supernatural. Therefore a baby has his Bris on the 8th day to show that we are L'Maalah M'Derech Hatevah. There are many things in the Torah with the nu",
-        "answer_count": 1,
+        "question": "In this answer, someone said they got offended when people wore crosses, especially if they didn't know they were Jewish. I'm just wondering how someone can not know what religion they follow?",
+        "answer": "A person is a Jew if their mother is a Jew. If a jewish woman marries out of the faith and did not bring up her children as Jews they are still Jewish, even if they do not know it or practice it. And then her daughters children remain Jewish and at t",
+        "answer_count": 3,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-13319",
-        "source_url": "https://judaism.stackexchange.com/questions/13319/shmita-and-josephs-dreams",
+        "url": "https://shekhina.org/qa.html?id=ye-13281",
+        "source_url": "https://judaism.stackexchange.com/questions/13281/how-does-someone-not-know-theyre-jewish",
         "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-chabad-625408",
-        "title": "Was King David wrong for waging so many battles?",
+        "id": "up-chabad-614937",
+        "title": "Why the Rebbe pictures?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: I've heard it said that King David was denied the opportunity to build the Holy Temple because he had \"blood on his hands\" from the many wars he waged. If this is the case, why do we hold Da",
+        "question": "Question: I have been to Chabad several times. When I have gone to my Chabad rabbi's home, I noticed several pictures of the Rebbe decorating the walls. His eyes follow you all over the place... Why t",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
         "category": "kabbalah",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-625408",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/625408/jewish/Was-King-David-wrong-for-waging-so-many-battles.htm",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-614937",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/614937/jewish/Why-the-Rebbe-pictures.htm",
         "author": "Moshe Goldman",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-136108",
-        "title": "Maps/blueprints of the interior of the Temple Mount",
+        "id": "ye-136014",
+        "title": "What does it mean to \"cleave to the letters\" during prayer or Torah study?",
         "titles": {
-          "en": "Maps/blueprints of the interior of the Temple Mount",
+          "en": "What does it mean to \"cleave to the letters\" during prayer or Torah study?",
           "he": ""
         },
         "language": "en",
-        "question": "I am looking for resources that have maps and/or blueprints of the interior of the Temple Mount. For example, showing the various tunnel systems, stairs, gates, chambers, etc. I would even appreciate ",
-        "answer": "You might want to consider looking at the works of Leen Ritmeyer who is a leading expert on the subject matter. His book The Quest is a good overview on the topic, and he created a detailed map of the Temple Mount here that was featured in National G",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-136108",
-        "source_url": "https://judaism.stackexchange.com/questions/136108/maps-blueprints-of-the-interior-of-the-temple-mount",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
-      },
-      {
-        "id": "ye-117933",
-        "title": "Rabbi Saadia Gaon on the 10 Lost Tribes",
-        "titles": {
-          "en": "Rabbi Saadia Gaon on the 10 Lost Tribes",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I have read that Rabbi Saadia Gaon, a great sage who lived from 882 to 942, considered the Assyrian Exile to be in modern day Afghanistan, Pakistan, and parts of Iran. Would anyone be able to confirm ",
-        "answer": "Okay, it was tough, but I found the text of the quote: In Me'asef Nidachim by Avraham Harkavy , he writes: \"בכתאב אלמהאצרה (אשכל הכפר) לר' משה בן עזרא יביא את דברי הרס\"ג אודות שכחת לה\"ק אצל בני ישראל בגלות בבל, ואלה סוף דבריו: וכדלך ערץ באקי גאליה אל",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-117933",
-        "source_url": "https://judaism.stackexchange.com/questions/117933/rabbi-saadia-gaon-on-the-10-lost-tribes",
-        "author": "Harel13",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
-      },
-      {
-        "id": "ye-98374",
-        "title": "Steipler keeping 2 days yomtov in Bnei Brak",
-        "titles": {
-          "en": "Steipler keeping 2 days yomtov in Bnei Brak",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I was listening to a shuir of Rav Hershel Schacter and he mentioned that the Steipler kept 2 days yomtov undercover in Bnei Brak. I think he mentioned the source as the Orchos Rabbeinu,even though he ",
-        "answer": "This is indeed in Orchos Rabbeinu. It can be found in Volume II p. 136 of the 2014 edition. Here is an image of it:",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-98374",
-        "source_url": "https://judaism.stackexchange.com/questions/98374/steipler-keeping-2-days-yomtov-in-bnei-brak",
-        "author": "Alex",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
-      },
-      {
-        "id": "ye-82953",
-        "title": "What were the approximate ages of the heads of house(niseim) in parshat bamidbar. Above or below 60 years old",
-        "titles": {
-          "en": "What were the approximate ages of the heads of house(niseim) in parshat bamidbar. Above or below 60 years old",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Having just read last weeks parsha bamidbar. I wanted to know approximately how old the heads of house (niseim) of Israel were when the jews were counted. Were they older than 60 and they were not par",
-        "answer": "Elishama ben Amihud was Yehoshua's grandfather (Divrei Hayamim 1:7:26-27), and Yehoshua was 58 years old at the time(*). So at least one nasi was over 60. (*) Yehoshua lived 110 years (Yehoshua 24:29). This was 14 years after going into Eretz Yisrael",
+        "question": "In the teachings of the Baal Shem Tov, it talks about \"cleaving to the letters\" during prayer or Torah study. It has to do with the Hebrew letters and a special way of visualizing or focusing on them ",
+        "answer": "I think what this is saying is that one should treat the words properly. There are two ingredients to a proper tefilla as Hashem needs it. The first is with kavana , which means putting one's soul into it; concentrating and contemplating the words, f",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-82953",
-        "source_url": "https://judaism.stackexchange.com/questions/82953/what-were-the-approximate-ages-of-the-heads-of-houseniseim-in-parshat-bamidbar",
-        "author": "Heshy",
+        "url": "https://shekhina.org/qa.html?id=ye-136014",
+        "source_url": "https://judaism.stackexchange.com/questions/136014/what-does-it-mean-to-cleave-to-the-letters-during-prayer-or-torah-study",
+        "author": "Rabbi Kaii",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-65890",
-        "title": "Very small damage to someone else's property",
+        "id": "ye-117893",
+        "title": "Engagement with short woman",
         "titles": {
-          "en": "Very small damage to someone else's property",
+          "en": "Engagement with short woman",
           "he": ""
         },
         "language": "en",
-        "question": "If someone walks past a parked car with a stroller, the stroller got caught on the plastic casing around the number plate and a small piece broke off, is it wrong to walk off? What would halacha say t",
-        "answer": "It would seem from the Shulchan Aruch in Choshen Mishpat סימן שעח - אסור להזיק ממון חברו that one is responsible for all damage caused in the public domain, even unintentionally. א: אָסוּר לְהַזִּיק מָמוֹן חֲבֵרוֹ. וְאִם הִזִּיקוֹ, אַף עַל פִּי שֶׁאֵ",
+        "question": "I read many years ago a book or an article that claim that it if you have an option to marry short or tall woman with same qualities it is advised to marry the low woman. The reason that stands beyond",
+        "answer": "The source for short woman is in Tuvia Harofe 's book (fourth part, Olam Katan, chapter 2): It says that the short people have small space between heart and brain. The short people are usually flattering and very perceptive. בספר \"מעשה טוביה\" לטוביה ",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-65890",
-        "source_url": "https://judaism.stackexchange.com/questions/65890/very-small-damage-to-someone-elses-property",
-        "author": "Danny Schoemann",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-117893",
+        "source_url": "https://judaism.stackexchange.com/questions/117893/engagement-with-short-woman",
+        "author": "Avi",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-98353",
+        "title": "Who was responsible for keeping the original measures - weights and rulers?",
+        "titles": {
+          "en": "Who was responsible for keeping the original measures - weights and rulers?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Torah obligates us to keep the proper measures in weights and rulers, like Amah and Tefach and Log and Shekel and Selah. Let's imagine there's an argument in court about house footage - one says 1",
+        "answer": "Rambam in Geneivah 7:1 writes: הַשּׁוֹקֵל לַחֲבֵרוֹ מִמִּשְׁקָלוֹת חֲסֵרוֹת מִן הַמִּשְׁקָל שֶׁהִסְכִּימוּ עָלָיו בְּנֵי אוֹתָהּ הַמְּדִינָה. אוֹ הַמּוֹדֵד בְּמִדָּה חֲסֵרָה מִן הַמִּדָּה שֶׁהִסְכִּימוּ עָלֶיהָ. הֲרֵי זֶה עוֹבֵר בְּלֹא תַּעֲשֶׂה שֶׁנ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-98353",
+        "source_url": "https://judaism.stackexchange.com/questions/98353/who-was-responsible-for-keeping-the-original-measures-weights-and-rulers",
+        "author": "DonielF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-82922",
+        "title": "Counting sefirah in Welsh?",
+        "titles": {
+          "en": "Counting sefirah in Welsh?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Welsh word for \"week\" is wythnos , which means eight nights. This is because they count seven days, plus the six nights between them, and the one before and the one after. Can someone who speaks W",
+        "answer": "It seems from here that while the Welsh word literally meant \"eight nights\" and referred to an eight day week, it now just refers to a Judean seven-day week, and that's how it would be understood by the contemporary Welsh. This should mean that it wo",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-82922",
+        "source_url": "https://judaism.stackexchange.com/questions/82922/counting-sefirah-in-welsh",
+        "author": "Loewian",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-201910167146228",
-        "title": "תיקון הסוכה בחול המועד",
+        "id": "ye-65838",
+        "title": "Is cheating in a test an Averah?",
+        "titles": {
+          "en": "Is cheating in a test an Averah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I'm a student and I recently asked myself if cheating in a test is an Averah. I've always believed it obviously is, but after thinking it through I can't think of a specific Averah that would include ",
+        "answer": "It is a sin, and it's basically a form of theft. After doing some research, I found out the Guemara brings the concept of Gneivas Da'as , which is the theft of intellect. This site explains very well this concept.",
+        "answer_count": 4,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-65838",
+        "source_url": "https://judaism.stackexchange.com/questions/65838/is-cheating-in-a-test-an-averah",
+        "author": "Gabriel12",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "ye-2019101612795611",
+        "title": "פעילות מבצעית בימי חג הסוכות",
         "titles": {
           "en": "",
-          "he": "תיקון הסוכה בחול המועד"
+          "he": "פעילות מבצעית בימי חג הסוכות"
         },
         "language": "he",
-        "question": "האם מותר לתקן סוכה שנהרסה בגלל מזג האוויר בחול המועד? עמשא עמירם- שלום רב. מותר לבנות סוכה בחול המועד כיון שהיא מצווה השייכת לחול המועד, וכשם שהתירו לכתוב תפילין ומזוזות כשצריך להם בחול המועד. מקורות:",
+        "question": "חייל הנשלח לפעילות מבצעית, ויש סיכוי שאינו ימצא ארבעת המינים בימי הסוכות מה יעשה? ומה יעשה לגבי אכילה בסוכה? זאת אומרת יש אפשרות לנסות להשיג אך לא בטוח. אני מאוד מצטער על כך שאיני יכול לקיים את המצווה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-201910167146228",
-        "source_url": "https://din.org.il/2019/10/16/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%a1%d7%95%d7%9b%d7%94-%d7%91%d7%97%d7%95%d7%9c-%d7%94%d7%9e%d7%95%d7%a2%d7%93/",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-2019101612795611",
+        "source_url": "https://din.org.il/2019/10/16/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%aa-%d7%9e%d7%91%d7%a6%d7%a2%d7%99%d7%aa-%d7%91%d7%99%d7%9e%d7%99-%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-201209257966098",
-        "title": "מחילת העוונות ביום הכיפורים, ובליעת אוכל שבין השיניים",
+        "id": "ye-2012092410110983",
+        "title": "חולה במחלת הסרטן בצום יום כיפור",
         "titles": {
           "en": "",
-          "he": "מחילת העוונות ביום הכיפורים, ובליעת אוכל שבין השיניים"
+          "he": "חולה במחלת הסרטן בצום יום כיפור"
         },
         "language": "he",
-        "question": "היי. אני חיי במשפחה חילונית ואני רוצה להתחזק לכן יש לי שאלה לגבי הצום ביום כיפור (היום) 1 . זה נכון שמי שצם ושומר את יום כיפור ה' מכפר לו את כל החטאים שעשה? 2 . מי שנשאר לו אוכל בשיניים ובצום בולע אות",
+        "question": "שלום, שמי רוית ואני חולת סרטן – המצב יציב כרגע ואני מטופלת בתרופה בשם לטרוזול פרמוז. רציתי לשאול האם מותר לי לצום? אם כן האם צום מלא או בשיעורים – ומהם השיעורים. תודה גמר חתימה טובה שלום רב. כדאי שתבר",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "general",
+        "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-201209257966098",
-        "source_url": "https://din.org.il/2012/09/25/%d7%9e%d7%97%d7%99%d7%9c%d7%aa-%d7%94%d7%a2%d7%95%d7%95%d7%a0%d7%95%d7%aa-%d7%91%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%95%d7%91%d7%9c%d7%99%d7%a2%d7%aa-%d7%90%d7%95/",
+        "url": "https://shekhina.org/qa.html?id=ye-2012092410110983",
+        "source_url": "https://din.org.il/2012/09/24/%d7%97%d7%95%d7%9c%d7%94-%d7%91%d7%9e%d7%97%d7%9c%d7%aa-%d7%94%d7%a1%d7%a8%d7%98%d7%9f-%d7%91%d7%a6%d7%95%d7%9d-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8/",
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-142522",
-        "title": "אגרות קודש",
+        "id": "ye-145365",
+        "title": "מסכת מומלצת - בבא קמא או כתובות?",
         "titles": {
           "en": "",
-          "he": "אגרות קודש"
+          "he": "מסכת מומלצת - בבא קמא או כתובות?"
         },
         "language": "he",
-        "question": "שאלתי את הרבי אם להתקדם ולצאת לשידוכים וציינתי שעוד חצי שנה אני מסיימת שיירות לאומי יצא לי 18- _ 120-121 קכ- קכא שלום רב, נאמר \"תמים תהיה עם ה' אלוקיך\". שבי וחשבי עם עצמך ורצוי עם דמות מבוגרת שמלווה א",
+        "question": "שלום, בקרוב בעזרת ה מסיים מסכת ברכות, בנוסף אליה סיימתי מגילה, תענית וראש השנה, ורוצה להתחיל בבא קמא/כתובות, איזו מהן עדיף לי להתחיל קודם? תודה רבה ויום טוב צהריים טובים צדיק אשריך שאתה מתקדם בלימוד ה",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "general",
+        "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-142522",
-        "source_url": "https://www.yeshiva.org.il/ask/142522",
-        "author": "רבנים שונים",
+        "url": "https://shekhina.org/qa.html?id=ye-145365",
+        "source_url": "https://www.yeshiva.org.il/ask/145365",
+        "author": "הרב בניהו שרגא",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "ye-118861",
-        "title": "Did the כלי המקדש (menorah, shulchan, etc) need to be made לשמה?",
+        "id": "ye-118596",
+        "title": "Is there any particular reason why Haran (חָרָן) is spelled as חָרָנָה in B'resheith 27:43 & 28:10?",
         "titles": {
           "en": "",
-          "he": "Did the כלי המקדש (menorah, shulchan, etc) need to be made לשמה?"
+          "he": "Is there any particular reason why Haran (חָרָן) is spelled as חָרָנָה in B'resheith 27:43 & 28:10?"
         },
         "language": "he",
-        "question": "When they were made did they need to be made leshem menoras hamikdash, leshem shulchan shel hamikdash, etc?",
-        "answer": "Yes all keilim need to be made lishma. Rambam (courtsey of Chabad) Bais Habechira 1:20: אֵין עוֹשִׂין כָּל הַכֵּלִים מִתְּחִלָּתָן אֶלָּא לְשֵׁם הַקֹּדֶשׁ. וְאִם נַעֲשׂוּ מִתְּחִלָּתָן לְהֶדְיוֹט אֵין עוֹשִׂין אוֹתָן לְגָבוֹהַּ. וּכְלִי גָּבוֹהַּ עַד",
-        "answer_count": 1,
+        "question": "Going through this week's Parsha (Vayetze), I came across these specific verses and was confused about why the ה is attached to חָרָן. Does anyone know why and are there any references for such? Todah",
+        "answer": "It is a common suffix known in Biblical Hebrew as the 'locative hei' or the 'directional hei' in that by placing it at the end of the said place/location it transforms the meaning to \"to that place\". So חרנה means \"to Charan\" i.e. that he went toward",
+        "answer_count": 3,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-118861",
-        "source_url": "https://judaism.stackexchange.com/questions/118861/did-the-%d7%9b%d7%9c%d7%99-%d7%94%d7%9e%d7%a7%d7%93%d7%a9-menorah-shulchan-etc-need-to-be-made-%d7%9c%d7%a9%d7%9e%d7%94",
-        "author": "sam",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-118596",
+        "source_url": "https://judaism.stackexchange.com/questions/118596/is-there-any-particular-reason-why-haran-%d7%97%d6%b8%d7%a8%d6%b8%d7%9f-is-spelled-as-%d7%97%d6%b8%d7%a8%d6%b8%d7%a0%d6%b8%d7%94-in-bresh",
+        "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "din-url-82b325f046cc0257f89f23bc",
-        "title": "פתיחת חנות בבעלות יהודי בשבתות וימים טובים",
+        "id": "din-url-81b066cf2461ede5ad6c1d46",
+        "title": "רובה צעצוע עם חיצי נרף בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום וברכה יהודי בעלים של חנות במקום שאין לו אפשרות לסגור בשבתות וימים טובים מה היא תקנתו ? הפועלים העובדים הם גויים תודה רבה",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=din-url-82b325f046cc0257f89f23bc",
-        "source_url": "https://din.org.il/2015/09/17/%d7%a4%d7%aa%d7%99%d7%97%d7%aa-%d7%97%d7%a0%d7%95%d7%aa-%d7%91%d7%91%d7%a2%d7%9c%d7%95%d7%aa-%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%91%d7%a9%d7%91%d7%aa%d7%95%d7%aa-%d7%95%d7%99%d7%9e%d7%99%d7%9d-%d7%98/",
-        "author": "רבני בית הדין",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
-      },
-      {
-        "id": "up-din-460891",
-        "title": "מוקצה בדלת המקפיא",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "דלת של מקפיא או מקרר שיש בה מוקצה אז צריך לשים בה לפני שבת דבר חשוב שאינו מוקצה בכדי שהדלת לא תהפוך לבסיס (עכ\"פ לכתחילה)שאלתי לפ\"ד הרמ\"א שלכתחילה אם יש אפשרות לנער את המוקצה אז צריך לנערו ובמקפיא א\"א ",
+        "question": "יש רובה צעצוע שאינו עובד על סוללות ומעיף חיצים מספוג (נרף – Nerf) האם מותר בשבת למבוגר לשחק עם הילד בתוך מתחם גינה מגודר ומה הדין בבית. האב משמש כמדריך ושותף למשחק.",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-460891",
-        "source_url": "https://din.org.il/2024/07/21/%d7%9e%d7%95%d7%a7%d7%a6%d7%94-%d7%91%d7%93%d7%9c%d7%aa-%d7%94%d7%9e%d7%a7%d7%a4%d7%99%d7%90/",
+        "url": "https://shekhina.org/qa.html?id=din-url-81b066cf2461ede5ad6c1d46",
+        "source_url": "https://din.org.il/2025/08/15/%d7%a8%d7%95%d7%91%d7%94-%d7%a6%d7%a2%d7%a6%d7%95%d7%a2-%d7%a2%d7%9d-%d7%97%d7%99%d7%a6%d7%99-%d7%a0%d7%a8%d7%a3-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-din-266221",
-        "title": "אבלות ספירת העומר",
+        "id": "up-din-460054",
+        "title": "טלטול כלוב ציפורים בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום! האם מנהגי האבלות של ספירות העומר חלים גם באסרו חג פסח? תודה!",
+        "question": "טלטול כלוב ציפורים בשבת",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-266221",
-        "source_url": "https://din.org.il/2020/04/16/%d7%90%d7%91%d7%9c%d7%95%d7%aa-%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8/",
+        "url": "https://shekhina.org/qa.html?id=up-din-460054",
+        "source_url": "https://din.org.il/2024/07/13/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%9b%d7%9c%d7%95%d7%91-%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-din-2015071913528420",
-        "title": "שמיעת מוזיקה לספרדים בתשעת הימים",
+        "id": "up-din-266070",
+        "title": "מוזיקה במוצאי שביעי של פסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר השנה שחל תשעה באב במוצאי שבת לשמוע מוזיקה??? אני רוצה",
+        "question": "מוזיקה במוצאי שביעי של פסח",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2015071913528420",
-        "source_url": "https://din.org.il/2015/07/19/%d7%a9%d7%9e%d7%99%d7%a2%d7%aa-%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%9c%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%9d-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-266070",
+        "source_url": "https://din.org.il/2020/04/15/%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%91%d7%9e%d7%95%d7%a6%d7%90%d7%99-%d7%a9%d7%91%d7%99%d7%a2%d7%99-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-2/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
+      },
+      {
+        "id": "up-din-2015071710204908",
+        "title": "הזמנת מוצר לאחרי תשעה באב",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר לקנות נעלים באינטרנט מחו\"ל בתשעת הימים כאשר יגיעו אלי אחרי ט' באב?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-2015071710204908",
+        "source_url": "https://din.org.il/2015/07/17/%d7%94%d7%96%d7%9e%d7%a0%d7%aa-%d7%9e%d7%95%d7%a6%d7%a8-%d7%9c%d7%90%d7%97%d7%a8%d7%99-%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-3f2483c5f68a8875f8ef6ad0"
       },
       {
-        "id": "up-din-201604057457898",
-        "title": "ביעור חמץ מוקדם",
+        "id": "up-din-201604022605393",
+        "title": "הכשרת כיריים קרמיות לפסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "כב' הרב, נוסע אי\"ה לפסח השנה ביום חמישי י\"ג בניסן בבוקר מוקדם. מהבית. מתי לעשות ביעור חמץ?",
+        "question": "כיצד ניתן ללבן כיריים קרמיות? האם הכיריים דולקות כשאין עליהם סיר?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201604057457898",
-        "source_url": "https://din.org.il/2016/04/05/%d7%91%d7%99%d7%a2%d7%95%d7%a8-%d7%97%d7%9e%d7%a5-%d7%9e%d7%95%d7%a7%d7%93%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=up-din-201604022605393",
+        "source_url": "https://din.org.il/2016/04/02/%d7%94%d7%9b%d7%a9%d7%a8%d7%aa-%d7%9b%d7%99%d7%a8%d7%99%d7%99%d7%9d-%d7%a7%d7%a8%d7%9e%d7%99%d7%95%d7%aa-%d7%9c%d7%a4%d7%a1%d7%97-2/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
