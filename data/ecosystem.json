@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-22T06:42:05Z",
+  "checked_at": "2026-11-22T16:15:34Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-22T06:42:05Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-22T06:42:05Z"
+      "checked_at": "2026-11-22T16:15:34Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-22T06:42:05Z"
+      "checked_at": "2026-11-22T16:15:34Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-22T06:42:05Z"
+      "checked_at": "2026-11-22T16:15:34Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-22T16:15:34Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-22T06:42:05Z"
+      "checked_at": "2026-11-22T16:15:34Z"
     }
   },
   "music": [
@@ -39080,6 +39080,1630 @@
         "target_shabbat": "2031-11-28",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-metzia-119/"
+      },
+      {
+        "id": "cycle-15-bava-batra-2",
+        "title": {
+          "en": "Bava Batra 2 — Partners, Partitions, and the Damage of Being Seen",
+          "he": "בבא בתרא ב׳ — שותפים, מחיצה, והיזק ראייה"
+        },
+        "parashah": {
+          "en": "Bava Batra 2",
+          "he": "בבא בתרא דף 2"
+        },
+        "target_shabbat": "2031-11-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-2/"
+      },
+      {
+        "id": "cycle-15-bava-batra-3",
+        "title": {
+          "en": "Bava Batra 3 — From Courtyard Walls to the Walls of the Temple",
+          "he": "בבא בתרא ג׳ — מכותלי החצר אל כותלי המקדש"
+        },
+        "parashah": {
+          "en": "Bava Batra 3",
+          "he": "בבא בתרא דף 3"
+        },
+        "target_shabbat": "2031-11-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-3/"
+      },
+      {
+        "id": "cycle-15-bava-batra-4",
+        "title": {
+          "en": "Bava Batra 4 — Herod's Temple and the Marks of Ownership",
+          "he": "בבא בתרא ד׳ — מקדש הורדוס וסימני הבעלות"
+        },
+        "parashah": {
+          "en": "Bava Batra 4",
+          "he": "בבא בתרא דף 4"
+        },
+        "target_shabbat": "2031-12-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-4/"
+      },
+      {
+        "id": "cycle-15-bava-batra-5",
+        "title": {
+          "en": "Bava Batra 5 — Ravina, Ronya, and the Presumption about Early Payment",
+          "he": "בבא בתרא ה׳ — רבינא, רוניא וחזקת הפירעון בתוך הזמן"
+        },
+        "parashah": {
+          "en": "Bava Batra 5",
+          "he": "בבא בתרא דף 5"
+        },
+        "target_shabbat": "2031-12-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-5/"
+      },
+      {
+        "id": "cycle-15-bava-batra-6",
+        "title": {
+          "en": "Bava Batra 6 — Presumptions, Acquired Rights, and Fences between Roofs",
+          "he": "בבא בתרא ו׳ — חזקות, זכויות שנקנו ומחיצות בין גגות"
+        },
+        "parashah": {
+          "en": "Bava Batra 6",
+          "he": "בבא בתרא דף 6"
+        },
+        "target_shabbat": "2031-12-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-6/"
+      },
+      {
+        "id": "cycle-15-bava-batra-7",
+        "title": {
+          "en": "Bava Batra 7 — Sinking Houses, Blocked Windows, and the City Wall",
+          "he": "בבא בתרא ז׳ — בתים שוקעים, חלונות שנחסמו וחומת העיר"
+        },
+        "parashah": {
+          "en": "Bava Batra 7",
+          "he": "בבא בתרא דף 7"
+        },
+        "target_shabbat": "2031-12-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-7/"
+      },
+      {
+        "id": "cycle-15-bava-batra-8",
+        "title": {
+          "en": "Bava Batra 8 — Who Bears the Public Burden: Taxes, Residency, and Charity",
+          "he": "בבא בתרא ח׳ — מי נושא בעול הציבור: מסים, תושבות וצדקה"
+        },
+        "parashah": {
+          "en": "Bava Batra 8",
+          "he": "בבא בתרא דף 8"
+        },
+        "target_shabbat": "2031-12-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-8/"
+      },
+      {
+        "id": "cycle-15-bava-batra-9",
+        "title": {
+          "en": "Bava Batra 9 — The Discipline and the Reward of Charity",
+          "he": "בבא בתרא ט׳ — משמעת הצדקה ושכרה"
+        },
+        "parashah": {
+          "en": "Bava Batra 9",
+          "he": "בבא בתרא דף 9"
+        },
+        "target_shabbat": "2031-12-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-9/"
+      },
+      {
+        "id": "cycle-15-bava-batra-10",
+        "title": {
+          "en": "Bava Batra 10 — Sons or Servants: The Theology of Charity",
+          "he": "בבא בתרא י׳ — בנים או עבדים: תורת הצדקה"
+        },
+        "parashah": {
+          "en": "Bava Batra 10",
+          "he": "בבא בתרא דף 10"
+        },
+        "target_shabbat": "2031-12-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-10/"
+      },
+      {
+        "id": "cycle-15-bava-batra-11",
+        "title": {
+          "en": "Bava Batra 11 — Treasures Above and the Division of Shared Property",
+          "he": "בבא בתרא י״א — אוצרות למעלה וחלוקת נכסים משותפים"
+        },
+        "parashah": {
+          "en": "Bava Batra 11",
+          "he": "בבא בתרא דף 11"
+        },
+        "target_shabbat": "2031-12-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-11/"
+      },
+      {
+        "id": "cycle-15-bava-batra-12",
+        "title": {
+          "en": "Bava Batra 12 — Public Paths, Divisible Fields, and Prophecy after the Temple",
+          "he": "בבא בתרא י״ב — דרכי הרבים, שדות הניתנים לחלוקה ונבואה אחר החורבן"
+        },
+        "parashah": {
+          "en": "Bava Batra 12",
+          "he": "בבא בתרא דף 12"
+        },
+        "target_shabbat": "2031-12-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-12/"
+      },
+      {
+        "id": "cycle-15-bava-batra-13",
+        "title": {
+          "en": "Bava Batra 13 — \"Either You Set a Price or I Will\": Ending a Partnership",
+          "he": "בבא בתרא י״ג — \"גוד או איגוד\": פירוק שותפות"
+        },
+        "parashah": {
+          "en": "Bava Batra 13",
+          "he": "בבא בתרא דף 13"
+        },
+        "target_shabbat": "2031-12-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-13/"
+      },
+      {
+        "id": "cycle-15-bava-batra-14",
+        "title": {
+          "en": "Bava Batra 14 — The Form of the Scroll and the Order of the Books",
+          "he": "בבא בתרא י״ד — צורת הספר וסדר הספרים"
+        },
+        "parashah": {
+          "en": "Bava Batra 14",
+          "he": "בבא בתרא דף 14"
+        },
+        "target_shabbat": "2031-12-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-14/"
+      },
+      {
+        "id": "cycle-15-bava-batra-15",
+        "title": {
+          "en": "Bava Batra 15 — Who Wrote the Books, and When Did Job Live?",
+          "he": "בבא בתרא ט״ו — מי כתב את הספרים, ומתי חי איוב?"
+        },
+        "parashah": {
+          "en": "Bava Batra 15",
+          "he": "בבא בתרא דף 15"
+        },
+        "target_shabbat": "2031-12-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-15/"
+      },
+      {
+        "id": "cycle-15-bava-batra-16",
+        "title": {
+          "en": "Bava Batra 16 — Job's Trial, Daughters, and the Day Abraham Died",
+          "he": "בבא בתרא ט״ז — ניסיון איוב, הבנות והיום שבו מת אברהם"
+        },
+        "parashah": {
+          "en": "Bava Batra 16",
+          "he": "בבא בתרא דף 16"
+        },
+        "target_shabbat": "2031-12-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-16/"
+      },
+      {
+        "id": "cycle-15-bava-batra-17",
+        "title": {
+          "en": "Bava Batra 17 — Those Untouched by Death, and the Distance from a Neighbor's Wall",
+          "he": "בבא בתרא י״ז — מי שלא שלט בהם המוות, וההרחקה מכותל השכן"
+        },
+        "parashah": {
+          "en": "Bava Batra 17",
+          "he": "בבא בתרא דף 17"
+        },
+        "target_shabbat": "2031-12-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-17/"
+      },
+      {
+        "id": "cycle-15-bava-batra-18",
+        "title": {
+          "en": "Bava Batra 18 — On Whom Lies the Duty to Distance Damage?",
+          "he": "בבא בתרא י״ח — על מי מוטלת חובת ההרחקה?"
+        },
+        "parashah": {
+          "en": "Bava Batra 18",
+          "he": "בבא בתרא דף 18"
+        },
+        "target_shabbat": "2031-12-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-18/"
+      },
+      {
+        "id": "cycle-15-bava-batra-19",
+        "title": {
+          "en": "Bava Batra 19 — Moisture, Heat, and What Counts as an Obstruction",
+          "he": "בבא בתרא י״ט — לחות, חום, ומה נחשב חציצה"
+        },
+        "parashah": {
+          "en": "Bava Batra 19",
+          "he": "בבא בתרא דף 19"
+        },
+        "target_shabbat": "2031-12-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-19/"
+      },
+      {
+        "id": "cycle-15-bava-batra-20",
+        "title": {
+          "en": "Bava Batra 20 — What Stays in Place, and What a Neighbor Must Tolerate",
+          "he": "בבא בתרא כ׳ — מה נשאר במקומו, ומה שכן חייב לסבול"
+        },
+        "parashah": {
+          "en": "Bava Batra 20",
+          "he": "בבא בתרא דף 20"
+        },
+        "target_shabbat": "2031-12-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-20/"
+      },
+      {
+        "id": "cycle-15-bava-batra-21",
+        "title": {
+          "en": "Bava Batra 21 — Schoolchildren in the Courtyard and Competition in the Alley",
+          "he": "בבא בתרא כ״א — תינוקות של בית רבן בחצר ותחרות במבוי"
+        },
+        "parashah": {
+          "en": "Bava Batra 21",
+          "he": "בבא בתרא דף 21"
+        },
+        "target_shabbat": "2031-12-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-21/"
+      },
+      {
+        "id": "cycle-15-bava-batra-22",
+        "title": {
+          "en": "Bava Batra 22 — Market Rights, a Scholar's Honor, and Walls by Windows",
+          "he": "בבא בתרא כ״ב — זכויות שוק, כבוד תלמיד חכם וכתלים מול חלונות"
+        },
+        "parashah": {
+          "en": "Bava Batra 22",
+          "he": "בבא בתרא דף 22"
+        },
+        "target_shabbat": "2031-12-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-22/"
+      },
+      {
+        "id": "cycle-15-bava-batra-23",
+        "title": {
+          "en": "Bava Batra 23 — Dovecotes, Acquired Rights, and Majority versus Proximity",
+          "he": "בבא בתרא כ״ג — שובכים, חזקות, ורוב מול קרוב"
+        },
+        "parashah": {
+          "en": "Bava Batra 23",
+          "he": "בבא בתרא דף 23"
+        },
+        "target_shabbat": "2031-12-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-23/"
+      },
+      {
+        "id": "cycle-15-bava-batra-24",
+        "title": {
+          "en": "Bava Batra 24 — Following the Majority, and Keeping Trees and Threshing Floors from the City",
+          "he": "בבא בתרא כ״ד — הליכה אחר הרוב, והרחקת אילנות וגרנות מן העיר"
+        },
+        "parashah": {
+          "en": "Bava Batra 24",
+          "he": "בבא בתרא דף 24"
+        },
+        "target_shabbat": "2031-12-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-24/"
+      },
+      {
+        "id": "cycle-15-bava-batra-25",
+        "title": {
+          "en": "Bava Batra 25 — Winds, the Direction of Prayer, and a Tree beside a Cistern",
+          "he": "בבא בתרא כ״ה — רוחות, כיוון התפילה ואילן בצד בור"
+        },
+        "parashah": {
+          "en": "Bava Batra 25",
+          "he": "בבא בתרא דף 25"
+        },
+        "target_shabbat": "2031-12-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-25/"
+      },
+      {
+        "id": "cycle-15-bava-batra-26",
+        "title": {
+          "en": "Bava Batra 26 — Direct Force, Neighboring Trees, and Whose Roots Are They?",
+          "he": "בבא בתרא כ״ו — כוחו הישיר, אילנות סמוכים, ושורשים של מי?"
+        },
+        "parashah": {
+          "en": "Bava Batra 26",
+          "he": "בבא בתרא דף 26"
+        },
+        "target_shabbat": "2031-12-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-26/"
+      },
+      {
+        "id": "cycle-15-bava-batra-27",
+        "title": {
+          "en": "Bava Batra 27 — Roots that Cross a Border, Branches that Overhang",
+          "he": "בבא בתרא כ״ז — שורשים החוצים גבול, ענפים הנוטים"
+        },
+        "parashah": {
+          "en": "Bava Batra 27",
+          "he": "בבא בתרא דף 27"
+        },
+        "target_shabbat": "2031-12-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-27/"
+      },
+      {
+        "id": "cycle-15-bava-batra-28",
+        "title": {
+          "en": "Bava Batra 28 — Three Years of Possession: The Source of Ḥazakah",
+          "he": "בבא בתרא כ״ח — שלוש שנים של חזקה: מקורה של חזקת קרקע"
+        },
+        "parashah": {
+          "en": "Bava Batra 28",
+          "he": "בבא בתרא דף 28"
+        },
+        "target_shabbat": "2031-12-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-28/"
+      },
+      {
+        "id": "cycle-15-bava-batra-29",
+        "title": {
+          "en": "Bava Batra 29 — Why Three Years? Consecutive Use and Who Must Prove",
+          "he": "בבא בתרא כ״ט — מדוע שלוש שנים? שימוש רצוף ועל מי הראיה"
+        },
+        "parashah": {
+          "en": "Bava Batra 29",
+          "he": "בבא בתרא דף 29"
+        },
+        "target_shabbat": "2031-12-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-29/"
+      },
+      {
+        "id": "cycle-15-bava-batra-30",
+        "title": {
+          "en": "Bava Batra 30 — Claims and Counterclaims in Land Disputes",
+          "he": "בבא בתרא ל׳ — טענות ושכנגד בסכסוכי קרקע"
+        },
+        "parashah": {
+          "en": "Bava Batra 30",
+          "he": "בבא בתרא דף 30"
+        },
+        "target_shabbat": "2031-12-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-30/"
+      },
+      {
+        "id": "cycle-15-bava-batra-31",
+        "title": {
+          "en": "Bava Batra 31 — Changing a Claim and Contradicted Witnesses",
+          "he": "בבא בתרא ל״א — חזרה מטענה ועדים שהוכחשו"
+        },
+        "parashah": {
+          "en": "Bava Batra 31",
+          "he": "בבא בתרא דף 31"
+        },
+        "target_shabbat": "2031-12-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-31/"
+      },
+      {
+        "id": "cycle-15-bava-batra-32",
+        "title": {
+          "en": "Bava Batra 32 — Contempt of Court and the Admitted Forgery",
+          "he": "בבא בתרא ל״ב — זילותא דבי דינא והשטר המזויף שהודו בו"
+        },
+        "parashah": {
+          "en": "Bava Batra 32",
+          "he": "בבא בתרא דף 32"
+        },
+        "target_shabbat": "2031-12-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-32/"
+      },
+      {
+        "id": "cycle-15-bava-batra-33",
+        "title": {
+          "en": "Bava Batra 33 — Orphans' Land, an Admitted Heir, and Partial Proof",
+          "he": "בבא בתרא ל״ג — קרקע יתומים, יורש שהודו בו, וראיה חלקית"
+        },
+        "parashah": {
+          "en": "Bava Batra 33",
+          "he": "בבא בתרא דף 33"
+        },
+        "target_shabbat": "2031-12-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-33/"
+      },
+      {
+        "id": "cycle-15-bava-batra-34",
+        "title": {
+          "en": "Bava Batra 34 — One Who Cannot Swear, and \"Whoever Is Stronger Prevails\"",
+          "he": "בבא בתרא ל״ד — מתוך שאינו יכול לישבע, ו\"כל דאלים גבר\""
+        },
+        "parashah": {
+          "en": "Bava Batra 34",
+          "he": "בבא בתרא דף 34"
+        },
+        "target_shabbat": "2031-12-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-34/"
+      },
+      {
+        "id": "cycle-15-bava-batra-35",
+        "title": {
+          "en": "Bava Batra 35 — Divide, Decide, or Let the Stronger Prevail",
+          "he": "בבא בתרא ל״ה — לחלוק, שודא דדייני, או כל דאלים גבר"
+        },
+        "parashah": {
+          "en": "Bava Batra 35",
+          "he": "בבא בתרא דף 35"
+        },
+        "target_shabbat": "2032-01-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-35/"
+      },
+      {
+        "id": "cycle-15-bava-batra-36",
+        "title": {
+          "en": "Bava Batra 36 — What Kind of Use Establishes Ḥazakah?",
+          "he": "בבא בתרא ל״ו — איזה שימוש יוצר חזקה?"
+        },
+        "parashah": {
+          "en": "Bava Batra 36",
+          "he": "בבא בתרא דף 36"
+        },
+        "target_shabbat": "2032-01-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-36/"
+      },
+      {
+        "id": "cycle-15-bava-batra-37",
+        "title": {
+          "en": "Bava Batra 37 — Trees, Land, and What a Sale Includes",
+          "he": "בבא בתרא ל״ז — אילנות, קרקע ומה המכירה כוללת"
+        },
+        "parashah": {
+          "en": "Bava Batra 37",
+          "he": "בבא בתרא דף 37"
+        },
+        "target_shabbat": "2032-01-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-37/"
+      },
+      {
+        "id": "cycle-15-bava-batra-38",
+        "title": {
+          "en": "Bava Batra 38 — Protest in Absence: Distance, Danger, and Flight",
+          "he": "בבא בתרא ל״ח — מחאה שלא בפניו: מרחק, סכנה ובריחה"
+        },
+        "parashah": {
+          "en": "Bava Batra 38",
+          "he": "בבא בתרא דף 38"
+        },
+        "target_shabbat": "2032-01-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-38/"
+      },
+      {
+        "id": "cycle-15-bava-batra-39",
+        "title": {
+          "en": "Bava Batra 39 — How a Protest Spreads",
+          "he": "בבא בתרא ל״ט — כיצד מחאה מתפשטת"
+        },
+        "parashah": {
+          "en": "Bava Batra 39",
+          "he": "בבא בתרא דף 39"
+        },
+        "target_shabbat": "2032-01-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-39/"
+      },
+      {
+        "id": "cycle-15-bava-batra-40",
+        "title": {
+          "en": "Bava Batra 40 — Protest, Preemptive Declaration, Admission, Acquisition",
+          "he": "בבא בתרא מ׳ — מחאה, מודעא, הודאה וקנין"
+        },
+        "parashah": {
+          "en": "Bava Batra 40",
+          "he": "בבא בתרא דף 40"
+        },
+        "target_shabbat": "2032-01-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-40/"
+      },
+      {
+        "id": "cycle-15-bava-batra-41",
+        "title": {
+          "en": "Bava Batra 41 — Ḥazakah Requires a Claim",
+          "he": "בבא בתרא מ״א — חזקה שאין עמה טענה"
+        },
+        "parashah": {
+          "en": "Bava Batra 41",
+          "he": "בבא בתרא דף 41"
+        },
+        "target_shabbat": "2032-01-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-41/"
+      },
+      {
+        "id": "cycle-15-bava-batra-42",
+        "title": {
+          "en": "Bava Batra 42 — Who Cannot Establish Ḥazakah?",
+          "he": "בבא בתרא מ״ב — מי אינו יכול להחזיק?"
+        },
+        "parashah": {
+          "en": "Bava Batra 42",
+          "he": "בבא בתרא דף 42"
+        },
+        "target_shabbat": "2032-01-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-42/"
+      },
+      {
+        "id": "cycle-15-bava-batra-43",
+        "title": {
+          "en": "Bava Batra 43 — Bias and the Interested Witness",
+          "he": "בבא בתרא מ״ג — נגיעה ועד הנוגע בדבר"
+        },
+        "parashah": {
+          "en": "Bava Batra 43",
+          "he": "בבא בתרא דף 43"
+        },
+        "target_shabbat": "2032-01-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-43/"
+      },
+      {
+        "id": "cycle-15-bava-batra-44",
+        "title": {
+          "en": "Bava Batra 44 — The Seller as Witness for His Buyer",
+          "he": "בבא בתרא מ״ד — המוכר כעד ללוקח"
+        },
+        "parashah": {
+          "en": "Bava Batra 44",
+          "he": "בבא בתרא דף 44"
+        },
+        "target_shabbat": "2032-01-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-44/"
+      },
+      {
+        "id": "cycle-15-bava-batra-45",
+        "title": {
+          "en": "Bava Batra 45 — The Seller's Conscience and the Craftsman's Claim",
+          "he": "בבא בתרא מ״ה — מצפון המוכר וטענת האומן"
+        },
+        "parashah": {
+          "en": "Bava Batra 45",
+          "he": "בבא בתרא דף 45"
+        },
+        "target_shabbat": "2032-01-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-45/"
+      },
+      {
+        "id": "cycle-15-bava-batra-46",
+        "title": {
+          "en": "Bava Batra 46 — Craftsmen, Exchanged Utensils and Sharecroppers",
+          "he": "בבא בתרא מ״ו — אומנים, כלים שהוחלפו ואריסים"
+        },
+        "parashah": {
+          "en": "Bava Batra 46",
+          "he": "בבא בתרא דף 46"
+        },
+        "target_shabbat": "2032-01-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-46/"
+      },
+      {
+        "id": "cycle-15-bava-batra-47",
+        "title": {
+          "en": "Bava Batra 47 — Who Cannot Hold a Presumption, and Their Heirs",
+          "he": "בבא בתרא מ״ז — מי שאין לו חזקה, ויורשיו"
+        },
+        "parashah": {
+          "en": "Bava Batra 47",
+          "he": "בבא בתרא דף 47"
+        },
+        "target_shabbat": "2032-01-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-47/"
+      },
+      {
+        "id": "cycle-15-bava-batra-48",
+        "title": {
+          "en": "Bava Batra 48 — Consent Under Duress",
+          "he": "בבא בתרא מ״ח — רצון מתוך כפייה"
+        },
+        "parashah": {
+          "en": "Bava Batra 48",
+          "he": "בבא בתרא דף 48"
+        },
+        "target_shabbat": "2032-01-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-48/"
+      },
+      {
+        "id": "cycle-15-bava-batra-49",
+        "title": {
+          "en": "Bava Batra 49 — Witnesses Against Their Own Signature, and the Husband's Use of His Wife's Field",
+          "he": "בבא בתרא מ״ט — עדים הסותרים חתימתם, ושימוש הבעל בשדה אשתו"
+        },
+        "parashah": {
+          "en": "Bava Batra 49",
+          "he": "בבא בתרא דף 49"
+        },
+        "target_shabbat": "2032-01-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-49/"
+      },
+      {
+        "id": "cycle-15-bava-batra-50",
+        "title": {
+          "en": "Bava Batra 50 — Usufruct Property and the Married Woman's Protest",
+          "he": "בבא בתרא נ׳ — נכסי מלוג ומחאת אשת איש"
+        },
+        "parashah": {
+          "en": "Bava Batra 50",
+          "he": "בבא בתרא דף 50"
+        },
+        "target_shabbat": "2032-01-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-50/"
+      },
+      {
+        "id": "cycle-15-bava-batra-51",
+        "title": {
+          "en": "Bava Batra 51 — Selling a Field to One's Wife",
+          "he": "בבא בתרא נ״א — המוכר שדה לאשתו"
+        },
+        "parashah": {
+          "en": "Bava Batra 51",
+          "he": "בבא בתרא דף 51"
+        },
+        "target_shabbat": "2032-01-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-51/"
+      },
+      {
+        "id": "cycle-15-bava-batra-52",
+        "title": {
+          "en": "Bava Batra 52 — The Family Business and Acts of Acquisition",
+          "he": "בבא בתרא נ״ב — העסק המשפחתי ומעשי קנין"
+        },
+        "parashah": {
+          "en": "Bava Batra 52",
+          "he": "בבא בתרא דף 52"
+        },
+        "target_shabbat": "2032-01-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-52/"
+      },
+      {
+        "id": "cycle-15-bava-batra-53",
+        "title": {
+          "en": "Bava Batra 53 — How Much Is \"A Bit\"? Acts of Possession",
+          "he": "בבא בתרא נ״ג — מהו \"כל שהוא\"? מעשי חזקה"
+        },
+        "parashah": {
+          "en": "Bava Batra 53",
+          "he": "בבא בתרא דף 53"
+        },
+        "target_shabbat": "2032-01-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-53/"
+      },
+      {
+        "id": "cycle-15-bava-batra-54",
+        "title": {
+          "en": "Bava Batra 54 — Intention in Acts of Possession, and Land Bought from a Gentile",
+          "he": "בבא בתרא נ״ד — כוונה במעשי חזקה, וקרקע שנקנתה מנכרי"
+        },
+        "parashah": {
+          "en": "Bava Batra 54",
+          "he": "בבא בתרא דף 54"
+        },
+        "target_shabbat": "2032-01-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-54/"
+      },
+      {
+        "id": "cycle-15-bava-batra-55",
+        "title": {
+          "en": "Bava Batra 55 — The Law of the Kingdom and the Boundaries of a Field",
+          "he": "בבא בתרא נ״ה — דינא דמלכותא וגבולות השדה"
+        },
+        "parashah": {
+          "en": "Bava Batra 55",
+          "he": "בבא בתרא דף 55"
+        },
+        "target_shabbat": "2032-01-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-55/"
+      },
+      {
+        "id": "cycle-15-bava-batra-56",
+        "title": {
+          "en": "Bava Batra 56 — Dividing Lines and Divided Testimony",
+          "he": "בבא בתרא נ״ו — קווי הפרדה ועדות מפוצלת"
+        },
+        "parashah": {
+          "en": "Bava Batra 56",
+          "he": "בבא בתרא דף 56"
+        },
+        "target_shabbat": "2032-01-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-56/"
+      },
+      {
+        "id": "cycle-15-bava-batra-57",
+        "title": {
+          "en": "Bava Batra 57 — The Shared Courtyard and the Scholar's Conduct",
+          "he": "בבא בתרא נ״ז — החצר המשותפת והנהגת תלמיד החכם"
+        },
+        "parashah": {
+          "en": "Bava Batra 57",
+          "he": "בבא בתרא דף 57"
+        },
+        "target_shabbat": "2032-01-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-57/"
+      },
+      {
+        "id": "cycle-15-bava-batra-58",
+        "title": {
+          "en": "Bava Batra 58 — The Wisdom of Rabbi Bena'a and the Rights of Drainage",
+          "he": "בבא בתרא נ״ח — חכמת רבי בנאה וזכויות הניקוז"
+        },
+        "parashah": {
+          "en": "Bava Batra 58",
+          "he": "בבא בתרא דף 58"
+        },
+        "target_shabbat": "2032-01-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-58/"
+      },
+      {
+        "id": "cycle-15-bava-batra-59",
+        "title": {
+          "en": "Bava Batra 59 — Windows, Projections and the Damage of Sight",
+          "he": "בבא בתרא נ״ט — חלונות, זיזים והיזק ראייה"
+        },
+        "parashah": {
+          "en": "Bava Batra 59",
+          "he": "בבא בתרא דף 59"
+        },
+        "target_shabbat": "2032-01-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-59/"
+      },
+      {
+        "id": "cycle-15-bava-batra-60",
+        "title": {
+          "en": "Bava Batra 60 — Privacy, the Public Domain and Remembering Jerusalem",
+          "he": "בבא בתרא ס׳ — צניעות, רשות הרבים וזכר לירושלים"
+        },
+        "parashah": {
+          "en": "Bava Batra 60",
+          "he": "בבא בתרא דף 60"
+        },
+        "target_shabbat": "2032-01-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-60/"
+      },
+      {
+        "id": "cycle-15-bava-batra-61",
+        "title": {
+          "en": "Bava Batra 61 — What Is Sold with a House?",
+          "he": "בבא בתרא ס״א — מה נמכר עם הבית?"
+        },
+        "parashah": {
+          "en": "Bava Batra 61",
+          "he": "בבא בתרא דף 61"
+        },
+        "target_shabbat": "2032-01-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-61/"
+      },
+      {
+        "id": "cycle-15-bava-batra-62",
+        "title": {
+          "en": "Bava Batra 62 — Drawing the Boundaries of a Sale",
+          "he": "בבא בתרא ס״ב — שרטוט מצרי המכר"
+        },
+        "parashah": {
+          "en": "Bava Batra 62",
+          "he": "בבא בתרא דף 62"
+        },
+        "target_shabbat": "2032-01-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-62/"
+      },
+      {
+        "id": "cycle-15-bava-batra-63",
+        "title": {
+          "en": "Bava Batra 63 — What a Seller Withholds",
+          "he": "בבא בתרא ס״ג — מה המוכר משייר"
+        },
+        "parashah": {
+          "en": "Bava Batra 63",
+          "he": "בבא בתרא דף 63"
+        },
+        "target_shabbat": "2032-01-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-63/"
+      },
+      {
+        "id": "cycle-15-bava-batra-64",
+        "title": {
+          "en": "Bava Batra 64 — Does a Seller Sell Generously or Sparingly?",
+          "he": "בבא בתרא ס״ד — מוכר בעין יפה מוכר או בעין רעה?"
+        },
+        "parashah": {
+          "en": "Bava Batra 64",
+          "he": "בבא בתרא דף 64"
+        },
+        "target_shabbat": "2032-01-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-64/"
+      },
+      {
+        "id": "cycle-15-bava-batra-65",
+        "title": {
+          "en": "Bava Batra 65 — Brothers' Division, Gifts, and Fixtures of a House",
+          "he": "בבא בתרא ס״ה — חלוקת אחים, מתנות וקבועי הבית"
+        },
+        "parashah": {
+          "en": "Bava Batra 65",
+          "he": "בבא בתרא דף 65"
+        },
+        "target_shabbat": "2032-01-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-65/"
+      },
+      {
+        "id": "cycle-15-bava-batra-66",
+        "title": {
+          "en": "Bava Batra 66 — When Does an Attached Vessel Become Land?",
+          "he": "בבא בתרא ס״ו — מתי כלי שחובר נעשה קרקע?"
+        },
+        "parashah": {
+          "en": "Bava Batra 66",
+          "he": "בבא בתרא דף 66"
+        },
+        "target_shabbat": "2032-02-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-66/"
+      },
+      {
+        "id": "cycle-15-bava-batra-67",
+        "title": {
+          "en": "Bava Batra 67 — Selling a Courtyard, an Olive Press and a Bathhouse",
+          "he": "בבא בתרא ס״ז — מכירת חצר, בית הבד ומרחץ"
+        },
+        "parashah": {
+          "en": "Bava Batra 67",
+          "he": "בבא בתרא דף 67"
+        },
+        "target_shabbat": "2032-02-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-67/"
+      },
+      {
+        "id": "cycle-15-bava-batra-68",
+        "title": {
+          "en": "Bava Batra 68 — Selling a City and Selling a Field",
+          "he": "בבא בתרא ס״ח — מכירת עיר ומכירת שדה"
+        },
+        "parashah": {
+          "en": "Bava Batra 68",
+          "he": "בבא בתרא דף 68"
+        },
+        "target_shabbat": "2032-02-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-68/"
+      },
+      {
+        "id": "cycle-15-bava-batra-69",
+        "title": {
+          "en": "Bava Batra 69 — Readiness, Attachment and the Trees of a Field",
+          "he": "בבא בתרא ס״ט — מוכנות, חיבור ואילנות השדה"
+        },
+        "parashah": {
+          "en": "Bava Batra 69",
+          "he": "בבא בתרא דף 69"
+        },
+        "target_shabbat": "2032-02-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-69/"
+      },
+      {
+        "id": "cycle-15-bava-batra-70",
+        "title": {
+          "en": "Bava Batra 70 — Exceptions in a Sale and the Bailee's Document",
+          "he": "בבא בתרא ע׳ — חריגים במכר ושטר הפיקדון"
+        },
+        "parashah": {
+          "en": "Bava Batra 70",
+          "he": "בבא בתרא דף 70"
+        },
+        "target_shabbat": "2032-02-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-70/"
+      },
+      {
+        "id": "cycle-15-bava-batra-71",
+        "title": {
+          "en": "Bava Batra 71 — Sale, Gift and Consecration",
+          "he": "בבא בתרא ע״א — מכר, מתנה והקדש"
+        },
+        "parashah": {
+          "en": "Bava Batra 71",
+          "he": "בבא בתרא דף 71"
+        },
+        "target_shabbat": "2032-02-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-71/"
+      },
+      {
+        "id": "cycle-15-bava-batra-72",
+        "title": {
+          "en": "Bava Batra 72 — Consecrating Trees and Land",
+          "he": "בבא בתרא ע״ב — הקדשת אילנות וקרקע"
+        },
+        "parashah": {
+          "en": "Bava Batra 72",
+          "he": "בבא בתרא דף 72"
+        },
+        "target_shabbat": "2032-02-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-72/"
+      },
+      {
+        "id": "cycle-15-bava-batra-73",
+        "title": {
+          "en": "Bava Batra 73 — The Ship and the Tales of the Sea",
+          "he": "בבא בתרא ע״ג — הספינה ואגדות הים"
+        },
+        "parashah": {
+          "en": "Bava Batra 73",
+          "he": "בבא בתרא דף 73"
+        },
+        "target_shabbat": "2032-02-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-73/"
+      },
+      {
+        "id": "cycle-15-bava-batra-74",
+        "title": {
+          "en": "Bava Batra 74 — The Dead of the Wilderness and the Leviathan",
+          "he": "בבא בתרא ע״ד — מתי מדבר והלויתן"
+        },
+        "parashah": {
+          "en": "Bava Batra 74",
+          "he": "בבא בתרא דף 74"
+        },
+        "target_shabbat": "2032-02-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-74/"
+      },
+      {
+        "id": "cycle-15-bava-batra-75",
+        "title": {
+          "en": "Bava Batra 75 — The Leviathan, Future Jerusalem and Acquiring a Ship",
+          "he": "בבא בתרא ע״ה — הלויתן, ירושלים העתידה וקניית ספינה"
+        },
+        "parashah": {
+          "en": "Bava Batra 75",
+          "he": "בבא בתרא דף 75"
+        },
+        "target_shabbat": "2032-02-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-75/"
+      },
+      {
+        "id": "cycle-15-bava-batra-76",
+        "title": {
+          "en": "Bava Batra 76 — How Ships and Promissory Notes Are Acquired",
+          "he": "בבא בתרא ע״ו — כיצד קונים ספינה ושטרות"
+        },
+        "parashah": {
+          "en": "Bava Batra 76",
+          "he": "בבא בתרא דף 76"
+        },
+        "target_shabbat": "2032-02-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-76/"
+      },
+      {
+        "id": "cycle-15-bava-batra-77",
+        "title": {
+          "en": "Bava Batra 77 — Words, Documents and the Price as Evidence",
+          "he": "בבא בתרא ע״ז — דברים, שטרות והמחיר כראיה"
+        },
+        "parashah": {
+          "en": "Bava Batra 77",
+          "he": "בבא בתרא דף 77"
+        },
+        "target_shabbat": "2032-02-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-77/"
+      },
+      {
+        "id": "cycle-15-bava-batra-78",
+        "title": {
+          "en": "Bava Batra 78 — The Donkey, Its Gear, and the Accounting of the World",
+          "he": "בבא בתרא ע״ח — החמור, כליו וחשבונו של עולם"
+        },
+        "parashah": {
+          "en": "Bava Batra 78",
+          "he": "בבא בתרא דף 78"
+        },
+        "target_shabbat": "2032-02-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-78/"
+      },
+      {
+        "id": "cycle-15-bava-batra-79",
+        "title": {
+          "en": "Bava Batra 79 — The Fire of Torah and the Contents of Consecrated Property",
+          "he": "בבא בתרא ע״ט — אש התורה ותוכן נכסי הקדש"
+        },
+        "parashah": {
+          "en": "Bava Batra 79",
+          "he": "בבא בתרא דף 79"
+        },
+        "target_shabbat": "2032-02-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-79/"
+      },
+      {
+        "id": "cycle-15-bava-batra-80",
+        "title": {
+          "en": "Bava Batra 80 — Buying the Yield and Leaving the Source",
+          "he": "בבא בתרא פ׳ — קניית התנובה והשארת המקור"
+        },
+        "parashah": {
+          "en": "Bava Batra 80",
+          "he": "בבא בתרא דף 80"
+        },
+        "target_shabbat": "2032-02-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-80/"
+      },
+      {
+        "id": "cycle-15-bava-batra-81",
+        "title": {
+          "en": "Bava Batra 81 — Two Trees, Three Trees and First Fruits",
+          "he": "בבא בתרא פ״א — שני אילנות, שלושה אילנות וביכורים"
+        },
+        "parashah": {
+          "en": "Bava Batra 81",
+          "he": "בבא בתרא דף 81"
+        },
+        "target_shabbat": "2032-02-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-81/"
+      },
+      {
+        "id": "cycle-15-bava-batra-82",
+        "title": {
+          "en": "Bava Batra 82 — Trunk and Root, Path and Distance",
+          "he": "בבא בתרא פ״ב — גזע ושורש, דרך ומרחק"
+        },
+        "parashah": {
+          "en": "Bava Batra 82",
+          "he": "בבא בתרא דף 82"
+        },
+        "target_shabbat": "2032-02-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-82/"
+      },
+      {
+        "id": "cycle-15-bava-batra-83",
+        "title": {
+          "en": "Bava Batra 83 — When Three Trees Form a Unit, and When a Sale Fails",
+          "he": "בבא בתרא פ״ג — מתי שלושה אילנות הם יחידה, ומתי מקח בטל"
+        },
+        "parashah": {
+          "en": "Bava Batra 83",
+          "he": "בבא בתרא דף 83"
+        },
+        "target_shabbat": "2032-02-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-83/"
+      },
+      {
+        "id": "cycle-15-bava-batra-84",
+        "title": {
+          "en": "Bava Batra 84 — Who Was Exploited, the Color of the Sun, and Acquiring Produce",
+          "he": "בבא בתרא פ״ד — מי נתאנה, צבע השמש וקניית פירות"
+        },
+        "parashah": {
+          "en": "Bava Batra 84",
+          "he": "בבא בתרא דף 84"
+        },
+        "target_shabbat": "2032-02-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-84/"
+      },
+      {
+        "id": "cycle-15-bava-batra-85",
+        "title": {
+          "en": "Bava Batra 85 — When a Buyer's Vessel Acquires for Him",
+          "he": "בבא בתרא פ״ה — מתי כליו של לוקח קונים לו"
+        },
+        "parashah": {
+          "en": "Bava Batra 85",
+          "he": "בבא בתרא דף 85"
+        },
+        "target_shabbat": "2032-02-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-85/"
+      },
+      {
+        "id": "cycle-15-bava-batra-86",
+        "title": {
+          "en": "Bava Batra 86 — Lifting, Pulling and the Unit of Sale",
+          "he": "בבא בתרא פ״ו — הגבהה, משיכה ויחידת המכר"
+        },
+        "parashah": {
+          "en": "Bava Batra 86",
+          "he": "בבא בתרא דף 86"
+        },
+        "target_shabbat": "2032-02-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-86/"
+      },
+      {
+        "id": "cycle-15-bava-batra-87",
+        "title": {
+          "en": "Bava Batra 87 — Measuring, Dripping and the Child Sent to the Shop",
+          "he": "בבא בתרא פ״ז — מדידה, הטפה והתינוק שנשלח לחנות"
+        },
+        "parashah": {
+          "en": "Bava Batra 87",
+          "he": "בבא בתרא דף 87"
+        },
+        "target_shabbat": "2032-02-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-87/"
+      },
+      {
+        "id": "cycle-15-bava-batra-88",
+        "title": {
+          "en": "Bava Batra 88 — Honest Weights and Measures",
+          "he": "בבא בתרא פ״ח — מאזני צדק ומידות"
+        },
+        "parashah": {
+          "en": "Bava Batra 88",
+          "he": "בבא בתרא דף 88"
+        },
+        "target_shabbat": "2032-02-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-88/"
+      },
+      {
+        "id": "cycle-15-bava-batra-89",
+        "title": {
+          "en": "Bava Batra 89 — Local Custom, Market Inspectors and the Instruments of Weighing",
+          "he": "בבא בתרא פ״ט — מנהג המקום, אגרדמין וכלי המשקל"
+        },
+        "parashah": {
+          "en": "Bava Batra 89",
+          "he": "בבא בתרא דף 89"
+        },
+        "target_shabbat": "2032-02-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-89/"
+      },
+      {
+        "id": "cycle-15-bava-batra-90",
+        "title": {
+          "en": "Bava Batra 90 — Standard Measures and the Ethics of the Market",
+          "he": "בבא בתרא צ׳ — מידות קבועות ומוסר השוק"
+        },
+        "parashah": {
+          "en": "Bava Batra 90",
+          "he": "בבא בתרא דף 90"
+        },
+        "target_shabbat": "2032-02-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-90/"
+      },
+      {
+        "id": "cycle-15-bava-batra-91",
+        "title": {
+          "en": "Bava Batra 91 — Leaving the Land in Hard Times, and the House of Elimelech",
+          "he": "בבא בתרא צ״א — יציאה מן הארץ בשעת דוחק, ובית אלימלך"
+        },
+        "parashah": {
+          "en": "Bava Batra 91",
+          "he": "בבא בתרא דף 91"
+        },
+        "target_shabbat": "2032-02-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-91/"
+      },
+      {
+        "id": "cycle-15-bava-batra-92",
+        "title": {
+          "en": "Bava Batra 92 — Seeds That Did Not Sprout and the Goring Ox",
+          "he": "בבא בתרא צ״ב — זרעים שלא צמחו והשור הנגחן"
+        },
+        "parashah": {
+          "en": "Bava Batra 92",
+          "he": "בבא בתרא דף 92"
+        },
+        "target_shabbat": "2032-02-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-92/"
+      },
+      {
+        "id": "cycle-15-bava-batra-93",
+        "title": {
+          "en": "Bava Batra 93 — Majority, Presumption and Acceptable Defects",
+          "he": "בבא בתרא צ״ג — רוב, חזקה ופגמים מקובלים"
+        },
+        "parashah": {
+          "en": "Bava Batra 93",
+          "he": "בבא בתרא דף 93"
+        },
+        "target_shabbat": "2032-02-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-93/"
+      },
+      {
+        "id": "cycle-15-bava-batra-94",
+        "title": {
+          "en": "Bava Batra 94 — Too Much Dirt in the Grain: Law or Penalty?",
+          "he": "בבא בתרא צ״ד — יותר מדי עפר בתבואה: דין או קנס?"
+        },
+        "parashah": {
+          "en": "Bava Batra 94",
+          "he": "בבא בתרא דף 94"
+        },
+        "target_shabbat": "2032-02-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-94/"
+      },
+      {
+        "id": "cycle-15-bava-batra-95",
+        "title": {
+          "en": "Bava Batra 95 — Excess Beyond the Limit and the Souring Wine Cellar",
+          "he": "בבא בתרא צ״ה — עודף מעבר לשיעור והמרתף של יין קוסס"
+        },
+        "parashah": {
+          "en": "Bava Batra 95",
+          "he": "בבא בתרא דף 95"
+        },
+        "target_shabbat": "2032-03-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-95/"
+      },
+      {
+        "id": "cycle-15-bava-batra-96",
+        "title": {
+          "en": "Bava Batra 96 — When Did the Wine Turn?",
+          "he": "בבא בתרא צ״ו — מתי החמיץ היין?"
+        },
+        "parashah": {
+          "en": "Bava Batra 96",
+          "he": "בבא בתרא דף 96"
+        },
+        "target_shabbat": "2032-03-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-96/"
+      },
+      {
+        "id": "cycle-15-bava-batra-97",
+        "title": {
+          "en": "Bava Batra 97 — Tamad, Kiddush Wine and Inferior Jugs",
+          "he": "בבא בתרא צ״ז — תמד, יין לקידוש וקנקנים פחותים"
+        },
+        "parashah": {
+          "en": "Bava Batra 97",
+          "he": "בבא בתרא דף 97"
+        },
+        "target_shabbat": "2032-03-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-97/"
+      },
+      {
+        "id": "cycle-15-bava-batra-98",
+        "title": {
+          "en": "Bava Batra 98 — Wine That Soured, the Haughty Man, and the Size of a House",
+          "he": "בבא בתרא צ״ח — יין שהחמיץ, האיש היהיר, ומידות הבית"
+        },
+        "parashah": {
+          "en": "Bava Batra 98",
+          "he": "בבא בתרא דף 98"
+        },
+        "target_shabbat": "2032-03-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-98/"
+      },
+      {
+        "id": "cycle-15-bava-batra-99",
+        "title": {
+          "en": "Bava Batra 99 — The Cherubs, and Access Through Another's Property",
+          "he": "בבא בתרא צ״ט — הכרובים, וזכות מעבר ברשות חברו"
+        },
+        "parashah": {
+          "en": "Bava Batra 99",
+          "he": "בבא בתרא דף 99"
+        },
+        "target_shabbat": "2032-03-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-99/"
+      },
+      {
+        "id": "cycle-15-bava-batra-100",
+        "title": {
+          "en": "Bava Batra 100 — Paths, Walking the Land, and Honoring the Dead",
+          "he": "בבא בתרא ק׳ — דרכים, הילוך בארץ, וכבוד המת"
+        },
+        "parashah": {
+          "en": "Bava Batra 100",
+          "he": "בבא בתרא דף 100"
+        },
+        "target_shabbat": "2032-03-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-100/"
+      },
+      {
+        "id": "cycle-15-bava-batra-101",
+        "title": {
+          "en": "Bava Batra 101 — Designing a Catacomb with Dignity",
+          "he": "בבא בתרא ק״א — תכנון מערת קבורה בכבוד"
+        },
+        "parashah": {
+          "en": "Bava Batra 101",
+          "he": "בבא בתרא דף 101"
+        },
+        "target_shabbat": "2032-03-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-101/"
+      },
+      {
+        "id": "cycle-15-bava-batra-102",
+        "title": {
+          "en": "Bava Batra 102 — Three Corpses, a Hidden Cemetery, and Land That Cannot Be Sown",
+          "he": "בבא בתרא ק״ב — שלושה מתים, בית קברות נסתר, וקרקע שאינה ראויה לזריעה"
+        },
+        "parashah": {
+          "en": "Bava Batra 102",
+          "he": "בבא בתרא דף 102"
+        },
+        "target_shabbat": "2032-03-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-102/"
+      },
+      {
+        "id": "cycle-15-bava-batra-103",
+        "title": {
+          "en": "Bava Batra 103 — Rocks, Crevices and the Precision of a Measured Sale",
+          "he": "בבא בתרא ק״ג — סלעים, נקעים ודיוק המכר במידה"
+        },
+        "parashah": {
+          "en": "Bava Batra 103",
+          "he": "בבא בתרא דף 103"
+        },
+        "target_shabbat": "2032-03-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-103/"
+      },
+      {
+        "id": "cycle-15-bava-batra-104",
+        "title": {
+          "en": "Bava Batra 104 — Surplus Land and Contradictory Terms",
+          "he": "בבא בתרא ק״ד — קרקע עודפת ותנאים סותרים"
+        },
+        "parashah": {
+          "en": "Bava Batra 104",
+          "he": "בבא בתרא דף 104"
+        },
+        "target_shabbat": "2032-03-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-104/"
+      },
+      {
+        "id": "cycle-15-bava-batra-105",
+        "title": {
+          "en": "Bava Batra 105 — The First Word or the Last?",
+          "he": "בבא בתרא ק״ה — הלשון הראשונה או האחרונה?"
+        },
+        "parashah": {
+          "en": "Bava Batra 105",
+          "he": "בבא בתרא דף 105"
+        },
+        "target_shabbat": "2032-03-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-105/"
+      },
+      {
+        "id": "cycle-15-bava-batra-106",
+        "title": {
+          "en": "Bava Batra 106 — Boundaries, Lots and the Brother from Overseas",
+          "he": "בבא בתרא ק״ו — מצרים, גורלות והאח שבא ממדינת הים"
+        },
+        "parashah": {
+          "en": "Bava Batra 106",
+          "he": "בבא בתרא דף 106"
+        },
+        "target_shabbat": "2032-03-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-106/"
+      },
+      {
+        "id": "cycle-15-bava-batra-107",
+        "title": {
+          "en": "Bava Batra 107 — Creditors, Appraisers and Half a Field",
+          "he": "בבא בתרא ק״ז — בעלי חוב, שמאים וחצי שדה"
+        },
+        "parashah": {
+          "en": "Bava Batra 107",
+          "he": "בבא בתרא דף 107"
+        },
+        "target_shabbat": "2032-03-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-107/"
+      },
+      {
+        "id": "cycle-15-bava-batra-108",
+        "title": {
+          "en": "Bava Batra 108 — Who Inherits from Whom",
+          "he": "בבא בתרא ק״ח — מי יורש את מי"
+        },
+        "parashah": {
+          "en": "Bava Batra 108",
+          "he": "בבא בתרא דף 108"
+        },
+        "target_shabbat": "2032-03-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-108/"
+      },
+      {
+        "id": "cycle-15-bava-batra-109",
+        "title": {
+          "en": "Bava Batra 109 — The Order of Heirs and the Grandson of Moses",
+          "he": "בבא בתרא ק״ט — סדר היורשים ונכדו של משה"
+        },
+        "parashah": {
+          "en": "Bava Batra 109",
+          "he": "בבא בתרא דף 109"
+        },
+        "target_shabbat": "2032-03-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-109/"
+      },
+      {
+        "id": "cycle-15-bava-batra-110",
+        "title": {
+          "en": "Bava Batra 110 — Good Families, Jonathan's Return, and the Son Before the Daughter",
+          "he": "בבא בתרא ק״י — משפחות טובות, תשובת יהונתן, והבן לפני הבת"
+        },
+        "parashah": {
+          "en": "Bava Batra 110",
+          "he": "בבא בתרא דף 110"
+        },
+        "target_shabbat": "2032-03-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-110/"
+      },
+      {
+        "id": "cycle-15-bava-batra-111",
+        "title": {
+          "en": "Bava Batra 111 — Inheriting from a Mother and the Firstborn's Portion",
+          "he": "בבא בתרא קי״א — ירושת האם וחלק הבכור"
+        },
+        "parashah": {
+          "en": "Bava Batra 111",
+          "he": "בבא בתרא דף 111"
+        },
+        "target_shabbat": "2032-03-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-111/"
+      },
+      {
+        "id": "cycle-15-bava-batra-112",
+        "title": {
+          "en": "Bava Batra 112 — Inheritance That Must Not Pass Between Tribes",
+          "he": "בבא בתרא קי״ב — נחלה שאסור שתעבור משבט לשבט"
+        },
+        "parashah": {
+          "en": "Bava Batra 112",
+          "he": "בבא בתרא דף 112"
+        },
+        "target_shabbat": "2032-03-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-112/"
+      },
+      {
+        "id": "cycle-15-bava-batra-113",
+        "title": {
+          "en": "Bava Batra 113 — Prospective Inheritance and Judging Estates by Day",
+          "he": "בבא בתרא קי״ג — ראוי וחלוקת נחלות ביום"
+        },
+        "parashah": {
+          "en": "Bava Batra 113",
+          "he": "בבא בתרא דף 113"
+        },
+        "target_shabbat": "2032-03-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-113/"
+      },
+      {
+        "id": "cycle-15-bava-batra-114",
+        "title": {
+          "en": "Bava Batra 114 — A Witness Cannot Be a Judge, and Retracting a Transaction",
+          "he": "בבא בתרא קי״ד — אין עד נעשה דיין, וחזרה ממקח"
+        },
+        "parashah": {
+          "en": "Bava Batra 114",
+          "he": "בבא בתרא דף 114"
+        },
+        "target_shabbat": "2032-03-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-114/"
+      },
+      {
+        "id": "cycle-15-bava-batra-115",
+        "title": {
+          "en": "Bava Batra 115 — The Order of Inheritance and the Sadducees' Claim",
+          "he": "בבא בתרא קט״ו — סדר הנחלות וטענת הצדוקים"
+        },
+        "parashah": {
+          "en": "Bava Batra 115",
+          "he": "בבא בתרא דף 115"
+        },
+        "target_shabbat": "2032-03-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-115/"
+      },
+      {
+        "id": "cycle-15-bava-batra-116",
+        "title": {
+          "en": "Bava Batra 116 — Victory over the Sadducees and Those Who Leave No Successor",
+          "he": "בבא בתרא קט״ז — הניצחון על הצדוקים ומי שאינו מניח ממלא מקום"
+        },
+        "parashah": {
+          "en": "Bava Batra 116",
+          "he": "בבא בתרא דף 116"
+        },
+        "target_shabbat": "2032-03-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-116/"
+      },
+      {
+        "id": "cycle-15-bava-batra-117",
+        "title": {
+          "en": "Bava Batra 117 — How the Land Was Divided",
+          "he": "בבא בתרא קי״ז — כיצד נתחלקה הארץ"
+        },
+        "parashah": {
+          "en": "Bava Batra 117",
+          "he": "בבא בתרא דף 117"
+        },
+        "target_shabbat": "2032-03-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-117/"
       }
     ],
     "calendar": {
@@ -44002,386 +45626,386 @@
     ]
   },
   "qa": {
-    "release": "v1-e98093852dfc2e3fa70e635b",
-    "total": 71011,
+    "release": "v1-72bd2b3f4e1b540d04cf0ed6",
+    "total": 71016,
     "cards": [
       {
-        "id": "ye-50359",
-        "title": "What prevented the antediluvian humanity from using ships against the Flood?",
+        "id": "ye-55100",
+        "title": "Is Judaism only intellectual or is it emotional?",
         "titles": {
-          "en": "What prevented the antediluvian humanity from using ships against the Flood?",
+          "en": "Is Judaism only intellectual or is it emotional?",
           "he": ""
         },
         "language": "en",
-        "question": "What prevented the antediluvian humanity from using ships against the Flood, or from using their already existing ships? At least a few of them could have survived the Flood that way.",
-        "answer": "There are several reasons as pointed out by Rav Sorotzkin, Rav Hirsch and others. First of all, they could not have stored sufficient food to last for the entire flood. The flood lasted for an entire solar year. In fact, it was only by a miracle that",
+        "question": "Perhaps anecdotal, but common enough that many should be able to verify from their own anecdotal experience: There seems to be a lot of focus on the superiority of intellectualism over the heart in ye",
+        "answer": "Judaism is emotional as well as intellectual. Even the highly rationalist Rambam wrote beautiful passages about we should love and yearn for God like one does regarding a desired romantic partner. Early mussar seforim, such as Chovos HaLevavos , are ",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "general",
+        "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-50359",
-        "source_url": "https://judaism.stackexchange.com/questions/50359/what-prevented-the-antediluvian-humanity-from-using-ships-against-the-flood",
-        "author": "sabbahillel",
+        "url": "https://shekhina.org/qa.html?id=ye-55100",
+        "source_url": "https://judaism.stackexchange.com/questions/55100/is-judaism-only-intellectual-or-is-it-emotional",
+        "author": "Kordovero",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "ye-30967",
-        "title": "Shofar from an extinct animal",
+        "id": "ye-34671",
+        "title": "What is the Halacha if one shechted a sacrifice on Shabbos and found it to be a Treifa?",
         "titles": {
-          "en": "Shofar from an extinct animal",
+          "en": "What is the Halacha if one shechted a sacrifice on Shabbos and found it to be a Treifa?",
           "he": ""
         },
         "language": "en",
-        "question": "After paying a trip to the Natural History Museum in London I found myself wondering... would it be allowed (to any extent) to use a shofar of an animal that has kosher simanim but is extinct? There w",
-        "answer": "The mitzvah of blowing shofar is m'Doraita, meaning from the written Torah. (VaYikra 23:24 and VaYikra 25:9) This has the implication that in questions regarding it's fulfillment, one should be stringent. In other words, one should be stringent, for ",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-30967",
-        "source_url": "https://judaism.stackexchange.com/questions/30967/shofar-from-an-extinct-animal",
-        "author": "Yaacov Deane",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-14716",
-        "title": "Should a woman avoid singing in front of her husband while she is a niddah?",
-        "titles": {
-          "en": "Should a woman avoid singing in front of her husband while she is a niddah?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Should a woman avoid singing in front of her husband while she is a niddah? Is it strictly prohibited or just inadvisable? (Obviously I am not talking about deliberately seductive songs.)",
-        "answer": "Per Rabbi Shimon Eider's Sefer Hilchos Nidah one should \"refrain from listening to his wife's singing when she is a Niddah.\"",
-        "answer_count": 5,
+        "question": "I've seen three types of \"Shogeg\": You don't realize it was Shabbos - for this you bring a Chatas. You don't realize what you're doing is assur - for this you bring a Chatas. You don't realize what yo",
+        "answer": "The Mishna in Pesachim (6:6) discusses slaughtering a Korban Pesach on Shabbat and finding it to be a Tereifa. In the Rambam's ruling ( Shegagot 2:10 ( English )): וכן השוחט את הפסח ביום ארבעה עשר שחל להיות בשבת, ונודע לו אחר כן שמשכו הבעלים את ידיהם",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-14716",
-        "source_url": "https://judaism.stackexchange.com/questions/14716/should-a-woman-avoid-singing-in-front-of-her-husband-while-she-is-a-niddah",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-34671",
+        "source_url": "https://judaism.stackexchange.com/questions/34671/what-is-the-halacha-if-one-shechted-a-sacrifice-on-shabbos-and-found-it-to-be-a",
+        "author": "Double AA",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "up-aish-90779",
-        "title": "Tombstone Unveiling",
+        "id": "ye-17509",
+        "title": "Why is it Ok to have tzizit without techelet?",
+        "titles": {
+          "en": "Why is it Ok to have tzizit without techelet?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Mishna in Menachos 4:1 says that the mitzvah of the white tzizit is not gone if there is no techelet, and the mitzvah of the techelet is not gone if there is no white. That seems a straight forwar",
+        "answer": "The Maor HaKatan ( R' Zerachiah HaLevi ) discusses this issue on Shabbat 11b in the pagination of the Rif . He argues that in fact the halacha follows Rebbe and not R Yochanan ben Nuri (RYBN) that tzitzit require both blue and white to be kosher. He ",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-17509",
+        "source_url": "https://judaism.stackexchange.com/questions/17509/why-is-it-ok-to-have-tzizit-without-techelet",
+        "author": "Double AA",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "aish-url-2b2e9670615ad36e02717819",
+        "title": "3 Weeks / 9 Days – Home Purchase",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "In a few weeks we are having the unveiling of the tombstone for my mother-in-law. She was not a member of a synagogue and did not have a rabbi who knew her. I had a very good relationship with her and",
+        "question": "We’re busy looking to buy a new home this summer. Is there any issue with closing a deal on the Three Weeks or Nine Days? What about moving in during that time?",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-aish-90779",
-        "source_url": "https://aish.com/tombstone-unveiling/",
-        "author": "Aish.com Staff",
+        "url": "https://shekhina.org/qa.html?id=aish-url-2b2e9670615ad36e02717819",
+        "source_url": "https://aish.com/3-weeks-9-days-home-purchase/",
+        "author": "Rabbi Pinchas Waldman",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "ye-137595",
-        "title": "Number 350 in Parashat Noach",
+        "id": "ye-140844",
+        "title": "What is involved behind the decision making process of halacha in the Talmud?",
         "titles": {
-          "en": "Number 350 in Parashat Noach",
+          "en": "What is involved behind the decision making process of halacha in the Talmud?",
           "he": ""
         },
         "language": "en",
-        "question": "It says in Parashat Noach that the ark should be 300 Amot long and 50 Amot width. And it says that Noach lived 300 years and 50 years after the flood. What is the connection between them ? Anything in",
-        "answer": "Wonderful question! The Torah is known for its precision, and indeed, there appears to be a fascinating connection worth exploring. The Medrash Lekach Tov says these two facts are intrinsically connected: ויחי נח אחר המבול שלש מאות שנה וחמשים שנה. או",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-137595",
-        "source_url": "https://judaism.stackexchange.com/questions/137595/number-350-in-parashat-noach",
-        "author": "user6781",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-119492",
-        "title": "Why reestablish Egypt's borders?",
-        "titles": {
-          "en": "Why reestablish Egypt's borders?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Rabbeinu Bechaya Shemos (7:27) quotes the Shemos Rabbah (10:2) saying the plague of tzfarde'ah reestablished the borders between Cush and Egypt בני חם ובני מצרים היו חלוקים בתחומין הכושיים אומרים ע\"כ ",
-        "answer": "I have no source for this idea, it's just a s'vara I had upon reading the midrash: Indeed, I think the intent of the midrash is to point to a welcomed element of plague, as you put it. I think the midrash is hinting towards an idea that's similar to ",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-119492",
-        "source_url": "https://judaism.stackexchange.com/questions/119492/why-reestablish-egypts-borders",
-        "author": "Harel13",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-99940",
-        "title": "Why is G-d mentioned in the feminine sometimes?",
-        "titles": {
-          "en": "Why is G-d mentioned in the feminine sometimes?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In one part of the Birkat Hamazon we say \"veal hakol... anu modim lach umevarchim otach\". This is only one small example, and there are many others, but why is God being adressed in the feminine \"lach",
-        "answer": "The Torah varies between the pronominal suffixes for second person masculine singular with sh'va before kamatz and the reverse, with the latter appearing more in pausal positions. Both are, as evidenced by the contexts in which they appear, masculine",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-99940",
-        "source_url": "https://judaism.stackexchange.com/questions/99940/why-is-g-d-mentioned-in-the-feminine-sometimes",
-        "author": "WAF",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-84419",
-        "title": "Can seforim be muktze on tish'a b'av that falls on shabbos?",
-        "titles": {
-          "en": "Can seforim be muktze on tish'a b'av that falls on shabbos?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If tish'a b'av were to fall on shabbos, would the sections of Torah prohibited for study on tish'a b'av cause the seforim in which they are found to be muktze? If in a given sefer there are prohibited",
-        "answer": "When shabos came in it was not muktze because it was permitted to use it. Then it can't become muktze unless it changed to a different shape.",
+        "question": "Throughout the Talmud we find occurrences such as these: The halacha is xyz because the verse in a certain chapter of Tanach says something similar to it; Rabbi Y disagrees and says the halacha is zyx",
+        "answer": "May I strongly recommend learning the Rambam's Hakdama to Mishneh Torah , which gives you a detailed explanation of the process of the Oral Transmission over time, and covers how the errors accumulated. In brief, the transmission was made verbally, a",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-84419",
-        "source_url": "https://judaism.stackexchange.com/questions/84419/can-seforim-be-muktze-on-tisha-bav-that-falls-on-shabbos",
-        "author": "Yosel",
+        "url": "https://shekhina.org/qa.html?id=ye-140844",
+        "source_url": "https://judaism.stackexchange.com/questions/140844/what-is-involved-behind-the-decision-making-process-of-halacha-in-the-talmud",
+        "author": "Rabbi Kaii",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-124224",
+        "title": "Why does the Torah give so much detail in the War on Midyan?",
+        "titles": {
+          "en": "Why does the Torah give so much detail in the War on Midyan?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Moshe Rabbeinu and Israel fought a number of wars. Maybe starting with Egypt at the Yam Suf, but certainly against Amalek, Melech Arad, Sichon, and Og. Only by Midyan, apparently the last war chronolo",
+        "answer": "Here is a link that discusses a novel approach to the Midyan war and it's similarities to the Chet HaEgal that can possibly answer these questions. https://www.etzion.org.il/en/tanakh/torah/sefer-bamidbar/parashat-matot/matot-latter-generation-and-wa",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-124224",
+        "source_url": "https://judaism.stackexchange.com/questions/124224/why-does-the-torah-give-so-much-detail-in-the-war-on-midyan",
+        "author": "Chatzkel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-104115",
+        "title": "Why are huge challot displayed on the wedding couple / Bar Mitzvah's table?",
+        "titles": {
+          "en": "Why are huge challot displayed on the wedding couple / Bar Mitzvah's table?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I noticed that among Orthodox and, seemingly Hareidi Bar Mitzvah's and weddings, a huge challah is cut by the chattan or Bar Mitzvah. I assume that there must be some minhag behind this that originate",
+        "answer": "The earliest source for having a large Challah at a wedding is the Maasas Binyomin (d. 1620) There is a wide spread custom to distribute slices of the large challa to the friends of the Chosson and Kallah. Some say ( Nittei Gavriel quotes Darkei Chai",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-104115",
+        "source_url": "https://judaism.stackexchange.com/questions/104115/why-are-huge-challot-displayed-on-the-wedding-couple-bar-mitzvahs-table",
+        "author": "chortkov2",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-87688",
+        "title": "Location of Rambam on machlokes and loshon hora. Only one in three chance of ill intent",
+        "titles": {
+          "en": "Location of Rambam on machlokes and loshon hora. Only one in three chance of ill intent",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I seem to remember that the Rambam speaks about avoiding machlokes (quarrels) and loshon hora (bad speech). He says something like this: there are three possibilities in any statement about the faults",
+        "answer": "I asked the question “Where is this Rambam to be found?” and I apologise – it is not a Rambam. The Ohr HaChaim on Vayikro 19 (17) says in part: ותוכיחנו ועל ידי התוכחה יהיה אחד מב' דברים, או יתן אמתלא להנעשה ואין חטא, או יתחרט על הנעשה וישוב לבל עשות",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-87688",
+        "source_url": "https://judaism.stackexchange.com/questions/87688/location-of-rambam-on-machlokes-and-loshon-hora-only-one-in-three-chance-of-ill",
+        "author": "Avrohom Yitzchok",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "ye-67352",
-        "title": "Who is the Arba'ah Turei Even?",
+        "id": "ye-70540",
+        "title": "What kind of seder did a non-oleh l'regel have during the time of the Bais Hamikdash (and for that matter, the entire 40 years in the desert)?",
         "titles": {
-          "en": "Who is the Arba'ah Turei Even?",
+          "en": "What kind of seder did a non-oleh l'regel have during the time of the Bais Hamikdash (and for that matter, the entire 40 years in the desert)?",
           "he": ""
         },
         "language": "en",
-        "question": "In the back of the Frankel printing of the Rambam, they have a section of collected commentaries. One of them is a work titled \"Arba'ah Turei Even.\" The Frankel bio page identifies the author as אלעזר",
-        "answer": "[R. Elazar Rokach (1665 - 1741)] served in a number of Polish communities, but is most famous for his rabbinate in Brody from 1714 to 1735, when he was called to serve as rabbi of Amsterdam. Upon arrival to this city, the Jewish community issued a co",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-67352",
-        "source_url": "https://judaism.stackexchange.com/questions/67352/who-is-the-arbaah-turei-even",
-        "author": "mevaqesh",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-2019101513002296",
-        "title": "מרחק גובה בין דופן עקומה לסוכה – המשך",
-        "titles": {
-          "en": "",
-          "he": "מרחק גובה בין דופן עקומה לסוכה – המשך"
-        },
-        "language": "he",
-        "question": "שלום הרב, בהמשך לתשובה לשאלה 240183 אז אם בין הגגון לסכך שבא אחריו יש הפרשי גובה פחות משלושה טפחים במשך, זה נחשב כאילו הגגון והסכך באותו הגבוה ואומרים דופן עקומה והסוכה כשרה? הרי הבאתי מחלוקת וכתבתי ש",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2019101513002296",
-        "source_url": "https://din.org.il/2019/10/15/%d7%9e%d7%a8%d7%97%d7%a7-%d7%92%d7%95%d7%91%d7%94-%d7%91%d7%99%d7%9f-%d7%93%d7%95%d7%a4%d7%9f-%d7%a2%d7%a7%d7%95%d7%9e%d7%94-%d7%9c%d7%a1%d7%95%d7%9b%d7%94-%d7%94%d7%9e%d7%a9%d7%9a/",
-        "author": "Din Online",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-201110066751423",
-        "title": "הרחת בשמים, וטבילה לבעל קרי, ביום הכיפורים – עירוב חצרות לבית הכנסת",
-        "titles": {
-          "en": "",
-          "he": "הרחת בשמים, וטבילה לבעל קרי, ביום הכיפורים – עירוב חצרות לבית הכנסת"
-        },
-        "language": "he",
-        "question": "שלום לרב. ברצוני לדעת הלכה למעשה. א. בית המדרש שלנו הינו מקום מרכזי האם יש צורך בעשיית עירובי חצירות? אם כן איך עושים זאת? האם הגבאי יכול לעשות לבד? ב.האם מותר להריח בשמים ביום כיפור להשלמת מאה ברכות ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-201110066751423",
-        "source_url": "https://din.org.il/2011/10/06/%d7%a9%d7%90%d7%9c%d7%94-%d7%97%d7%93%d7%a9%d7%94-%d7%9e%d7%94%d7%90%d7%aa%d7%a8-147/",
-        "author": "רבני האתר",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-145314",
-        "title": "תכלת - פתיל ראב\"ד וקשירת רמב\"ם",
-        "titles": {
-          "en": "",
-          "he": "תכלת - פתיל ראב\"ד וקשירת רמב\"ם"
-        },
-        "language": "he",
-        "question": "שלום הרב. האם הרב חושב שעדיף לשים פתיל ראב\"ד ולקשור כשיטת הרמב\"ם? למה לא בעצם? מה אכפת לי לצאת ידי חובה עפ\"י עוד שיטה? (כמו שהרב שמואל טל עושה) לרמב\"ם יש מעמד מיוחד בפסיקת ההלכה, וכך פסק הרה\"ג הרב דב ",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-145314",
-        "source_url": "https://www.yeshiva.org.il/ask/145314",
-        "author": "הרב יצחק בן יוסף",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-118290",
-        "title": "What is the origin of the word פְּלַסְתֵּר?",
-        "titles": {
-          "en": "",
-          "he": "What is the origin of the word פְּלַסְתֵּר?"
-        },
-        "language": "he",
-        "question": "The Gemara Berachos (31b) writes אֵלֵךְ וְאֶסְתַּתֵּר בִּפְנֵי אֶלְקָנָה בַּעֲלִי, וְכֵיוָן דְּמִסְתַּתַּרְנָא מַשְׁקוּ לִי מֵי סוֹטָה, וְאִי אַתָּה עוֹשֶׂה תּוֹרָתְךָ פְּלַסְתֵּר , שֶׁנֶּאֱמַר ״וְנִק",
-        "answer": "The Hebrew Wiktionary has confirmed my suspicion, the word פְּלַסְתֵּר is of Greek origin, and it comes from πλαστός , meaning invented, artificial false, spurious, fictitious, counterfeit This is also, how Rashi translates it. The Greek word is deri",
-        "answer_count": 1,
+        "question": "Our haggadah did not always exist - it appears to be primarily from the time of the Mishna. Before then, there was a Korban Pesach and specific procedures for organizing family and/or friends to eat i",
+        "answer": "Really interesting question. The simple answer is that they would do everything except the Korban Pesach. While the Haggadah as we have it did not exist, the framework of the Haggadah is in the Torah. Devarim 6:20-25 (the question of the \"wise son\") ",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-118290",
-        "source_url": "https://judaism.stackexchange.com/questions/118290/what-is-the-origin-of-the-word-%d7%a4%d6%bc%d6%b0%d7%9c%d6%b7%d7%a1%d6%b0%d7%aa%d6%bc%d6%b5%d7%a8",
-        "author": "Kazi bácsi",
+        "url": "https://shekhina.org/qa.html?id=ye-70540",
+        "source_url": "https://judaism.stackexchange.com/questions/70540/what-kind-of-seder-did-a-non-oleh-lregel-have-during-the-time-of-the-bais-hamik",
+        "author": "MichoelR",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "din-url-805f0a87aba79bbb812896cf",
-        "title": "הכנת דייסה בשבת",
+        "id": "ye-2021091813476479",
+        "title": "דופן עקומה",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "דופן עקומה"
         },
         "language": "he",
-        "question": "האם מותר לעשות דייסה בשבת [באופן שאין בו חשש בישול]? האם יש בזה איסור של מלאכת לש? האם זה תלוי איך מכינים אותו? ישר כח!",
+        "question": "שלום וברכהוחג שמחהאם דופן עקומה הגדולה יותר מ ד אמות בצד הסוכהפוסלת את כל הסוכה?כיצד מחשבים את ד האמות2 אמות על 2 אמותאו 4 אמות על 4 אמותתודה רבה מעבר לארבע אמות הדופן אינה מצטרפת לסוכה, ד' אמות זה מע",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-805f0a87aba79bbb812896cf",
-        "source_url": "https://din.org.il/2018/08/26/%d7%94%d7%9b%d7%a0%d7%aa-%d7%93%d7%99%d7%99%d7%a1%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הדין",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "up-din-45877",
-        "title": "הנחת כלים וסמרטוטים תחת דליפה מהתקרה בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "יש לי בבתי נזילת מים מהתקרה האם מותר בשבת לפרוס מגבת כדי שתספוג המים או אפילו לשים כלים שיקבלו את המים",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-45877",
-        "source_url": "https://din.org.il/2013/01/08/%d7%94%d7%a0%d7%97%d7%aa-%d7%9b%d7%9c%d7%99%d7%9d-%d7%95%d7%a1%d7%9e%d7%a8%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%aa%d7%97%d7%aa-%d7%93%d7%9c%d7%99%d7%a4%d7%94-%d7%9e%d7%94%d7%aa%d7%a7%d7%a8%d7%94-%d7%91/",
-        "author": "רבני בית ההוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "up-din-265585",
-        "title": "שלושים בחג שביעי של פסח",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "מועדים לשמחה.השלושים לפטירת אמי חל ביו\"ט שביעי של פסח, כ\"א בניסן. שאלתי היא מתי אוכל להסתפר? האם לפני כניסת החג בצנעא או אחרי צאת החג שהרי מי שהותר להסתפר בחוה\"מ (ואבל שמלאו השלשים בחוה\"מ מותר בגילוח)",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-265585",
-        "source_url": "https://din.org.il/2020/04/12/%d7%a9%d7%9c%d7%95%d7%a9%d7%99%d7%9d-%d7%91%d7%97%d7%92-%d7%a9%d7%91%d7%99%d7%a2%d7%99-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97/",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-2021091813476479",
+        "source_url": "https://din.org.il/2021/09/18/%d7%93%d7%95%d7%a4%d7%9f-%d7%a2%d7%a7%d7%95%d7%9e%d7%94-5/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "up-din-2015071315409198",
-        "title": "העברת דירה בתשעת הימים",
+        "id": "ye-20191008569491",
+        "title": "פדיון כפרות בכרטיס אשראי",
+        "titles": {
+          "en": "",
+          "he": "פדיון כפרות בכרטיס אשראי"
+        },
+        "language": "he",
+        "question": "שלום לרב. שואל לגבי פדיון כפרות בכרטיס אשראי מה ההלכה ? עשים כפרות על כסף אמיתי פיזי, אחר כך את הסכום שעשית בו כפרות נותנים בכרטיס אשרי ואירגון הצדקה ובכך פודים חזרה את הכסף בו נעשו הכפרות ומשלשלים או",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-20191008569491",
+        "source_url": "https://din.org.il/2019/10/08/%d7%a4%d7%93%d7%99%d7%95%d7%9f-%d7%9b%d7%a4%d7%a8%d7%95%d7%aa-%d7%91%d7%9b%d7%a8%d7%98%d7%99%d7%a1-%d7%90%d7%a9%d7%a8%d7%90%d7%99-2/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-144418",
+        "title": "מחיקת שם",
+        "titles": {
+          "en": "",
+          "he": "מחיקת שם"
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב. השם שנולדתי איתו הוא נופר הוספתי את השם אלה (בהמלצת רב), (בבית כנסת ביום שבת לא בנוכחותי, סבא שלי עלה לתורה והכריז על אלה כשם שני) אמרו לי לשנות את השם אלה לשם ראשון ולמחוק לגמרי את השם",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-144418",
+        "source_url": "https://www.yeshiva.org.il/ask/144418",
+        "author": "הרב יצחק בן יוסף",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-141333",
+        "title": "Who is מהרי''א?",
+        "titles": {
+          "en": "",
+          "he": "Who is מהרי''א?"
+        },
+        "language": "he",
+        "question": "Meir Leibush ben Yehiel Michel Wisser constantly refers to מהרי''א? What is his full name? For example ( Malbim on Shmuel II 22:1 ): אך למה הוצג גם כאן, ולמה באו פה שנויים רבים וחלופים בתיבות ובאותיות",
+        "answer": "According to this article , it's Isaac Abarbanel: \"אברבנאל זכה להערכה רבה מאת מלבי\"ם, אשר כינהו \"אביר המפרשים השר מהרי\"א",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-141333",
+        "source_url": "https://judaism.stackexchange.com/questions/141333/who-is-%d7%9e%d7%94%d7%a8%d7%99%d7%90",
+        "author": "shmosel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "din-url-98d7f2ea57f243e6280c5481",
+        "title": "שטיפת רצפה בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב. אנחנו מתלבטים לגבי מעבר דירה בתשעת הימים. מבחינתנו אין לנו בעיה לחכות לעבור עד אחרי תשעה באב. השוכרים שיכנסו לדירה אחרינו הם זוג שמתחתן ומאד רוצים לקבל את הדירה כמה שיותר מוקדם. האם עדי",
+        "question": "שלום הרב! 1. בשבת כשאומרים שאסור לשטוף רצפה שמא ישווה גומות הכוונה לכל פעולה של שפיכת מים? גם אם אני לא משתמש במגב או נכנס לאזור במשך השבת? 2. כשאומרים שאסור עם סמרטוט בשעת הדחק בגלל חשש סחיטה – הכוונ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2015071315409198",
-        "source_url": "https://din.org.il/2015/07/13/%d7%94%d7%a2%d7%91%d7%a8%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
-        "author": "Din Online",
+        "url": "https://shekhina.org/qa.html?id=din-url-98d7f2ea57f243e6280c5481",
+        "source_url": "https://din.org.il/2026/02/14/%d7%a9%d7%98%d7%99%d7%a4%d7%aa-%d7%a8%d7%a6%d7%a4%d7%94-%d7%91%d7%a9%d7%91%d7%aa-3/",
+        "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       },
       {
-        "id": "up-din-2016033011011267",
-        "title": "כלים בפסח",
+        "id": "up-din-501406",
+        "title": "טלטול בחג של יין ועוגה מתנה לחברה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "מי שנוהג בפסח ברמת כשרות גבוהה מאוד, ונאלץ להיות בפסח במקום שהשתמשו בכלים במהלך השנים ברמת כשרות טובה אך פחותה ממה שנוהג א. האם יוכל להשתמש בכלים אלו. ב. אם יש צד לחשוש האם ניתן להתחשב גם בדעת החכם צב",
+        "question": "במהלך החג אפגוש חברה בבית הכנסת, האם מותר לי לקחת איתי ולתת לה יין ועוגה מתנה לחג שם? זה מאוד ישמח אותה ויקשה עליי מאוד להביא לה במיוחד לביתה לפני החג.תודה ושנה טובה ומתוקה.",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2016033011011267",
-        "source_url": "https://din.org.il/2016/03/30/%d7%9b%d7%9c%d7%99%d7%9d-%d7%91%d7%a4%d7%a1%d7%97/",
+        "url": "https://shekhina.org/qa.html?id=up-din-501406",
+        "source_url": "https://din.org.il/2025/09/21/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%91%d7%97%d7%92-%d7%a9%d7%9c-%d7%99%d7%99%d7%9f-%d7%95%d7%a2%d7%95%d7%92%d7%94-%d7%9e%d7%aa%d7%a0%d7%94-%d7%9c%d7%97%d7%91%d7%a8%d7%94/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "ye-153357",
+        "title": "שילוב שם",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "כבוד הרב שלום, בעה ובחסדי ה אני בהריון. אנו מתעניינים בשם נעמי בשילוב שם חיה (על שמה של הרבנית חיה, רעייתו של הרבי מלויבבץ.) רק ששמעתי ששמות עם משמעות מן החי לא מומלצים. האם השם נעמי חיה אינו מומלץ?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-153357",
+        "source_url": "https://www.yeshiva.org.il/ask/153357",
+        "author": "",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "up-din-201707256722420",
+        "title": "טלית קטן חדשה בתשעת הימים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום לרב/רבנים. לספרדים בשבוע שחל בו צום שעה באב לא לובשים בגדים שמכובסים , האם זה תקף גם לטלית קטן ? או שבטלית כן קטן כן יהיה מותר ללבוש טלית קטן מכובסת ? כמו כן האם יהיה מותר ללבוש טלית קטן חדשה בתש",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201707256722420",
+        "source_url": "https://din.org.il/2017/07/25/%d7%98%d7%9c%d7%99%d7%aa-%d7%a7%d7%98%d7%9f-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+      },
+      {
+        "id": "up-din-201703203243853",
+        "title": "הכשרת מיקסר לפסח",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "לשיטת הרב עובדיה זצ\"ל מיקסר מגימקס שבימי החול טחנו בו פירורי לחם, בצל, גזר וכ'ו. הקערה עשויה מפלסטיק, הסכין ממתכת. האם ניתן להשתמש בו בפסח?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201703203243853",
+        "source_url": "https://din.org.il/2017/03/20/%d7%94%d7%9b%d7%a9%d7%a8%d7%aa-%d7%9e%d7%99%d7%a7%d7%a1%d7%a8-%d7%9c%d7%a4%d7%a1%d7%97-3/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
       }
     ]
   }
