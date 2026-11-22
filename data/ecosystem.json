@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-21T21:38:40Z",
+  "checked_at": "2026-11-22T06:42:05Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-22T06:42:05Z"
+    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-21T21:38:40Z"
+      "checked_at": "2026-11-22T06:42:05Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-21T21:38:40Z"
+      "checked_at": "2026-11-22T06:42:05Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-21T21:38:40Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-21T21:38:40Z"
+      "checked_at": "2026-11-22T06:42:05Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-21T21:38:40Z"
+      "checked_at": "2026-11-22T06:42:05Z"
     }
   },
   "music": [
@@ -12517,6 +12517,22 @@
         "diaspora": {
           "en": "Toldos",
           "he": "תולדות"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
+      },
+      {
+        "target_shabbat": "2029-11-17",
+        "hebrew_date": "י׳ כסלו תש״צ",
+        "israel": {
+          "en": "Vayeitzei",
+          "he": "ויצא"
+        },
+        "diaspora": {
+          "en": "Vayeitzei",
+          "he": "ויצא"
         },
         "different_readings": false,
         "festival": null,
@@ -43156,6 +43172,22 @@
         "festival": null,
         "festival_he": null,
         "has_weekly_parashah": true
+      },
+      {
+        "target_shabbat": "2027-11-20",
+        "hebrew_date": "כ׳ חשון תשפ״ח",
+        "israel": {
+          "en": "Vayeira",
+          "he": "וירא"
+        },
+        "diaspora": {
+          "en": "Vayeira",
+          "he": "וירא"
+        },
+        "different_readings": false,
+        "festival": null,
+        "festival_he": null,
+        "has_weekly_parashah": true
       }
     ],
     "haftarot": [
@@ -43974,378 +44006,378 @@
     "total": 71011,
     "cards": [
       {
-        "id": "ye-50381",
-        "title": "Why put water into the havdallah wine?",
+        "id": "ye-50359",
+        "title": "What prevented the antediluvian humanity from using ships against the Flood?",
         "titles": {
-          "en": "Why put water into the havdallah wine?",
+          "en": "What prevented the antediluvian humanity from using ships against the Flood?",
           "he": ""
         },
         "language": "en",
-        "question": "I have seen people (mainly sefardim) put a few drops of water into the wine before havdallah. Why do they do this?",
-        "answer": "Probably to ensure it's not Pagum. I.e.: If somebody already drank from that wine, it cannot be used for Kiddush or Havdala unless wine or water is added to it, as Paskened in Shulchan Aruch. סימן קפב - דין כוס ברכת המזון, ושלא יהא פגום ו: יְכוֹלִין ",
+        "question": "What prevented the antediluvian humanity from using ships against the Flood, or from using their already existing ships? At least a few of them could have survived the Flood that way.",
+        "answer": "There are several reasons as pointed out by Rav Sorotzkin, Rav Hirsch and others. First of all, they could not have stored sufficient food to last for the entire flood. The flood lasted for an entire solar year. In fact, it was only by a miracle that",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-50359",
+        "source_url": "https://judaism.stackexchange.com/questions/50359/what-prevented-the-antediluvian-humanity-from-using-ships-against-the-flood",
+        "author": "sabbahillel",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-30967",
+        "title": "Shofar from an extinct animal",
+        "titles": {
+          "en": "Shofar from an extinct animal",
+          "he": ""
+        },
+        "language": "en",
+        "question": "After paying a trip to the Natural History Museum in London I found myself wondering... would it be allowed (to any extent) to use a shofar of an animal that has kosher simanim but is extinct? There w",
+        "answer": "The mitzvah of blowing shofar is m'Doraita, meaning from the written Torah. (VaYikra 23:24 and VaYikra 25:9) This has the implication that in questions regarding it's fulfillment, one should be stringent. In other words, one should be stringent, for ",
         "answer_count": 3,
         "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-50381",
-        "source_url": "https://judaism.stackexchange.com/questions/50381/why-put-water-into-the-havdallah-wine",
-        "author": "Danny Schoemann",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-30993",
-        "title": "Feminizing Biblical names?",
-        "titles": {
-          "en": "Feminizing Biblical names?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Masculine names such as Daniel, Joseph, and Michael have feminized forms: Danielle/Daniela, Josephine/Josephina, Michelle/Michaela/Mikayla. I've heard that when choosing a name for a baby, you would l",
-        "answer": "The question is: on a more general note, what is the commonality of religious Jews feminizing masculine Biblical names if they have a baby girl? Obviously there is no prohibition against this (that I know of), but I have never heard of religious Jews",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
+        "category": "history",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-30993",
-        "source_url": "https://judaism.stackexchange.com/questions/30993/feminizing-biblical-names",
-        "author": "msh210",
+        "url": "https://shekhina.org/qa.html?id=ye-30967",
+        "source_url": "https://judaism.stackexchange.com/questions/30967/shofar-from-an-extinct-animal",
+        "author": "Yaacov Deane",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-14738",
-        "title": "Anonymous glosses in the Shulchan Aruch",
+        "id": "ye-14716",
+        "title": "Should a woman avoid singing in front of her husband while she is a niddah?",
         "titles": {
-          "en": "Anonymous glosses in the Shulchan Aruch",
+          "en": "Should a woman avoid singing in front of her husband while she is a niddah?",
           "he": ""
         },
         "language": "en",
-        "question": "The Rama wrote a series of glosses to the Shulchan Aruch to reflect standard Ashkenazi practice, as the Shulchan Aruch was weighted towards the Sephardim. These glosses have been reprinted in almost e",
-        "answer": "Those glosses printed in the same font as the Remah are indeed from the Remah even though they don't start with the usual הגה as is evident from the commentaries in such places. Not always did the Remah start of writing הגה. However, there are glosse",
-        "answer_count": 4,
+        "question": "Should a woman avoid singing in front of her husband while she is a niddah? Is it strictly prohibited or just inadvisable? (Obviously I am not talking about deliberately seductive songs.)",
+        "answer": "Per Rabbi Shimon Eider's Sefer Hilchos Nidah one should \"refrain from listening to his wife's singing when she is a Niddah.\"",
+        "answer_count": 5,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-14738",
-        "source_url": "https://judaism.stackexchange.com/questions/14738/anonymous-glosses-in-the-shulchan-aruch",
-        "author": "Reb Chaim HaQoton",
+        "url": "https://shekhina.org/qa.html?id=ye-14716",
+        "source_url": "https://judaism.stackexchange.com/questions/14716/should-a-woman-avoid-singing-in-front-of-her-husband-while-she-is-a-niddah",
+        "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "up-aish-91009",
-        "title": "Rice and Beans on Passover",
+        "id": "up-aish-90779",
+        "title": "Tombstone Unveiling",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "I just got married and have an important question: Can we eat rice on Passover? My wife grew up eating it, and I did not. Is this just a matter of family tradition?",
+        "question": "In a few weeks we are having the unveiling of the tombstone for my mother-in-law. She was not a member of a synagogue and did not have a rabbi who knew her. I had a very good relationship with her and",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-aish-91009",
-        "source_url": "https://aish.com/rice-and-beans-on-passover/",
+        "url": "https://shekhina.org/qa.html?id=up-aish-90779",
+        "source_url": "https://aish.com/tombstone-unveiling/",
         "author": "Aish.com Staff",
         "author_url": null,
         "license": "",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-137618",
-        "title": "Jews attending feast of Achashverosh",
+        "id": "ye-137595",
+        "title": "Number 350 in Parashat Noach",
         "titles": {
-          "en": "Jews attending feast of Achashverosh",
+          "en": "Number 350 in Parashat Noach",
           "he": ""
         },
         "language": "en",
-        "question": "It is well known that Mordechai had warned the jewish people not to attend the feast of King Achashverosh, and nevertheless, many did attend. Under what permission did those Jews attend? Is this discu",
-        "answer": "You ask: Under what permission did those Jews attend? The simple answer - they did not have permission... The whole thing was orchestrated by Achashveirosh - It was a ruse to show the people he cared about them and valued both the high-ranking and lo",
+        "question": "It says in Parashat Noach that the ark should be 300 Amot long and 50 Amot width. And it says that Noach lived 300 years and 50 years after the flood. What is the connection between them ? Anything in",
+        "answer": "Wonderful question! The Torah is known for its precision, and indeed, there appears to be a fascinating connection worth exploring. The Medrash Lekach Tov says these two facts are intrinsically connected: ויחי נח אחר המבול שלש מאות שנה וחמשים שנה. או",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-137595",
+        "source_url": "https://judaism.stackexchange.com/questions/137595/number-350-in-parashat-noach",
+        "author": "user6781",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-119492",
+        "title": "Why reestablish Egypt's borders?",
+        "titles": {
+          "en": "Why reestablish Egypt's borders?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Rabbeinu Bechaya Shemos (7:27) quotes the Shemos Rabbah (10:2) saying the plague of tzfarde'ah reestablished the borders between Cush and Egypt בני חם ובני מצרים היו חלוקים בתחומין הכושיים אומרים ע\"כ ",
+        "answer": "I have no source for this idea, it's just a s'vara I had upon reading the midrash: Indeed, I think the intent of the midrash is to point to a welcomed element of plague, as you put it. I think the midrash is hinting towards an idea that's similar to ",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-119492",
+        "source_url": "https://judaism.stackexchange.com/questions/119492/why-reestablish-egypts-borders",
+        "author": "Harel13",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-99940",
+        "title": "Why is G-d mentioned in the feminine sometimes?",
+        "titles": {
+          "en": "Why is G-d mentioned in the feminine sometimes?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In one part of the Birkat Hamazon we say \"veal hakol... anu modim lach umevarchim otach\". This is only one small example, and there are many others, but why is God being adressed in the feminine \"lach",
+        "answer": "The Torah varies between the pronominal suffixes for second person masculine singular with sh'va before kamatz and the reverse, with the latter appearing more in pausal positions. Both are, as evidenced by the contexts in which they appear, masculine",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-99940",
+        "source_url": "https://judaism.stackexchange.com/questions/99940/why-is-g-d-mentioned-in-the-feminine-sometimes",
+        "author": "WAF",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-84419",
+        "title": "Can seforim be muktze on tish'a b'av that falls on shabbos?",
+        "titles": {
+          "en": "Can seforim be muktze on tish'a b'av that falls on shabbos?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "If tish'a b'av were to fall on shabbos, would the sections of Torah prohibited for study on tish'a b'av cause the seforim in which they are found to be muktze? If in a given sefer there are prohibited",
+        "answer": "When shabos came in it was not muktze because it was permitted to use it. Then it can't become muktze unless it changed to a different shape.",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-137618",
-        "source_url": "https://judaism.stackexchange.com/questions/137618/jews-attending-feast-of-achashverosh",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-119557",
-        "title": "Refs for Ps. 119 being called \"Alfa-Bita\" and \"Temanya Apin\"?",
-        "titles": {
-          "en": "Refs for Ps. 119 being called \"Alfa-Bita\" and \"Temanya Apin\"?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Can someone provide a citation (sefer, page if possible) for Ps. 119 having the monikers \"Alfa-Bita\" and \"Temanya Apei\" (=Eight Faces)? I've seen it called Alfa Bita I think somewhere in BIH or a Sefa",
-        "answer": "Psalm 119 is referred to as temanya apin in Berachot 4b : אִילֵּימָא מִשּׁוּם דְּאָתְיָא בְּאָלֶף בֵּית, נֵימָא ״אַשְׁרֵי תְמִימֵי דָרֶךְ״ דְּאָתְיָא בִּתְמָנְיָא אַפִּין It is referred to as alfa beta by R. Shlomo Alkabetz (quoted by Shelah here ) w",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-119557",
-        "source_url": "https://judaism.stackexchange.com/questions/119557/refs-for-ps-119-being-called-alfa-bita-and-temanya-apin",
-        "author": "Joel K",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-99973",
-        "title": "What was special about Atzei Shittim to build the Mishkan with?",
-        "titles": {
-          "en": "What was special about Atzei Shittim to build the Mishkan with?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I understand why the Mishkan was built with copper, silver and gold, because they are the most prestigious metals. And I understand why wood would be used for building materials. But why specifically ",
-        "answer": "It says in the Maamer Basi Legani 5711 and all of the other Basi Legani Maamarim of the last Lubavitcher Rebbe, which were said (at least) one per year for a course of about 40 years, that the special point of the \"Shittim\" wood that was used to make",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-99973",
-        "source_url": "https://judaism.stackexchange.com/questions/99973/what-was-special-about-atzei-shittim-to-build-the-mishkan-with",
-        "author": "B''H Bi'ezras -- Boruch Hashem",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-84453",
-        "title": "Sudden Menstruation and Sex",
-        "titles": {
-          "en": "Sudden Menstruation and Sex",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I am having trouble finding any treatment of this topic on the internet. A couple who has been having sex suddenly discovers that a blood flow has begun. Are they liable for kareth? Leviticus 15 seems",
-        "answer": "Accidental violation of the prohibition of Niddah warrants a Korban Chattat like most Karet prohibitions (Kereitot 1:1-2). The same applies if after intercourse blood is discovered to have been flowing (Niddah 2:2). If they realize she is Niddah duri",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-84453",
-        "source_url": "https://judaism.stackexchange.com/questions/84453/sudden-menstruation-and-sex",
-        "author": "Double AA",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-84419",
+        "source_url": "https://judaism.stackexchange.com/questions/84419/can-seforim-be-muktze-on-tisha-bav-that-falls-on-shabbos",
+        "author": "Yosel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-67382",
-        "title": "Is it Rabbeinu Bachya or Bechaye?",
+        "id": "ye-67352",
+        "title": "Who is the Arba'ah Turei Even?",
         "titles": {
-          "en": "Is it Rabbeinu Bachya or Bechaye?",
+          "en": "Who is the Arba'ah Turei Even?",
           "he": ""
         },
         "language": "en",
-        "question": "Whether people are referring to רבינו בחיי בן אשר or רבינו בחיי אבן פקודה , you will always find people who pronounce their names as either Bachya or Bechaye (Even Wikipedia uses both!). Is there any ",
-        "answer": "In the introduction of the Chovot Halevavot published by Mosad Harav Kook , he brings that it is not known how to pronounce the name. He says that Ashkenazim pronounce it Bechaye, and Sefardim pronounce it Bachye. See there for some other opinions an",
-        "answer_count": 2,
+        "question": "In the back of the Frankel printing of the Rambam, they have a section of collected commentaries. One of them is a work titled \"Arba'ah Turei Even.\" The Frankel bio page identifies the author as אלעזר",
+        "answer": "[R. Elazar Rokach (1665 - 1741)] served in a number of Polish communities, but is most famous for his rabbinate in Brody from 1714 to 1735, when he was called to serve as rabbi of Amsterdam. Upon arrival to this city, the Jewish community issued a co",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-67382",
-        "source_url": "https://judaism.stackexchange.com/questions/67382/is-it-rabbeinu-bachya-or-bechaye",
-        "author": "Menachem",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-67352",
+        "source_url": "https://judaism.stackexchange.com/questions/67352/who-is-the-arbaah-turei-even",
+        "author": "mevaqesh",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-2019101612795611",
-        "title": "פעילות מבצעית בימי חג הסוכות",
+        "id": "ye-2019101513002296",
+        "title": "מרחק גובה בין דופן עקומה לסוכה – המשך",
         "titles": {
           "en": "",
-          "he": "פעילות מבצעית בימי חג הסוכות"
+          "he": "מרחק גובה בין דופן עקומה לסוכה – המשך"
         },
         "language": "he",
-        "question": "חייל הנשלח לפעילות מבצעית, ויש סיכוי שאינו ימצא ארבעת המינים בימי הסוכות מה יעשה? ומה יעשה לגבי אכילה בסוכה? זאת אומרת יש אפשרות לנסות להשיג אך לא בטוח. אני מאוד מצטער על כך שאיני יכול לקיים את המצווה",
+        "question": "שלום הרב, בהמשך לתשובה לשאלה 240183 אז אם בין הגגון לסכך שבא אחריו יש הפרשי גובה פחות משלושה טפחים במשך, זה נחשב כאילו הגגון והסכך באותו הגבוה ואומרים דופן עקומה והסוכה כשרה? הרי הבאתי מחלוקת וכתבתי ש",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "general",
+        "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2019101612795611",
-        "source_url": "https://din.org.il/2019/10/16/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%aa-%d7%9e%d7%91%d7%a6%d7%a2%d7%99%d7%aa-%d7%91%d7%99%d7%9e%d7%99-%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=ye-2019101513002296",
+        "source_url": "https://din.org.il/2019/10/15/%d7%9e%d7%a8%d7%97%d7%a7-%d7%92%d7%95%d7%91%d7%94-%d7%91%d7%99%d7%9f-%d7%93%d7%95%d7%a4%d7%9f-%d7%a2%d7%a7%d7%95%d7%9e%d7%94-%d7%9c%d7%a1%d7%95%d7%9b%d7%94-%d7%94%d7%9e%d7%a9%d7%9a/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-2012092410110983",
-        "title": "חולה במחלת הסרטן בצום יום כיפור",
+        "id": "ye-201110066751423",
+        "title": "הרחת בשמים, וטבילה לבעל קרי, ביום הכיפורים – עירוב חצרות לבית הכנסת",
         "titles": {
           "en": "",
-          "he": "חולה במחלת הסרטן בצום יום כיפור"
+          "he": "הרחת בשמים, וטבילה לבעל קרי, ביום הכיפורים – עירוב חצרות לבית הכנסת"
         },
         "language": "he",
-        "question": "שלום, שמי רוית ואני חולת סרטן – המצב יציב כרגע ואני מטופלת בתרופה בשם לטרוזול פרמוז. רציתי לשאול האם מותר לי לצום? אם כן האם צום מלא או בשיעורים – ומהם השיעורים. תודה גמר חתימה טובה שלום רב. כדאי שתבר",
+        "question": "שלום לרב. ברצוני לדעת הלכה למעשה. א. בית המדרש שלנו הינו מקום מרכזי האם יש צורך בעשיית עירובי חצירות? אם כן איך עושים זאת? האם הגבאי יכול לעשות לבד? ב.האם מותר להריח בשמים ביום כיפור להשלמת מאה ברכות ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2012092410110983",
-        "source_url": "https://din.org.il/2012/09/24/%d7%97%d7%95%d7%9c%d7%94-%d7%91%d7%9e%d7%97%d7%9c%d7%aa-%d7%94%d7%a1%d7%a8%d7%98%d7%9f-%d7%91%d7%a6%d7%95%d7%9d-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8/",
+        "url": "https://shekhina.org/qa.html?id=ye-201110066751423",
+        "source_url": "https://din.org.il/2011/10/06/%d7%a9%d7%90%d7%9c%d7%94-%d7%97%d7%93%d7%a9%d7%94-%d7%9e%d7%94%d7%90%d7%aa%d7%a8-147/",
+        "author": "רבני האתר",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-145314",
+        "title": "תכלת - פתיל ראב\"ד וקשירת רמב\"ם",
+        "titles": {
+          "en": "",
+          "he": "תכלת - פתיל ראב\"ד וקשירת רמב\"ם"
+        },
+        "language": "he",
+        "question": "שלום הרב. האם הרב חושב שעדיף לשים פתיל ראב\"ד ולקשור כשיטת הרמב\"ם? למה לא בעצם? מה אכפת לי לצאת ידי חובה עפ\"י עוד שיטה? (כמו שהרב שמואל טל עושה) לרמב\"ם יש מעמד מיוחד בפסיקת ההלכה, וכך פסק הרה\"ג הרב דב ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-145314",
+        "source_url": "https://www.yeshiva.org.il/ask/145314",
+        "author": "הרב יצחק בן יוסף",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "ye-118290",
+        "title": "What is the origin of the word פְּלַסְתֵּר?",
+        "titles": {
+          "en": "",
+          "he": "What is the origin of the word פְּלַסְתֵּר?"
+        },
+        "language": "he",
+        "question": "The Gemara Berachos (31b) writes אֵלֵךְ וְאֶסְתַּתֵּר בִּפְנֵי אֶלְקָנָה בַּעֲלִי, וְכֵיוָן דְּמִסְתַּתַּרְנָא מַשְׁקוּ לִי מֵי סוֹטָה, וְאִי אַתָּה עוֹשֶׂה תּוֹרָתְךָ פְּלַסְתֵּר , שֶׁנֶּאֱמַר ״וְנִק",
+        "answer": "The Hebrew Wiktionary has confirmed my suspicion, the word פְּלַסְתֵּר is of Greek origin, and it comes from πλαστός , meaning invented, artificial false, spurious, fictitious, counterfeit This is also, how Rashi translates it. The Greek word is deri",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-118290",
+        "source_url": "https://judaism.stackexchange.com/questions/118290/what-is-the-origin-of-the-word-%d7%a4%d6%bc%d6%b0%d7%9c%d6%b7%d7%a1%d6%b0%d7%aa%d6%bc%d6%b5%d7%a8",
+        "author": "Kazi bácsi",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "din-url-805f0a87aba79bbb812896cf",
+        "title": "הכנת דייסה בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם מותר לעשות דייסה בשבת [באופן שאין בו חשש בישול]? האם יש בזה איסור של מלאכת לש? האם זה תלוי איך מכינים אותו? ישר כח!",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=din-url-805f0a87aba79bbb812896cf",
+        "source_url": "https://din.org.il/2018/08/26/%d7%94%d7%9b%d7%a0%d7%aa-%d7%93%d7%99%d7%99%d7%a1%d7%94-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-e98093852dfc2e3fa70e635b"
+      },
+      {
+        "id": "up-din-45877",
+        "title": "הנחת כלים וסמרטוטים תחת דליפה מהתקרה בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "יש לי בבתי נזילת מים מהתקרה האם מותר בשבת לפרוס מגבת כדי שתספוג המים או אפילו לשים כלים שיקבלו את המים",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-45877",
+        "source_url": "https://din.org.il/2013/01/08/%d7%94%d7%a0%d7%97%d7%aa-%d7%9b%d7%9c%d7%99%d7%9d-%d7%95%d7%a1%d7%9e%d7%a8%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%aa%d7%97%d7%aa-%d7%93%d7%9c%d7%99%d7%a4%d7%94-%d7%9e%d7%94%d7%aa%d7%a7%d7%a8%d7%94-%d7%91/",
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "ye-145365",
-        "title": "מסכת מומלצת - בבא קמא או כתובות?",
-        "titles": {
-          "en": "",
-          "he": "מסכת מומלצת - בבא קמא או כתובות?"
-        },
-        "language": "he",
-        "question": "שלום, בקרוב בעזרת ה מסיים מסכת ברכות, בנוסף אליה סיימתי מגילה, תענית וראש השנה, ורוצה להתחיל בבא קמא/כתובות, איזו מהן עדיף לי להתחיל קודם? תודה רבה ויום טוב צהריים טובים צדיק אשריך שאתה מתקדם בלימוד ה",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-145365",
-        "source_url": "https://www.yeshiva.org.il/ask/145365",
-        "author": "הרב בניהו שרגא",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "ye-118596",
-        "title": "Is there any particular reason why Haran (חָרָן) is spelled as חָרָנָה in B'resheith 27:43 & 28:10?",
-        "titles": {
-          "en": "",
-          "he": "Is there any particular reason why Haran (חָרָן) is spelled as חָרָנָה in B'resheith 27:43 & 28:10?"
-        },
-        "language": "he",
-        "question": "Going through this week's Parsha (Vayetze), I came across these specific verses and was confused about why the ה is attached to חָרָן. Does anyone know why and are there any references for such? Todah",
-        "answer": "It is a common suffix known in Biblical Hebrew as the 'locative hei' or the 'directional hei' in that by placing it at the end of the said place/location it transforms the meaning to \"to that place\". So חרנה means \"to Charan\" i.e. that he went toward",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-118596",
-        "source_url": "https://judaism.stackexchange.com/questions/118596/is-there-any-particular-reason-why-haran-%d7%97%d6%b8%d7%a8%d6%b8%d7%9f-is-spelled-as-%d7%97%d6%b8%d7%a8%d6%b8%d7%a0%d6%b8%d7%94-in-bresh",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "din-url-81b066cf2461ede5ad6c1d46",
-        "title": "רובה צעצוע עם חיצי נרף בשבת",
+        "id": "up-din-265585",
+        "title": "שלושים בחג שביעי של פסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "יש רובה צעצוע שאינו עובד על סוללות ומעיף חיצים מספוג (נרף – Nerf) האם מותר בשבת למבוגר לשחק עם הילד בתוך מתחם גינה מגודר ומה הדין בבית. האב משמש כמדריך ושותף למשחק.",
+        "question": "מועדים לשמחה.השלושים לפטירת אמי חל ביו\"ט שביעי של פסח, כ\"א בניסן. שאלתי היא מתי אוכל להסתפר? האם לפני כניסת החג בצנעא או אחרי צאת החג שהרי מי שהותר להסתפר בחוה\"מ (ואבל שמלאו השלשים בחוה\"מ מותר בגילוח)",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-81b066cf2461ede5ad6c1d46",
-        "source_url": "https://din.org.il/2025/08/15/%d7%a8%d7%95%d7%91%d7%94-%d7%a6%d7%a2%d7%a6%d7%95%d7%a2-%d7%a2%d7%9d-%d7%97%d7%99%d7%a6%d7%99-%d7%a0%d7%a8%d7%a3-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-265585",
+        "source_url": "https://din.org.il/2020/04/12/%d7%a9%d7%9c%d7%95%d7%a9%d7%99%d7%9d-%d7%91%d7%97%d7%92-%d7%a9%d7%91%d7%99%d7%a2%d7%99-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "up-din-460054",
-        "title": "טלטול כלוב ציפורים בשבת",
+        "id": "up-din-2015071315409198",
+        "title": "העברת דירה בתשעת הימים",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "טלטול כלוב ציפורים בשבת",
+        "question": "שלום כבוד הרב. אנחנו מתלבטים לגבי מעבר דירה בתשעת הימים. מבחינתנו אין לנו בעיה לחכות לעבור עד אחרי תשעה באב. השוכרים שיכנסו לדירה אחרינו הם זוג שמתחתן ומאד רוצים לקבל את הדירה כמה שיותר מוקדם. האם עדי",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-460054",
-        "source_url": "https://din.org.il/2024/07/13/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%9b%d7%9c%d7%95%d7%91-%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "up-din-266070",
-        "title": "מוזיקה במוצאי שביעי של פסח",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "מוזיקה במוצאי שביעי של פסח",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-266070",
-        "source_url": "https://din.org.il/2020/04/15/%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%91%d7%9e%d7%95%d7%a6%d7%90%d7%99-%d7%a9%d7%91%d7%99%d7%a2%d7%99-%d7%a9%d7%9c-%d7%a4%d7%a1%d7%97-2/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-e98093852dfc2e3fa70e635b"
-      },
-      {
-        "id": "up-din-2015071710204908",
-        "title": "הזמנת מוצר לאחרי תשעה באב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "האם מותר לקנות נעלים באינטרנט מחו\"ל בתשעת הימים כאשר יגיעו אלי אחרי ט' באב?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2015071710204908",
-        "source_url": "https://din.org.il/2015/07/17/%d7%94%d7%96%d7%9e%d7%a0%d7%aa-%d7%9e%d7%95%d7%a6%d7%a8-%d7%9c%d7%90%d7%97%d7%a8%d7%99-%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2015071315409198",
+        "source_url": "https://din.org.il/2015/07/13/%d7%94%d7%a2%d7%91%d7%a8%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-e98093852dfc2e3fa70e635b"
       },
       {
-        "id": "up-din-201604022605393",
-        "title": "הכשרת כיריים קרמיות לפסח",
+        "id": "up-din-2016033011011267",
+        "title": "כלים בפסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "כיצד ניתן ללבן כיריים קרמיות? האם הכיריים דולקות כשאין עליהם סיר?",
+        "question": "מי שנוהג בפסח ברמת כשרות גבוהה מאוד, ונאלץ להיות בפסח במקום שהשתמשו בכלים במהלך השנים ברמת כשרות טובה אך פחותה ממה שנוהג א. האם יוכל להשתמש בכלים אלו. ב. אם יש צד לחשוש האם ניתן להתחשב גם בדעת החכם צב",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201604022605393",
-        "source_url": "https://din.org.il/2016/04/02/%d7%94%d7%9b%d7%a9%d7%a8%d7%aa-%d7%9b%d7%99%d7%a8%d7%99%d7%99%d7%9d-%d7%a7%d7%a8%d7%9e%d7%99%d7%95%d7%aa-%d7%9c%d7%a4%d7%a1%d7%97-2/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2016033011011267",
+        "source_url": "https://din.org.il/2016/03/30/%d7%9b%d7%9c%d7%99%d7%9d-%d7%91%d7%a4%d7%a1%d7%97/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
