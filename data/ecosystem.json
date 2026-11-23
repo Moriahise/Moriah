@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-23T07:30:53Z",
+  "checked_at": "2026-11-23T20:10:59Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-23T07:30:53Z"
+      "checked_at": "2026-11-23T20:10:59Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-23T07:30:53Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-23T07:30:53Z"
+      "checked_at": "2026-11-23T20:10:59Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-23T07:30:53Z"
+      "checked_at": "2026-11-23T20:10:59Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-23T20:10:59Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-23T07:30:53Z"
+      "checked_at": "2026-11-23T20:10:59Z"
     }
   },
   "music": [
@@ -45626,197 +45626,197 @@
     ]
   },
   "qa": {
-    "release": "v1-72bd2b3f4e1b540d04cf0ed6",
-    "total": 71016,
+    "release": "v1-caedf4257d0f4d4da7283879",
+    "total": 71022,
     "cards": [
       {
-        "id": "ye-54074",
-        "title": "How can you regain a love for learning talmud?",
+        "id": "ye-57601",
+        "title": "Source that Gr\"a finished the \"whole\" Torah?",
         "titles": {
-          "en": "How can you regain a love for learning talmud?",
+          "en": "Source that Gr\"a finished the \"whole\" Torah?",
           "he": ""
         },
         "language": "en",
-        "question": "I have had many conversations with people who express a falling out of love with learning talmud as they got older. Perhaps it is due to being in the working world or having so many other responsibili",
-        "answer": "R. Shimon Fuerst wrote a pamphlet called Tenu Kavod LaTorah in which he discusses how Talmudic students should learn Gemara. His major thesis is that many students upon leaving yeshiva give up on learning Gemara because the style of learning promoted",
-        "answer_count": 2,
+        "question": "I heard from a friend that he read that the Vilna Gaon did a Sium on the Torah. Not just the חמישה חומשי תורה, but that he basically claimed that he finished all there is to learn in Jewish studies. T",
+        "answer": "It is brought in the introduction to the Sefer Peat HaShulchan . It says there that he learned and understood clearly all that there is to learn (until the Achronim on the Shulchan Aruch) including the Kisvei Arizal, and understood everything besides",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "talmud",
+        "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-54074",
-        "source_url": "https://judaism.stackexchange.com/questions/54074/how-can-you-regain-a-love-for-learning-talmud",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-57601",
+        "source_url": "https://judaism.stackexchange.com/questions/57601/source-that-gra-finished-the-whole-torah",
+        "author": "yechezkel",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "ye-34628",
-        "title": "Why try to make friends with a bread recipient's mother?",
+        "id": "ye-37696",
+        "title": "Is kopi luwac (civet excreted coffee beans) kosher?",
         "titles": {
-          "en": "Why try to make friends with a bread recipient's mother?",
+          "en": "Is kopi luwac (civet excreted coffee beans) kosher?",
           "he": ""
         },
         "language": "en",
-        "question": "Bavli , Shabas 10 amud 2, has (in my own translation): And Rava b. Machseya said R. Chama b. Guria said Rav said, \"One who gives a gift to his friend must inform him.…\" … Raban Shim'on b. Gamliel said",
-        "answer": "In the same sugya in the gemara Beitzah 16a , Rashi explains: \"He should inform his mother\" - he should make for him (the child) a sign so that if he eats it (the food) before he comes to his mother, she will see the sign and ask him \"Who did this to",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-34628",
-        "source_url": "https://judaism.stackexchange.com/questions/34628/why-try-to-make-friends-with-a-bread-recipients-mother",
-        "author": "user4523",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
-      },
-      {
-        "id": "ye-17480",
-        "title": "Why does the Mishna not follow its own advice?",
-        "titles": {
-          "en": "Why does the Mishna not follow its own advice?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In Avot 5:7 , the Mishna states that there are 7 characteristics of a Golem (boor) and 7 characteristics of a Chacham (wise person). It then goes on to list the 7 qualities of a wise man. One of the c",
-        "answer": "Mishnayoth regularly employ a style of continuing a train of thought and then returning to a previous thought. It's actually codified by the Gemara as a standard practice of Mishnah, so much so that laws are derived from the juxtaposition of subject ",
+        "question": "Kopi luwak , or civet coffee, refers to the seeds of coffee berries once they have been eaten and egested by the Asian palm civet http://en.wikipedia.org/wiki/Kopi_Luwak Is it kosher because they are ",
+        "answer": "I sent this question a couple of years ago to the OU. They sent me back: Thank you for contacting the OU. This has differing opinions among poskim. Some view it as yotzai min ha'tamei because the non-kosher animal digests the bean and this improves i",
         "answer_count": 3,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-17480",
-        "source_url": "https://judaism.stackexchange.com/questions/17480/why-does-the-mishna-not-follow-its-own-advice",
-        "author": "Seth J",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-37696",
+        "source_url": "https://judaism.stackexchange.com/questions/37696/is-kopi-luwac-civet-excreted-coffee-beans-kosher",
+        "author": "Ish Ploni ViKohen",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "aish-url-249818bf51063abe33b4c087",
-        "title": "Kiddush – How Much Wine",
+        "id": "ye-21994",
+        "title": "Mitzvah of Ner Channukah -- not until after churban habayis?",
         "titles": {
-          "en": "",
+          "en": "Mitzvah of Ner Channukah -- not until after churban habayis?",
           "he": ""
         },
         "language": "en",
-        "question": "I own two very nice Kiddush cups – I believe both were wedding presents. One happens to be quite large and the other fairly small. Is there a minimum or maximum size a cup must be? Also, when I use th",
-        "answer": "",
+        "question": "Someone said over today (in then name of the Sfes Emes) that the mitzvah of Ner Channukah didn't officially \"start\" until the 2nd Beis HaMikdash was destroyed, since it was established as somewhat of ",
+        "answer": "Looking through the Sefas Emes on Chanuka it is clear that Ner Chanuka was established immediately the following year. However I found that Sefer Yavin Daas - Chasdei Avos - Rabbi Yehoshua M'Katna Zatzal says that this may have been the case. שבאמת כ",
         "answer_count": 1,
-        "provider": "aish",
-        "category": "halacha",
+        "provider": "miyodeya",
+        "category": "history",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=aish-url-249818bf51063abe33b4c087",
-        "source_url": "https://aish.com/kiddush-how-much-wine/",
-        "author": "Rabbi Dovid Rosenfeld",
+        "url": "https://shekhina.org/qa.html?id=ye-21994",
+        "source_url": "https://judaism.stackexchange.com/questions/21994/mitzvah-of-ner-channukah-not-until-after-churban-habayis",
+        "author": "Gershon Gold",
         "author_url": null,
-        "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "ye-140817",
-        "title": "Throat Lozenge and Prayer",
+        "id": "ye-6271",
+        "title": "Purchasing from a Jew",
         "titles": {
-          "en": "Throat Lozenge and Prayer",
+          "en": "Purchasing from a Jew",
           "he": ""
         },
         "language": "en",
-        "question": "What is the law of praying with a throat lozenge in one's mouth, when one has a sore throat? Please include various categories of tefilla , including making a bracha , saying amen , giving someone a b",
-        "answer": "The Talmud ( berachot 50B-51A ) says that one should not have food in his mouth when saying a blessing because his mouth should be full with G-d’s praise. If one put food in his mouth before saying a blessing and removing it would ruin his food, he c",
+        "question": "רמבם, הלכות מתנות עניים י:ז שמנה מעלות יש בצדקה זו למעלה מזו, מעלה גדולה שאין למעלה ממנה זה המחזיק ביד ישראל שמך ונותן לו מתנה או הלואה או עושה עמו שותפות או ממציא לו מלאכה כדי לחזק את ידו עד שלא יצטר",
+        "answer": "The To'afos Re'em ( Shu\"t O.C. 22 ) cites a Teshuva of the Rema in which he says one must buy from the Jew even when it is more expensive. He argues, and limits the preference of buying from Jews to where there is no difference in cost. The Chikrei L",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-140817",
-        "source_url": "https://judaism.stackexchange.com/questions/140817/throat-lozenge-and-prayer",
-        "author": "Menachem",
+        "url": "https://shekhina.org/qa.html?id=ye-6271",
+        "source_url": "https://judaism.stackexchange.com/questions/6271/purchasing-from-a-jew",
+        "author": "Y e z",
         "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "ye-124196",
-        "title": "Getting Masechtos for Daf Yomi",
+        "id": "ye-144456",
+        "title": "Looking for source of story about returning a lost object",
         "titles": {
-          "en": "Getting Masechtos for Daf Yomi",
+          "en": "Looking for source of story about returning a lost object",
           "he": ""
         },
         "language": "en",
-        "question": "Is there a subscription service (ala Chayenu ) for Daf yomi where I can receive an easily transportable Gemara for the upcoming week(s)",
-        "answer": "There are a few options that I can think of: Koren Publishers write here : Subscribers to the hardcover edition will receive each volume in advance of the Daf and an email containing a link to download the PDF. Each PDF contains the side-by-side Engl",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-124196",
-        "source_url": "https://judaism.stackexchange.com/questions/124196/getting-masechtos-for-daf-yomi",
-        "author": "Dov",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
-      },
-      {
-        "id": "ye-104062",
-        "title": "Shaving or getting a haircut at night",
-        "titles": {
-          "en": "Shaving or getting a haircut at night",
-          "he": ""
-        },
-        "language": "en",
-        "question": "A friend once told me that it's preferable to avoid shaving or getting a haircut at night. Is there actually anything to this (ie reason/ source etc) and should it be observed, or is it a bubbe meise ",
-        "answer": "Kaf Hachaim ( 493:28 ) presents a discussion in the context of cutting hair on Lag Baomer. He does present a stringent opinion which forbids it all year round, and certainly during the days of Sefirah. He grapples with the same question earlier as we",
+        "question": "I'm looking for the source of the following story, I think it may have been in a book by Rabbi Akiva Tatz or Rabbi Dovid Gottlieb. Here is the basic story as I remember it: There was a non-religious J",
+        "answer": "I know the story and like it. As with many of these stories, the Italian proverb \" se non è vero, è ben trovato \" (if it is not true, it is well done) applies. The full story is sourced here in the Queens Jewish Link in the name of R Dovid Hoffman wh",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-104062",
-        "source_url": "https://judaism.stackexchange.com/questions/104062/shaving-or-getting-a-haircut-at-night",
-        "author": "Dr. Shmuel",
+        "url": "https://shekhina.org/qa.html?id=ye-144456",
+        "source_url": "https://judaism.stackexchange.com/questions/144456/looking-for-source-of-story-about-returning-a-lost-object",
+        "author": "mbloch",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "ye-87641",
-        "title": "Bris when the mother isn't observant?",
+        "id": "ye-128538",
+        "title": "PTIJ: Gingerbread man making Kiddush",
         "titles": {
-          "en": "Bris when the mother isn't observant?",
+          "en": "PTIJ: Gingerbread man making Kiddush",
           "he": ""
         },
         "language": "en",
-        "question": "I heard of a Hassidic rabbi performing a Brit Milah on a child whose father is Orthodox but whose mother is not. The mother is Jewish but not observant. Why is it ok for an Orthodox rabbi to perform B",
-        "answer": "Every Jewish baby boy needs to get a Bris - irrelevant of his future as a religiously observant Jew. If the parents don't take care of it, then the local Bet Din has to deal with it. If they didn't, then the kid has to do it when he grows up. Where d",
-        "answer_count": 1,
+        "question": "There is a Halacha to cover bread and Mezonos during Kiddush (related question: Covering the Cake During Kiddush ). How does the Gingerbread man make Kiddush if he is Mezonos? Does he need to cover hi",
+        "answer": "It depends on if he’s milchig or parve. Assuming for shabbos you are serving meat, as is the custom, if he is milchig, you need to cover him lest there be a mixup. Many are machmir to do something to to make it clear he is milchig, like paint a milk ",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-87641",
-        "source_url": "https://judaism.stackexchange.com/questions/87641/bris-when-the-mother-isnt-observant",
-        "author": "Danny Schoemann",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-128538",
+        "source_url": "https://judaism.stackexchange.com/questions/128538/ptij-gingerbread-man-making-kiddush",
+        "author": "Damila",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
-        "id": "ye-70508",
-        "title": "Why \"Hamotzi Lechem\" instead of \"Hamotzi Chitah\"?",
+        "id": "ye-108532",
+        "title": "Can you use your Maaser money on a Bar Mitzvah present?",
         "titles": {
-          "en": "Why \"Hamotzi Lechem\" instead of \"Hamotzi Chitah\"?",
+          "en": "Can you use your Maaser money on a Bar Mitzvah present?",
           "he": ""
         },
         "language": "en",
-        "question": "A bread question in time for Pesach! The words to the blessing over bread are: בָּרוּךְ אַתָּה ה' אֱלֹקינוּ מֶֽלֶךְ הָעוֹלָם, הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ which ends with \"...who brings forth bread fr",
-        "answer": "Neither the question, nor the seven answers so far, mention what is probably the most relevant Talmudic passage to this issue. The Talmud, in discussing the blessing for olive oil, states the following (with the key line bolded): Berachot 35b חוץ מן ",
-        "answer_count": 8,
+        "question": "If you give a Bar Mitzvah boy whose family struggles financially money as his gift, is that considered like you gave Maaser? Considering that most boys save up their Bar Mitzvah money for when they ar",
+        "answer": "R Yisroel Bronstein, writing in Halachos of Ma'aser Kesafim , answers your question (p. 123) It is permitted to use maaser to buy a gift for a poor chasan , for a bar mitzvah boy whose father is poor, or for a needy family in honor of their son's bri",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-70508",
-        "source_url": "https://judaism.stackexchange.com/questions/70508/why-hamotzi-lechem-instead-of-hamotzi-chitah",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-108532",
+        "source_url": "https://judaism.stackexchange.com/questions/108532/can-you-use-your-maaser-money-on-a-bar-mitzvah-present",
+        "author": "mbloch",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
+      },
+      {
+        "id": "ye-91127",
+        "title": "Do traditional sources address how time “works”?",
+        "titles": {
+          "en": "Do traditional sources address how time “works”?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I’m sorry for such a convoluted question, but this has been bothering me for some time now. While the title isn’t quite accurate, I couldn’t think of a better way to phrase it - feel free to edit if y",
+        "answer": "Without getting into comparing sci-fi literature to lehavdil Judaism. Time holds a prominent place in Judaism. It is the thing that, in a sense, dominates a Jews life. It decided when one must recite a prayer (Krias Shema), it directs man to abstain ",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-91127",
+        "source_url": "https://judaism.stackexchange.com/questions/91127/do-traditional-sources-address-how-time-works",
+        "author": "Shoel U'Meishiv",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
+      },
+      {
+        "id": "ye-75850",
+        "title": "Mamrim 3:1 - Who is the Rebellious Elder Mentioned in the Torah?",
+        "titles": {
+          "en": "Mamrim 3:1 - Who is the Rebellious Elder Mentioned in the Torah?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In Mamrim 3:1 - Who is the Rebellious Elder that Rambam is referring to, and what passage in the Torah mentions this person as: \"The Rebellious Elder\"? Mamrim 3:1 - A person who does not acknowledge v",
+        "answer": "dvarim 17 ‏ (פ) {ח} כִּ֣י יִפָּלֵא֩ מִמְּךָ֙ דָבָ֜ר לַמִּשְׁפָּ֗ט בֵּין-דָּ֨ם | לְדָ֜ם בֵּין-דִּ֣ין לְדִ֗ין וּבֵ֥ין נֶ֨גַע֙ לָנֶ֔גַע דִּבְרֵ֥י רִיבֹ֖ת בִּשְׁעָרֶ֑יךָ וְקַמְתָּ֣ וְעָלִ֔יתָ אֶ֨ל-הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ: {ט",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-75850",
+        "source_url": "https://judaism.stackexchange.com/questions/75850/mamrim-31-who-is-the-rebellious-elder-mentioned-in-the-torah",
+        "author": "kouty",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "ye-202109152965545",
@@ -45837,7 +45837,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "ye-2019100710583316",
@@ -45858,7 +45858,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "ye-144324",
@@ -45879,7 +45879,7 @@
         "author": "הרבנות הראשית לישראל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "ye-140193",
@@ -45900,7 +45900,7 @@
         "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "din-url-9818b7aa6bebfa8669fd5f8a",
@@ -45921,7 +45921,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "up-din-501163",
@@ -45942,7 +45942,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "ye-153334",
@@ -45963,7 +45963,7 @@
         "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "up-din-2017072512649555",
@@ -45984,7 +45984,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       },
       {
         "id": "up-din-2017031810666879",
@@ -46005,7 +46005,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-72bd2b3f4e1b540d04cf0ed6"
+        "snapshot": "v1-caedf4257d0f4d4da7283879"
       }
     ]
   }
