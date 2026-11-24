@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-24T04:46:01Z",
+  "checked_at": "2026-11-24T19:29:44Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-24T04:46:01Z"
+      "checked_at": "2026-11-24T19:29:44Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-24T04:46:01Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-24T04:46:01Z"
+      "checked_at": "2026-11-24T19:29:44Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-24T04:46:01Z"
+      "checked_at": "2026-11-24T19:29:44Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-24T19:29:44Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-24T04:46:01Z"
+      "checked_at": "2026-11-24T19:29:44Z"
     }
   },
   "music": [
@@ -40704,6 +40704,1420 @@
         "target_shabbat": "2032-03-23",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-117/"
+      },
+      {
+        "id": "cycle-15-bava-batra-118",
+        "title": {
+          "en": "Bava Batra 118 — Rav Pappa's Questions and the Evil Eye",
+          "he": "בבא בתרא קי״ח — שאלות רב פפא ועין הרע"
+        },
+        "parashah": {
+          "en": "Bava Batra 118",
+          "he": "בבא בתרא דף 118"
+        },
+        "target_shabbat": "2032-03-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-118/"
+      },
+      {
+        "id": "cycle-15-bava-batra-119",
+        "title": {
+          "en": "Bava Batra 119 — The Daughters of Zelophehad: Wise, Interpreters and Righteous",
+          "he": "בבא בתרא קי״ט — בנות צלפחד: חכמניות, דרשניות, צדקניות"
+        },
+        "parashah": {
+          "en": "Bava Batra 119",
+          "he": "בבא בתרא דף 119"
+        },
+        "target_shabbat": "2032-03-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-119/"
+      },
+      {
+        "id": "cycle-15-bava-batra-120",
+        "title": {
+          "en": "Bava Batra 120 — Jochebed's Renewed Youth and \"This Is the Matter\"",
+          "he": "בבא בתרא ק״כ — נערות יוכבד ו\"זה הדבר\""
+        },
+        "parashah": {
+          "en": "Bava Batra 120",
+          "he": "בבא בתרא דף 120"
+        },
+        "target_shabbat": "2032-03-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-120/"
+      },
+      {
+        "id": "cycle-15-bava-batra-121",
+        "title": {
+          "en": "Bava Batra 121 — The Fifteenth of Av and the Seven Who Spanned History",
+          "he": "בבא בתרא קכ״א — חמשה עשר באב ושבעה שקפלו את העולם"
+        },
+        "parashah": {
+          "en": "Bava Batra 121",
+          "he": "בבא בתרא דף 121"
+        },
+        "target_shabbat": "2032-03-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-121/"
+      },
+      {
+        "id": "cycle-15-bava-batra-122",
+        "title": {
+          "en": "Bava Batra 122 — Dividing the Land by Lot and the Inheritance of Son and Daughter",
+          "he": "בבא בתרא קכ״ב — חלוקת הארץ בגורל וירושת בן ובת"
+        },
+        "parashah": {
+          "en": "Bava Batra 122",
+          "he": "בבא בתרא דף 122"
+        },
+        "target_shabbat": "2032-03-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-122/"
+      },
+      {
+        "id": "cycle-15-bava-batra-123",
+        "title": {
+          "en": "Bava Batra 123 — Joseph's Birthright: Leah's Tears and Rachel's Modesty",
+          "he": "בבא בתרא קכ״ג — בכורת יוסף: דמעות לאה וצניעות רחל"
+        },
+        "parashah": {
+          "en": "Bava Batra 123",
+          "he": "בבא בתרא דף 123"
+        },
+        "target_shabbat": "2032-03-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-123/"
+      },
+      {
+        "id": "cycle-15-bava-batra-124",
+        "title": {
+          "en": "Bava Batra 124 — The Firstborn and Growth of the Estate",
+          "he": "בבא בתרא קכ״ד — הבכור ושבח הנכסים"
+        },
+        "parashah": {
+          "en": "Bava Batra 124",
+          "he": "בבא בתרא דף 124"
+        },
+        "target_shabbat": "2032-03-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-124/"
+      },
+      {
+        "id": "cycle-15-bava-batra-125",
+        "title": {
+          "en": "Bava Batra 125 — Property Due and Property Possessed",
+          "he": "בבא בתרא קכ״ה — ראוי ומוחזק"
+        },
+        "parashah": {
+          "en": "Bava Batra 125",
+          "he": "בבא בתרא דף 125"
+        },
+        "target_shabbat": "2032-03-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-125/"
+      },
+      {
+        "id": "cycle-15-bava-batra-126",
+        "title": {
+          "en": "Bava Batra 126 — Waiving the Double Portion and Identifying the Firstborn",
+          "he": "בבא בתרא קכ״ו — מחילת פי שניים וזיהוי הבכור"
+        },
+        "parashah": {
+          "en": "Bava Batra 126",
+          "he": "בבא בתרא דף 126"
+        },
+        "target_shabbat": "2032-04-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-126/"
+      },
+      {
+        "id": "cycle-15-bava-batra-127",
+        "title": {
+          "en": "Bava Batra 127 — \"He Shall Acknowledge\": The Father's Word on His Firstborn",
+          "he": "בבא בתרא קכ״ז — \"יכיר\": נאמנות האב על בכורו"
+        },
+        "parashah": {
+          "en": "Bava Batra 127",
+          "he": "בבא בתרא דף 127"
+        },
+        "target_shabbat": "2032-04-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-127/"
+      },
+      {
+        "id": "cycle-15-bava-batra-128",
+        "title": {
+          "en": "Bava Batra 128 — Rabbi Abba's Rulings to Rav Yosef bar Ḥama",
+          "he": "בבא בתרא קכ״ח — שאלות רבי אבא לרב יוסף בר חמא"
+        },
+        "parashah": {
+          "en": "Bava Batra 128",
+          "he": "בבא בתרא דף 128"
+        },
+        "target_shabbat": "2032-04-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-128/"
+      },
+      {
+        "id": "cycle-15-bava-batra-129",
+        "title": {
+          "en": "Bava Batra 129 — Gift and Inheritance in One Bequest",
+          "he": "בבא בתרא קכ״ט — לשון מתנה ולשון ירושה"
+        },
+        "parashah": {
+          "en": "Bava Batra 129",
+          "he": "בבא בתרא דף 129"
+        },
+        "target_shabbat": "2032-04-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-129/"
+      },
+      {
+        "id": "cycle-15-bava-batra-130",
+        "title": {
+          "en": "Bava Batra 130 — Rabbi Yoḥanan ben Beroka and Learning Halakha from a Ruling",
+          "he": "בבא בתרא ק״ל — רבי יוחנן בן ברוקה ולמידת הלכה ממעשה"
+        },
+        "parashah": {
+          "en": "Bava Batra 130",
+          "he": "בבא בתרא דף 130"
+        },
+        "target_shabbat": "2032-04-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-130/"
+      },
+      {
+        "id": "cycle-15-bava-batra-131",
+        "title": {
+          "en": "Bava Batra 131 — A Healthy Man's Bequest and the Wife as Steward",
+          "he": "בבא בתרא קל״א — הנחלת בריא והאשה כאפוטרופא"
+        },
+        "parashah": {
+          "en": "Bava Batra 131",
+          "he": "בבא בתרא דף 131"
+        },
+        "target_shabbat": "2032-04-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-131/"
+      },
+      {
+        "id": "cycle-15-bava-batra-132",
+        "title": {
+          "en": "Bava Batra 132 — When a Wife Loses Her Marriage Contract",
+          "he": "בבא בתרא קל״ב — מתי מפסידה האשה את כתובתה"
+        },
+        "parashah": {
+          "en": "Bava Batra 132",
+          "he": "בבא בתרא דף 132"
+        },
+        "target_shabbat": "2032-04-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-132/"
+      },
+      {
+        "id": "cycle-15-bava-batra-133",
+        "title": {
+          "en": "Bava Batra 133 — Disinheriting One's Children",
+          "he": "בבא בתרא קל״ג — המעביר נחלה מבניו"
+        },
+        "parashah": {
+          "en": "Bava Batra 133",
+          "he": "בבא בתרא דף 133"
+        },
+        "target_shabbat": "2032-04-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-133/"
+      },
+      {
+        "id": "cycle-15-bava-batra-134",
+        "title": {
+          "en": "Bava Batra 134 — Hillel's Students and \"This Is My Son\"",
+          "he": "בבא בתרא קל״ד — תלמידי הלל ו\"זה בני\""
+        },
+        "parashah": {
+          "en": "Bava Batra 134",
+          "he": "בבא בתרא דף 134"
+        },
+        "target_shabbat": "2032-04-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-134/"
+      },
+      {
+        "id": "cycle-15-bava-batra-135",
+        "title": {
+          "en": "Bava Batra 135 — Doubtful Brothers and the Deathbed Will",
+          "he": "בבא בתרא קל״ה — ספק אחים וצוואת שכיב מרע"
+        },
+        "parashah": {
+          "en": "Bava Batra 135",
+          "he": "בבא בתרא דף 135"
+        },
+        "target_shabbat": "2032-04-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-135/"
+      },
+      {
+        "id": "cycle-15-bava-batra-136",
+        "title": {
+          "en": "Bava Batra 136 — \"From Today and After My Death\"",
+          "he": "בבא בתרא קל״ו — \"מהיום ולאחר מיתה\""
+        },
+        "parashah": {
+          "en": "Bava Batra 136",
+          "he": "בבא בתרא דף 136"
+        },
+        "target_shabbat": "2032-04-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-136/"
+      },
+      {
+        "id": "cycle-15-bava-batra-137",
+        "title": {
+          "en": "Bava Batra 137 — \"To You and After You to So-and-So\" and the Borrowed Etrog",
+          "he": "בבא בתרא קל״ז — \"לך ואחריך לפלוני\" והאתרוג שניתן במתנה"
+        },
+        "parashah": {
+          "en": "Bava Batra 137",
+          "he": "בבא בתרא דף 137"
+        },
+        "target_shabbat": "2032-04-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-137/"
+      },
+      {
+        "id": "cycle-15-bava-batra-138",
+        "title": {
+          "en": "Bava Batra 138 — Refusing a Gift and the Wording of Deathbed Gifts",
+          "he": "בבא בתרא קל״ח — דחיית מתנה ולשון מתנת שכיב מרע"
+        },
+        "parashah": {
+          "en": "Bava Batra 138",
+          "he": "בבא בתרא דף 138"
+        },
+        "target_shabbat": "2032-04-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-138/"
+      },
+      {
+        "id": "cycle-15-bava-batra-139",
+        "title": {
+          "en": "Bava Batra 139 — Adult and Minor Heirs, and the Husband as Heir or Buyer",
+          "he": "בבא בתרא קל״ט — גדולים וקטנים, והבעל כיורש או כלוקח"
+        },
+        "parashah": {
+          "en": "Bava Batra 139",
+          "he": "בבא בתרא דף 139"
+        },
+        "target_shabbat": "2032-04-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-139/"
+      },
+      {
+        "id": "cycle-15-bava-batra-140",
+        "title": {
+          "en": "Bava Batra 140 — A Small Estate and the Tumtum",
+          "he": "בבא בתרא ק״מ — נכסים מועטים והטומטום"
+        },
+        "parashah": {
+          "en": "Bava Batra 140",
+          "he": "בבא בתרא דף 140"
+        },
+        "target_shabbat": "2032-04-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-140/"
+      },
+      {
+        "id": "cycle-15-bava-batra-141",
+        "title": {
+          "en": "Bava Batra 141 — Son or Daughter, and a Gift to a Fetus",
+          "he": "בבא בתרא קמ״א — בן או בת, ומתנה לעובר"
+        },
+        "parashah": {
+          "en": "Bava Batra 141",
+          "he": "בבא בתרא דף 141"
+        },
+        "target_shabbat": "2032-04-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-141/"
+      },
+      {
+        "id": "cycle-15-bava-batra-142",
+        "title": {
+          "en": "Bava Batra 142 — Can a Fetus Acquire?",
+          "he": "בבא בתרא קמ״ב — האם עובר קונה?"
+        },
+        "parashah": {
+          "en": "Bava Batra 142",
+          "he": "בבא בתרא דף 142"
+        },
+        "target_shabbat": "2032-04-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-142/"
+      },
+      {
+        "id": "cycle-15-bava-batra-143",
+        "title": {
+          "en": "Bava Batra 143 — \"You and a Donkey\" and Unspecified Divisions",
+          "he": "בבא בתרא קמ״ג — \"קני אתה וחמור\" וחלוקה סתמית"
+        },
+        "parashah": {
+          "en": "Bava Batra 143",
+          "he": "בבא בתרא דף 143"
+        },
+        "target_shabbat": "2032-04-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-143/"
+      },
+      {
+        "id": "cycle-15-bava-batra-144",
+        "title": {
+          "en": "Bava Batra 144 — Brothers in Partnership: Profit, Service, Illness and Groomsmen's Gifts",
+          "he": "בבא בתרא קמ״ד — אחים שותפים: רווח, מלך, חולי ושושבינות"
+        },
+        "parashah": {
+          "en": "Bava Batra 144",
+          "he": "בבא בתרא דף 144"
+        },
+        "target_shabbat": "2032-04-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-144/"
+      },
+      {
+        "id": "cycle-15-bava-batra-145",
+        "title": {
+          "en": "Bava Batra 145 — Betrothal Money, Groomsmen's Rules and Kinds of Scholars",
+          "he": "בבא בתרא קמ״ה — כסף קידושין, דיני שושבינות וסוגי תלמידי חכמים"
+        },
+        "parashah": {
+          "en": "Bava Batra 145",
+          "he": "בבא בתרא דף 145"
+        },
+        "target_shabbat": "2032-04-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-145/"
+      },
+      {
+        "id": "cycle-15-bava-batra-146",
+        "title": {
+          "en": "Bava Batra 146 — Betrothal Presents and the Deathbed Gift That Kept Nothing",
+          "he": "בבא בתרא קמ״ו — סבלונות ומתנת שכיב מרע שלא שייר"
+        },
+        "parashah": {
+          "en": "Bava Batra 146",
+          "he": "בבא בתרא דף 146"
+        },
+        "target_shabbat": "2032-04-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-146/"
+      },
+      {
+        "id": "cycle-15-bava-batra-147",
+        "title": {
+          "en": "Bava Batra 147 — The Deathbed Gift: Torah Law and Ahithophel's Counsel",
+          "he": "בבא בתרא קמ״ז — מתנת שכיב מרע: דין תורה ועצת אחיתופל"
+        },
+        "parashah": {
+          "en": "Bava Batra 147",
+          "he": "בבא בתרא דף 147"
+        },
+        "target_shabbat": "2032-04-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-147/"
+      },
+      {
+        "id": "cycle-15-bava-batra-148",
+        "title": {
+          "en": "Bava Batra 148 — Reserving, Retracting and the Dying Man's Gifts",
+          "he": "בבא בתרא קמ״ח — שיור, חזרה ומתנות שכיב מרע"
+        },
+        "parashah": {
+          "en": "Bava Batra 148",
+          "he": "בבא בתרא דף 148"
+        },
+        "target_shabbat": "2032-04-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-148/"
+      },
+      {
+        "id": "cycle-15-bava-batra-149",
+        "title": {
+          "en": "Bava Batra 149 — Issur the Convert's Deposit and \"Any Amount\" of Land",
+          "he": "בבא בתרא קמ״ט — פקדון איסור הגיורא ו\"קרקע כל שהוא\""
+        },
+        "parashah": {
+          "en": "Bava Batra 149",
+          "he": "בבא בתרא דף 149"
+        },
+        "target_shabbat": "2032-04-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-149/"
+      },
+      {
+        "id": "cycle-15-bava-batra-150",
+        "title": {
+          "en": "Bava Batra 150 — Five Gifts of \"All One's Property\" and What Counts as Property",
+          "he": "בבא בתרא ק״נ — חמש מתנות של \"כל נכסיו\" ומה נקרא נכסים"
+        },
+        "parashah": {
+          "en": "Bava Batra 150",
+          "he": "בבא בתרא דף 150"
+        },
+        "target_shabbat": "2032-04-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-150/"
+      },
+      {
+        "id": "cycle-15-bava-batra-151",
+        "title": {
+          "en": "Bava Batra 151 — Family Cases of Deathbed Gifts",
+          "he": "בבא בתרא קנ״א — מעשים במתנות שכיב מרע במשפחה"
+        },
+        "parashah": {
+          "en": "Bava Batra 151",
+          "he": "בבא בתרא דף 151"
+        },
+        "target_shabbat": "2032-04-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-151/"
+      },
+      {
+        "id": "cycle-15-bava-batra-152",
+        "title": {
+          "en": "Bava Batra 152 — \"Two Steeds\": A Deathbed Gift with an Act of Acquisition",
+          "he": "בבא בתרא קנ״ב — \"שני סוסים\": מתנת שכיב מרע שיש בה קניין"
+        },
+        "parashah": {
+          "en": "Bava Batra 152",
+          "he": "בבא בתרא דף 152"
+        },
+        "target_shabbat": "2032-04-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-152/"
+      },
+      {
+        "id": "cycle-15-bava-batra-153",
+        "title": {
+          "en": "Bava Batra 153 — \"In Life and in Death\" and the Burden of Proof",
+          "he": "בבא בתרא קנ״ג — \"בחיים ובמות\" ונטל הראיה"
+        },
+        "parashah": {
+          "en": "Bava Batra 153",
+          "he": "בבא בתרא דף 153"
+        },
+        "target_shabbat": "2032-04-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-153/"
+      },
+      {
+        "id": "cycle-15-bava-batra-154",
+        "title": {
+          "en": "Bava Batra 154 — Witnesses or Ratification: How the Recipient Proves His Gift",
+          "he": "בבא בתרא קנ״ד — עדים או קיום השטר: כיצד מוכיח המקבל את מתנתו"
+        },
+        "parashah": {
+          "en": "Bava Batra 154",
+          "he": "בבא בתרא דף 154"
+        },
+        "target_shabbat": "2032-04-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-154/"
+      },
+      {
+        "id": "cycle-15-bava-batra-155",
+        "title": {
+          "en": "Bava Batra 155 — At What Age May an Heir Sell His Father's Land?",
+          "he": "בבא בתרא קנ״ה — מאימתי יכול יורש למכור בנכסי אביו?"
+        },
+        "parashah": {
+          "en": "Bava Batra 155",
+          "he": "בבא בתרא דף 155"
+        },
+        "target_shabbat": "2032-04-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-155/"
+      },
+      {
+        "id": "cycle-15-bava-batra-156",
+        "title": {
+          "en": "Bava Batra 156 — An Orphan's Gift and the Dying Man's Word on Shabbat",
+          "he": "בבא בתרא קנ״ו — מתנת יתום ודברי שכיב מרע בשבת"
+        },
+        "parashah": {
+          "en": "Bava Batra 156",
+          "he": "בבא בתרא דף 156"
+        },
+        "target_shabbat": "2032-05-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-156/"
+      },
+      {
+        "id": "cycle-15-bava-batra-157",
+        "title": {
+          "en": "Bava Batra 157 — The Collapsed House and Liens on Future Property",
+          "he": "בבא בתרא קנ״ז — הבית שנפל ושעבוד נכסים שעתיד לקנות"
+        },
+        "parashah": {
+          "en": "Bava Batra 157",
+          "he": "בבא בתרא דף 157"
+        },
+        "target_shabbat": "2032-05-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-157/"
+      },
+      {
+        "id": "cycle-15-bava-batra-158",
+        "title": {
+          "en": "Bava Batra 158 — The House That Fell on Husband and Wife, Mother and Son",
+          "he": "בבא בתרא קנ״ח — הבית שנפל על האיש ואשתו, על הבן ואמו"
+        },
+        "parashah": {
+          "en": "Bava Batra 158",
+          "he": "בבא בתרא דף 158"
+        },
+        "target_shabbat": "2032-05-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-158/"
+      },
+      {
+        "id": "cycle-15-bava-batra-159",
+        "title": {
+          "en": "Bava Batra 159 — The Hardest Ruling and Inheriting in the Grave",
+          "he": "בבא בתרא קנ״ט — הקשה שבדיני ממונות וירושה בקבר"
+        },
+        "parashah": {
+          "en": "Bava Batra 159",
+          "he": "בבא בתרא דף 159"
+        },
+        "target_shabbat": "2032-05-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-159/"
+      },
+      {
+        "id": "cycle-15-bava-batra-160",
+        "title": {
+          "en": "Bava Batra 160 — The Ordinary and the Tied Document",
+          "he": "בבא בתרא ק״ס — גט פשוט וגט מקושר"
+        },
+        "parashah": {
+          "en": "Bava Batra 160",
+          "he": "בבא בתרא דף 160"
+        },
+        "target_shabbat": "2032-05-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-160/"
+      },
+      {
+        "id": "cycle-15-bava-batra-161",
+        "title": {
+          "en": "Bava Batra 161 — Safeguarding Signatures on a Tied Document",
+          "he": "בבא בתרא קס״א — שמירת החתימות בגט מקושר"
+        },
+        "parashah": {
+          "en": "Bava Batra 161",
+          "he": "בבא בתרא דף 161"
+        },
+        "target_shabbat": "2032-05-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-161/"
+      },
+      {
+        "id": "cycle-15-bava-batra-162",
+        "title": {
+          "en": "Bava Batra 162 — The Final Line and the Gap Before the Signatures",
+          "he": "בבא בתרא קס״ב — השיטה האחרונה והרווח שלפני החתימות"
+        },
+        "parashah": {
+          "en": "Bava Batra 162",
+          "he": "בבא בתרא דף 162"
+        },
+        "target_shabbat": "2032-05-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-162/"
+      },
+      {
+        "id": "cycle-15-bava-batra-163",
+        "title": {
+          "en": "Bava Batra 163 — Measuring the Gap and the Court's Ratification",
+          "he": "בבא בתרא קס״ג — שיעור הרווח וקיום בית הדין"
+        },
+        "parashah": {
+          "en": "Bava Batra 163",
+          "he": "בבא בתרא דף 163"
+        },
+        "target_shabbat": "2032-05-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-163/"
+      },
+      {
+        "id": "cycle-15-bava-batra-164",
+        "title": {
+          "en": "Bava Batra 164 — Double Erasures, Royal Dates and Malicious Speech",
+          "he": "בבא בתרא קס״ד — מחק על גבי מחק, מניין המלכים ולשון הרע"
+        },
+        "parashah": {
+          "en": "Bava Batra 164",
+          "he": "בבא בתרא דף 164"
+        },
+        "target_shabbat": "2032-05-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-164/"
+      },
+      {
+        "id": "cycle-15-bava-batra-165",
+        "title": {
+          "en": "Bava Batra 165 — Regional Custom, Combining Witnesses and Rabbi Yirmeya's Answer",
+          "he": "בבא בתרא קס״ה — מנהג המדינה, צירוף עדים ותשובת רבי ירמיה"
+        },
+        "parashah": {
+          "en": "Bava Batra 165",
+          "he": "בבא בתרא דף 165"
+        },
+        "target_shabbat": "2032-05-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-165/"
+      },
+      {
+        "id": "cycle-15-bava-batra-166",
+        "title": {
+          "en": "Bava Batra 166 — Vague Sums and Missing Letters",
+          "he": "בבא בתרא קס״ו — סכומים סתומים ואותיות חסרות"
+        },
+        "parashah": {
+          "en": "Bava Batra 166",
+          "he": "בבא בתרא דף 166"
+        },
+        "target_shabbat": "2032-05-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-166/"
+      },
+      {
+        "id": "cycle-15-bava-batra-167",
+        "title": {
+          "en": "Bava Batra 167 — Guarding Against Forgery and Who May Request a Document",
+          "he": "בבא בתרא קס״ז — שמירה מזיוף ומי רשאי לבקש שטר"
+        },
+        "parashah": {
+          "en": "Bava Batra 167",
+          "he": "בבא בתרא דף 167"
+        },
+        "target_shabbat": "2032-05-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-167/"
+      },
+      {
+        "id": "cycle-15-bava-batra-168",
+        "title": {
+          "en": "Bava Batra 168 — Asmakhta, Erased Documents and Abaye's Invalid Deed",
+          "he": "בבא בתרא קס״ח — אסמכתא, שטר שנמחק והשטר הפסול של אביי"
+        },
+        "parashah": {
+          "en": "Bava Batra 168",
+          "he": "בבא בתרא דף 168"
+        },
+        "target_shabbat": "2032-05-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-168/"
+      },
+      {
+        "id": "cycle-15-bava-batra-169",
+        "title": {
+          "en": "Bava Batra 169 — A Replacement Deed Without Guarantee and Returning a Deed of Gift",
+          "he": "בבא בתרא קס״ט — שטר חליפי בלא אחריות והחזרת שטר מתנה"
+        },
+        "parashah": {
+          "en": "Bava Batra 169",
+          "he": "בבא בתרא דף 169"
+        },
+        "target_shabbat": "2032-05-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-169/"
+      },
+      {
+        "id": "cycle-15-bava-batra-170",
+        "title": {
+          "en": "Bava Batra 170 — Deed or Presumption, and a Partly Repaid Loan",
+          "he": "בבא בתרא ק״ע — שטר או חזקה, והלוואה שנפרעה מקצתה"
+        },
+        "parashah": {
+          "en": "Bava Batra 170",
+          "he": "בבא בתרא דף 170"
+        },
+        "target_shabbat": "2032-05-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-170/"
+      },
+      {
+        "id": "cycle-15-bava-batra-171",
+        "title": {
+          "en": "Bava Batra 171 — Receipts, Postdated Notes and \"The Borrower Is a Servant to the Lender\"",
+          "he": "בבא בתרא קע״א — שוברים, שטרות מאוחרים ו\"עבד לוה לאיש מלוה\""
+        },
+        "parashah": {
+          "en": "Bava Batra 171",
+          "he": "בבא בתרא דף 171"
+        },
+        "target_shabbat": "2032-05-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-171/"
+      },
+      {
+        "id": "cycle-15-bava-batra-172",
+        "title": {
+          "en": "Bava Batra 172 — Truthful Dates, Splitting Notes and Two Men Named Yosef ben Shimon",
+          "he": "בבא בתרא קע״ב — תאריך אמת, פיצול שטרות ושני יוסף בן שמעון"
+        },
+        "parashah": {
+          "en": "Bava Batra 172",
+          "he": "בבא בתרא דף 172"
+        },
+        "target_shabbat": "2032-05-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-172/"
+      },
+      {
+        "id": "cycle-15-bava-batra-173",
+        "title": {
+          "en": "Bava Batra 173 — Namesakes, Ambiguous Receipts and the Guarantor",
+          "he": "בבא בתרא קע״ג — שמות זהים, שוברים סתומים והערב"
+        },
+        "parashah": {
+          "en": "Bava Batra 173",
+          "he": "בבא בתרא דף 173"
+        },
+        "target_shabbat": "2032-05-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-173/"
+      },
+      {
+        "id": "cycle-15-bava-batra-174",
+        "title": {
+          "en": "Bava Batra 174 — Guarantor and Unconditional Guarantor, Orphans and the Marriage Contract",
+          "he": "בבא בתרא קע״ד — ערב וקבלן, יתומים וכתובה"
+        },
+        "parashah": {
+          "en": "Bava Batra 174",
+          "he": "בבא בתרא דף 174"
+        },
+        "target_shabbat": "2032-05-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-174/"
+      },
+      {
+        "id": "cycle-15-bava-batra-175",
+        "title": {
+          "en": "Bava Batra 175 — A Dying Man Does Not Jest, and the Lien of Oral Loans",
+          "he": "בבא בתרא קע״ה — אין אדם משטה בשעת מיתה, ושעבוד מלוה על פה"
+        },
+        "parashah": {
+          "en": "Bava Batra 175",
+          "he": "בבא בתרא דף 175"
+        },
+        "target_shabbat": "2032-05-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-175/"
+      },
+      {
+        "id": "cycle-15-bava-batra-176",
+        "title": {
+          "en": "Bava Batra 176 — The Guarantor's Commitment and the Close of the Tractate",
+          "he": "בבא בתרא קע״ו — שעבוד הערב וסיום המסכת"
+        },
+        "parashah": {
+          "en": "Bava Batra 176",
+          "he": "בבא בתרא דף 176"
+        },
+        "target_shabbat": "2032-05-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-bava-batra-176/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-2",
+        "title": {
+          "en": "Sanhedrin 2 — Three, Twenty-Three, Seventy-One: Matching the Court to the Case",
+          "he": "סנהדרין ב׳ — שלושה, עשרים ושלושה, שבעים ואחד: התאמת בית הדין למקרה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 2",
+          "he": "סנהדרין דף 2"
+        },
+        "target_shabbat": "2032-05-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-2/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-3",
+        "title": {
+          "en": "Sanhedrin 3 — Why Laymen May Judge Loans and Where Three Judges Come From",
+          "he": "סנהדרין ג׳ — מדוע הדיוטות דנים הלוואות ומניין שלושה דיינים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 3",
+          "he": "סנהדרין דף 3"
+        },
+        "target_shabbat": "2032-05-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-3/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-4",
+        "title": {
+          "en": "Sanhedrin 4 — Reading or Writing: Which Form of the Torah Text Decides?",
+          "he": "סנהדרין ד׳ — יש אם למקרא או יש אם למסורת: איזו צורה של הכתוב מכריעה?"
+        },
+        "parashah": {
+          "en": "Sanhedrin 4",
+          "he": "סנהדרין דף 4"
+        },
+        "target_shabbat": "2032-05-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-4/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-5",
+        "title": {
+          "en": "Sanhedrin 5 — Permission to Judge, Permission to Teach",
+          "he": "סנהדרין ה׳ — רשות לדון ורשות להורות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 5",
+          "he": "סנהדרין דף 5"
+        },
+        "target_shabbat": "2032-05-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-5/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-6",
+        "title": {
+          "en": "Sanhedrin 6 — Judgment or Compromise: Piercing the Mountain or Pursuing Peace",
+          "he": "סנהדרין ו׳ — דין או פשרה: יקוב הדין את ההר או רודף שלום"
+        },
+        "parashah": {
+          "en": "Sanhedrin 6",
+          "he": "סנהדרין דף 6"
+        },
+        "target_shabbat": "2032-05-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-6/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-7",
+        "title": {
+          "en": "Sanhedrin 7 — The Weight on the Judge: Strife, Truth and the Fitness to Judge",
+          "he": "סנהדרין ז׳ — המשא על הדיין: מריבה, אמת וראויות לדון"
+        },
+        "parashah": {
+          "en": "Sanhedrin 7",
+          "he": "סנהדרין דף 7"
+        },
+        "target_shabbat": "2032-05-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-7/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-8",
+        "title": {
+          "en": "Sanhedrin 8 — The Judge’s Burden and the Defamer’s Court",
+          "he": "סנהדרין ח׳ — משא הדיין ובית הדין של מוציא שם רע"
+        },
+        "parashah": {
+          "en": "Sanhedrin 8",
+          "he": "סנהדרין דף 8"
+        },
+        "target_shabbat": "2032-05-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-8/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-9",
+        "title": {
+          "en": "Sanhedrin 9 — The Defamer’s Court Explained, and Testimony That Can Be Divided",
+          "he": "סנהדרין ט׳ — בית הדין של מוציא שם רע, ועדות שאפשר לחלקה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 9",
+          "he": "סנהדרין דף 9"
+        },
+        "target_shabbat": "2032-05-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-9/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-10",
+        "title": {
+          "en": "Sanhedrin 10 — Lashes, the New Moon and the Council of Intercalation",
+          "he": "סנהדרין י׳ — מלקות, קידוש החודש ומועצת העיבור"
+        },
+        "parashah": {
+          "en": "Sanhedrin 10",
+          "he": "סנהדרין דף 10"
+        },
+        "target_shabbat": "2032-05-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-10/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-11",
+        "title": {
+          "en": "Sanhedrin 11 — Taking the Shame of Another, and the Reasons for a Leap Year",
+          "he": "סנהדרין י״א — לקבל על עצמו את בושת חברו, וטעמי עיבור השנה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 11",
+          "he": "סנהדרין דף 11"
+        },
+        "target_shabbat": "2032-05-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-11/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-12",
+        "title": {
+          "en": "Sanhedrin 12 — When Not to Intercalate: Famine, Persecution, Impurity and Hezekiah’s Error",
+          "he": "סנהדרין י״ב — מתי אין מעברין: רעב, גזירה, טומאה וטעותו של חזקיהו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 12",
+          "he": "סנהדרין דף 12"
+        },
+        "target_shabbat": "2032-06-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-12/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-13",
+        "title": {
+          "en": "Sanhedrin 13 — The Equinox and the Festival, and the Courage of Ordination",
+          "he": "סנהדרין י״ג — התקופה והחג, ואומץ הסמיכה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 13",
+          "he": "סנהדרין דף 13"
+        },
+        "target_shabbat": "2032-06-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-13/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-14",
+        "title": {
+          "en": "Sanhedrin 14 — Ordination Under Persecution and the Measure of the Heifer",
+          "he": "סנהדרין י״ד — סמיכה בשעת גזירה ומדידת העגלה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 14",
+          "he": "סנהדרין דף 14"
+        },
+        "target_shabbat": "2032-06-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-14/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-15",
+        "title": {
+          "en": "Sanhedrin 15 — Valuing Property and Judging Animals",
+          "he": "סנהדרין ט״ו — שומת נכסים ודין בעלי חיים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 15",
+          "he": "סנהדרין דף 15"
+        },
+        "target_shabbat": "2032-06-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-15/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-16",
+        "title": {
+          "en": "Sanhedrin 16 — The Great Sanhedrin’s Domain: Tribes, Prophets, Priests, War and Jerusalem",
+          "he": "סנהדרין ט״ז — תחום הסנהדרין הגדולה: שבט, נביא, כהן גדול, מלחמה וירושלים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 16",
+          "he": "סנהדרין דף 16"
+        },
+        "target_shabbat": "2032-06-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-16/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-17",
+        "title": {
+          "en": "Sanhedrin 17 — Choosing the Seventy: Lots, Prophecy and the Qualities of a Judge",
+          "he": "סנהדרין י״ז — בחירת השבעים: גורל, נבואה ותכונות הדיין"
+        },
+        "parashah": {
+          "en": "Sanhedrin 17",
+          "he": "סנהדרין דף 17"
+        },
+        "target_shabbat": "2032-06-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-17/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-18",
+        "title": {
+          "en": "Sanhedrin 18 — The High Priest Before the Law",
+          "he": "סנהדרין י״ח — כהן גדול בפני הדין"
+        },
+        "parashah": {
+          "en": "Sanhedrin 18",
+          "he": "סנהדרין דף 18"
+        },
+        "target_shabbat": "2032-06-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-18/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-19",
+        "title": {
+          "en": "Sanhedrin 19 — The King Who Would Not Stand: Yannai, Shimon ben Shataḥ and the Limits of Royal Justice",
+          "he": "סנהדרין י״ט — המלך שלא רצה לעמוד: ינאי, שמעון בן שטח וגבולות משפט המלך"
+        },
+        "parashah": {
+          "en": "Sanhedrin 19",
+          "he": "סנהדרין דף 19"
+        },
+        "target_shabbat": "2032-06-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-19/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-20",
+        "title": {
+          "en": "Sanhedrin 20 — The King’s Grief, the King’s Rights and the Order of the Three Commandments",
+          "he": "סנהדרין כ׳ — אבל המלך, משפט המלך וסדר שלוש המצוות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 20",
+          "he": "סנהדרין דף 20"
+        },
+        "target_shabbat": "2032-06-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-20/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-21",
+        "title": {
+          "en": "Sanhedrin 21 — The King’s Limits: Wives, Horses, Silver and the Danger of Knowing the Reason",
+          "he": "סנהדרין כ״א — גבולות המלך: נשים, סוסים, כסף והסכנה שבידיעת הטעם"
+        },
+        "parashah": {
+          "en": "Sanhedrin 21",
+          "he": "סנהדרין דף 21"
+        },
+        "target_shabbat": "2032-06-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-21/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-22",
+        "title": {
+          "en": "Sanhedrin 22 — The Script of the Torah, the Writing on the Wall and the Dignity of Marriage",
+          "he": "סנהדרין כ״ב — כתב התורה, הכתב על הקיר וכבוד הנישואין"
+        },
+        "parashah": {
+          "en": "Sanhedrin 22",
+          "he": "סנהדרין דף 22"
+        },
+        "target_shabbat": "2032-06-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-22/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-23",
+        "title": {
+          "en": "Sanhedrin 23 — Choosing Your Judges: Zabla and the Right to Disqualify",
+          "he": "סנהדרין כ״ג — לבחור את דייניך: זה בורר לו אחד והזכות לפסול"
+        },
+        "parashah": {
+          "en": "Sanhedrin 23",
+          "he": "סנהדרין דף 23"
+        },
+        "target_shabbat": "2032-06-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-23/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-24",
+        "title": {
+          "en": "Sanhedrin 24 — Respect Between Sages, Accepting Unfit Judges, and the Gambler as Witness",
+          "he": "סנהדרין כ״ד — כבוד בין חכמים, קבלת דיינים פסולים והמשחק בקוביא כעד"
+        },
+        "parashah": {
+          "en": "Sanhedrin 24",
+          "he": "סנהדרין דף 24"
+        },
+        "target_shabbat": "2032-06-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-24/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-25",
+        "title": {
+          "en": "Sanhedrin 25 — Who Is Too Compromised to Testify? Gamblers, Lenders, Shepherds and Tax Collectors",
+          "he": "סנהדרין כ״ה — מי פסול לעדות? משחקי קוביא, מלווים ברבית, רועים ומוכסים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 25",
+          "he": "סנהדרין דף 25"
+        },
+        "target_shabbat": "2032-06-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-25/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-26",
+        "title": {
+          "en": "Sanhedrin 26 — A Conspiracy of the Wicked Is Not Counted: Reish Lakish, Shevna and the Limits of Suspicion",
+          "he": "סנהדרין כ״ו — קשר רשעים אינו מן המניין: ריש לקיש, שבנא וגבולות החשד"
+        },
+        "parashah": {
+          "en": "Sanhedrin 26",
+          "he": "סנהדרין דף 26"
+        },
+        "target_shabbat": "2032-06-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-26/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-27",
+        "title": {
+          "en": "Sanhedrin 27 — When Does a Witness Become Unfit, and Who Is Too Close to Testify?",
+          "he": "סנהדרין כ״ז — ממתי נפסל עד, ומי קרוב מכדי להעיד?"
+        },
+        "parashah": {
+          "en": "Sanhedrin 27",
+          "he": "סנהדרין דף 27"
+        },
+        "target_shabbat": "2032-06-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-27/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-28",
+        "title": {
+          "en": "Sanhedrin 28 — Mapping the Family: How Far Does Kinship Disqualify a Witness?",
+          "he": "סנהדרין כ״ח — מיפוי המשפחה: עד היכן הקרבה פוסלת עד?"
+        },
+        "parashah": {
+          "en": "Sanhedrin 28",
+          "he": "סנהדרין דף 28"
+        },
+        "target_shabbat": "2032-06-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-28/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-29",
+        "title": {
+          "en": "Sanhedrin 29 — Examining Witnesses and the Weight of an Admission",
+          "he": "סנהדרין כ״ט — דרישת העדים ומשקלה של הודאה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 29",
+          "he": "סנהדרין דף 29"
+        },
+        "target_shabbat": "2032-06-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-29/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-30",
+        "title": {
+          "en": "Sanhedrin 30 — Combining Testimony: Together, Apart and Contradictory",
+          "he": "סנהדרין ל׳ — צירוף עדויות: יחד, בנפרד ובסתירה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 30",
+          "he": "סנהדרין דף 30"
+        },
+        "target_shabbat": "2032-06-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-30/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-31",
+        "title": {
+          "en": "Sanhedrin 31 — Contradictions, Secrets and Reopening a Verdict",
+          "he": "סנהדרין ל״א — סתירות, סודות ופתיחת פסק מחדש"
+        },
+        "parashah": {
+          "en": "Sanhedrin 31",
+          "he": "סנהדרין דף 31"
+        },
+        "target_shabbat": "2032-06-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-31/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-32",
+        "title": {
+          "en": "Sanhedrin 32 — Life Is Not Money: The Differences Between Monetary and Capital Procedure",
+          "he": "סנהדרין ל״ב — נפש אינה ממון: ההבדלים בין דיני ממונות לדיני נפשות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 32",
+          "he": "סנהדרין דף 32"
+        },
+        "target_shabbat": "2032-06-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-32/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-33",
+        "title": {
+          "en": "Sanhedrin 33 — When a Judge Errs: Reversal, Liability and the One-Way Door of Capital Cases",
+          "he": "סנהדרין ל״ג — כשדיין טועה: חזרה, חיוב בתשלומים והדלת החד-כיוונית של דיני נפשות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 33",
+          "he": "סנהדרין דף 33"
+        },
+        "target_shabbat": "2032-06-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-33/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-34",
+        "title": {
+          "en": "Sanhedrin 34 — One Verse, Many Meanings; One Meaning, Not Two Verses",
+          "he": "סנהדרין ל״ד — מקרא אחד יוצא לכמה טעמים, ואין טעם אחד יוצא מכמה מקראות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 34",
+          "he": "סנהדרין דף 34"
+        },
+        "target_shabbat": "2032-06-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-34/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-35",
+        "title": {
+          "en": "Sanhedrin 35 — Delay for Life: Overnight Judgment and Shabbat",
+          "he": "סנהדרין ל״ה — השהיה לטובת החיים: הלנת דין ושבת"
+        },
+        "parashah": {
+          "en": "Sanhedrin 35",
+          "he": "סנהדרין דף 35"
+        },
+        "target_shabbat": "2032-06-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-35/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-36",
+        "title": {
+          "en": "Sanhedrin 36 — Torah and Greatness, the Order of Voting and the Fitness of Judges",
+          "he": "סנהדרין ל״ו — תורה וגדולה, סדר המניין וכשרות הדיינים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 36",
+          "he": "סנהדרין דף 36"
+        },
+        "target_shabbat": "2032-06-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-36/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-37",
+        "title": {
+          "en": "Sanhedrin 37 — The Semicircle of the Sanhedrin and the Warning to Witnesses",
+          "he": "סנהדרין ל״ז — חצי הגורן העגולה ואיום העדים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 37",
+          "he": "סנהדרין דף 37"
+        },
+        "target_shabbat": "2032-06-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-37/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-38",
+        "title": {
+          "en": "Sanhedrin 38 — Why Adam Was Created Alone, and Answering the Heretic",
+          "he": "סנהדרין ל״ח — מדוע נברא אדם יחידי, ומה להשיב לאפיקורוס"
+        },
+        "parashah": {
+          "en": "Sanhedrin 38",
+          "he": "סנהדרין דף 38"
+        },
+        "target_shabbat": "2032-06-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-38/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-39",
+        "title": {
+          "en": "Sanhedrin 39 — Answers to the Emperor and the Heretics, and Joy at the Fall of the Wicked",
+          "he": "סנהדרין ל״ט — תשובות לקיסר ולמינים, והשמחה באבדן רשעים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 39",
+          "he": "סנהדרין דף 39"
+        },
+        "target_shabbat": "2032-06-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-39/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-40",
+        "title": {
+          "en": "Sanhedrin 40 — The Seven Interrogations and the Order of Deliberation",
+          "he": "סנהדרין מ׳ — שבע החקירות וסדר המשא ומתן"
+        },
+        "parashah": {
+          "en": "Sanhedrin 40",
+          "he": "סנהדרין דף 40"
+        },
+        "target_shabbat": "2032-06-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-40/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-41",
+        "title": {
+          "en": "Sanhedrin 41 — Forewarning, Contradictory Details and Ben Zakkai’s Figs",
+          "he": "סנהדרין מ״א — ההתראה, סתירות בפרטים ועוקצי התאנים של בן זכאי"
+        },
+        "parashah": {
+          "en": "Sanhedrin 41",
+          "he": "סנהדרין דף 41"
+        },
+        "target_shabbat": "2032-06-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-41/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-42",
+        "title": {
+          "en": "Sanhedrin 42 — Blessing the Moon, “The Judgment Has Aged,” and the Way to the Place of Stoning",
+          "he": "סנהדרין מ״ב — ברכת הלבנה, \"נזדקן הדין\" והדרך לבית הסקילה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 42",
+          "he": "סנהדרין דף 42"
+        },
+        "target_shabbat": "2032-07-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-42/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-43",
+        "title": {
+          "en": "Sanhedrin 43 — The Last Chances to Acquit, the Crier and the Confession of Achan",
+          "he": "סנהדרין מ״ג — הסיכויים האחרונים לזכות, הכרוז ווידויו של עכן"
+        },
+        "parashah": {
+          "en": "Sanhedrin 43",
+          "he": "סנהדרין דף 43"
+        },
+        "target_shabbat": "2032-07-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-43/"
       }
     ],
     "calendar": {
@@ -45626,197 +47040,197 @@
     ]
   },
   "qa": {
-    "release": "v1-caedf4257d0f4d4da7283879",
-    "total": 71022,
+    "release": "v1-62adf56cec55b31c9c2b4084",
+    "total": 71025,
     "cards": [
       {
-        "id": "ye-57570",
-        "title": "Moreh Nevuchim Online",
+        "id": "ye-61441",
+        "title": "Current applicability to not wearing leather shoes on Tish'a B'Av and Yom Kippur",
         "titles": {
-          "en": "Moreh Nevuchim Online",
+          "en": "Current applicability to not wearing leather shoes on Tish'a B'Av and Yom Kippur",
           "he": ""
         },
         "language": "en",
-        "question": "Is the Hebrew text of Maimonides' Moreh HaNevuchim available for free online? (In text form rather than Pdf).",
-        "answer": "Hebrew: Ibn Tibon, Schwartz, and Kapach: http://mobile.tora.ws/ Schwartz: http://press.tau.ac.il/perplexed/toc.asp Kapach: http://www.daat.ac.il/daat/mahshevt/more/shaar-2.htm English (Friedlander) http://www.sacred-texts.com/jud/gfp/ Ibn Tibon and F",
+        "question": "I understand that the 5 forms of inuy (\"affliction) that occur on Yom Kippur also applies to Tish'a B'Av. One of these is the prohibition to wear leather shoes. I viewed this M.Y. answer which offers ",
+        "answer": "Mishnah Berurah 554:30: (ל) אבל של בגד או של עץ וכו' - ר\"ל אע\"ג דמגין על רגלו וגם עשוי בצורת מנעל ממש שרי דלא נקרא מנעל אלא של עור: M.B. is commenting on the Shulchan Aruch's text that states that one should not wear leather shoes but can wear \"begge",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-61441",
+        "source_url": "https://judaism.stackexchange.com/questions/61441/current-applicability-to-not-wearing-leather-shoes-on-tisha-bav-and-yom-kippur",
+        "author": "DanF",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-43632",
+        "title": "borei menei b’samim and perfume",
+        "titles": {
+          "en": "borei menei b’samim and perfume",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I heard that few people bother to make borei menei b’samim when they open a perfume or cologne or an aftershave lotion bottle. Is there a halachic source for this? I heard that the beracha is not made",
+        "answer": "The answer to number 1 is in orach chaim siman 216 siff 6. Not pashut. Answer to number 2 is in siman 217 siff 4.",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-57570",
-        "source_url": "https://judaism.stackexchange.com/questions/57570/moreh-nevuchim-online",
-        "author": "Popular Isn't Right",
+        "url": "https://shekhina.org/qa.html?id=ye-43632",
+        "source_url": "https://judaism.stackexchange.com/questions/43632/borei-menei-b-samim-and-perfume",
+        "author": "user6591",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-37668",
-        "title": "Was Baal worshiped via child sacrifice?",
+        "id": "ye-26626",
+        "title": "Is the name of God associated with bris milah?",
         "titles": {
-          "en": "Was Baal worshiped via child sacrifice?",
+          "en": "Is the name of God associated with bris milah?",
           "he": ""
         },
         "language": "en",
-        "question": "I heard Glenn Beck, on the radio today, saying that the \"Old Testament\" false god Baal was worshiped via child sacrifice (among other things). Is there any evidence of that from Tanach itself (i.e. ig",
-        "answer": "The prophet Jeremiah (19:5) clearly identifies the baal as one of the gods to which the Caananites offered their children: וּבָנוּ אֶת בָּמוֹת הַבַּעַל לִשְׂרֹף אֶת בְּנֵיהֶם בָּאֵשׁ עֹלוֹת לַבָּעַל אֲשֶׁר לֹא צִוִּיתִי וְלֹא דִבַּרְתִּי וְלֹא עָלְתָ",
+        "question": "I recall learning, but have no source for, the fact that part of what is achieved by the bris milah process is a form of etching (part of?) the name of God into the makom ha'milah. What is the source ",
+        "answer": "Apparently this is Professor Elliot Wolfson's niche. He has written copiously on this topic including: Circumcision and the Divine Name: A Study in the Transmission of Esoteric Doctrine (PDF) Circumcision, Vision of God, and Textual Interpretation: F",
         "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-26626",
+        "source_url": "https://judaism.stackexchange.com/questions/26626/is-the-name-of-god-associated-with-bris-milah",
+        "author": "user2110",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-9590",
+        "title": "What does Psalm 82 mean?",
+        "titles": {
+          "en": "What does Psalm 82 mean?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "6 I -- I have said, 'Gods ye are, And sons of the Most High -- all of you, http://yltbible.com/psalms/82.htm So how many gods are there? Who are \"you\" here? Are we all gods? Here is the context. What ",
+        "answer": "A core belief of Judaism is that there is only one God. This is a bad translation. The Hebrew is: אֲנִי-אָמַרְתִּי, אֱלֹהִים אַתֶּם; וּבְנֵי עֶלְיוֹן כֻּלְּכֶם.‏ The word אֱלֹהִים can mean \"God\". It can also mean Judge, Idolatrous god/power (note the",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-9590",
+        "source_url": "https://judaism.stackexchange.com/questions/9590/what-does-psalm-82-mean",
+        "author": "Yaakov Ellis",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-151539",
+        "title": "Sefer Recommendation: Hilchos Brachos",
+        "titles": {
+          "en": "Sefer Recommendation: Hilchos Brachos",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Learning through the various issues and brachas of Hilchos Brachos, can anyone recommend a (Hebrew) sefer that is lomdus/iyun-oriented that takes you through the Gemara, Rishonim, etc (bonus if it als",
+        "answer": "It is not necessarily as structured as you want it but there is the famous sefer by Rav Alexander Mandelbaum entitled \" V'zos Habrocho \" which is very comprehensive.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-151539",
+        "source_url": "https://judaism.stackexchange.com/questions/151539/sefer-recommendation-hilchos-brachos",
+        "author": "Dov",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-131800",
+        "title": "Why did Hashem wait until the 3rd day to visit Abraham?",
+        "titles": {
+          "en": "Why did Hashem wait until the 3rd day to visit Abraham?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "B\"H At the beginning of parshas Vayeira, Rashi says that Hashem came to Avraham to \"visit the sick\" on the third day after the bris. And [the Lord] appeared to him: to visit the sick (Tan. Buber, Vaye",
+        "answer": "It could be like the maharal explains that on the 3rd day you're the most sick. On the first day it's a wound which needs to heal. Your body is trying to heal it, so on the 3rd day he felt the weakest.",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-37668",
-        "source_url": "https://judaism.stackexchange.com/questions/37668/was-baal-worshiped-via-child-sacrifice",
-        "author": "Bach",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
-      },
-      {
-        "id": "ye-21974",
-        "title": "Horse back riding for women",
-        "titles": {
-          "en": "Horse back riding for women",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Is it permissible for an Orthodox woman to do horseback riding in an ordinary saddle, or does she have to use a sidesaddle? Furthermore, would she be able to use women's trousers made for horseback ri",
-        "answer": "Rabbi Barry Freundel (rabbi of Kesher Israel in Washington, DC) said in a Q&A that if a woman is doing an activity more modestly done in pants than a skirt, she should wear women's pants. As examples, he mentioned bicycle riding and mountain climbing",
-        "answer_count": 5,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-21974",
-        "source_url": "https://judaism.stackexchange.com/questions/21974/horse-back-riding-for-women",
-        "author": "Ze'ev",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
-      },
-      {
-        "id": "ye-6244",
-        "title": "Tefillin removal on Rosh Chodesh",
-        "titles": {
-          "en": "Tefillin removal on Rosh Chodesh",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Removal before Musaf, some wait until after Kaddish, some don't. Why wait? Is there a source for this? Some do not 'wind up' the rezuas but wait until after amidah. Is this because it creates a hafsok",
-        "answer": "The reason we take off our tefillin before mussaf is (1) because many say in the kedusha of mussaf, \"Kesser Yitnu Lecha\", and therefore we need not be wearing the \"kesser\" of tefillin. (Or I heard once that perhaps it is disrespectful to say \"Kesser ",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-6244",
-        "source_url": "https://judaism.stackexchange.com/questions/6244/tefillin-removal-on-rosh-chodesh",
-        "author": "jake",
-        "author_url": null,
-        "license": "CC BY-SA 2.5",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
-      },
-      {
-        "id": "ye-144400",
-        "title": "Reconciling Geocentric vs. Heliocentric views",
-        "titles": {
-          "en": "Reconciling Geocentric vs. Heliocentric views",
-          "he": ""
-        },
-        "language": "en",
-        "question": "BH I heard that the Geocentric view of the universe is held true by Rambam and Ptolemy. I also heard someone say that the Torah holds that the Heliocentric view is true although independent of the Geo",
-        "answer": "This is not really a Torah question. But if you want here's the answer. Yes the systems can be reconciled using math. In Heliocentric system the motion of planets is described by Kepler's laws , which are simple and offer reasonably close approximati",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-144400",
-        "source_url": "https://judaism.stackexchange.com/questions/144400/reconciling-geocentric-vs-heliocentric-views",
-        "author": "Y DJ",
+        "url": "https://shekhina.org/qa.html?id=ye-131800",
+        "source_url": "https://judaism.stackexchange.com/questions/131800/why-did-hashem-wait-until-the-3rd-day-to-visit-abraham",
+        "author": "Shlomy",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-128506",
-        "title": "7 Mitzwot and Gentiles in Hell for the Sins of Israel",
+        "id": "ye-111880",
+        "title": "PTIJ: Why do we say Mashiach is coming in a carriage?",
         "titles": {
-          "en": "7 Mitzwot and Gentiles in Hell for the Sins of Israel",
+          "en": "PTIJ: Why do we say Mashiach is coming in a carriage?",
           "he": ""
         },
         "language": "en",
-        "question": "I have a few questions: It is said that Hashem is the God of ALL people. But then how can it be that many Jewish sages destined non-Jews for \"hell\"? I picked out a few examples for you: (Sifre Deut. 3",
-        "answer": "It seems to me that you have an odd amount of facts. And by that I mean, your information seems to be scattered bits of disjointed facts that don't fit together. Judaism like most religions is best learned holistically, which is defined as: \"the idea",
+        "question": "Every day we say in Kaddish: בַּעֲגָלָא וּבִזְמַן קָרִיב [May redemption come] in a wagon, quickly. Whether Mashiach comes in a cloud or a donkey (cf. Sanhedrin 98a ), he’s not coming in a wagon. So w",
+        "answer": "This is one of many references to the concept of Mashiach ben Yosef coming before Mashiach ben Dovid. As we know, when Yosef revealed himself to his brothers, he sent them back to his father with wagons for transporting his father back to Egypt. Ther",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-128506",
-        "source_url": "https://judaism.stackexchange.com/questions/128506/7-mitzwot-and-gentiles-in-hell-for-the-sins-of-israel",
-        "author": "Kevin",
+        "url": "https://shekhina.org/qa.html?id=ye-111880",
+        "source_url": "https://judaism.stackexchange.com/questions/111880/ptij-why-do-we-say-mashiach-is-coming-in-a-carriage",
+        "author": "Moshe Katz",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-108495",
-        "title": "I am 15 years old and do not go to a Yeshiva but would like to learn Talmud. A few rabbis near me said they could teach me. How should I start",
+        "id": "ye-94424",
+        "title": "What selichot do Ashkenazi Jews say?",
         "titles": {
-          "en": "I am 15 years old and do not go to a Yeshiva but would like to learn Talmud. A few rabbis near me said they could teach me. How should I start",
+          "en": "What selichot do Ashkenazi Jews say?",
           "he": ""
         },
         "language": "en",
-        "question": "I am 15 years old and do not go to a Yeshiva but would like to learn Talmud. There are many rabbis near me who said they would be willing to teach me. How should I start knowing that I only speak Engl",
-        "answer": "First of all congratulations for wanting to grow in your Jewish learning. Learning Talmud means different things. One approach is to learn the structure of the Talmud, its way of approaching issues, the various elements of logic it uses, key elements",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-108495",
-        "source_url": "https://judaism.stackexchange.com/questions/108495/i-am-15-years-old-and-do-not-go-to-a-yeshiva-but-would-like-to-learn-talmud-a-f",
-        "author": "mbloch",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
-      },
-      {
-        "id": "ye-91068",
-        "title": "Eating leavened bread on Passover",
-        "titles": {
-          "en": "Eating leavened bread on Passover",
-          "he": ""
-        },
-        "language": "en",
-        "question": "The Rambam says, \"Anyone who eats an olive's volume of leavened bread on Passover beginning on the night of the 15th until the end of the 21st of Nissan intentionally is obligated to [a punishment of]",
-        "answer": "Because God said so. Exodus 12:15 שִׁבְעַת יָמִים מַצּוֹת תֹּאכֵלוּ אַךְ בַּיּוֹם הָרִאשׁוֹן תַּשְׁבִּיתוּ שְּׂאֹר מִבָּתֵּיכֶם: כִּי כָּל אֹכֵל חָמֵץ וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מִיִּשְׂרָאֵל מִיּוֹם הָרִאשֹׁן עַד יוֹם הַשְּׁבִעִי Seven days shall ",
+        "question": "I am looking for a brief list (with some English, not Hebrew-only) of which selichot Ashkenazim say, on which days. If I understand correctly, most Modern Orthodox Ashkenazi Jews basically follow minh",
+        "answer": "It’s unclear from the question itself, but since you tagged this elul , I assume you mean the selichos said during the last week of Elul? In that case, my Artscroll Nusach Lita seems to be the volume you’re looking for. The volume numbers the Selicho",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-91068",
-        "source_url": "https://judaism.stackexchange.com/questions/91068/eating-leavened-bread-on-passover",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-94424",
+        "source_url": "https://judaism.stackexchange.com/questions/94424/what-selichot-do-ashkenazi-jews-say",
+        "author": "DonielF",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-75816",
-        "title": "Do both the Chatan and kallah need to be present in order to say sheva brachot?",
+        "id": "ye-78834",
+        "title": "Are there two or more editions of the Rambam's Peirush HaMishnayos?",
         "titles": {
-          "en": "Do both the Chatan and kallah need to be present in order to say sheva brachot?",
+          "en": "Are there two or more editions of the Rambam's Peirush HaMishnayos?",
           "he": ""
         },
         "language": "en",
-        "question": "Whether it be two or seven blessings, do both the bride and groom need be present for sheva brachos ?",
-        "answer": "The Yam Shel Shelomo (Kesuvos 1:20) writes that the brachos are primarily directed towards the chosson, and so if the bride is not present then they may still make all seven brachos, as long as the groom is there. The China v'Chisda on Kesubos ( vol.",
+        "question": "I heard that there are differences between the Rambam's Peirush Hamishnayos found most commonly in the Mishnayos Zecher Chanoch and the version found in Mishnayos which are paired with the Rash. Is th",
+        "answer": "Rabbi Yosef Kappach made a great work translating the manuscripts of the Rambam in modern hebrew. His translation was critiqued by some people, I don't know what are the points critiqued because of his preference for one of the manuscripts. Rav Kapah",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "talmud",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-75816",
-        "source_url": "https://judaism.stackexchange.com/questions/75816/do-both-the-chatan-and-kallah-need-to-be-present-in-order-to-say-sheva-brachot",
-        "author": "הנער הזה",
+        "url": "https://shekhina.org/qa.html?id=ye-78834",
+        "source_url": "https://judaism.stackexchange.com/questions/78834/are-there-two-or-more-editions-of-the-rambams-peirush-hamishnayos",
+        "author": "kouty",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "ye-202109092698121",
@@ -45837,7 +47251,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "ye-2019100610966549",
@@ -45858,7 +47272,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "ye-144281",
@@ -45879,7 +47293,7 @@
         "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "ye-139256",
@@ -45900,7 +47314,7 @@
         "author": "Zarka",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "din-url-970693060007c23e373dca40",
@@ -45921,7 +47335,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "up-din-500399",
@@ -45942,7 +47356,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "ye-153313",
@@ -45963,7 +47377,7 @@
         "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "up-din-2017072416516734",
@@ -45984,7 +47398,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
         "id": "up-din-201702237961050",
@@ -46005,7 +47419,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-caedf4257d0f4d4da7283879"
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
       }
     ]
   }
