@@ -2,7 +2,7 @@
 
 Collected: 360 recent news links and 72 videos.
 
-Working feeds: 23/41. Fully bilingual headlines: 352/360.
+Working feeds: 24/41. Fully bilingual headlines: 219/360.
 
 Automated compilation; no human or rabbinic review claimed.
 
