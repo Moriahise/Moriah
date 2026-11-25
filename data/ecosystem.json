@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-25T03:32:22Z",
+  "checked_at": "2026-11-25T14:16:45Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-25T14:16:45Z"
+    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-25T03:32:22Z"
-    },
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-25T03:32:22Z"
+      "checked_at": "2026-11-25T14:16:45Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-25T03:32:22Z"
+      "checked_at": "2026-11-25T14:16:45Z"
     },
-    "music": {
+    "daf": {
       "state": "ok",
-      "checked_at": "2026-11-25T03:32:22Z"
+      "checked_at": "2026-11-25T14:16:45Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-25T03:32:22Z"
+      "checked_at": "2026-11-25T14:16:45Z"
     }
   },
   "music": [
@@ -42132,6 +42132,986 @@
         "target_shabbat": "2032-07-02",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-43/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-44",
+        "title": {
+          "en": "Sanhedrin 44 — Achan’s Sin, Joshua’s Complaint and the Confession That Atones",
+          "he": "סנהדרין מ״ד — חטאו של עכן, טענת יהושע והוידוי המכפר"
+        },
+        "parashah": {
+          "en": "Sanhedrin 44",
+          "he": "סנהדרין דף 44"
+        },
+        "target_shabbat": "2032-07-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-44/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-45",
+        "title": {
+          "en": "Sanhedrin 45 — The Stoning Platform, “Choose for Him a Good Death,” and the Hanging",
+          "he": "סנהדרין מ״ה — בית הסקילה, \"ברור לו מיתה יפה\" והתלייה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 45",
+          "he": "סנהדרין דף 45"
+        },
+        "target_shabbat": "2032-07-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-45/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-46",
+        "title": {
+          "en": "Sanhedrin 46 — Hanging, “I Am Pained,” and the Obligation of Burial",
+          "he": "סנהדרין מ״ו — התלייה, \"קלני מראשי\" וחובת הקבורה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 46",
+          "he": "סנהדרין דף 46"
+        },
+        "target_shabbat": "2032-07-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-46/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-47",
+        "title": {
+          "en": "Sanhedrin 47 — Atonement in Death, the Separate Graveyards and the Dust of Rav’s Grave",
+          "he": "סנהדרין מ״ז — הכפרה במיתה, בתי הקברות הנפרדים ועפר קברו של רב"
+        },
+        "parashah": {
+          "en": "Sanhedrin 47",
+          "he": "סנהדרין דף 47"
+        },
+        "target_shabbat": "2032-07-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-47/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-48",
+        "title": {
+          "en": "Sanhedrin 48 — Designation of Shrouds, the Property of the Executed, and Joab’s Curses",
+          "he": "סנהדרין מ״ח — הזמנת תכריכים, נכסי הרוגי מלכות וקללותיו של יואב"
+        },
+        "parashah": {
+          "en": "Sanhedrin 48",
+          "he": "סנהדרין דף 48"
+        },
+        "target_shabbat": "2032-07-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-48/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-49",
+        "title": {
+          "en": "Sanhedrin 49 — Joab’s Trial and the Order of the Four Deaths",
+          "he": "סנהדרין מ״ט — משפטו של יואב וסדר ארבע המיתות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 49",
+          "he": "סנהדרין דף 49"
+        },
+        "target_shabbat": "2032-07-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-49/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-50",
+        "title": {
+          "en": "Sanhedrin 50 — Measuring the Severity of the Four Deaths",
+          "he": "סנהדרין נ׳ — מדידת חומרתן של ארבע המיתות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 50",
+          "he": "סנהדרין דף 50"
+        },
+        "target_shabbat": "2032-07-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-50/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-51",
+        "title": {
+          "en": "Sanhedrin 51 — The Priest’s Daughter, Rabbi Eliezer’s Riddle and “Expound and Receive Reward”",
+          "he": "סנהדרין נ״א — בת כהן, חידתו של רבי אליעזר ו\"דרוש וקבל שכר\""
+        },
+        "parashah": {
+          "en": "Sanhedrin 51",
+          "he": "סנהדרין דף 51"
+        },
+        "target_shabbat": "2032-07-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-51/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-52",
+        "title": {
+          "en": "Sanhedrin 52 — Burning, the Sword and Strangling: How Each Death Is Carried Out",
+          "he": "סנהדרין נ״ב — שריפה, הרג וחנק: כיצד מתבצעת כל מיתה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 52",
+          "he": "סנהדרין דף 52"
+        },
+        "target_shabbat": "2032-07-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-52/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-53",
+        "title": {
+          "en": "Sanhedrin 53 — Who Is Stoned: Sources and the List of the Mishnah",
+          "he": "סנהדרין נ״ג — הנסקלין: המקורות ורשימת המשנה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 53",
+          "he": "סנהדרין דף 53"
+        },
+        "target_shabbat": "2032-07-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-53/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-54",
+        "title": {
+          "en": "Sanhedrin 54 — Punishment and Warning: The Sources of the Stoned Forbidden Relations",
+          "he": "סנהדרין נ״ד — עונש ואזהרה: מקורות העריות שבסקילה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 54",
+          "he": "סנהדרין דף 54"
+        },
+        "target_shabbat": "2032-07-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-54/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-55",
+        "title": {
+          "en": "Sanhedrin 55 — Calamity and Shame: Why the Animal Is Destroyed",
+          "he": "סנהדרין נ״ה — תקלה וקלון: מדוע הבהמה נסקלת"
+        },
+        "parashah": {
+          "en": "Sanhedrin 55",
+          "he": "סנהדרין דף 55"
+        },
+        "target_shabbat": "2032-07-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-55/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-56",
+        "title": {
+          "en": "Sanhedrin 56 — The Blasphemer and the Seven Noahide Commandments",
+          "he": "סנהדרין נ״ו — המגדף ושבע מצוות בני נח"
+        },
+        "parashah": {
+          "en": "Sanhedrin 56",
+          "he": "סנהדרין דף 56"
+        },
+        "target_shabbat": "2032-07-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-56/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-57",
+        "title": {
+          "en": "Sanhedrin 57 — Noahide Law: Its Sources, Its Penalties and Its Courts",
+          "he": "סנהדרין נ״ז — דיני בני נח: מקורותיהם, עונשיהם ובתי דינם"
+        },
+        "parashah": {
+          "en": "Sanhedrin 57",
+          "he": "סנהדרין דף 57"
+        },
+        "target_shabbat": "2032-07-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-57/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-58",
+        "title": {
+          "en": "Sanhedrin 58 — Kinship After Conversion, and the One Who Raises His Hand",
+          "he": "סנהדרין נ״ח — קרבה אחרי הגיור, והמרים יד על חבירו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 58",
+          "he": "סנהדרין דף 58"
+        },
+        "target_shabbat": "2032-07-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-58/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-59",
+        "title": {
+          "en": "Sanhedrin 59 — Torah for the Nations, Mitzvot Repeated at Sinai, and Adam’s Diet",
+          "he": "סנהדרין נ״ט — תורה לאומות, מצוות שנשנו בסיני ומאכלו של אדם הראשון"
+        },
+        "parashah": {
+          "en": "Sanhedrin 59",
+          "he": "סנהדרין דף 59"
+        },
+        "target_shabbat": "2032-07-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-59/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-60",
+        "title": {
+          "en": "Sanhedrin 60 — Rending the Garments, and the Forms of Idol Worship",
+          "he": "סנהדרין ס׳ — קריעת הבגדים ודרכי עבודה זרה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 60",
+          "he": "סנהדרין דף 60"
+        },
+        "target_shabbat": "2032-07-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-60/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-61",
+        "title": {
+          "en": "Sanhedrin 61 — Worship, Speech and Motive in Idolatry",
+          "he": "סנהדרין ס״א — עבודה, דיבור ומניע בעבודה זרה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 61",
+          "he": "סנהדרין דף 61"
+        },
+        "target_shabbat": "2032-07-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-61/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-62",
+        "title": {
+          "en": "Sanhedrin 62 — Rabbi Zakkai’s Baraita: One Offering or Many",
+          "he": "סנהדרין ס״ב — ברייתא דרבי זכאי: חטאת אחת או רבות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 62",
+          "he": "סנהדרין דף 62"
+        },
+        "target_shabbat": "2032-07-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-62/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-63",
+        "title": {
+          "en": "Sanhedrin 63 — “These Are Your Gods”: The Golden Calf, Partnering the Name, and Mocking Idols",
+          "he": "סנהדרין ס״ג — \"אלה אלהיך\": העגל, שיתוף שם שמים והליצנות בעבודה זרה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 63",
+          "he": "סנהדרין דף 63"
+        },
+        "target_shabbat": "2032-07-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-63/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-64",
+        "title": {
+          "en": "Sanhedrin 64 — The Capture of the Inclination for Idolatry, Ba’al Pe’or and Molekh",
+          "he": "סנהדרין ס״ד — לכידת יצר עבודה זרה, בעל פעור והמולך"
+        },
+        "parashah": {
+          "en": "Sanhedrin 64",
+          "he": "סנהדרין דף 64"
+        },
+        "target_shabbat": "2032-07-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-64/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-65",
+        "title": {
+          "en": "Sanhedrin 65 — Necromancy, the Shabbat of the Dead, and the Power of the Righteous to Create",
+          "he": "סנהדרין ס״ה — אוב וידעוני, שבת המתים וכוחם של צדיקים לברוא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 65",
+          "he": "סנהדרין דף 65"
+        },
+        "target_shabbat": "2032-07-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-65/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-66",
+        "title": {
+          "en": "Sanhedrin 66 — Omens, Shabbat, Cursing Parents and the Prohibition of Cursing Anyone",
+          "he": "סנהדרין ס״ו — ניחוש, שבת, המקלל אביו ואמו ואיסור קללת כל אדם"
+        },
+        "parashah": {
+          "en": "Sanhedrin 66",
+          "he": "סנהדרין דף 66"
+        },
+        "target_shabbat": "2032-07-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-66/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-67",
+        "title": {
+          "en": "Sanhedrin 67 — The Inciter, the Subverter and the Sorcerer",
+          "he": "סנהדרין ס״ז — המסית, המדיח והמכשף"
+        },
+        "parashah": {
+          "en": "Sanhedrin 67",
+          "he": "סנהדרין דף 67"
+        },
+        "target_shabbat": "2032-07-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-67/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-68",
+        "title": {
+          "en": "Sanhedrin 68 — The Death of Rabbi Eliezer and the Rebellious Son",
+          "he": "סנהדרין ס״ח — פטירת רבי אליעזר ובן סורר ומורה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 68",
+          "he": "סנהדרין דף 68"
+        },
+        "target_shabbat": "2032-07-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-68/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-69",
+        "title": {
+          "en": "Sanhedrin 69 — Three Months, the Majority in Capital Cases, and the Order of Brothers",
+          "he": "סנהדרין ס״ט — שלושה חודשים, הליכה אחר הרוב בדיני נפשות וסדר האחים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 69",
+          "he": "סנהדרין דף 69"
+        },
+        "target_shabbat": "2032-07-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-69/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-70",
+        "title": {
+          "en": "Sanhedrin 70 — Meat and Wine: The Measure of the Rebellious Son and the Dangers of Wine",
+          "he": "סנהדרין ע׳ — בשר ויין: שיעור בן סורר ומורה וסכנות היין"
+        },
+        "parashah": {
+          "en": "Sanhedrin 70",
+          "he": "סנהדרין דף 70"
+        },
+        "target_shabbat": "2032-07-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-70/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-71",
+        "title": {
+          "en": "Sanhedrin 71 — “There Never Was a Rebellious Son”: Theft, Parents and Judgment by the End",
+          "he": "סנהדרין ע״א — \"בן סורר ומורה לא היה ולא עתיד להיות\": גניבה, הורים ודין על שם סופו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 71",
+          "he": "סנהדרין דף 71"
+        },
+        "target_shabbat": "2032-07-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-71/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-72",
+        "title": {
+          "en": "Sanhedrin 72 — The Burglar in the Tunnel and the Law of the Pursuer",
+          "he": "סנהדרין ע״ב — הבא במחתרת ודין הרודף"
+        },
+        "parashah": {
+          "en": "Sanhedrin 72",
+          "he": "סנהדרין דף 72"
+        },
+        "target_shabbat": "2032-07-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-72/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-73",
+        "title": {
+          "en": "Sanhedrin 73 — Saving at the Cost of the Pursuer’s Life, and “Do Not Stand by Your Neighbor’s Blood”",
+          "he": "סנהדרין ע״ג — הצלה בנפשו של הרודף ו\"לא תעמוד על דם רעך\""
+        },
+        "parashah": {
+          "en": "Sanhedrin 73",
+          "he": "סנהדרין דף 73"
+        },
+        "target_shabbat": "2032-08-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-73/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-74",
+        "title": {
+          "en": "Sanhedrin 74 — Be Killed Rather Than Transgress",
+          "he": "סנהדרין ע״ד — ייהרג ואל יעבור"
+        },
+        "parashah": {
+          "en": "Sanhedrin 74",
+          "he": "סנהדרין דף 74"
+        },
+        "target_shabbat": "2032-08-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-74/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-75",
+        "title": {
+          "en": "Sanhedrin 75 — The Lovesick Man, and Those Who Are Burned",
+          "he": "סנהדרין ע״ה — מי שהעלה לבו טינא, והנשרפין"
+        },
+        "parashah": {
+          "en": "Sanhedrin 75",
+          "he": "סנהדרין דף 75"
+        },
+        "target_shabbat": "2032-08-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-75/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-76",
+        "title": {
+          "en": "Sanhedrin 76 — Daughters, Marriages and the Murderer Who Is Killed by the Sword",
+          "he": "סנהדרין ע״ו — בנות, נישואין והרוצח הנהרג בסייף"
+        },
+        "parashah": {
+          "en": "Sanhedrin 76",
+          "he": "סנהדרין דף 76"
+        },
+        "target_shabbat": "2032-08-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-76/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-77",
+        "title": {
+          "en": "Sanhedrin 77 — Direct Killing and Indirect Cause",
+          "he": "סנהדרין ע״ז — מעשה ישיר וגרמא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 77",
+          "he": "סנהדרין דף 77"
+        },
+        "target_shabbat": "2032-08-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-77/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-78",
+        "title": {
+          "en": "Sanhedrin 78 — Ten Who Strike, the Tereifa, and the Doctors' Assessment",
+          "he": "סנהדרין ע״ח — עשרה שהכו, הטריפה ואומדן הרופאים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 78",
+          "he": "סנהדרין דף 78"
+        },
+        "target_shabbat": "2032-08-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-78/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-79",
+        "title": {
+          "en": "Sanhedrin 79 — Intent for One, Death for Another, and the Condemned Who Are Mixed",
+          "he": "סנהדרין ע״ט — נתכוון לזה והרג את זה, והמומתים שנתערבו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 79",
+          "he": "סנהדרין דף 79"
+        },
+        "target_shabbat": "2032-08-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-79/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-80",
+        "title": {
+          "en": "Sanhedrin 80 — Doubt in the Condemned: The Arrow, the Ox, the Calf and the Correct Version",
+          "he": "סנהדרין פ׳ — ספק במומתים: החץ, השור, העגל והגרסה הנכונה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 80",
+          "he": "סנהדרין דף 80"
+        },
+        "target_shabbat": "2032-08-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-80/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-81",
+        "title": {
+          "en": "Sanhedrin 81 — Two Deaths for One Man, the Righteous of Ezekiel, and the Vaulted Chamber",
+          "he": "סנהדרין פ״א — שתי מיתות לאדם אחד, הצדיק של יחזקאל והכיפה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 81",
+          "he": "סנהדרין דף 81"
+        },
+        "target_shabbat": "2032-08-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-81/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-82",
+        "title": {
+          "en": "Sanhedrin 82 — Pinḥas the Zealot and the Limits of Zealotry",
+          "he": "סנהדרין פ״ב — פנחס הקנאי וגבולות הקנאות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 82",
+          "he": "סנהדרין דף 82"
+        },
+        "target_shabbat": "2032-08-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-82/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-83",
+        "title": {
+          "en": "Sanhedrin 83 — Death at the Hand of Heaven in the Temple Service",
+          "he": "סנהדרין פ״ג — מיתה בידי שמים בעבודת המקדש"
+        },
+        "parashah": {
+          "en": "Sanhedrin 83",
+          "he": "סנהדרין דף 83"
+        },
+        "target_shabbat": "2032-08-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-83/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-84",
+        "title": {
+          "en": "Sanhedrin 84 — The Blemished Priest, the Non-Priest Who Serves, and the Son Who Strikes a Parent",
+          "he": "סנהדרין פ״ד — בעל מום ששימש, זר ששימש, והמכה אביו ואמו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 84",
+          "he": "סנהדרין דף 84"
+        },
+        "target_shabbat": "2032-08-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-84/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-85",
+        "title": {
+          "en": "Sanhedrin 85 — The Son as Agent of the Court, Cursing a Parent, and the Kidnapper",
+          "he": "סנהדרין פ״ה — הבן כשליח בית דין, המקלל אביו ואמו והגונב נפש"
+        },
+        "parashah": {
+          "en": "Sanhedrin 85",
+          "he": "סנהדרין דף 85"
+        },
+        "target_shabbat": "2032-08-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-85/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-86",
+        "title": {
+          "en": "Sanhedrin 86 — “You Shall Not Steal” a Person, and the Rebellious Elder",
+          "he": "סנהדרין פ״ו — \"לא תגנוב\" — גונב נפש, וזקן ממרא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 86",
+          "he": "סנהדרין דף 86"
+        },
+        "target_shabbat": "2032-08-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-86/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-87",
+        "title": {
+          "en": "Sanhedrin 87 — “If a Matter Is Too Hard for You”: The Scope of the Rebellious Elder",
+          "he": "סנהדרין פ״ז — \"כי יפלא ממך דבר\": היקף דינו של זקן ממרא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 87",
+          "he": "סנהדרין דף 87"
+        },
+        "target_shabbat": "2032-08-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-87/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-88",
+        "title": {
+          "en": "Sanhedrin 88 — How Disputes Multiplied, and Who Is Fit to Judge",
+          "he": "סנהדרין פ״ח — כיצד רבו המחלוקות, ומי ראוי לדון"
+        },
+        "parashah": {
+          "en": "Sanhedrin 88",
+          "he": "סנהדרין דף 88"
+        },
+        "target_shabbat": "2032-08-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-88/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-89",
+        "title": {
+          "en": "Sanhedrin 89 — The Rebel’s Proclamation, the False Prophet and the Binding of Isaac",
+          "he": "סנהדרין פ״ט — הכרזת הממרא, נביא השקר ועקידת יצחק"
+        },
+        "parashah": {
+          "en": "Sanhedrin 89",
+          "he": "סנהדרין דף 89"
+        },
+        "target_shabbat": "2032-08-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-89/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-90",
+        "title": {
+          "en": "Sanhedrin 90 — A Share in the World to Come and the Resurrection in the Torah",
+          "he": "סנהדרין צ׳ — חלק לעולם הבא ותחיית המתים מן התורה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 90",
+          "he": "סנהדרין דף 90"
+        },
+        "target_shabbat": "2032-08-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-90/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-91",
+        "title": {
+          "en": "Sanhedrin 91 — Dust That Lives, Geviha’s Debates, and the Lame and the Blind",
+          "he": "סנהדרין צ״א — עפר שחי, ויכוחי גביהא, והחיגר והסומא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 91",
+          "he": "סנהדרין דף 91"
+        },
+        "target_shabbat": "2032-08-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-91/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-92",
+        "title": {
+          "en": "Sanhedrin 92 — The Teacher’s Reward, Rabbi Elazar on Knowledge, and the Dry Bones",
+          "he": "סנהדרין צ״ב — שכר המלמד, רבי אלעזר על הדעה, והעצמות היבשות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 92",
+          "he": "סנהדרין דף 92"
+        },
+        "target_shabbat": "2032-08-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-92/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-93",
+        "title": {
+          "en": "Sanhedrin 93 — Hananiah, Mishael and Azariah, Six Barley Grains, and the Spirit of Judgment",
+          "he": "סנהדרין צ״ג — חנניה, מישאל ועזריה, שש השעורים ורוח המשפט"
+        },
+        "parashah": {
+          "en": "Sanhedrin 93",
+          "he": "סנהדרין דף 93"
+        },
+        "target_shabbat": "2032-08-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-93/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-94",
+        "title": {
+          "en": "Sanhedrin 94 — Hezekiah, Who Did Not Sing, and the Fall of Sennacherib",
+          "he": "סנהדרין צ״ד — חזקיהו שלא אמר שירה, ומפלת סנחריב"
+        },
+        "parashah": {
+          "en": "Sanhedrin 94",
+          "he": "סנהדרין דף 94"
+        },
+        "target_shabbat": "2032-08-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-94/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-95",
+        "title": {
+          "en": "Sanhedrin 95 — The Sin of Nov, Ishbibenob, and the Night Assyria Fell",
+          "he": "סנהדרין צ״ה — עוון נוב, ישבי בנוב, והלילה שבו נפלה אשור"
+        },
+        "parashah": {
+          "en": "Sanhedrin 95",
+          "he": "סנהדרין דף 95"
+        },
+        "target_shabbat": "2032-08-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-95/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-96",
+        "title": {
+          "en": "Sanhedrin 96 — Sennacherib’s End, Nebuchadnezzar’s Four Steps, and the Blood of Zechariah",
+          "he": "סנהדרין צ״ו — סוף סנחריב, ארבע פסיעות של נבוכדנצר, ודם זכריה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 96",
+          "he": "סנהדרין דף 96"
+        },
+        "target_shabbat": "2032-08-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-96/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-97",
+        "title": {
+          "en": "Sanhedrin 97 — The Generation of the Messiah and the Ends That Have Passed",
+          "he": "סנהדרין צ״ז — דור שבן דוד בא בו והקיצין שכלו"
+        },
+        "parashah": {
+          "en": "Sanhedrin 97",
+          "he": "סנהדרין דף 97"
+        },
+        "target_shabbat": "2032-08-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-97/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-98",
+        "title": {
+          "en": "Sanhedrin 98 — Signs of Redemption, the Messiah at the Gate of Rome, and the Birth Pangs",
+          "he": "סנהדרין צ״ח — סימני הגאולה, המשיח בפתח רומי, וחבלי משיח"
+        },
+        "parashah": {
+          "en": "Sanhedrin 98",
+          "he": "סנהדרין דף 98"
+        },
+        "target_shabbat": "2032-08-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-98/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-99",
+        "title": {
+          "en": "Sanhedrin 99 — The Length of the Messianic Era, Torah from Heaven, and the Apikoros",
+          "he": "סנהדרין צ״ט — ימות המשיח, תורה מן השמים, והאפיקורוס"
+        },
+        "parashah": {
+          "en": "Sanhedrin 99",
+          "he": "סנהדרין דף 99"
+        },
+        "target_shabbat": "2032-08-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-99/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-100",
+        "title": {
+          "en": "Sanhedrin 100 — Contempt for Sages, the Gates of Jerusalem, and the Book of Ben Sira",
+          "he": "סנהדרין ק׳ — ביזוי חכמים, שערי ירושלים, וספר בן סירא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 100",
+          "he": "סנהדרין דף 100"
+        },
+        "target_shabbat": "2032-08-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-100/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-101",
+        "title": {
+          "en": "Sanhedrin 101 — A Verse in Its Time, Cherished Afflictions, and Jeroboam’s Rise",
+          "he": "סנהדרין ק״א — פסוק בזמנו, חביבין יסורין, ועליית ירבעם"
+        },
+        "parashah": {
+          "en": "Sanhedrin 101",
+          "he": "סנהדרין דף 101"
+        },
+        "target_shabbat": "2032-08-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-101/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-102",
+        "title": {
+          "en": "Sanhedrin 102 — Jeroboam’s Pride, the Calf’s Long Debt, and Manasseh in Rav Ashi’s Dream",
+          "he": "סנהדרין ק״ב — גאוות ירבעם, חוב העגל הארוך, ומנשה בחלומו של רב אשי"
+        },
+        "parashah": {
+          "en": "Sanhedrin 102",
+          "he": "סנהדרין דף 102"
+        },
+        "target_shabbat": "2032-08-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-102/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-103",
+        "title": {
+          "en": "Sanhedrin 103 — An Opening in the Heavens, the Field of the Sluggard, and the Power of Hospitality",
+          "he": "סנהדרין ק״ג — מחתרת ברקיע, שדה איש עצל, וכוחה של לגימה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 103",
+          "he": "סנהדרין דף 103"
+        },
+        "target_shabbat": "2032-08-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-103/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-104",
+        "title": {
+          "en": "Sanhedrin 104 — Why Some Kings Were Not Counted, and the Tears of Jerusalem",
+          "he": "סנהדרין ק״ד — מדוע לא נמנו מלכים אחדים, ודמעות ירושלים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 104",
+          "he": "סנהדרין דף 104"
+        },
+        "target_shabbat": "2032-09-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-104/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-105",
+        "title": {
+          "en": "Sanhedrin 105 — Israel’s Winning Answer, Balaam’s Moment of Anger, and Blessings Turned from Curses",
+          "he": "סנהדרין ק״ה — התשובה הניצחת, רגע הזעם של בלעם, וברכות שנהפכו מקללות"
+        },
+        "parashah": {
+          "en": "Sanhedrin 105",
+          "he": "סנהדרין דף 105"
+        },
+        "target_shabbat": "2032-09-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-105/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-106",
+        "title": {
+          "en": "Sanhedrin 106 — The Reed and the Cedar, Pharaoh’s Counselors, and Doeg’s Lip-Deep Torah",
+          "he": "סנהדרין ק״ו — הקנה והארז, יועצי פרעה, ותורתו של דואג משפה ולחוץ"
+        },
+        "parashah": {
+          "en": "Sanhedrin 106",
+          "he": "סנהדרין דף 106"
+        },
+        "target_shabbat": "2032-09-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-106/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-107",
+        "title": {
+          "en": "Sanhedrin 107 — David’s Trial and Repentance, Gehazi’s Sin, and the Left Hand That Pushes Away",
+          "he": "סנהדרין ק״ז — ניסיון דוד ותשובתו, חטא גחזי, ושמאל דוחה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 107",
+          "he": "סנהדרין דף 107"
+        },
+        "target_shabbat": "2032-09-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-107/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-108",
+        "title": {
+          "en": "Sanhedrin 108 — The Generation of the Flood and the Righteous Man in the Ark",
+          "he": "סנהדרין ק״ח — דור המבול והצדיק שבתיבה"
+        },
+        "parashah": {
+          "en": "Sanhedrin 108",
+          "he": "סנהדרין דף 108"
+        },
+        "target_shabbat": "2032-09-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-108/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-109",
+        "title": {
+          "en": "Sanhedrin 109 — Gam Zo, the Tower of Babel, and the Cruel Laws of Sodom",
+          "he": "סנהדרין ק״ט — גם זו, מגדל בבל, ודיני סדום האכזריים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 109",
+          "he": "סנהדרין דף 109"
+        },
+        "target_shabbat": "2032-09-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-109/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-110",
+        "title": {
+          "en": "Sanhedrin 110 — Korah’s Dispute, the Wealth That Harmed Its Owner, and Rabbi Akiva’s Piety",
+          "he": "סנהדרין ק״י — מחלוקת קרח, העושר השמור לבעליו לרעתו, וחסידותו של רבי עקיבא"
+        },
+        "parashah": {
+          "en": "Sanhedrin 110",
+          "he": "סנהדרין דף 110"
+        },
+        "target_shabbat": "2032-09-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-110/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-111",
+        "title": {
+          "en": "Sanhedrin 111 — “Not Satisfying to Their Master,” Slow to Anger, and the Idolatrous City",
+          "he": "סנהדרין קי״א — \"לא ניחא למריהו\", ארך אפים, ועיר הנידחת"
+        },
+        "parashah": {
+          "en": "Sanhedrin 111",
+          "he": "סנהדרין דף 111"
+        },
+        "target_shabbat": "2032-09-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-111/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-112",
+        "title": {
+          "en": "Sanhedrin 112 — Judging the Idolatrous City: Majority, Residence and the Property of the Righteous",
+          "he": "סנהדרין קי״ב — דין עיר הנידחת: רוב, ישיבה וממון צדיקים"
+        },
+        "parashah": {
+          "en": "Sanhedrin 112",
+          "he": "סנהדרין דף 112"
+        },
+        "target_shabbat": "2032-09-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-112/"
+      },
+      {
+        "id": "cycle-15-sanhedrin-113",
+        "title": {
+          "en": "Sanhedrin 113 — Elijah’s Keys, the Rebuilding of Jericho, and the Righteous Who Bring Good",
+          "he": "סנהדרין קי״ג — מפתחות אליהו, בניין יריחו, והצדיק המביא טובה לעולם"
+        },
+        "parashah": {
+          "en": "Sanhedrin 113",
+          "he": "סנהדרין דף 113"
+        },
+        "target_shabbat": "2032-09-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-113/"
       }
     ],
     "calendar": {
@@ -43846,6 +44826,20 @@
         "target_shabbat": "2026-11-21",
         "category": "tanach",
         "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-11-21/"
+      },
+      {
+        "id": "5787-2026-11-28",
+        "title": {
+          "en": "Preparing for an Encounter",
+          "he": "להתכונן למפגש"
+        },
+        "parashah": {
+          "en": "Vayishlach",
+          "he": "וישלח"
+        },
+        "target_shabbat": "2026-11-28",
+        "category": "tanach",
+        "url": "https://moriahise.github.io/Shiurim/shiur/5787-2026-11-28/"
       },
       {
         "id": "5785-01-bereshit",
@@ -47054,197 +48048,197 @@
     ]
   },
   "qa": {
-    "release": "v1-62adf56cec55b31c9c2b4084",
-    "total": 71025,
+    "release": "v1-356acb46365a6eac5810f266",
+    "total": 71027,
     "cards": [
       {
-        "id": "ye-61404",
-        "title": "Can you learn portions of Avot D'Rav Nattan on Tish'a B'Av?",
+        "id": "ye-63752",
+        "title": "Can someone translate this \"hidden\" message from Hebrew to English?",
         "titles": {
-          "en": "Can you learn portions of Avot D'Rav Nattan on Tish'a B'Av?",
+          "en": "Can someone translate this \"hidden\" message from Hebrew to English?",
           "he": ""
         },
         "language": "en",
-        "question": "This M.Y. answer provides a list of permissible learning items on Tish'a B'Av. All these items are somehow related to the themes of mourning, the Temple destruction, etc. Avot D'Rav Natan has several ",
-        "answer": "Tanna v'sheeyer - Anything fitting the mood of the day is acceptable (at least without iyun [in-depth analysis]; see also sources cited by @WFB in comments below which are lenient even with regard to iyun ). It would be impossible to have a comprehen",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-61404",
-        "source_url": "https://judaism.stackexchange.com/questions/61404/can-you-learn-portions-of-avot-drav-nattan-on-tisha-bav",
-        "author": "Loewian",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-43607",
-        "title": "Looking for a drasha on Yerach ben Yomo/Karnei Para",
-        "titles": {
-          "en": "Looking for a drasha on Yerach ben Yomo/Karnei Para",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Anyone have any links to any drashos explaining the significance of the Yerach ben Yomo/Karnei Para trop, and why it appears (uniquely in chumash) in the portion about the Levite cities ( Numbers 35:5",
-        "answer": "Here is a link to a Drasha from Rabbi Moshe Wolfson Shlita on this topic.",
+        "question": "Can someone translate this \"hidden\" message? I would have pulled out the letters, but it is difficult for me not being very familiar with Hebrew to even identify some of the letters. This is a picture",
+        "answer": "It is from Isaiah 11:1 1.And a shoot shall spring forth from the stem of Jesse, and a twig shall sprout from his roots. א.וְיָצָא חֹטֶר מִגֶּזַע יִשָׁי וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-43607",
-        "source_url": "https://judaism.stackexchange.com/questions/43607/looking-for-a-drasha-on-yerach-ben-yomo-karnei-para",
-        "author": "Gershon Gold",
+        "url": "https://shekhina.org/qa.html?id=ye-63752",
+        "source_url": "https://judaism.stackexchange.com/questions/63752/can-someone-translate-this-hidden-message-from-hebrew-to-english",
+        "author": "rosends",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
-        "id": "ye-26596",
-        "title": "Why doesn't everyone say 'Al HaNisim for both days of Purim?",
+        "id": "ye-44939",
+        "title": "When something is lost, tie a knot",
         "titles": {
-          "en": "Why doesn't everyone say 'Al HaNisim for both days of Purim?",
+          "en": "When something is lost, tie a knot",
           "he": ""
         },
         "language": "en",
-        "question": "No matter where you live, walled city or not, there is no Tahanun or LaMenatzeah on either day, you aren't allowed to fast on either day, and you can even fulfill Matanoth LaEvyonim on either day (acc",
-        "answer": "The Gra (Beiur HaGra OC 693:2) explains that the only significance the 15th of Adar has to a resident of an unwalled city or the 14th of Adar has to a resident of a walled city, is that of a prohibition on fasting and eulogizing deriving from Megilla",
+        "question": "I have a question regarding a possibly Jewish tradition that I learned from my mother. My mother is from Iraq; back in the 70's Jews used to inhabit Iraq, and she said that this is who she learned it ",
+        "answer": "The practice of tying a knot to find a lost object is found in wiccan practice , and may have originated in ancient Greek culture Furthermore, even if these foreign practice somehow snuck into Jewish forklore, doing 'spells' , or 'charms' , or anythi",
+        "answer_count": 3,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-44939",
+        "source_url": "https://judaism.stackexchange.com/questions/44939/when-something-is-lost-tie-a-knot",
+        "author": "Jake",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-356acb46365a6eac5810f266"
+      },
+      {
+        "id": "ye-27897",
+        "title": "Looking for Passages of harsh criticism in the Shakh",
+        "titles": {
+          "en": "Looking for Passages of harsh criticism in the Shakh",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Notwithstanding the fact that the Shakh includes a passage in the introduction to his Nequdat Kesef, claiming that his objections to other scholars are meant only respectfully, I have heard it said th",
+        "answer": "Here's an example from Shakh Choshen Mishpat 85:7 וראיתי בספר גדולי תרומה ריש שער ל\"ד דף קמ\"ו שהאריך בפלפולים של הבל בעמוד א' וב' וג' ובקושיות בדברי הרמב\"ם ושאר פוסקים ואין כדאי להשיב על דבריו כי לא ירד כלל להבין סוגית הש\"ס והאמת בסוגית הש\"ס ובדעת הר",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-27897",
+        "source_url": "https://judaism.stackexchange.com/questions/27897/looking-for-passages-of-harsh-criticism-in-the-shakh",
+        "author": "Alex",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-356acb46365a6eac5810f266"
+      },
+      {
+        "id": "ye-10907",
+        "title": "Is an ex-employee allowed to work with the customers of his former employer?",
+        "titles": {
+          "en": "Is an ex-employee allowed to work with the customers of his former employer?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Shimon works for Business A, he has access to the contact information of all the clients and is responsible for interacting with them. Moreover, he knows how much each client is paying for Business A'",
+        "answer": "R. Asher Meir at the Business Ethics Center in Jerusalem, writing for Aish HaTorah, answers a similar question thus (excerpted): The Mishna discusses a person who climbs a wild olive tree and starts shaking the ripe olives from the branches onto the ",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-26596",
-        "source_url": "https://judaism.stackexchange.com/questions/26596/why-doesnt-everyone-say-al-hanisim-for-both-days-of-purim",
-        "author": "Double AA",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-9557",
-        "title": "Piyyutim on Yomim Noraim. Why do we split phrases against their meaning?",
-        "titles": {
-          "en": "Piyyutim on Yomim Noraim. Why do we split phrases against their meaning?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Why is it that in the davenning for Yomim Noraim, we split up the phrases in many of the piyyutim against their real meaning? For example, in “ Vechol maaminim shehu …” (p 538 Artscroll Machzor For Yo",
-        "answer": "I don't know for certain, but based on old machzorim, I have a guess. Once upon a time, in piyyutim said responsively, the chazzan said the first phrase, and the kahal answered with the rest of the line. (This fits the pattern not only of Ha'ochez B'",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-9557",
-        "source_url": "https://judaism.stackexchange.com/questions/9557/piyyutim-on-yomim-noraim-why-do-we-split-phrases-against-their-meaning",
-        "author": "JXG",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-151452",
-        "title": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
-        "titles": {
-          "en": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Very related . Slightly related ( link , link ). I'm looking for Rishonim (or earlier authorities) that state that the author or authors of Al Ha'Nissim for Chanukah was/were Yochanan Kohen Gadol and/",
-        "answer": "In Orchos Chaim (Chanukah seif 22) , Rav Aharon m'Lunil says: ... מזכירין בהודאה על הניסים ויש בו קכ\"ד תיבות כמנין יוחנן שתיקנו... ואין אומרים בו וחשמונאי ובניו כי יוחנן הוא חשמונאי כמו שאומר בספר יוסיפון We mention in Modim \"Al Hanisim\", and it has ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-151452",
-        "source_url": "https://judaism.stackexchange.com/questions/151452/chashmonaic-authorship-of-al-hanissim-of-chanukah",
-        "author": "Lo ani",
+        "url": "https://shekhina.org/qa.html?id=ye-10907",
+        "source_url": "https://judaism.stackexchange.com/questions/10907/is-an-ex-employee-allowed-to-work-with-the-customers-of-his-former-employer",
+        "author": "Monica Cellio",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
-        "id": "ye-131766",
-        "title": "What are general principles good for?",
+        "id": "up-chabad-1594257",
+        "title": "Why Do We Struggle to Survive?",
         "titles": {
-          "en": "What are general principles good for?",
+          "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "In Kiddushin 34a:4 in the context of hakhel it states אָמַר רַבִּי יוֹחָנָן אֵין לְמֵדִין מִן הַכְּלָלוֹת וַאֲפִילּוּ בִּמְקוֹם שֶׁנֶּאֱמַר בּוֹ חוּץ R. Yohanan said: We cannot learn from general prin",
-        "answer": "The gemara goes on to give an example of a general rule that has an exception, demonstrating that they aren't intended to be reliable ways to derive halacha. Therefore you cannot use a general rule as a proof to resolve a safek. What, therefore, are ",
-        "answer_count": 3,
+        "question": "Hi, If G‑d cares so much about the human race, why do we struggle so hard just in order to survive? Life shouldn’t be so difficult!",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "chabad",
+        "category": "general",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-chabad-1594257",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/1594257/jewish/Why-Do-We-Struggle-to-Survive.htm",
+        "author": "Bronya Shaffer",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-356acb46365a6eac5810f266"
+      },
+      {
+        "id": "ye-133579",
+        "title": "PTIJ: What did Egyptian vampires drink during the Makkah of Dam?",
+        "titles": {
+          "en": "PTIJ: What did Egyptian vampires drink during the Makkah of Dam?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What happened if an Egyptian vampire living during the Makkah of Dam siphoned on a neck for blood? Was he punished with water instead? This question is Purim Torah and is not intended to be taken comp",
+        "answer": "The passuk says הֶן עָם כְּלָבִיא יָקוּם וְכַאֲרִי יִתְנַשָּׂא לֹא יִשְׁכַּב עַד יֹאכַל טֶרֶף וְדַם חֲלָלִים יִשְׁתֶּה. And we make a gezerah shaveh to the passuk וְהַשְּׁתִיָּה כַדָּת אֵין אֹנֵס So you see it is mutar for a vampire to drink dead men",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-131766",
-        "source_url": "https://judaism.stackexchange.com/questions/131766/what-are-general-principles-good-for",
-        "author": "Rabbi Kaii",
+        "url": "https://shekhina.org/qa.html?id=ye-133579",
+        "source_url": "https://judaism.stackexchange.com/questions/133579/ptij-what-did-egyptian-vampires-drink-during-the-makkah-of-dam",
+        "author": "The GRAPKE",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
-        "id": "ye-111832",
-        "title": "Ptij: What does beer have to do with this mishna?",
+        "id": "ye-114483",
+        "title": "Forbidden to immerse, as opposed to doesn't work?",
         "titles": {
-          "en": "Ptij: What does beer have to do with this mishna?",
+          "en": "Forbidden to immerse, as opposed to doesn't work?",
           "he": ""
         },
         "language": "en",
-        "question": "Baba Kamma (6:5) says- הַמַּדְלִיק אֶת הַגָּדִישׁ, וְהָיוּ בּוֹ כֵלִים וְדָלָקוּ. רַבִּי יְהוּדָה אוֹמֵר, יְשַׁלֵּם מַה שֶּׁבְּתוֹכוֹ. וַחֲכָמִים אוֹמְרִים, אֵינוֹ מְשַׁלֵּם אֶלָּא גָּדִישׁ שֶׁל חִטִּ",
-        "answer": "The question arises from a mistranslation of בִּירָה It does not mean beer, but capital. For example, see Esther 1:2: בַּיָּמִ֖ים הָהֵ֑ם כְּשֶׁ֣בֶת ׀ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֗וֹשׁ עַ֚ל כִּסֵּ֣א מַלְכוּת֔וֹ אֲשֶׁ֖ר בְּשׁוּשַׁ֥ן הַבִּירָֽה׃ Thus, this lin",
-        "answer_count": 2,
+        "question": "I was learning Pesachim , and on 17b I saw Tosafos say the following: דבתוך הכלי ודאי אסור לטבול מדאורייתא It is definitely biblically forbidden to immerse something within a vessel (as opposed to a m",
+        "answer": "Not sure but.... Gemorah in chaggiga (:כב) explains that toveling inside a Keli without the right size opening won't work and that were worried that the am-hoorez will lend his tomeh Keli to a chaver. This may cause large problems with kodshim as you",
+        "answer_count": 3,
         "provider": "miyodeya",
-        "category": "talmud",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-111832",
-        "source_url": "https://judaism.stackexchange.com/questions/111832/ptij-what-does-beer-have-to-do-with-this-mishna",
-        "author": "chessprogrammer",
+        "url": "https://shekhina.org/qa.html?id=ye-114483",
+        "source_url": "https://judaism.stackexchange.com/questions/114483/forbidden-to-immerse-as-opposed-to-doesnt-work",
+        "author": "Yehoshua Schmulian",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
-        "id": "ye-94369",
-        "title": "Since when was a kippah worn?",
+        "id": "ye-95970",
+        "title": "Why don’t we say Keil Erech Apayim on Yom Kippur?",
         "titles": {
-          "en": "Since when was a kippah worn?",
+          "en": "Why don’t we say Keil Erech Apayim on Yom Kippur?",
           "he": ""
         },
         "language": "en",
-        "question": "Paul, being educated as a Pharisee in Jerusalem by Gamaliel, writes: \"Every man who prays or prophesies with his head covered dishonors his head\" ( 1 Cor. 11,4 ). Also, he find this so natural that he",
-        "answer": "There were two approaches to covering one's head in the Talmudic times (200-400): as the sign of the status or the sign of piety. There's a story in the Talmud (Kiddushin 29a): משתבח ליה רב חסדא לרב הונא בדרב המנונא דאדם גדול הוא א\"ל כשיבא לידך הביאה",
+        "question": "According to my Nusach Ashkenaz Siddur, the Thirteen Middos are preceded by a passage beginning קל ארך אפים, whose text is as follows: אֵ-ל אֶרֶךְ אַפַּיִם אַתָּה וּבַעַל הָרַחֲמִים נִקְרֵאתָ. וְדֶרֶך",
+        "answer": "Nit'ei Gavriel, Rosh HaShanah ch.2 fn. 33 explains that in general we switch from keil erech apayim to keil melech yosheiv after the first recitation of the thirteen middot . This is because after the first recitation of the middot , G-d (so-to-speak",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-94369",
-        "source_url": "https://judaism.stackexchange.com/questions/94369/since-when-was-a-kippah-worn",
-        "author": "Al Berko",
+        "url": "https://shekhina.org/qa.html?id=ye-95970",
+        "source_url": "https://judaism.stackexchange.com/questions/95970/why-don-t-we-say-keil-erech-apayim-on-yom-kippur",
+        "author": "Joel K",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
-        "id": "ye-78804",
-        "title": "Is there any place where Shulchan Aruch rules with the Rosh against the Rif and Rambam?",
+        "id": "ye-80551",
+        "title": "Who are the kings of peace?",
         "titles": {
-          "en": "Is there any place where Shulchan Aruch rules with the Rosh against the Rif and Rambam?",
+          "en": "Who are the kings of peace?",
           "he": ""
         },
         "language": "en",
-        "question": "I am arguing with a friend about whether the Shulchan Aruch, being Sepharadi, weighed Sepharadi poskim higher than Ashkenazi ones. The above question came up.",
-        "answer": "The Shulchan Arukh (OC 259:1) rules like Rosh, against Rif and Rambam, that wool shearings used to insulate a pot before Shabbat are not Muktza even if they weren't designated as insulation as long as they weren't designated as a commodity to be sold",
-        "answer_count": 2,
+        "question": "I recently heard someone welcome in to their home kings of peace in the famous song Shalom Aleichem instead of angels. Who are these kings of peace? Most (if not all) kings in Tanakh were involved in ",
+        "answer": "This would be Malki-tzedek מַלְכִּי צֶדֶק מֶלֶךְ שָׁלֵם and those of his line who ruled that which was the City of Peace (שלם) They were repaid for greeting and honoring Avraham Avinu and serving Hashem by greeting the descendants of Avraham Avinu ev",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "tanach",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-78804",
-        "source_url": "https://judaism.stackexchange.com/questions/78804/is-there-any-place-where-shulchan-aruch-rules-with-the-rosh-against-the-rif-and",
-        "author": "Double AA",
+        "url": "https://shekhina.org/qa.html?id=ye-80551",
+        "source_url": "https://judaism.stackexchange.com/questions/80551/who-are-the-kings-of-peace",
+        "author": "sabbahillel",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "ye-202108154398894",
@@ -47265,7 +48259,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "ye-2019092310380861",
@@ -47286,7 +48280,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "ye-144241",
@@ -47307,7 +48301,7 @@
         "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "ye-137686",
@@ -47328,7 +48322,7 @@
         "author": "Rabbi Kaii",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "din-url-968b84d263cdfe9c15793549",
@@ -47349,7 +48343,7 @@
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "up-din-498962",
@@ -47370,7 +48364,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "ye-153286",
@@ -47391,7 +48385,7 @@
         "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "up-din-201707237842787",
@@ -47412,7 +48406,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       },
       {
         "id": "up-din-2016052510819065",
@@ -47433,7 +48427,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+        "snapshot": "v1-356acb46365a6eac5810f266"
       }
     ]
   }
