@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-24T19:29:44Z",
+  "checked_at": "2026-11-25T03:32:22Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-24T19:29:44Z"
+      "checked_at": "2026-11-25T03:32:22Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-24T19:29:44Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-24T19:29:44Z"
+      "checked_at": "2026-11-25T03:32:22Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-24T19:29:44Z"
+      "checked_at": "2026-11-25T03:32:22Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-25T03:32:22Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-24T19:29:44Z"
+      "checked_at": "2026-11-25T03:32:22Z"
     }
   },
   "music": [
@@ -9960,6 +9960,20 @@
         "target_shabbat": "2026-11-21",
         "category": "zohar",
         "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-21/"
+      },
+      {
+        "id": "5787-2026-11-28",
+        "title": {
+          "en": "Guarding the way and learning to bear the light",
+          "he": "שמירת הדרך ולימוד נשיאת האור"
+        },
+        "parashah": {
+          "en": "Vayishlach",
+          "he": "וישלח"
+        },
+        "target_shabbat": "2026-11-28",
+        "category": "zohar",
+        "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-28/"
       }
     ],
     "weeks": [
@@ -47044,378 +47058,378 @@
     "total": 71025,
     "cards": [
       {
-        "id": "ye-61441",
-        "title": "Current applicability to not wearing leather shoes on Tish'a B'Av and Yom Kippur",
+        "id": "ye-61404",
+        "title": "Can you learn portions of Avot D'Rav Nattan on Tish'a B'Av?",
         "titles": {
-          "en": "Current applicability to not wearing leather shoes on Tish'a B'Av and Yom Kippur",
+          "en": "Can you learn portions of Avot D'Rav Nattan on Tish'a B'Av?",
           "he": ""
         },
         "language": "en",
-        "question": "I understand that the 5 forms of inuy (\"affliction) that occur on Yom Kippur also applies to Tish'a B'Av. One of these is the prohibition to wear leather shoes. I viewed this M.Y. answer which offers ",
-        "answer": "Mishnah Berurah 554:30: (ל) אבל של בגד או של עץ וכו' - ר\"ל אע\"ג דמגין על רגלו וגם עשוי בצורת מנעל ממש שרי דלא נקרא מנעל אלא של עור: M.B. is commenting on the Shulchan Aruch's text that states that one should not wear leather shoes but can wear \"begge",
+        "question": "This M.Y. answer provides a list of permissible learning items on Tish'a B'Av. All these items are somehow related to the themes of mourning, the Temple destruction, etc. Avot D'Rav Natan has several ",
+        "answer": "Tanna v'sheeyer - Anything fitting the mood of the day is acceptable (at least without iyun [in-depth analysis]; see also sources cited by @WFB in comments below which are lenient even with regard to iyun ). It would be impossible to have a comprehen",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-61441",
-        "source_url": "https://judaism.stackexchange.com/questions/61441/current-applicability-to-not-wearing-leather-shoes-on-tisha-bav-and-yom-kippur",
-        "author": "DanF",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-43632",
-        "title": "borei menei b’samim and perfume",
-        "titles": {
-          "en": "borei menei b’samim and perfume",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I heard that few people bother to make borei menei b’samim when they open a perfume or cologne or an aftershave lotion bottle. Is there a halachic source for this? I heard that the beracha is not made",
-        "answer": "The answer to number 1 is in orach chaim siman 216 siff 6. Not pashut. Answer to number 2 is in siman 217 siff 4.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-43632",
-        "source_url": "https://judaism.stackexchange.com/questions/43632/borei-menei-b-samim-and-perfume",
-        "author": "user6591",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-26626",
-        "title": "Is the name of God associated with bris milah?",
-        "titles": {
-          "en": "Is the name of God associated with bris milah?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I recall learning, but have no source for, the fact that part of what is achieved by the bris milah process is a form of etching (part of?) the name of God into the makom ha'milah. What is the source ",
-        "answer": "Apparently this is Professor Elliot Wolfson's niche. He has written copiously on this topic including: Circumcision and the Divine Name: A Study in the Transmission of Esoteric Doctrine (PDF) Circumcision, Vision of God, and Textual Interpretation: F",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-26626",
-        "source_url": "https://judaism.stackexchange.com/questions/26626/is-the-name-of-god-associated-with-bris-milah",
-        "author": "user2110",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-9590",
-        "title": "What does Psalm 82 mean?",
-        "titles": {
-          "en": "What does Psalm 82 mean?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "6 I -- I have said, 'Gods ye are, And sons of the Most High -- all of you, http://yltbible.com/psalms/82.htm So how many gods are there? Who are \"you\" here? Are we all gods? Here is the context. What ",
-        "answer": "A core belief of Judaism is that there is only one God. This is a bad translation. The Hebrew is: אֲנִי-אָמַרְתִּי, אֱלֹהִים אַתֶּם; וּבְנֵי עֶלְיוֹן כֻּלְּכֶם.‏ The word אֱלֹהִים can mean \"God\". It can also mean Judge, Idolatrous god/power (note the",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-9590",
-        "source_url": "https://judaism.stackexchange.com/questions/9590/what-does-psalm-82-mean",
-        "author": "Yaakov Ellis",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-151539",
-        "title": "Sefer Recommendation: Hilchos Brachos",
-        "titles": {
-          "en": "Sefer Recommendation: Hilchos Brachos",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Learning through the various issues and brachas of Hilchos Brachos, can anyone recommend a (Hebrew) sefer that is lomdus/iyun-oriented that takes you through the Gemara, Rishonim, etc (bonus if it als",
-        "answer": "It is not necessarily as structured as you want it but there is the famous sefer by Rav Alexander Mandelbaum entitled \" V'zos Habrocho \" which is very comprehensive.",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-151539",
-        "source_url": "https://judaism.stackexchange.com/questions/151539/sefer-recommendation-hilchos-brachos",
-        "author": "Dov",
+        "url": "https://shekhina.org/qa.html?id=ye-61404",
+        "source_url": "https://judaism.stackexchange.com/questions/61404/can-you-learn-portions-of-avot-drav-nattan-on-tisha-bav",
+        "author": "Loewian",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-131800",
-        "title": "Why did Hashem wait until the 3rd day to visit Abraham?",
+        "id": "ye-43607",
+        "title": "Looking for a drasha on Yerach ben Yomo/Karnei Para",
         "titles": {
-          "en": "Why did Hashem wait until the 3rd day to visit Abraham?",
+          "en": "Looking for a drasha on Yerach ben Yomo/Karnei Para",
           "he": ""
         },
         "language": "en",
-        "question": "B\"H At the beginning of parshas Vayeira, Rashi says that Hashem came to Avraham to \"visit the sick\" on the third day after the bris. And [the Lord] appeared to him: to visit the sick (Tan. Buber, Vaye",
-        "answer": "It could be like the maharal explains that on the 3rd day you're the most sick. On the first day it's a wound which needs to heal. Your body is trying to heal it, so on the 3rd day he felt the weakest.",
+        "question": "Anyone have any links to any drashos explaining the significance of the Yerach ben Yomo/Karnei Para trop, and why it appears (uniquely in chumash) in the portion about the Levite cities ( Numbers 35:5",
+        "answer": "Here is a link to a Drasha from Rabbi Moshe Wolfson Shlita on this topic.",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-43607",
+        "source_url": "https://judaism.stackexchange.com/questions/43607/looking-for-a-drasha-on-yerach-ben-yomo-karnei-para",
+        "author": "Gershon Gold",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-26596",
+        "title": "Why doesn't everyone say 'Al HaNisim for both days of Purim?",
+        "titles": {
+          "en": "Why doesn't everyone say 'Al HaNisim for both days of Purim?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "No matter where you live, walled city or not, there is no Tahanun or LaMenatzeah on either day, you aren't allowed to fast on either day, and you can even fulfill Matanoth LaEvyonim on either day (acc",
+        "answer": "The Gra (Beiur HaGra OC 693:2) explains that the only significance the 15th of Adar has to a resident of an unwalled city or the 14th of Adar has to a resident of a walled city, is that of a prohibition on fasting and eulogizing deriving from Megilla",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-26596",
+        "source_url": "https://judaism.stackexchange.com/questions/26596/why-doesnt-everyone-say-al-hanisim-for-both-days-of-purim",
+        "author": "Double AA",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-9557",
+        "title": "Piyyutim on Yomim Noraim. Why do we split phrases against their meaning?",
+        "titles": {
+          "en": "Piyyutim on Yomim Noraim. Why do we split phrases against their meaning?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Why is it that in the davenning for Yomim Noraim, we split up the phrases in many of the piyyutim against their real meaning? For example, in “ Vechol maaminim shehu …” (p 538 Artscroll Machzor For Yo",
+        "answer": "I don't know for certain, but based on old machzorim, I have a guess. Once upon a time, in piyyutim said responsively, the chazzan said the first phrase, and the kahal answered with the rest of the line. (This fits the pattern not only of Ha'ochez B'",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-9557",
+        "source_url": "https://judaism.stackexchange.com/questions/9557/piyyutim-on-yomim-noraim-why-do-we-split-phrases-against-their-meaning",
+        "author": "JXG",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-151452",
+        "title": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+        "titles": {
+          "en": "Chashmonaic Authorship of Al Ha'Nissim of Chanukah",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Very related . Slightly related ( link , link ). I'm looking for Rishonim (or earlier authorities) that state that the author or authors of Al Ha'Nissim for Chanukah was/were Yochanan Kohen Gadol and/",
+        "answer": "In Orchos Chaim (Chanukah seif 22) , Rav Aharon m'Lunil says: ... מזכירין בהודאה על הניסים ויש בו קכ\"ד תיבות כמנין יוחנן שתיקנו... ואין אומרים בו וחשמונאי ובניו כי יוחנן הוא חשמונאי כמו שאומר בספר יוסיפון We mention in Modim \"Al Hanisim\", and it has ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-151452",
+        "source_url": "https://judaism.stackexchange.com/questions/151452/chashmonaic-authorship-of-al-hanissim-of-chanukah",
+        "author": "Lo ani",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-131766",
+        "title": "What are general principles good for?",
+        "titles": {
+          "en": "What are general principles good for?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "In Kiddushin 34a:4 in the context of hakhel it states אָמַר רַבִּי יוֹחָנָן אֵין לְמֵדִין מִן הַכְּלָלוֹת וַאֲפִילּוּ בִּמְקוֹם שֶׁנֶּאֱמַר בּוֹ חוּץ R. Yohanan said: We cannot learn from general prin",
+        "answer": "The gemara goes on to give an example of a general rule that has an exception, demonstrating that they aren't intended to be reliable ways to derive halacha. Therefore you cannot use a general rule as a proof to resolve a safek. What, therefore, are ",
         "answer_count": 3,
         "provider": "miyodeya",
         "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-131800",
-        "source_url": "https://judaism.stackexchange.com/questions/131800/why-did-hashem-wait-until-the-3rd-day-to-visit-abraham",
-        "author": "Shlomy",
+        "url": "https://shekhina.org/qa.html?id=ye-131766",
+        "source_url": "https://judaism.stackexchange.com/questions/131766/what-are-general-principles-good-for",
+        "author": "Rabbi Kaii",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-111880",
-        "title": "PTIJ: Why do we say Mashiach is coming in a carriage?",
+        "id": "ye-111832",
+        "title": "Ptij: What does beer have to do with this mishna?",
         "titles": {
-          "en": "PTIJ: Why do we say Mashiach is coming in a carriage?",
+          "en": "Ptij: What does beer have to do with this mishna?",
           "he": ""
         },
         "language": "en",
-        "question": "Every day we say in Kaddish: בַּעֲגָלָא וּבִזְמַן קָרִיב [May redemption come] in a wagon, quickly. Whether Mashiach comes in a cloud or a donkey (cf. Sanhedrin 98a ), he’s not coming in a wagon. So w",
-        "answer": "This is one of many references to the concept of Mashiach ben Yosef coming before Mashiach ben Dovid. As we know, when Yosef revealed himself to his brothers, he sent them back to his father with wagons for transporting his father back to Egypt. Ther",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-111880",
-        "source_url": "https://judaism.stackexchange.com/questions/111880/ptij-why-do-we-say-mashiach-is-coming-in-a-carriage",
-        "author": "Moshe Katz",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-94424",
-        "title": "What selichot do Ashkenazi Jews say?",
-        "titles": {
-          "en": "What selichot do Ashkenazi Jews say?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I am looking for a brief list (with some English, not Hebrew-only) of which selichot Ashkenazim say, on which days. If I understand correctly, most Modern Orthodox Ashkenazi Jews basically follow minh",
-        "answer": "It’s unclear from the question itself, but since you tagged this elul , I assume you mean the selichos said during the last week of Elul? In that case, my Artscroll Nusach Lita seems to be the volume you’re looking for. The volume numbers the Selicho",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-94424",
-        "source_url": "https://judaism.stackexchange.com/questions/94424/what-selichot-do-ashkenazi-jews-say",
-        "author": "DonielF",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-78834",
-        "title": "Are there two or more editions of the Rambam's Peirush HaMishnayos?",
-        "titles": {
-          "en": "Are there two or more editions of the Rambam's Peirush HaMishnayos?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I heard that there are differences between the Rambam's Peirush Hamishnayos found most commonly in the Mishnayos Zecher Chanoch and the version found in Mishnayos which are paired with the Rash. Is th",
-        "answer": "Rabbi Yosef Kappach made a great work translating the manuscripts of the Rambam in modern hebrew. His translation was critiqued by some people, I don't know what are the points critiqued because of his preference for one of the manuscripts. Rav Kapah",
+        "question": "Baba Kamma (6:5) says- הַמַּדְלִיק אֶת הַגָּדִישׁ, וְהָיוּ בּוֹ כֵלִים וְדָלָקוּ. רַבִּי יְהוּדָה אוֹמֵר, יְשַׁלֵּם מַה שֶּׁבְּתוֹכוֹ. וַחֲכָמִים אוֹמְרִים, אֵינוֹ מְשַׁלֵּם אֶלָּא גָּדִישׁ שֶׁל חִטִּ",
+        "answer": "The question arises from a mistranslation of בִּירָה It does not mean beer, but capital. For example, see Esther 1:2: בַּיָּמִ֖ים הָהֵ֑ם כְּשֶׁ֣בֶת ׀ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֗וֹשׁ עַ֚ל כִּסֵּ֣א מַלְכוּת֔וֹ אֲשֶׁ֖ר בְּשׁוּשַׁ֥ן הַבִּירָֽה׃ Thus, this lin",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "talmud",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-78834",
-        "source_url": "https://judaism.stackexchange.com/questions/78834/are-there-two-or-more-editions-of-the-rambams-peirush-hamishnayos",
-        "author": "kouty",
+        "url": "https://shekhina.org/qa.html?id=ye-111832",
+        "source_url": "https://judaism.stackexchange.com/questions/111832/ptij-what-does-beer-have-to-do-with-this-mishna",
+        "author": "chessprogrammer",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-94369",
+        "title": "Since when was a kippah worn?",
+        "titles": {
+          "en": "Since when was a kippah worn?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Paul, being educated as a Pharisee in Jerusalem by Gamaliel, writes: \"Every man who prays or prophesies with his head covered dishonors his head\" ( 1 Cor. 11,4 ). Also, he find this so natural that he",
+        "answer": "There were two approaches to covering one's head in the Talmudic times (200-400): as the sign of the status or the sign of piety. There's a story in the Talmud (Kiddushin 29a): משתבח ליה רב חסדא לרב הונא בדרב המנונא דאדם גדול הוא א\"ל כשיבא לידך הביאה",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-94369",
+        "source_url": "https://judaism.stackexchange.com/questions/94369/since-when-was-a-kippah-worn",
+        "author": "Al Berko",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "ye-78804",
+        "title": "Is there any place where Shulchan Aruch rules with the Rosh against the Rif and Rambam?",
+        "titles": {
+          "en": "Is there any place where Shulchan Aruch rules with the Rosh against the Rif and Rambam?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I am arguing with a friend about whether the Shulchan Aruch, being Sepharadi, weighed Sepharadi poskim higher than Ashkenazi ones. The above question came up.",
+        "answer": "The Shulchan Arukh (OC 259:1) rules like Rosh, against Rif and Rambam, that wool shearings used to insulate a pot before Shabbat are not Muktza even if they weren't designated as insulation as long as they weren't designated as a commodity to be sold",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-78804",
+        "source_url": "https://judaism.stackexchange.com/questions/78804/is-there-any-place-where-shulchan-aruch-rules-with-the-rosh-against-the-rif-and",
+        "author": "Double AA",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-202109092698121",
-        "title": "מצטער בליל א' דסוכות",
+        "id": "ye-202108154398894",
+        "title": "מעמיד בדבר המקבל טומאה",
         "titles": {
           "en": "",
-          "he": "מצטער בליל א' דסוכות"
+          "he": "מעמיד בדבר המקבל טומאה"
         },
         "language": "he",
-        "question": "ברמ\"א תרל\"ט ס\"ה מחייב מצטער בליל א' דסוכות ובמ\"ב סקל\"ה הביא אחרונים שחולקים ומסיק דיאכל בלי ברכה, אכן אם יכול להמתין עד חצות שיפסק הגשם עדיף, ובשעה\"צ סקס\"ז דאם מצטער ברעב או בשינה א\"צ להמתין דממ\"נ אם ",
+        "question": "סוכה שהסכך שלה לא מונח על המעמיד אלא מושחל בתוך המעמידמה שנקרא היום סכך בהשחלההאם זה כשר לכתחילה לא הבנתי במה מדובר, אבל אם מה שמחזיק את הסכך על הסוכה הוא דבר המקבל טומאה זה בכלל הבעיה של מעמיד בדבר ה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
+        "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-202109092698121",
-        "source_url": "https://din.org.il/2021/09/09/%d7%9e%d7%a6%d7%98%d7%a2%d7%a8-%d7%91%d7%9c%d7%99%d7%9c-%d7%90-%d7%93%d7%a1%d7%95%d7%9b%d7%95%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=ye-202108154398894",
+        "source_url": "https://din.org.il/2021/08/15/%d7%9e%d7%a2%d7%9e%d7%99%d7%93-%d7%91%d7%93%d7%91%d7%a8-%d7%94%d7%9e%d7%a7%d7%91%d7%9c-%d7%98%d7%95%d7%9e%d7%90%d7%94-2/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-2019100610966549",
-        "title": "חולת אלצהיימר ביום כיפור",
+        "id": "ye-2019092310380861",
+        "title": "צום אחרי ניתוח פרפורציה בתרסריון?",
         "titles": {
           "en": "",
-          "he": "חולת אלצהיימר ביום כיפור"
+          "he": "צום אחרי ניתוח פרפורציה בתרסריון?"
         },
         "language": "he",
-        "question": "שלום, האם חולת אלצהיימר במצב שלא יודעת אם שבת היום וכד', וכן מדברת על אימה שכבר שנים איננה בחיים כאילו היא חיה – האם חייבת לצום ביום הכיפורים? (הדאגה היא גם מצד מצב גופני – כי לא תכין עצמה באכילה ושתי",
+        "question": "שלום לרב. עברתי ניתוח פרפורציה ב 2016 בתרסריון נוטל כדור אומפרדקס1 ביום נגד חומצה רופא אמר לא לצום מה ההלכה ? בדרך כלל מדובר על לא לצום שלושים יום אחרי הניתוח הזה, לכן לא ברור לי למה אמר כך הרופא, יש ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "general",
+        "category": "halacha",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2019100610966549",
-        "source_url": "https://din.org.il/2019/10/06/%d7%97%d7%95%d7%9c%d7%aa-%d7%90%d7%9c%d7%a6%d7%94%d7%99%d7%99%d7%9e%d7%a8-%d7%91%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8/",
+        "url": "https://shekhina.org/qa.html?id=ye-2019092310380861",
+        "source_url": "https://din.org.il/2019/09/23/%d7%a6%d7%95%d7%9d-%d7%90%d7%97%d7%a8%d7%99-%d7%a0%d7%99%d7%aa%d7%95%d7%97-%d7%a4%d7%a8%d7%a4%d7%95%d7%a8%d7%a6%d7%99%d7%94-%d7%91%d7%aa%d7%a8%d7%a1%d7%a8%d7%99%d7%95%d7%9f/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-144281",
-        "title": "סיכון חיים עבור גופת שבוי",
+        "id": "ye-144241",
+        "title": "השתתפות בחתונה של חברת נפש קרובה בשנת אבל",
         "titles": {
           "en": "",
-          "he": "סיכון חיים עבור גופת שבוי"
+          "he": "השתתפות בחתונה של חברת נפש קרובה בשנת אבל"
         },
         "language": "he",
-        "question": "האם מותר לחייל לסכן את חייו ולהיכנס לתוך איזור תחת אש ועם מטענים רבים על מנת לחלץ גופת ישראל מהשבי? (בהנחה שלאותה משימה שהוא נשלח אליה ודאי שיש שם רק גופות ולא אנשים חיים). בהסתכלות הלכתית נטו, האם זה",
+        "question": "אני אבלה על אבא שלי חברה טובה טובה שלי מתחתנת רגע שחיכינו שתמצא את זווגה לאור גילה המאוחר , באיזו דרך אוכל להשתתף בשמחתה ? הדבר עושה בי צער נורא ואני מאוד רוצה לשמוח בשמחתה אני ספרדייה. מזל טוב על החת",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "halacha",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-144281",
-        "source_url": "https://www.yeshiva.org.il/ask/144281",
-        "author": "הרה\"ג יעקב אריאל",
+        "url": "https://shekhina.org/qa.html?id=ye-144241",
+        "source_url": "https://www.yeshiva.org.il/ask/144241",
+        "author": "הרב דניאל קירש",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "ye-139256",
-        "title": "What is the section labeled מענה לשון in a Chumash?",
+        "id": "ye-137686",
+        "title": "לאו הניתק לעשה Is this still a laa'v for which one needs atonement",
         "titles": {
           "en": "",
-          "he": "What is the section labeled מענה לשון in a Chumash?"
+          "he": "לאו הניתק לעשה Is this still a laa'v for which one needs atonement"
         },
         "language": "he",
-        "question": "Looking at a sample page of the Chumash Simanim (for ex. here ), I see the Torah text, Targum Onkelos, Rashi, and, at the foot of the page, a section labeled מענה לשון. What is this last section, and ",
-        "answer": "This page identifies it as: ביאור על דקדוקי המילים, כללים, פיסוק טעמים, מסורות ועוד and this page as מדור חדש של הערות על כל מילה שיש בה שום דיון בקדמוננו המדקדקים ,בחומש ובהפטרות וחמש מגילות , המוגשים בשפה קלה ומובנת ,כאשר אנחנו מציינים מאיזה כלל דק",
+        "question": "Mishnah Makos 3(4) says: This is the principle: With regard to any prohibition that entails a command to arise and perform a mitzva, he is not liable to receive lashes for its violation. An example is",
+        "answer": "Yes. Atonement is still needed. See ברטנורא על משנה יומא ח׳:ח׳:ג הניתק לעשה, תשובה מכפרת Regarding a prohibition that is repaired to a positive act, teshuva atones.",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139256",
-        "source_url": "https://judaism.stackexchange.com/questions/139256/what-is-the-section-labeled-%d7%9e%d7%a2%d7%a0%d7%94-%d7%9c%d7%a9%d7%95%d7%9f-in-a-chumash",
-        "author": "Zarka",
+        "url": "https://shekhina.org/qa.html?id=ye-137686",
+        "source_url": "https://judaism.stackexchange.com/questions/137686/%d7%9c%d7%90%d7%95-%d7%94%d7%a0%d7%99%d7%aa%d7%a7-%d7%9c%d7%a2%d7%a9%d7%94-is-this-still-a-laav-for-which-one-needs-atonement",
+        "author": "Rabbi Kaii",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "din-url-970693060007c23e373dca40",
-        "title": "חיתוך אבטיח שנעשה בצורה מסויימת – בשבת",
+        "id": "din-url-968b84d263cdfe9c15793549",
+        "title": "רחיצת בגד שהתלכלך בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם מותר לחתוך ולאכול מאבטיח שעשוי בצורה של ספינה (וכדו') בשבת?",
+        "question": "מה הדין לשטוף בגד תחתון בשבת אחרי קרי לילה שמחמת שאוכל",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=din-url-968b84d263cdfe9c15793549",
+        "source_url": "https://din.org.il/2012/10/05/%d7%a8%d7%97%d7%99%d7%a6%d7%aa-%d7%91%d7%92%d7%93-%d7%a9%d7%94%d7%aa%d7%9c%d7%9b%d7%9c%d7%9a-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית ההוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-62adf56cec55b31c9c2b4084"
+      },
+      {
+        "id": "up-din-498962",
+        "title": "תפילת מוסף לנשים",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלוםמותר להגיד הלל בבית בראש חודש אלול בתפילת שחרית והאם אני צריכה להתפלל מוסף לאחר ההלל?תודה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-970693060007c23e373dca40",
-        "source_url": "https://din.org.il/2021/02/04/%d7%97%d7%99%d7%aa%d7%95%d7%9a-%d7%90%d7%91%d7%98%d7%99%d7%97-%d7%a9%d7%a0%d7%a2%d7%a9%d7%94-%d7%91%d7%a6%d7%95%d7%a8%d7%94-%d7%9e%d7%a1%d7%95%d7%99%d7%99%d7%9e%d7%aa-%d7%91%d7%a9%d7%91%d7%aa/",
+        "url": "https://shekhina.org/qa.html?id=up-din-498962",
+        "source_url": "https://din.org.il/2025/08/24/%d7%aa%d7%a4%d7%99%d7%9c%d7%aa-%d7%9e%d7%95%d7%a1%d7%a3-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "up-din-500399",
-        "title": "במוצאי מנוחה אחרי עלות השחר",
+        "id": "ye-153286",
+        "title": "טלית לשליח ציבור",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "1 סליחות אשכנז הראשונות במוצאי מנוחה, האם אפשר לאומרן במנין לפני הנץ ואחרי עלות השחר? ובפרט למי שאמירתן בחצות משבשת את יומו למחרת 2 מה עדיף לומר סליחות במוצאי מנוחה לפני חצות בשליש הלילה, או לפני הנץ?",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-500399",
-        "source_url": "https://din.org.il/2025/09/09/%d7%91%d7%9e%d7%95%d7%a6%d7%90%d7%99-%d7%9e%d7%a0%d7%95%d7%97%d7%94-%d7%90%d7%97%d7%a8%d7%99-%d7%a2%d7%9c%d7%95%d7%aa-%d7%94%d7%a9%d7%97%d7%a8/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-62adf56cec55b31c9c2b4084"
-      },
-      {
-        "id": "ye-153313",
-        "title": "פתיחת יין בשבת",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום לכבוד הרב,שבוע טוב ומבורך בעזרת השם, ביום שבת לא היה לנו יין פתוח ואחד מבני המשפחה פתח יין שיהיה לקידוש ולהבדלה,רציתי לשאול האם זה מותר או לא כי קראתי איפשהו שזה עשיית כלי (הבקבוק מזכוכית והפקק מ",
+        "question": "אם אני רווק שנוהג לא לשים טלית עולה פסוקי דזמרא ושם טלית מתי להוריד אותה? אם אפשר את המקורות בבקשה.",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "halacha",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-153313",
-        "source_url": "https://www.yeshiva.org.il/ask/153313",
+        "url": "https://shekhina.org/qa.html?id=ye-153286",
+        "source_url": "https://www.yeshiva.org.il/ask/153286",
         "author": "",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "up-din-2017072416516734",
-        "title": "תשעה באב בהריון",
+        "id": "up-din-201707237842787",
+        "title": "סיוד הבית בתשעת הימים – התחילו קודם",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "מה דין אישה בהריון בחודש שביעי בצום תשעה באב?",
+        "question": "לפני תשעה באב התחלתי צבע קירות תקרה משקופים בשל פיצוץ מיים שהרס הכל. כעת נכנסים לתשעת הימים האם מותר להמשיך בתשעת הימים? הקבלן והפועלים אינם יהודים. תודה על המענה",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-2017072416516734",
-        "source_url": "https://din.org.il/2017/07/24/%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91-%d7%91%d7%94%d7%a8%d7%99%d7%95%d7%9f/",
+        "url": "https://shekhina.org/qa.html?id=up-din-201707237842787",
+        "source_url": "https://din.org.il/2017/07/23/%d7%a1%d7%99%d7%95%d7%93-%d7%94%d7%91%d7%99%d7%aa-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%aa%d7%97%d7%99%d7%9c%d7%95-%d7%a7%d7%95%d7%93%d7%9d/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-62adf56cec55b31c9c2b4084"
       },
       {
-        "id": "up-din-201702237961050",
-        "title": "בדיקת חמץ במקומות המכורים לגוי",
+        "id": "up-din-2016052510819065",
+        "title": "מסטיק לאחר הפסח",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום וברכה! האם יש חובה לבדוק ולנקות מקומות בבית שאותם אני מוכר לגוי?(אשמח גם למקור) תודה רבה!",
+        "question": "שלום וברכה! רציתי לדעת האם אני יכולה לאכול מסטיקים שיוצרו לפני הפסח? אני לא יודעת אם בין החומרים שלו (הלא כל כך מוכרים) קיים חשש לחמץ.. אשמח לעזרה תודה רבה ויום מצוין!",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201702237961050",
-        "source_url": "https://din.org.il/2017/02/23/%d7%91%d7%93%d7%99%d7%a7%d7%aa-%d7%97%d7%9e%d7%a5-%d7%91%d7%9e%d7%a7%d7%95%d7%9e%d7%95%d7%aa-%d7%94%d7%9e%d7%9b%d7%95%d7%a8%d7%99%d7%9d-%d7%9c%d7%92%d7%95%d7%99/",
+        "url": "https://shekhina.org/qa.html?id=up-din-2016052510819065",
+        "source_url": "https://din.org.il/2016/05/25/%d7%9e%d7%a1%d7%98%d7%99%d7%a7-%d7%9c%d7%90%d7%97%d7%a8-%d7%94%d7%a4%d7%a1%d7%97/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
