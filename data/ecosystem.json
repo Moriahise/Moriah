@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-26T00:17:46Z",
+  "checked_at": "2026-11-26T08:27:31Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-26T00:17:46Z"
-    },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-26T00:17:46Z"
+      "checked_at": "2026-11-26T08:27:31Z"
     },
-    "shiurim": {
+    "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-26T00:17:46Z"
+      "checked_at": "2026-11-26T08:27:31Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-26T00:17:46Z"
+      "checked_at": "2026-11-26T08:27:31Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-26T08:27:31Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-26T00:17:46Z"
+      "checked_at": "2026-11-26T08:27:31Z"
     }
   },
   "music": [
@@ -43112,6 +43112,328 @@
         "target_shabbat": "2032-09-10",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-sanhedrin-113/"
+      },
+      {
+        "id": "cycle-15-makkot-2",
+        "title": {
+          "en": "Makkot 2 — When Conspiring Witnesses Are Not Repaid Measure for Measure",
+          "he": "מכות ב׳ — כשעדים זוממין אינם נענשים כאשר זממו"
+        },
+        "parashah": {
+          "en": "Makkot 2",
+          "he": "מכות דף 2"
+        },
+        "target_shabbat": "2032-09-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-2/"
+      },
+      {
+        "id": "cycle-15-makkot-3",
+        "title": {
+          "en": "Makkot 3 — Pricing a Lie: The Marriage Contract, the Ten-Year Loan, and Shemitta",
+          "he": "מכות ג׳ — תמחור השקר: הכתובה, ההלוואה לעשר שנים והשמיטה"
+        },
+        "parashah": {
+          "en": "Makkot 3",
+          "he": "מכות דף 3"
+        },
+        "target_shabbat": "2032-09-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-3/"
+      },
+      {
+        "id": "cycle-15-makkot-4",
+        "title": {
+          "en": "Makkot 4 — Drawn Water in the Sea and the Double Punishment of Conspiring Witnesses",
+          "he": "מכות ד׳ — מים שאובים בים, וכפל עונש לעדים זוממין"
+        },
+        "parashah": {
+          "en": "Makkot 4",
+          "he": "מכות דף 4"
+        },
+        "target_shabbat": "2032-09-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-4/"
+      },
+      {
+        "id": "cycle-15-makkot-5",
+        "title": {
+          "en": "Makkot 5 — “You Were With Us”: What Makes Witnesses Zomemim, and Joining Those Who Act",
+          "he": "מכות ה׳ — \"עמנו הייתם\": מה עושה עדים לזוממין, והנטפל לעושי מעשה"
+        },
+        "parashah": {
+          "en": "Makkot 5",
+          "he": "מכות דף 5"
+        },
+        "target_shabbat": "2032-09-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-5/"
+      },
+      {
+        "id": "cycle-15-makkot-6",
+        "title": {
+          "en": "Makkot 6 — One Testimony or Many: Disqualified Witnesses, Two Windows, and the Interpreter",
+          "he": "מכות ו׳ — עדות אחת או רבות: עד פסול, שני חלונות, והמתורגמן"
+        },
+        "parashah": {
+          "en": "Makkot 6",
+          "he": "מכות דף 6"
+        },
+        "target_shabbat": "2032-09-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-6/"
+      },
+      {
+        "id": "cycle-15-makkot-7",
+        "title": {
+          "en": "Makkot 7 — The Destructive Sanhedrin and the Downward Motion of Exile",
+          "he": "מכות ז׳ — סנהדרין חובלנית, ודרך ירידה בגלות"
+        },
+        "parashah": {
+          "en": "Makkot 7",
+          "he": "מכות דף 7"
+        },
+        "target_shabbat": "2032-09-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-7/"
+      },
+      {
+        "id": "cycle-15-makkot-8",
+        "title": {
+          "en": "Makkot 8 — A Stone into the Public Domain, and Who Is Exempt While Doing a Mitzva",
+          "he": "מכות ח׳ — אבן לרשות הרבים, ומי פטור בשעת מצוה"
+        },
+        "parashah": {
+          "en": "Makkot 8",
+          "he": "מכות דף 8"
+        },
+        "target_shabbat": "2032-09-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-8/"
+      },
+      {
+        "id": "cycle-15-makkot-9",
+        "title": {
+          "en": "Makkot 9 — The Resident Stranger, the Blind, the Enemy, and the Roads to Refuge",
+          "he": "מכות ט׳ — הגר התושב, הסומא, השונא, והדרכים לערי המקלט"
+        },
+        "parashah": {
+          "en": "Makkot 9",
+          "he": "מכות דף 9"
+        },
+        "target_shabbat": "2032-09-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-9/"
+      },
+      {
+        "id": "cycle-15-makkot-10",
+        "title": {
+          "en": "Makkot 10 — Cities Where One Can Live",
+          "he": "מכות י׳ — ערים שאפשר לחיות בהן"
+        },
+        "parashah": {
+          "en": "Makkot 10",
+          "he": "מכות דף 10"
+        },
+        "target_shabbat": "2032-09-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-10/"
+      },
+      {
+        "id": "cycle-15-makkot-11",
+        "title": {
+          "en": "Makkot 11 — The High Priest and the Exile",
+          "he": "מכות י״א — הכהן הגדול והגולה"
+        },
+        "parashah": {
+          "en": "Makkot 11",
+          "he": "מכות דף 11"
+        },
+        "target_shabbat": "2032-09-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-11/"
+      },
+      {
+        "id": "cycle-15-makkot-12",
+        "title": {
+          "en": "Makkot 12 — The Borders of Refuge",
+          "he": "מכות י״ב — גבולות המקלט"
+        },
+        "parashah": {
+          "en": "Makkot 12",
+          "he": "מכות דף 12"
+        },
+        "target_shabbat": "2032-09-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-12/"
+      },
+      {
+        "id": "cycle-15-makkot-13",
+        "title": {
+          "en": "Makkot 13 — Who Is Flogged",
+          "he": "מכות י״ג — מי לוקה"
+        },
+        "parashah": {
+          "en": "Makkot 13",
+          "he": "מכות דף 13"
+        },
+        "target_shabbat": "2032-09-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-13/"
+      },
+      {
+        "id": "cycle-15-makkot-14",
+        "title": {
+          "en": "Makkot 14 — One Act, Many Prohibitions, and the Impure Who Eats Sacred Food",
+          "he": "מכות י״ד — מעשה אחד, לאוין רבים, וטמא שאכל קודש"
+        },
+        "parashah": {
+          "en": "Makkot 14",
+          "he": "מכות דף 14"
+        },
+        "target_shabbat": "2032-09-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-14/"
+      },
+      {
+        "id": "cycle-15-makkot-15",
+        "title": {
+          "en": "Makkot 15 — A Prohibition with a Positive Mitzva",
+          "he": "מכות ט״ו — לאו שניתק לעשה"
+        },
+        "parashah": {
+          "en": "Makkot 15",
+          "he": "מכות דף 15"
+        },
+        "target_shabbat": "2032-09-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-15/"
+      },
+      {
+        "id": "cycle-15-makkot-16",
+        "title": {
+          "en": "Makkot 16 — Two Mitzvot That Repair, and the Lashes of One Mouthful",
+          "he": "מכות ט״ז — שתי מצוות המתקנות, ומלקות של אכילה אחת"
+        },
+        "parashah": {
+          "en": "Makkot 16",
+          "he": "מכות דף 16"
+        },
+        "target_shabbat": "2032-09-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-16/"
+      },
+      {
+        "id": "cycle-15-makkot-17",
+        "title": {
+          "en": "Makkot 17 — “You May Not Eat Within Your Gates”",
+          "he": "מכות י״ז — \"לא תוכל לאכול בשעריך\""
+        },
+        "parashah": {
+          "en": "Makkot 17",
+          "he": "מכות דף 17"
+        },
+        "target_shabbat": "2032-09-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-17/"
+      },
+      {
+        "id": "cycle-15-makkot-18",
+        "title": {
+          "en": "Makkot 18 — The Superfluous Verse and What Makes First Fruits Fit",
+          "he": "מכות י״ח — הפסוק היתר ומה מכשיר את הביכורים"
+        },
+        "parashah": {
+          "en": "Makkot 18",
+          "he": "מכות דף 18"
+        },
+        "target_shabbat": "2032-09-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-18/"
+      },
+      {
+        "id": "cycle-15-makkot-19",
+        "title": {
+          "en": "Makkot 19 — The Walls That Take Hold",
+          "he": "מכות י״ט — החומות הקולטות"
+        },
+        "parashah": {
+          "en": "Makkot 19",
+          "he": "מכות דף 19"
+        },
+        "target_shabbat": "2032-09-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-19/"
+      },
+      {
+        "id": "cycle-15-makkot-20",
+        "title": {
+          "en": "Makkot 20 — The Fig of Untithed Produce and the Marks of Mourning",
+          "he": "מכות כ׳ — תאנה של טבל וסימני האבלות"
+        },
+        "parashah": {
+          "en": "Makkot 20",
+          "he": "מכות דף 20"
+        },
+        "target_shabbat": "2032-09-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-20/"
+      },
+      {
+        "id": "cycle-15-makkot-21",
+        "title": {
+          "en": "Makkot 21 — One Warning, Many Lashes: From the Tattoo to the Furrow",
+          "he": "מכות כ״א — התראה אחת ומלקות רבות: מן הכתובת קעקע ועד התלם"
+        },
+        "parashah": {
+          "en": "Makkot 21",
+          "he": "מכות דף 21"
+        },
+        "target_shabbat": "2032-09-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-21/"
+      },
+      {
+        "id": "cycle-15-makkot-22",
+        "title": {
+          "en": "Makkot 22 — Forty Less One",
+          "he": "מכות כ״ב — ארבעים חסר אחת"
+        },
+        "parashah": {
+          "en": "Makkot 22",
+          "he": "מכות דף 22"
+        },
+        "target_shabbat": "2032-10-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-22/"
+      },
+      {
+        "id": "cycle-15-makkot-23",
+        "title": {
+          "en": "Makkot 23 — “And Your Brother Shall Be Debased”: From Lashes to Brotherhood",
+          "he": "מכות כ״ג — \"ונקלה אחיך\": ממלקות לאחווה"
+        },
+        "parashah": {
+          "en": "Makkot 23",
+          "he": "מכות דף 23"
+        },
+        "target_shabbat": "2032-10-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-23/"
+      },
+      {
+        "id": "cycle-15-makkot-24",
+        "title": {
+          "en": "Makkot 24 — From 613 to One, and the Laughter of Rabbi Akiva",
+          "he": "מכות כ״ד — מתרי״ג לאחת, וצחוקו של רבי עקיבא"
+        },
+        "parashah": {
+          "en": "Makkot 24",
+          "he": "מכות דף 24"
+        },
+        "target_shabbat": "2032-10-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-24/"
       }
     ],
     "calendar": {
