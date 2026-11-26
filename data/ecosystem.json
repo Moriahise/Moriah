@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-26T08:27:31Z",
+  "checked_at": "2026-11-26T21:28:18Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-26T08:27:31Z"
-    },
-    "zohar": {
-      "state": "ok",
-      "checked_at": "2026-11-26T08:27:31Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-26T08:27:31Z"
+      "checked_at": "2026-11-26T21:28:18Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-26T08:27:31Z"
+      "checked_at": "2026-11-26T21:28:18Z"
+    },
+    "zohar": {
+      "state": "ok",
+      "checked_at": "2026-11-26T21:28:18Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-26T21:28:18Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-26T08:27:31Z"
+      "checked_at": "2026-11-26T21:28:18Z"
     }
   },
   "music": [
@@ -43434,6 +43434,678 @@
         "target_shabbat": "2032-10-03",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-makkot-24/"
+      },
+      {
+        "id": "cycle-15-shevuot-2",
+        "title": {
+          "en": "Shevuot 2 — Two That Are Four and the Map of Atonement",
+          "he": "שבועות ב׳ — שתיים שהן ארבע ומפת הכפרה"
+        },
+        "parashah": {
+          "en": "Shevuot 2",
+          "he": "שבועות דף 2"
+        },
+        "target_shabbat": "2032-10-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-2/"
+      },
+      {
+        "id": "cycle-15-shevuot-3",
+        "title": {
+          "en": "Shevuot 3 — Whose Mishnah Is It?",
+          "he": "שבועות ג׳ — משנה זו כמאן?"
+        },
+        "parashah": {
+          "en": "Shevuot 3",
+          "he": "שבועות דף 3"
+        },
+        "target_shabbat": "2032-10-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-3/"
+      },
+      {
+        "id": "cycle-15-shevuot-4",
+        "title": {
+          "en": "Shevuot 4 — Rebbi's Mishnah and His Method of Exegesis",
+          "he": "שבועות ד׳ — משנת רבי ושיטת דרשתו"
+        },
+        "parashah": {
+          "en": "Shevuot 4",
+          "he": "שבועות דף 4"
+        },
+        "target_shabbat": "2032-10-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-4/"
+      },
+      {
+        "id": "cycle-15-shevuot-5",
+        "title": {
+          "en": "Shevuot 5 — Concealment, Domains, and Shades of White",
+          "he": "שבועות ה׳ — העלם, רשויות ומראות לבן"
+        },
+        "parashah": {
+          "en": "Shevuot 5",
+          "he": "שבועות דף 5"
+        },
+        "target_shabbat": "2032-10-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-5/"
+      },
+      {
+        "id": "cycle-15-shevuot-6",
+        "title": {
+          "en": "Shevuot 6 — Kings, Governors, and the Order of Leprous Shades",
+          "he": "שבועות ו׳ — מלכים ואפרכים וסדר מראות הנגעים"
+        },
+        "parashah": {
+          "en": "Shevuot 6",
+          "he": "שבועות דף 6"
+        },
+        "target_shabbat": "2032-10-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-6/"
+      },
+      {
+        "id": "cycle-15-shevuot-7",
+        "title": {
+          "en": "Shevuot 7 — Drawing Water from Deep Wells",
+          "he": "שבועות ז׳ — מים עמוקים עצה בלב איש"
+        },
+        "parashah": {
+          "en": "Shevuot 7",
+          "he": "שבועות דף 7"
+        },
+        "target_shabbat": "2032-10-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-7/"
+      },
+      {
+        "id": "cycle-15-shevuot-8",
+        "title": {
+          "en": "Shevuot 8 — What the Inner Goat Does and Does Not Atone",
+          "he": "שבועות ח׳ — על מה השעיר הפנימי מכפר ועל מה לא"
+        },
+        "parashah": {
+          "en": "Shevuot 8",
+          "he": "שבועות דף 8"
+        },
+        "target_shabbat": "2032-10-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-8/"
+      },
+      {
+        "id": "cycle-15-shevuot-9",
+        "title": {
+          "en": "Shevuot 9 — A Sin Known Only to God and the Diminished Moon",
+          "he": "שבועות ט׳ — חטא שאין מכיר בו אלא ה׳ ומיעוט הירח"
+        },
+        "parashah": {
+          "en": "Shevuot 9",
+          "he": "שבועות דף 9"
+        },
+        "target_shabbat": "2032-10-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-9/"
+      },
+      {
+        "id": "cycle-15-shevuot-10",
+        "title": {
+          "en": "Shevuot 10 — \"And a Goat,\" the New Moon as Festival, and the Surplus Daily Lambs",
+          "he": "שבועות י׳ — \"ושעיר\", ראש חודש כמועד, ותמידין שלא הוצרכו"
+        },
+        "parashah": {
+          "en": "Shevuot 10",
+          "he": "שבועות דף 10"
+        },
+        "target_shabbat": "2032-10-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-10/"
+      },
+      {
+        "id": "cycle-15-shevuot-11",
+        "title": {
+          "en": "Shevuot 11 — The Court's Tacit Stipulation",
+          "he": "שבועות י״א — לב בית דין מתנה עליהן"
+        },
+        "parashah": {
+          "en": "Shevuot 11",
+          "he": "שבועות דף 11"
+        },
+        "target_shabbat": "2032-10-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-11/"
+      },
+      {
+        "id": "cycle-15-shevuot-12",
+        "title": {
+          "en": "Shevuot 12 — Supplementing the Altar and the Reach of the Scapegoat",
+          "he": "שבועות י״ב — קיץ המזבח והיקפו של שעיר המשתלח"
+        },
+        "parashah": {
+          "en": "Shevuot 12",
+          "he": "שבועות דף 12"
+        },
+        "target_shabbat": "2032-10-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-12/"
+      },
+      {
+        "id": "cycle-15-shevuot-13",
+        "title": {
+          "en": "Shevuot 13 — Does Yom Kippur Atone Without Repentance?",
+          "he": "שבועות י״ג — האם יום הכיפורים מכפר בלא תשובה?"
+        },
+        "parashah": {
+          "en": "Shevuot 13",
+          "he": "שבועות דף 13"
+        },
+        "target_shabbat": "2032-10-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-13/"
+      },
+      {
+        "id": "cycle-15-shevuot-14",
+        "title": {
+          "en": "Shevuot 14 — Awareness of Impurity and the Expansion of the Temple",
+          "he": "שבועות י״ד — ידיעות הטומאה והוספה על העזרות"
+        },
+        "parashah": {
+          "en": "Shevuot 14",
+          "he": "שבועות דף 14"
+        },
+        "target_shabbat": "2032-10-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-14/"
+      },
+      {
+        "id": "cycle-15-shevuot-15",
+        "title": {
+          "en": "Shevuot 15 — Consecrating New Ground: Loaves, Song, and Procession",
+          "he": "שבועות ט״ו — קידוש מקום חדש: לחמים, שיר ותהלוכה"
+        },
+        "parashah": {
+          "en": "Shevuot 15",
+          "he": "שבועות דף 15"
+        },
+        "target_shabbat": "2032-10-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-15/"
+      },
+      {
+        "id": "cycle-15-shevuot-16",
+        "title": {
+          "en": "Shevuot 16 — First Sanctity: For Its Time or Forever?",
+          "he": "שבועות ט״ז — קדושה ראשונה: לשעתה או לעתיד לבוא?"
+        },
+        "parashah": {
+          "en": "Shevuot 16",
+          "he": "שבועות דף 16"
+        },
+        "target_shabbat": "2032-10-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-16/"
+      },
+      {
+        "id": "cycle-15-shevuot-17",
+        "title": {
+          "en": "Shevuot 17 — Tarrying, the Shorter Way, and the Normal Manner of Entering",
+          "he": "שבועות י״ז — שהייה, דרך קצרה ודרך ביאה"
+        },
+        "parashah": {
+          "en": "Shevuot 17",
+          "he": "שבועות דף 17"
+        },
+        "target_shabbat": "2032-10-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-17/"
+      },
+      {
+        "id": "cycle-15-shevuot-18",
+        "title": {
+          "en": "Shevuot 18 — Entry and Withdrawal: The Menstruant and the Two Sin-Offerings",
+          "he": "שבועות י״ח — ביאה ופרישה: נידה ושתי חטאות"
+        },
+        "parashah": {
+          "en": "Shevuot 18",
+          "he": "שבועות דף 18"
+        },
+        "target_shabbat": "2032-10-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-18/"
+      },
+      {
+        "id": "cycle-15-shevuot-19",
+        "title": {
+          "en": "Shevuot 19 — Two Paths, Uncertain Impurity, and the Oath \"I Will Eat\"",
+          "he": "שבועות י״ט — שני שבילים, ידיעת ספק ושבועה \"שאוכל\""
+        },
+        "parashah": {
+          "en": "Shevuot 19",
+          "he": "שבועות דף 19"
+        },
+        "target_shabbat": "2032-10-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-19/"
+      },
+      {
+        "id": "cycle-15-shevuot-20",
+        "title": {
+          "en": "Shevuot 20 — Utterance, Bond, and the Oath Spoken in One Word",
+          "he": "שבועות כ׳ — ביטוי, איסר, ושבועה שנאמרה בדיבור אחד"
+        },
+        "parashah": {
+          "en": "Shevuot 20",
+          "he": "שבועות דף 20"
+        },
+        "target_shabbat": "2032-10-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-20/"
+      },
+      {
+        "id": "cycle-15-shevuot-21",
+        "title": {
+          "en": "Shevuot 21 — Lashes for Oaths and the Measure of \"Any Amount\"",
+          "he": "שבועות כ״א — מלקות על שבועה ושיעור \"כל שהוא\""
+        },
+        "parashah": {
+          "en": "Shevuot 21",
+          "he": "שבועות דף 21"
+        },
+        "target_shabbat": "2032-10-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-21/"
+      },
+      {
+        "id": "cycle-15-shevuot-22",
+        "title": {
+          "en": "Shevuot 22 — Speech That Forbids: Konamot, Dirt, and Drinking as Eating",
+          "he": "שבועות כ״ב — דיבור שאוסר: קונמות, עפר ושתייה בכלל אכילה"
+        },
+        "parashah": {
+          "en": "Shevuot 22",
+          "he": "שבועות דף 22"
+        },
+        "target_shabbat": "2032-10-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-22/"
+      },
+      {
+        "id": "cycle-15-shevuot-23",
+        "title": {
+          "en": "Shevuot 23 — One Oath or Many: Bread, Drinks, and Forbidden Foods",
+          "he": "שבועות כ״ג — שבועה אחת או רבות: פת, משקין ומאכלות אסורות"
+        },
+        "parashah": {
+          "en": "Shevuot 23",
+          "he": "שבועות דף 23"
+        },
+        "target_shabbat": "2032-10-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-23/"
+      },
+      {
+        "id": "cycle-15-shevuot-24",
+        "title": {
+          "en": "Shevuot 24 — When an Oath Takes Hold on What Is Already Forbidden",
+          "he": "שבועות כ״ד — כאשר שבועה חלה על דבר שכבר אסור"
+        },
+        "parashah": {
+          "en": "Shevuot 24",
+          "he": "שבועות דף 24"
+        },
+        "target_shabbat": "2032-10-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-24/"
+      },
+      {
+        "id": "cycle-15-shevuot-25",
+        "title": {
+          "en": "Shevuot 25 — Oaths About Others, About Nothing, and About the Past",
+          "he": "שבועות כ״ה — שבועות על אחרים, על דבר שאין בו ממש ועל העבר"
+        },
+        "parashah": {
+          "en": "Shevuot 25",
+          "he": "שבועות דף 25"
+        },
+        "target_shabbat": "2032-10-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-25/"
+      },
+      {
+        "id": "cycle-15-shevuot-26",
+        "title": {
+          "en": "Shevuot 26 — Schools of Exegesis and the Unwitting Oath",
+          "he": "שבועות כ״ו — בתי מדרש של דרשה ושבועה בשגגה"
+        },
+        "parashah": {
+          "en": "Shevuot 26",
+          "he": "שבועות דף 26"
+        },
+        "target_shabbat": "2032-10-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-26/"
+      },
+      {
+        "id": "cycle-15-shevuot-27",
+        "title": {
+          "en": "Shevuot 27 — Oaths About Mitzvot and Repeated Oaths",
+          "he": "שבועות כ״ז — שבועה על המצווה ושבועה כפולה"
+        },
+        "parashah": {
+          "en": "Shevuot 27",
+          "he": "שבועות דף 27"
+        },
+        "target_shabbat": "2032-10-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-27/"
+      },
+      {
+        "id": "cycle-15-shevuot-28",
+        "title": {
+          "en": "Shevuot 28 — Dissolving an Oath and Conditional Oaths",
+          "he": "שבועות כ״ח — התרת שבועה ושבועה על תנאי"
+        },
+        "parashah": {
+          "en": "Shevuot 28",
+          "he": "שבועות דף 28"
+        },
+        "target_shabbat": "2032-10-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-28/"
+      },
+      {
+        "id": "cycle-15-shevuot-29",
+        "title": {
+          "en": "Shevuot 29 — Vain Oaths, Private Meanings, and Saying Amen",
+          "he": "שבועות כ״ט — שבועת שוא, כוונה פרטית ועניית אמן"
+        },
+        "parashah": {
+          "en": "Shevuot 29",
+          "he": "שבועות דף 29"
+        },
+        "target_shabbat": "2032-10-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-29/"
+      },
+      {
+        "id": "cycle-15-shevuot-30",
+        "title": {
+          "en": "Shevuot 30 — The Oath of Testimony and Fairness in Court",
+          "he": "שבועות ל׳ — שבועת העדות ושוויון בבית הדין"
+        },
+        "parashah": {
+          "en": "Shevuot 30",
+          "he": "שבועות דף 30"
+        },
+        "target_shabbat": "2032-11-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-30/"
+      },
+      {
+        "id": "cycle-15-shevuot-31",
+        "title": {
+          "en": "Shevuot 31 — Keeping Far from Falsehood and Denying Testimony",
+          "he": "שבועות ל״א — להתרחק מדבר שקר ולכפור בעדות"
+        },
+        "parashah": {
+          "en": "Shevuot 31",
+          "he": "שבועות דף 31"
+        },
+        "target_shabbat": "2032-11-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-31/"
+      },
+      {
+        "id": "cycle-15-shevuot-32",
+        "title": {
+          "en": "Shevuot 32 — When a Witness's Denial Costs Money",
+          "he": "שבועות ל״ב — מתי כפירת עד גורמת להפסד ממון"
+        },
+        "parashah": {
+          "en": "Shevuot 32",
+          "he": "שבועות דף 32"
+        },
+        "target_shabbat": "2032-11-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-32/"
+      },
+      {
+        "id": "cycle-15-shevuot-33",
+        "title": {
+          "en": "Shevuot 33 — Monetary Claims, Fines, and Matters Beyond Money",
+          "he": "שבועות ל״ג — תביעת ממון, קנס ודברים שאינם ממון"
+        },
+        "parashah": {
+          "en": "Shevuot 33",
+          "he": "שבועות דף 33"
+        },
+        "target_shabbat": "2032-11-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-33/"
+      },
+      {
+        "id": "cycle-15-shevuot-34",
+        "title": {
+          "en": "Shevuot 34 — Seeing, Knowing, and the Mockery in the West",
+          "he": "שבועות ל״ד — ראייה, ידיעה והליגלוג במערבא"
+        },
+        "parashah": {
+          "en": "Shevuot 34",
+          "he": "שבועות דף 34"
+        },
+        "target_shabbat": "2032-11-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-34/"
+      },
+      {
+        "id": "cycle-15-shevuot-35",
+        "title": {
+          "en": "Shevuot 35 — Names of God, Sacred and Ordinary",
+          "he": "שבועות ל״ה — שמות קודש ושמות חול"
+        },
+        "parashah": {
+          "en": "Shevuot 35",
+          "he": "שבועות דף 35"
+        },
+        "target_shabbat": "2032-11-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-35/"
+      },
+      {
+        "id": "cycle-15-shevuot-36",
+        "title": {
+          "en": "Shevuot 36 — Words That Bind: Ala, Arur, Amen, and the Deposit Oath",
+          "he": "שבועות ל״ו — מילים מחייבות: אלה, ארור, אמן ושבועת הפיקדון"
+        },
+        "parashah": {
+          "en": "Shevuot 36",
+          "he": "שבועות דף 36"
+        },
+        "target_shabbat": "2032-11-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-36/"
+      },
+      {
+        "id": "cycle-15-shevuot-37",
+        "title": {
+          "en": "Shevuot 37 — Forewarning, Witnesses, and Land in the Deposit Oath",
+          "he": "שבועות ל״ז — התראה, עדים וקרקעות בשבועת הפיקדון"
+        },
+        "parashah": {
+          "en": "Shevuot 37",
+          "he": "שבועות דף 37"
+        },
+        "target_shabbat": "2032-11-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-37/"
+      },
+      {
+        "id": "cycle-15-shevuot-38",
+        "title": {
+          "en": "Shevuot 38 — General and Specific Denials and the Oath of the Judges",
+          "he": "שבועות ל״ח — כפירה כללית ופרטית ושבועת הדיינים"
+        },
+        "parashah": {
+          "en": "Shevuot 38",
+          "he": "שבועות דף 38"
+        },
+        "target_shabbat": "2032-11-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-38/"
+      },
+      {
+        "id": "cycle-15-shevuot-39",
+        "title": {
+          "en": "Shevuot 39 — The Warning Before the Oath",
+          "he": "שבועות ל״ט — אזהרת השבועה"
+        },
+        "parashah": {
+          "en": "Shevuot 39",
+          "he": "שבועות דף 39"
+        },
+        "target_shabbat": "2032-11-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-39/"
+      },
+      {
+        "id": "cycle-15-shevuot-40",
+        "title": {
+          "en": "Shevuot 40 — Value or Coin, Wheat and Barley, and the Oath of Inducement",
+          "he": "שבועות מ׳ — שווי או מטבע, חטים ושעורים ושבועת היסת"
+        },
+        "parashah": {
+          "en": "Shevuot 40",
+          "he": "שבועות דף 40"
+        },
+        "target_shabbat": "2032-11-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-40/"
+      },
+      {
+        "id": "cycle-15-shevuot-41",
+        "title": {
+          "en": "Shevuot 41 — Torah Oath and Rabbinic Oath, and Repayment Before Witnesses",
+          "he": "שבועות מ״א — שבועה דאורייתא ושבועה דרבנן ופירעון בפני עדים"
+        },
+        "parashah": {
+          "en": "Shevuot 41",
+          "he": "שבועות דף 41"
+        },
+        "target_shabbat": "2032-11-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-41/"
+      },
+      {
+        "id": "cycle-15-shevuot-42",
+        "title": {
+          "en": "Shevuot 42 — Trust, the Heir's Claim, and Property Exempt from Oaths",
+          "he": "שבועות מ״ב — נאמנות, טענת היורש ונכסים שאין נשבעים עליהם"
+        },
+        "parashah": {
+          "en": "Shevuot 42",
+          "he": "שבועות דף 42"
+        },
+        "target_shabbat": "2032-11-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-42/"
+      },
+      {
+        "id": "cycle-15-shevuot-43",
+        "title": {
+          "en": "Shevuot 43 — Measured Claims and the Lost Collateral",
+          "he": "שבועות מ״ג — תביעה במידה ומשכון שאבד"
+        },
+        "parashah": {
+          "en": "Shevuot 43",
+          "he": "שבועות דף 43"
+        },
+        "target_shabbat": "2032-11-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-43/"
+      },
+      {
+        "id": "cycle-15-shevuot-44",
+        "title": {
+          "en": "Shevuot 44 — The Creditor's Hold on Collateral and Those Who Swear and Collect",
+          "he": "שבועות מ״ד — קניין המלווה במשכון והנשבעים ונוטלים"
+        },
+        "parashah": {
+          "en": "Shevuot 44",
+          "he": "שבועות דף 44"
+        },
+        "target_shabbat": "2032-11-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-44/"
+      },
+      {
+        "id": "cycle-15-shevuot-45",
+        "title": {
+          "en": "Shevuot 45 — The Worker's Oath and Its Rationale",
+          "he": "שבועות מ״ה — שבועת השכיר וטעמה"
+        },
+        "parashah": {
+          "en": "Shevuot 45",
+          "he": "שבועות דף 45"
+        },
+        "target_shabbat": "2032-11-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-45/"
+      },
+      {
+        "id": "cycle-15-shevuot-46",
+        "title": {
+          "en": "Shevuot 46 — Fixed Wages, the Intruder, and the Bitten Back",
+          "he": "שבועות מ״ו — קציצת שכר, הנכנס למשכן והנשוך בגבו"
+        },
+        "parashah": {
+          "en": "Shevuot 46",
+          "he": "שבועות דף 46"
+        },
+        "target_shabbat": "2032-11-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-46/"
+      },
+      {
+        "id": "cycle-15-shevuot-47",
+        "title": {
+          "en": "Shevuot 47 — When Both Are Suspect: Where Does the Oath Return?",
+          "he": "שבועות מ״ז — כששניהם חשודים: לאן חוזרת השבועה?"
+        },
+        "parashah": {
+          "en": "Shevuot 47",
+          "he": "שבועות דף 47"
+        },
+        "target_shabbat": "2032-11-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-47/"
+      },
+      {
+        "id": "cycle-15-shevuot-48",
+        "title": {
+          "en": "Shevuot 48 — An Oath One Cannot Bequeath",
+          "he": "שבועות מ״ח — אין אדם מוריש שבועה לבניו"
+        },
+        "parashah": {
+          "en": "Shevuot 48",
+          "he": "שבועות דף 48"
+        },
+        "target_shabbat": "2032-11-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-48/"
+      },
+      {
+        "id": "cycle-15-shevuot-49",
+        "title": {
+          "en": "Shevuot 49 — The Four Bailees and the Close of the Tractate",
+          "he": "שבועות מ״ט — ארבעה שומרים וסיום המסכת"
+        },
+        "parashah": {
+          "en": "Shevuot 49",
+          "he": "שבועות דף 49"
+        },
+        "target_shabbat": "2032-11-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-49/"
       }
     ],
     "calendar": {
@@ -48370,197 +49042,197 @@
     ]
   },
   "qa": {
-    "release": "v1-356acb46365a6eac5810f266",
-    "total": 71027,
+    "release": "v1-ff19f08c730db34bc7aa8889",
+    "total": 71030,
     "cards": [
       {
-        "id": "ye-63724",
-        "title": "What is the proper protocol for breaking a shidduch?",
+        "id": "ye-65876",
+        "title": "Lubavitcher Rebbe on Techelet from Murex trunculus",
         "titles": {
-          "en": "What is the proper protocol for breaking a shidduch?",
+          "en": "Lubavitcher Rebbe on Techelet from Murex trunculus",
           "he": ""
         },
         "language": "en",
-        "question": "You are set up a shidduch and you go out for a few dates. It doesn't work out. What do you do? Is there a difference if you go on a few dates or if you go on many? Should you provide a reason or shoul",
-        "answer": "call the shadchan and let him/her you know you are not interested in th person you were introduced to and why. The only reason it is important to say why is so then the shadchan has a better understanding of who to set you up with next. A big part of",
+        "question": "Did the Lubavitcher Rebbe (Rav Menachem Mendel Schneerson) say anything about wearing Techelet made from the Murex trunculus (as claimed by Ptil Tekhelet to be the correct Halachic Tekhelet) nowadays?",
+        "answer": "Actually, the Rebbe, Rabbi Menachem Mendel Schneerson, did give a response which can be found in his Igrot Kodesh when he was asked in the 1960's (might have been early 1970's). He said that he had nothing to add to the response of the Rebbe Rashab, ",
+        "answer_count": 7,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-65876",
+        "source_url": "https://judaism.stackexchange.com/questions/65876/lubavitcher-rebbe-on-techelet-from-murex-trunculus",
+        "author": "Yaacov Deane",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-47964",
+        "title": "Is is prefered to have the Pasach meal on the first or second night?",
+        "titles": {
+          "en": "Is is prefered to have the Pasach meal on the first or second night?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I remember being told that the Seder can be on either the first or second night. Is this true, and if so, is it prefered for it to take place on one over the other, or are they both equal? Edit: The t",
+        "answer": "In Israel, only the first night is a full holiday, and as such, the Seder is only ever on the first night. In the Diaspora, both the first and second nights are full holidays. The Seder should be done on both nights. If, for some reason, someone is r",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-63724",
-        "source_url": "https://judaism.stackexchange.com/questions/63724/what-is-the-proper-protocol-for-breaking-a-shidduch",
-        "author": "Dude",
+        "url": "https://shekhina.org/qa.html?id=ye-47964",
+        "source_url": "https://judaism.stackexchange.com/questions/47964/is-is-prefered-to-have-the-pasach-meal-on-the-first-or-second-night",
+        "author": "Scimonster",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-44898",
-        "title": "Are there Jews not following the rabbinic laws?",
+        "id": "ye-29721",
+        "title": "Is the child of a convert, conceived after she converted, Jewish?",
         "titles": {
-          "en": "Are there Jews not following the rabbinic laws?",
+          "en": "Is the child of a convert, conceived after she converted, Jewish?",
           "he": ""
         },
         "language": "en",
-        "question": "Trying to learn about Judaism more I have been reading this StackExchange for the past few months. As a non-Jew using the correct terminology is a bit hard, so please do feel more than free to edit th",
-        "answer": "The most famous instance of Jews choosing to follow only the written Torah without the oral rabbinic interpretations would be the Karaites who flourished from about 760 CE to 1100 CE. Today their numbers are relatively small. Wikipedia gives a worldw",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-44898",
-        "source_url": "https://judaism.stackexchange.com/questions/44898/are-there-jews-not-following-the-rabbinic-laws",
-        "author": "Mike",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
-      },
-      {
-        "id": "ye-27872",
-        "title": "Kohen flying over a cemetery?",
-        "titles": {
-          "en": "Kohen flying over a cemetery?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Is there a problem with a kohen flying in an airplane that may fly over a Jewish cemetery? If so, how can a kohen be sure that a flight does not go over a Jewish cemetery?",
-        "answer": "There are a number of issues: A flying object/tent is not considered a tent to separate. Something that is Mekabel Tum'ah cannot separate. A Kohen may not put himself in a circumstance of Tum'ah upon which a Nazir would have to shave and start over N",
+        "question": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? I understand that non-Jewish mothers with Jewish husbands do not have Jewish children ",
+        "answer": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? Yes. Children of a Jewish mother are Jewish, regardless. If mom converted she's Jewish. (A child who was in the mother's womb when mom c",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-27872",
-        "source_url": "https://judaism.stackexchange.com/questions/27872/kohen-flying-over-a-cemetery",
-        "author": "Meir Zirkind",
+        "url": "https://shekhina.org/qa.html?id=ye-29721",
+        "source_url": "https://judaism.stackexchange.com/questions/29721/is-the-child-of-a-convert-conceived-after-she-converted-jewish",
+        "author": "Shalom",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-10873",
-        "title": "Where can I find examples of R. Yishmael's 13 talmudic rules?",
+        "id": "ye-13311",
+        "title": "When was Moshe conceived?",
         "titles": {
-          "en": "Where can I find examples of R. Yishmael's 13 talmudic rules?",
+          "en": "When was Moshe conceived?",
           "he": ""
         },
         "language": "en",
-        "question": "We read Rabbi Yishmael's 13 principles of interpreting torah in the shacharit service and many of the explanations seem fairly straightforward, but I am not a very advanced student and I find I don't ",
-        "answer": "The Artscroll siddur has a short example on each one. Here are the examples given: Kal Vachomer - If a lenient case has a stringency, a stringent case should have a stringency. An example would be if on Yom-Tov one cannot pick an apple (even though o",
-        "answer_count": 7,
+        "question": "We know that Amram and Yocheved (Moshe and Miriam's parents) divorced so as not to give birth to baby boys and Miriam explained to them that they should get remarried because not only are they killing",
+        "answer": "According to Shemos Rabba 1:13 , Yocheved was three months pregnant with Moshe when Amram divorced her. רבי חנינא בר רב יצחק אמר: שפרה, שהעמידה ישראל לאלהים, שבשבילם נבראו השמים, שכתוב בהם (איוב כו, יג) ברוחו שמים. שפרה, פועה, שהופיעה פנים כנגד אביה,",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-10873",
-        "source_url": "https://judaism.stackexchange.com/questions/10873/where-can-i-find-examples-of-r-yishmaels-13-talmudic-rules",
-        "author": "ertert3terte",
+        "url": "https://shekhina.org/qa.html?id=ye-13311",
+        "source_url": "https://judaism.stackexchange.com/questions/13311/when-was-moshe-conceived",
+        "author": "josh waxman",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "up-chabad-1579624",
-        "title": "Do the Cups have to be Kosher?",
+        "id": "up-chabad-6318051",
+        "title": "Why Is Kaddish Said for 11 Months?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Dear Rabbi, I am sleeping over at the home of someone who does not keep the kosher dietary laws. May I use their cups to do the ritual hand washing and to drink from? Or do the cups have to be kosher?",
+        "question": "Question: I recently lost my mom and started saying Kaddish for her. I joined a local Chabad, which embraced me with open arms, and I’m so thankful for that. I just found out that we don’t say Kaddish",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-1579624",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/1579624/jewish/Do-the-Cups-have-to-be-Kosher.htm",
-        "author": "Zalman Nelson",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-6318051",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/6318051/jewish/Why-Is-Kaddish-Said-for-11-Months.htm",
+        "author": "Yehuda Shurpin",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-133548",
-        "title": "Is it worse to gaze at a Jewish woman or a non-Jewish woman?",
+        "id": "ye-136142",
+        "title": "Heat of the sun",
         "titles": {
-          "en": "Is it worse to gaze at a Jewish woman or a non-Jewish woman?",
+          "en": "Heat of the sun",
           "he": ""
         },
         "language": "en",
-        "question": "I know that these are obviously both bad and would presumably fall under gilui arayos, but which is worse?",
-        "answer": "Based on my limited understanding of the halachot, if we are talking about adults, then it is a mitzva d'oraita 1 to not gaze at them, whether it be lustfully or simply to enjoy their beauty. It doesn't matter if they are Jewish or not Jewish 2 . If ",
+        "question": "In ספר הברית השלם, authored by פינחס אליהו בן מאיר הורביץ, he writes that there are akhronim who say that the sun possesses no heat ( p. 50 ): ושקר אמרו שהמה מורכבים מארבעה יסודות וגשמיים כמו עולם הזה",
+        "answer": "This was a once extant view in the medieval era. In the Foundations of Modern Science in the Medieval Era (pp. 109-110) Edward Grant explains: The celestial spheres, as we saw, were assumed to be composed of an incorruptible ether whose properties co",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-133548",
-        "source_url": "https://judaism.stackexchange.com/questions/133548/is-it-worse-to-gaze-at-a-jewish-woman-or-a-non-jewish-woman",
-        "author": "Rabbi Kaii",
+        "url": "https://shekhina.org/qa.html?id=ye-136142",
+        "source_url": "https://judaism.stackexchange.com/questions/136142/heat-of-the-sun",
+        "author": "Deuteronomy",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-114445",
-        "title": "Word count methods",
+        "id": "ye-117973",
+        "title": "Why don't newborns speak? Why do we need to learn a language?",
         "titles": {
-          "en": "Word count methods",
+          "en": "Why don't newborns speak? Why do we need to learn a language?",
           "he": ""
         },
         "language": "en",
-        "question": "I asked a question about the orthography of two words in the last chapter of the Shema, and I started to wonder, whether the presence of a maqaf mattered with respect to word count. And if you actuall",
-        "answer": "With Psalm 67, the extra four words you're seeing are verse 1, which is the caption, and isn't counted towards the total. Indeed, any siddur that has these words for the respective days of Sefiras Haomer begins with אלקים, the first word of verse 2, ",
+        "question": "In our dualistic approach, the soul is one that possesses the knowledge of a/the language (not clear to me if all souls speak Hebrew or just 70, like the angels or just any language) AFAIC, the soul c",
+        "answer": "The Chovos Halovos (no longer remember where)says that babies are born with no intelligence because it would be devastating for them to realize how helpless they are. Without intelligence there is no reason for them to speak. Adults say enough foolis",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-117973",
+        "source_url": "https://judaism.stackexchange.com/questions/117973/why-dont-newborns-speak-why-do-we-need-to-learn-a-language",
+        "author": "Schmerel",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-98411",
+        "title": "A list of all the miracles associated with the Man (Manna)",
+        "titles": {
+          "en": "A list of all the miracles associated with the Man (Manna)",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Ibn Ezra on Sh'mot 16:35 writes נסים רבים היו במן I know of some of the many miracles associated with the mon but is there a complete list anywhere with citations and sources ? So far here are wha",
+        "answer": "Here's one for you that I didn't see anybody mentioning because of their lack of \"scientifical\" knowledge. The Man that was not finished: \"וְלֹא־שָׁמְעוּ אֶל־מֹשֶׁה וַיּוֹתִרוּ אֲנָשִׁים מִמֶּנּוּ עַד־בֹּקֶר וַיָּרֻם תּוֹלָעִים וַיִּבְאַשׁ ...׃ But t",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-114445",
-        "source_url": "https://judaism.stackexchange.com/questions/114445/word-count-methods",
-        "author": "Meir",
+        "url": "https://shekhina.org/qa.html?id=ye-98411",
+        "source_url": "https://judaism.stackexchange.com/questions/98411/a-list-of-all-the-miracles-associated-with-the-man-manna",
+        "author": "Al Berko",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-95935",
-        "title": "What blessing is recited before eating hearts of palm?",
+        "id": "ye-82978",
+        "title": "Are there any minhagim which people do on shavous night as a substitute for staying up all night?",
         "titles": {
-          "en": "What blessing is recited before eating hearts of palm?",
+          "en": "Are there any minhagim which people do on shavous night as a substitute for staying up all night?",
           "he": ""
         },
         "language": "en",
-        "question": "What blessing is recited before eating hearts of palm and what are the reasons behind the different opinions?",
-        "answer": "According to the Star K the proper Bracha is Ho'etz. http://www.star-k.org/cons-faqs-issues.htm#bracha2 The Sefer V’zot Haberacha’s ruling is that they are Ha’adoma. Rav Bodner [of the Laws of Brochos] makes a distinction between cultivated and wildl",
-        "answer_count": 4,
+        "question": "Are there any minhagim which people do on shavous night as a substitute for staying up all night? I just want to know if this type of minhag exists or existed.",
+        "answer": "I saw it brought down in the שפתי חן on shavuos that some Rebbes make a tish on the first night in lieu of saying the tikkun leil shavuos because תערוך לפני שלחן has the same roshei teivos as תיקון ליל שבועות Edit: it's seems that according to that m",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-95935",
-        "source_url": "https://judaism.stackexchange.com/questions/95935/what-blessing-is-recited-before-eating-hearts-of-palm",
-        "author": "SimchasTorah",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
-      },
-      {
-        "id": "ye-80513",
-        "title": "Is 'them' in Psalm 12:7 about people, or is it about God's words",
-        "titles": {
-          "en": "Is 'them' in Psalm 12:7 about people, or is it about God's words",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I've provided the King James Version translation of the entire Psalm 12 below: > 1. {To the chief Musician upon Sheminith, A Psalm of David.} Help, LORD; for the godly man ceaseth; for the faithful fa",
-        "answer": "Your verse count is off as you are combining the first two sentences into one. The translation is Tehillim 12:8 אַתָּה יְהֹוָה תִּשְׁמְרֵם תִּצְּרֶנּוּ | מִן הַדּוֹר זוּ לְעוֹלָם You, O Lord, shall guard them; You shall guard him from this generation",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-80513",
-        "source_url": "https://judaism.stackexchange.com/questions/80513/is-them-in-psalm-127-about-people-or-is-it-about-gods-words",
-        "author": "sabbahillel",
+        "url": "https://shekhina.org/qa.html?id=ye-82978",
+        "source_url": "https://judaism.stackexchange.com/questions/82978/are-there-any-minhagim-which-people-do-on-shavous-night-as-a-substitute-for-stay",
+        "author": "Jew-Duh",
         "author_url": null,
         "license": "CC BY-SA 3.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "ye-2021052715005790",
@@ -48581,7 +49253,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "ye-20180920981423",
@@ -48602,7 +49274,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "ye-144153",
@@ -48623,7 +49295,7 @@
         "author": "מכון התורה והארץ",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "ye-137059",
@@ -48644,7 +49316,7 @@
         "author": "Harel13",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "din-url-95ff6ef6a6c5b2b29cde38b3",
@@ -48665,7 +49337,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "up-din-495098",
@@ -48686,7 +49358,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "ye-153267",
@@ -48707,7 +49379,7 @@
         "author": "",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "up-din-20170720073508",
@@ -48728,7 +49400,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
         "id": "up-din-201605106879343",
@@ -48749,7 +49421,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-356acb46365a6eac5810f266"
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
       }
     ]
   }
