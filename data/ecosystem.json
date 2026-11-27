@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-26T21:28:18Z",
+  "checked_at": "2026-11-27T08:22:37Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "daf": {
+    "music": {
       "state": "ok",
-      "checked_at": "2026-11-26T21:28:18Z"
+      "checked_at": "2026-11-27T08:22:37Z"
     },
     "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-26T21:28:18Z"
+      "checked_at": "2026-11-27T08:22:37Z"
     },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-26T21:28:18Z"
+      "checked_at": "2026-11-27T08:22:37Z"
     },
-    "music": {
+    "daf": {
       "state": "ok",
-      "checked_at": "2026-11-26T21:28:18Z"
+      "checked_at": "2026-11-27T08:22:37Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-26T21:28:18Z"
+      "checked_at": "2026-11-27T08:22:37Z"
     }
   },
   "music": [
@@ -49046,378 +49046,378 @@
     "total": 71030,
     "cards": [
       {
-        "id": "ye-65876",
-        "title": "Lubavitcher Rebbe on Techelet from Murex trunculus",
+        "id": "ye-65821",
+        "title": "Do communal and individual prayers correspond to different sacrifices?",
         "titles": {
-          "en": "Lubavitcher Rebbe on Techelet from Murex trunculus",
+          "en": "Do communal and individual prayers correspond to different sacrifices?",
           "he": ""
         },
         "language": "en",
-        "question": "Did the Lubavitcher Rebbe (Rav Menachem Mendel Schneerson) say anything about wearing Techelet made from the Murex trunculus (as claimed by Ptil Tekhelet to be the correct Halachic Tekhelet) nowadays?",
-        "answer": "Actually, the Rebbe, Rabbi Menachem Mendel Schneerson, did give a response which can be found in his Igrot Kodesh when he was asked in the 1960's (might have been early 1970's). He said that he had nothing to add to the response of the Rebbe Rashab, ",
-        "answer_count": 7,
+        "question": "Prayer, in general, is compared to the sacrifices that were offered in the Temple, as alluded to in Hoshea 14:3 . But, halacha distinguishes between the prayers of an individual (תפלה ביחיד) and the p",
+        "answer": "Rav Yosef Dov Ber Soloveitchik mentions this topic in the essay פסוקי דזמרה in volume 2 of שעורים לזכר אבא מרי ז״ל ( pages 36-38 ). He asks: Since we say that required prayer (תפילת חובה) corresponds to bringing the tamid offering (קרבן תמיד), and th",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-65821",
+        "source_url": "https://judaism.stackexchange.com/questions/65821/do-communal-and-individual-prayers-correspond-to-different-sacrifices",
+        "author": "magicker72",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-47936",
+        "title": "What is the Orthodox Jewish view of the afterlife?",
+        "titles": {
+          "en": "What is the Orthodox Jewish view of the afterlife?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "What is the nature of life after death, according to Orthodox Judaism as it exists today? I have tried to read up on this, but I often hear very conflicted views... I mean I once read that Sheol is ak",
+        "answer": "Orthodox Judaism believes in Heaven (Gan Eden or Olam HaBa) and Purgatory (Gehenna or Gehinom). Hell isn't the right word, because Gehenna (Purgatory) isn't permanent. Kaddish is only said for less than a year for the dead because we presume they won",
+        "answer_count": 5,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-47936",
+        "source_url": "https://judaism.stackexchange.com/questions/47936/what-is-the-orthodox-jewish-view-of-the-afterlife",
+        "author": "user7332",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-29693",
+        "title": "How did Avraham discover that God exists?",
+        "titles": {
+          "en": "How did Avraham discover that God exists?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "How did Avraham discover that God exists? Was because of logic or tradition since Adam? If was by logic, why do we call him Ivri (from Ever, his grandfather). Please bring sources.",
+        "answer": "There is a midrash in Bereshit Rabbah 39 where Avraham deduces the existence of God who created the world, and only then did God call out to Avraham lech l'cha . A summary of the midrash from my notes after a class : Mashal: One day a man was traveli",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-65876",
-        "source_url": "https://judaism.stackexchange.com/questions/65876/lubavitcher-rebbe-on-techelet-from-murex-trunculus",
-        "author": "Yaacov Deane",
+        "url": "https://shekhina.org/qa.html?id=ye-29693",
+        "source_url": "https://judaism.stackexchange.com/questions/29693/how-did-avraham-discover-that-god-exists",
+        "author": "Monica Cellio",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-47964",
-        "title": "Is is prefered to have the Pasach meal on the first or second night?",
+        "id": "ye-13278",
+        "title": "Why was the Mishna written in Hebrew while the Gemara wasn't?",
         "titles": {
-          "en": "Is is prefered to have the Pasach meal on the first or second night?",
+          "en": "Why was the Mishna written in Hebrew while the Gemara wasn't?",
           "he": ""
         },
         "language": "en",
-        "question": "I remember being told that the Seder can be on either the first or second night. Is this true, and if so, is it prefered for it to take place on one over the other, or are they both equal? Edit: The t",
-        "answer": "In Israel, only the first night is a full holiday, and as such, the Seder is only ever on the first night. In the Diaspora, both the first and second nights are full holidays. The Seder should be done on both nights. If, for some reason, someone is r",
+        "question": "By the time of the Mishna, people speaking in Aramaic on a day-to-day basis. Nonetheless, R' Yehuda Hanasi wrote the Mishna in Hebrew. So were the Toseftas and the Braisos. Why? On the other hand, the",
+        "answer": "Aside from the excellent points that SethJ made in the comments here and to the other related question, we do find R. Yehudah Hanassi himself disparaging the use of Aramaic: \"Rebbi says: in the Land of Israel, why use Syriac [= Aramaic, see Rashi and",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-47964",
-        "source_url": "https://judaism.stackexchange.com/questions/47964/is-is-prefered-to-have-the-pasach-meal-on-the-first-or-second-night",
-        "author": "Scimonster",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-29721",
-        "title": "Is the child of a convert, conceived after she converted, Jewish?",
-        "titles": {
-          "en": "Is the child of a convert, conceived after she converted, Jewish?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? I understand that non-Jewish mothers with Jewish husbands do not have Jewish children ",
-        "answer": "If a woman converted before she conceived any children are they considered Jewish? Even with a non-Jewish father? Yes. Children of a Jewish mother are Jewish, regardless. If mom converted she's Jewish. (A child who was in the mother's womb when mom c",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
+        "category": "talmud",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-29721",
-        "source_url": "https://judaism.stackexchange.com/questions/29721/is-the-child-of-a-convert-conceived-after-she-converted-jewish",
-        "author": "Shalom",
+        "url": "https://shekhina.org/qa.html?id=ye-13278",
+        "source_url": "https://judaism.stackexchange.com/questions/13278/why-was-the-mishna-written-in-hebrew-while-the-gemara-wasnt",
+        "author": "Alex",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-13311",
-        "title": "When was Moshe conceived?",
-        "titles": {
-          "en": "When was Moshe conceived?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "We know that Amram and Yocheved (Moshe and Miriam's parents) divorced so as not to give birth to baby boys and Miriam explained to them that they should get remarried because not only are they killing",
-        "answer": "According to Shemos Rabba 1:13 , Yocheved was three months pregnant with Moshe when Amram divorced her. רבי חנינא בר רב יצחק אמר: שפרה, שהעמידה ישראל לאלהים, שבשבילם נבראו השמים, שכתוב בהם (איוב כו, יג) ברוחו שמים. שפרה, פועה, שהופיעה פנים כנגד אביה,",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-13311",
-        "source_url": "https://judaism.stackexchange.com/questions/13311/when-was-moshe-conceived",
-        "author": "josh waxman",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "up-chabad-6318051",
-        "title": "Why Is Kaddish Said for 11 Months?",
+        "id": "up-chabad-623280",
+        "title": "Coping with the Loss of a Grandchild",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: I recently lost my mom and started saying Kaddish for her. I joined a local Chabad, which embraced me with open arms, and I’m so thankful for that. I just found out that we don’t say Kaddish",
+        "question": "Question: My beautiful adolescent grandchild was recently killed in a terrible accident. This is actually the second grandchild I've lost. Please tell me how I'm supposed to be happy?",
         "answer": "",
         "answer_count": 1,
         "provider": "chabad",
-        "category": "halacha",
+        "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-6318051",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/6318051/jewish/Why-Is-Kaddish-Said-for-11-Months.htm",
-        "author": "Yehuda Shurpin",
+        "url": "https://shekhina.org/qa.html?id=up-chabad-623280",
+        "source_url": "https://www.chabad.org/library/article_cdo/aid/623280/jewish/Coping-with-the-Loss-of-a-Grandchild.htm",
+        "author": "Chana Weisberg",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-136142",
-        "title": "Heat of the sun",
+        "id": "ye-136108",
+        "title": "Maps/blueprints of the interior of the Temple Mount",
         "titles": {
-          "en": "Heat of the sun",
+          "en": "Maps/blueprints of the interior of the Temple Mount",
           "he": ""
         },
         "language": "en",
-        "question": "In ספר הברית השלם, authored by פינחס אליהו בן מאיר הורביץ, he writes that there are akhronim who say that the sun possesses no heat ( p. 50 ): ושקר אמרו שהמה מורכבים מארבעה יסודות וגשמיים כמו עולם הזה",
-        "answer": "This was a once extant view in the medieval era. In the Foundations of Modern Science in the Medieval Era (pp. 109-110) Edward Grant explains: The celestial spheres, as we saw, were assumed to be composed of an incorruptible ether whose properties co",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-136142",
-        "source_url": "https://judaism.stackexchange.com/questions/136142/heat-of-the-sun",
-        "author": "Deuteronomy",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-117973",
-        "title": "Why don't newborns speak? Why do we need to learn a language?",
-        "titles": {
-          "en": "Why don't newborns speak? Why do we need to learn a language?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "In our dualistic approach, the soul is one that possesses the knowledge of a/the language (not clear to me if all souls speak Hebrew or just 70, like the angels or just any language) AFAIC, the soul c",
-        "answer": "The Chovos Halovos (no longer remember where)says that babies are born with no intelligence because it would be devastating for them to realize how helpless they are. Without intelligence there is no reason for them to speak. Adults say enough foolis",
+        "question": "I am looking for resources that have maps and/or blueprints of the interior of the Temple Mount. For example, showing the various tunnel systems, stairs, gates, chambers, etc. I would even appreciate ",
+        "answer": "You might want to consider looking at the works of Leen Ritmeyer who is a leading expert on the subject matter. His book The Quest is a good overview on the topic, and he created a detailed map of the Temple Mount here that was featured in National G",
         "answer_count": 2,
         "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-117973",
-        "source_url": "https://judaism.stackexchange.com/questions/117973/why-dont-newborns-speak-why-do-we-need-to-learn-a-language",
-        "author": "Schmerel",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-136108",
+        "source_url": "https://judaism.stackexchange.com/questions/136108/maps-blueprints-of-the-interior-of-the-temple-mount",
+        "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-98411",
-        "title": "A list of all the miracles associated with the Man (Manna)",
+        "id": "ye-117926",
+        "title": "What is the original source for Yahrtzeit customs?",
         "titles": {
-          "en": "A list of all the miracles associated with the Man (Manna)",
+          "en": "What is the original source for Yahrtzeit customs?",
           "he": ""
         },
         "language": "en",
-        "question": "The Ibn Ezra on Sh'mot 16:35 writes נסים רבים היו במן I know of some of the many miracles associated with the mon but is there a complete list anywhere with citations and sources ? So far here are wha",
-        "answer": "Here's one for you that I didn't see anybody mentioning because of their lack of \"scientifical\" knowledge. The Man that was not finished: \"וְלֹא־שָׁמְעוּ אֶל־מֹשֶׁה וַיּוֹתִרוּ אֲנָשִׁים מִמֶּנּוּ עַד־בֹּקֶר וַיָּרֻם תּוֹלָעִים וַיִּבְאַשׁ ...׃ But t",
+        "question": "There are various customs and even halachot associated with yahrtzeits, such as saying kaddish, getting called to Torah, lighting candles, fasting, serving as a prayer leader, giving charity, arrangin",
+        "answer": "Nitei Gavriel Aveilus2 75:1:1 brings the following sources for Yarzheit candles. Minhagei Vermaisha Volume 2, Page 112 Maharshal Chapter 46 Magen Avraham 261:6 Nachalas Shiva Chapter 73 Kitzur Shulchan Aruch 221:1 Mishmeres Shalom Note 10:10 Gesher H",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "general",
+        "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-98411",
-        "source_url": "https://judaism.stackexchange.com/questions/98411/a-list-of-all-the-miracles-associated-with-the-man-manna",
-        "author": "Al Berko",
+        "url": "https://shekhina.org/qa.html?id=ye-117926",
+        "source_url": "https://judaism.stackexchange.com/questions/117926/what-is-the-original-source-for-yahrtzeit-customs",
+        "author": "Gershon Gold",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-82978",
-        "title": "Are there any minhagim which people do on shavous night as a substitute for staying up all night?",
+        "id": "ye-98369",
+        "title": "English version of Me'am Lo'ez on the internet",
         "titles": {
-          "en": "Are there any minhagim which people do on shavous night as a substitute for staying up all night?",
+          "en": "English version of Me'am Lo'ez on the internet",
           "he": ""
         },
         "language": "en",
-        "question": "Are there any minhagim which people do on shavous night as a substitute for staying up all night? I just want to know if this type of minhag exists or existed.",
-        "answer": "I saw it brought down in the שפתי חן on shavuos that some Rebbes make a tish on the first night in lieu of saying the tikkun leil shavuos because תערוך לפני שלחן has the same roshei teivos as תיקון ליל שבועות Edit: it's seems that according to that m",
+        "question": "Rabbi Yehoshua Zitron suggested that I study Me'am Lo'ez as a beginner. Is there a version of Midrash Me'am Lo'ez on the internet in English?",
+        "answer": "You can listen to it in English - mp3 format - here .",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "halacha",
+        "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-82978",
-        "source_url": "https://judaism.stackexchange.com/questions/82978/are-there-any-minhagim-which-people-do-on-shavous-night-as-a-substitute-for-stay",
-        "author": "Jew-Duh",
+        "url": "https://shekhina.org/qa.html?id=ye-98369",
+        "source_url": "https://judaism.stackexchange.com/questions/98369/english-version-of-meam-loez-on-the-internet",
+        "author": "Danny Schoemann",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
+        "license": "CC BY-SA 4.0",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "ye-2021052715005790",
-        "title": "כשרות הצללת פרגולה לסוכה",
+        "id": "ye-82937",
+        "title": "Why did the R' Akiva marry the wife of Tyrannus Rufus?",
+        "titles": {
+          "en": "Why did the R' Akiva marry the wife of Tyrannus Rufus?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The gemara in Avodah zara 20a brings a Baraisa that says, ואף רבי עקיבא ראה אשת טורנוסרופוס הרשע רק שחק ובכה רק שהיתה באה מטיפה סרוחה שחק דעתידה דמגיירא ונסיב לה בכה דהאי שופרא בלי עפרא We know that T",
+        "answer": "R' Yonasan Eibeschutz ( Yaaros Devash ) cites the Arizal as saying that R. Akiva was a gilgul of Zimri, and Mrs. Rufus of Kozbi. So he married her after she converted, thereby correcting the mistake made by that earlier pair (where Zimri consorted wi",
+        "answer_count": 4,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-82937",
+        "source_url": "https://judaism.stackexchange.com/questions/82937/why-did-the-r-akiva-marry-the-wife-of-tyrannus-rufus",
+        "author": "Meir",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-202010211014346",
+        "title": "ארבעת המינים אחרי החג",
         "titles": {
           "en": "",
-          "he": "כשרות הצללת פרגולה לסוכה"
+          "he": "ארבעת המינים אחרי החג"
         },
         "language": "he",
-        "question": "היה טוב אם הייתי יכולה להוסיף תמונה.. רציתי לשאול האם פרגולה מפסי עץ דקים יכולים להיות כשרים לסוכה? זה תלוו בריווח ביניהם? מקוה שנשאלה מובנת. תודה שלום וברכה אין צורך להוסיף תמונה זה מוכר… אכן זה מאוד",
+        "question": "שלום וברכה.מה הכדאי לעשות עם ארבעת המינים והערבות החבוטות? זה אצלי מסוף החג ואני מתלבט מה עושים עם זה ומה נהוג. תודה! את הלולב עם ההדסים והערבות נהגו לשמור עד שריפת חמץ, ולשורפם יחד עם החמץ. זו גם סגו",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "talmud",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-2021052715005790",
-        "source_url": "https://din.org.il/2021/05/27/%d7%9b%d7%a9%d7%a8%d7%95%d7%aa-%d7%94%d7%a6%d7%9c%d7%9c%d7%aa-%d7%a4%d7%a8%d7%92%d7%95%d7%9c%d7%94-%d7%9c%d7%a1%d7%95%d7%9b%d7%94/",
-        "author": "הרב ירוחם ארלנגר‎",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-20180920981423",
-        "title": "קרי ביום כיפור",
-        "titles": {
-          "en": "",
-          "he": "קרי ביום כיפור"
-        },
-        "language": "he",
-        "question": "הרב בערב יום הכיפורים יצא לי ניראלי קרי לילה ניראלי וניסתי כול אותו יום לישמור על העיינים וזה ושמעתי שאם יוצא בכיפור קרי זה לא טוב שלום רב מה שאמרו חז”ל שהרואה קרי דואג כל השנה הוא רק כשרואה לאונסו, א",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-20180920981423",
-        "source_url": "https://din.org.il/2018/09/20/%d7%a7%d7%a8%d7%99-%d7%91%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-2/",
-        "author": "הרב ירוחם ארלנגר‎",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-144153",
-        "title": "גילוח שיער ברגליים לצורך תרגול",
-        "titles": {
-          "en": "",
-          "he": "גילוח שיער ברגליים לצורך תרגול"
-        },
-        "language": "he",
-        "question": "שלום הרב! אני ספר מתחיל, וצריך לתרגל את השימוש בתער. על שיער הראש אני לא יכול לתרגל, לא על עצמי ולא על אחרים(-מכיוון שיראו את הטעויות שלי), ורציתי לתרגל בתער על שיער הרגליים שלי. לא לצורך יופי, שזה וד",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-144153",
-        "source_url": "https://www.yeshiva.org.il/ask/144153",
-        "author": "מכון התורה והארץ",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-137059",
-        "title": "What’s the deal with צרויה?",
-        "titles": {
-          "en": "",
-          "he": "What’s the deal with צרויה?"
-        },
-        "language": "he",
-        "question": "Found out recently that צרויה as in (Yoav Ben Tzruyah) was actually Yoav’s mom and not his father. Why is Yoav constantly referred to as the son of his mother, when the Tanach norm is to use their fat",
-        "answer": "In the commentary by the anonymous student of Rasag to Divrei Hayamim 1:2:16 he writes : \"\"and their sisters Tzruyah and Avigail\" - And Tzruyah's husband was S'rayah, and not S'rayah who fathered Yoav, father of Gei Charashim ( DH 1:4:14 ), but S'ray",
-        "answer_count": 3,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-137059",
-        "source_url": "https://judaism.stackexchange.com/questions/137059/what-s-the-deal-with-%d7%a6%d7%a8%d7%95%d7%99%d7%94",
-        "author": "Harel13",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "din-url-95ff6ef6a6c5b2b29cde38b3",
-        "title": "חימום דג עם רוטב",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום רבלחמם דג לסעודה שלישית, שכשמניחים על הפלטה הרוטב קרוש ולאחמ״כ הוא נמסהאם זה דומה לאינפאנדה לגבי הבישול של הרוטב?מה הכמות של רוטב שאליו התכוין המשנ״ב שיאסר מצד נולד?והאם עדיף להניח על קדירה עם מא",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=din-url-95ff6ef6a6c5b2b29cde38b3",
-        "source_url": "https://din.org.il/2023/05/24/%d7%97%d7%99%d7%9e%d7%95%d7%9d-%d7%93%d7%92-%d7%a2%d7%9d-%d7%a8%d7%95%d7%98%d7%91/",
+        "url": "https://shekhina.org/qa.html?id=ye-202010211014346",
+        "source_url": "https://din.org.il/2020/10/21/%d7%90%d7%a8%d7%91%d7%a2%d7%aa-%d7%94%d7%9e%d7%99%d7%a0%d7%99%d7%9d-%d7%90%d7%97%d7%a8%d7%99-%d7%94%d7%97%d7%92-2/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "up-din-495098",
-        "title": "אשה המטפלת בתינוקת קטנה בצום",
+        "id": "ye-201809185787488",
+        "title": "לקיחת תרופה בכיפור עם מעט מים",
         "titles": {
           "en": "",
-          "he": ""
+          "he": "לקיחת תרופה בכיפור עם מעט מים"
         },
         "language": "he",
-        "question": "אשה המטפלת בתינוקת בת שנה וחצי. והצום מכביד על האשה. וממילא ברור שיש לה קושי לטפל. והתינוקת ברמה כזו או אחרת פחות מושגחת. האם חייבת לצום? במידה ולא, האם יש הבדל בין האב לאם, כלומר האם יתכן שהאמא תצום ",
+        "question": "אשה בת שישים הסובלת מכאבים דלקתים קשים בשן, קיבלה מהרופא מרשם לאנטיביוטיקה חריפה לשבוע. צום כיפור יוצא ביום השלישי לטיפול.. שאלתה היא: א. האם מותר לה ליקח את הכדור כמות שהוא ביום הקדוש…? ב. בהנחה ומות",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-495098",
-        "source_url": "https://din.org.il/2025/07/13/%d7%90%d7%a9%d7%94-%d7%94%d7%9e%d7%98%d7%a4%d7%9c%d7%aa-%d7%91%d7%aa%d7%99%d7%a0%d7%95%d7%a7%d7%aa-%d7%a7%d7%98%d7%a0%d7%94-%d7%91%d7%a6%d7%95%d7%9d/",
-        "author": "רבני בית הוראה",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-153267",
-        "title": "כשרות",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום כבוד הרב, זה אולי ישמע שאלות טיפשיות אבל בכל זאת: 1. אם הוכנו ביצים קשות וכשעוד המים היו חמים מהבישול על הגז הוכנסה כף על מנת להוציא את הביצים אבל-יש חשש כי הכף חס וחלילה הוטמאה מכיוון שיכול להיו",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "yeshiva",
-        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-153267",
-        "source_url": "https://www.yeshiva.org.il/ask/153267",
-        "author": "",
-        "author_url": null,
-        "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "up-din-20170720073508",
-        "title": "משא ומתן בתשעת הימים",
-        "titles": {
-          "en": "",
-          "he": ""
-        },
-        "language": "he",
-        "question": "שלום רב,האם מותר לי למכור בגירה בראש חודש אב,או שעדיף שאמתין לאחר תשעה באב？",
-        "answer": "",
-        "answer_count": 1,
-        "provider": "din",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-20170720073508",
-        "source_url": "https://din.org.il/2017/07/20/%d7%9e%d7%a9%d7%90-%d7%95%d7%9e%d7%aa%d7%9f-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-2/",
+        "url": "https://shekhina.org/qa.html?id=ye-201809185787488",
+        "source_url": "https://din.org.il/2018/09/18/%d7%9c%d7%a7%d7%99%d7%97%d7%aa-%d7%aa%d7%a8%d7%95%d7%a4%d7%94-%d7%91%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%a2%d7%9d-%d7%9e%d7%a2%d7%98-%d7%9e%d7%99%d7%9d/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-ff19f08c730db34bc7aa8889"
       },
       {
-        "id": "up-din-201605106879343",
-        "title": "ספק חמץ שעבר עליו הפסח",
+        "id": "ye-144115",
+        "title": "צום לאירועי 7.10",
+        "titles": {
+          "en": "",
+          "he": "צום לאירועי 7.10"
+        },
+        "language": "he",
+        "question": "כבוד הרב שלום, האם ניתן לקבוע תענית יחיד/רבים על אירועי 7.10? מה הסימוכין לכך במקורות? במידה וכן, מתי עדיף לקבוע אותה? התאריך המדובר הוא שמיני עצרת שהוא חג שמחת תורה אין להעלות על הדעת שיום זה יקבע כת",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "yeshiva",
+        "category": "talmud",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-144115",
+        "source_url": "https://www.yeshiva.org.il/ask/144115",
+        "author": "הרה\"ג יעקב אריאל",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "ye-136116",
+        "title": "Does כבוד המת apply to gentiles? What about during war?",
+        "titles": {
+          "en": "",
+          "he": "Does כבוד המת apply to gentiles? What about during war?"
+        },
+        "language": "he",
+        "question": "Kavod HaMet is a halachic rubric which includes sensitive and dignified treatment of a corpse. I would like to know if this principle includes the prohibition for Jews to treat the corpses of gentiles",
+        "answer": "A subsection of kavod would be getting benefit from a dead person's body. In Shulchan Aruch Yoreah Deah Siman 349:1, the Ritav in Ketuvot 60a ד\"ה יכול יהא- they all hold that one can not get benefit from a non-Jewish corpse mederabbanan. Mishneh Lame",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-136116",
+        "source_url": "https://judaism.stackexchange.com/questions/136116/does-%d7%9b%d7%91%d7%95%d7%93-%d7%94%d7%9e%d7%aa-apply-to-gentiles-what-about-during-war",
+        "author": "Yeshivish 101",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "din-url-95281d54e19cd837a015179a",
+        "title": "האכלת ציפורים בשבת שירה",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "חבילת מסטיק שנקנתה אחרי הפסח ולא ידוע אם בעל החנות מכר את החמץ מה דינה של החבילה?",
+        "question": "ידוע המנהג בשבת שירה שנותנים לילדים לזרק פירורי מאכל לציפורים , אך כיצד זה מתישב עם ההלכה שאסור להאכיל בעלי חיים שאין מזונותיו על האדם ,וכך נותנים לילדים (בגיל חינוך) לעשות כן אף שאין איסור מהתורה ואו",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201605106879343",
-        "source_url": "https://din.org.il/2016/05/10/%d7%a1%d7%a4%d7%a7-%d7%97%d7%9e%d7%a5-%d7%a9%d7%a2%d7%91%d7%a8-%d7%a2%d7%9c%d7%99%d7%95-%d7%94%d7%a4%d7%a1%d7%97/",
+        "url": "https://shekhina.org/qa.html?id=din-url-95281d54e19cd837a015179a",
+        "source_url": "https://din.org.il/2022/01/10/%d7%94%d7%90%d7%9b%d7%9c%d7%aa-%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa-%d7%a9%d7%99%d7%a8%d7%94/",
+        "author": "רבני בית הוראה",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "up-din-494126",
+        "title": "טלטול אקדח בשבת",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום כבוד הרב.כלי נשק עיקרו ורובו להרתעה ולכן הפוסקים דנים אותו ככלי שמלאכתו להיתר אבל בשעת מלחמה הוא יהפך ככלי שמלאכתו לאיסור כי עכשיו הוא משמש גם לירי. יוצא אם כן שבשעה ש\"לא צריכים אותו\" מותר אבל שצ",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-494126",
+        "source_url": "https://din.org.il/2025/07/02/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%90%d7%a7%d7%93%d7%97-%d7%91%d7%a9%d7%91%d7%aa/",
+        "author": "הרב ירוחם ארלנגר‎",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "up-din-96375",
+        "title": "גודל מעלת העלייה לקבר הרשב\"י / דורש אל המתים בתפילה לצדיק",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "האם יש עניין בעלייה לקבר הרשב\"י? האם דרך התפילה היא בקשה מהצדיק שימליץ טוב בעדי או שמא התפילה לקב\"ה שיעזרני בזכות הצדיק?או גם וגם?",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-96375",
+        "source_url": "https://din.org.il/2015/05/06/%d7%92%d7%95%d7%93%d7%9c-%d7%9e%d7%a2%d7%9c%d7%aa-%d7%94%d7%a2%d7%9c%d7%99%d7%99%d7%94-%d7%9c%d7%a7%d7%91%d7%a8-%d7%94%d7%a8%d7%a9%d7%91%d7%99-%d7%93%d7%95%d7%a8%d7%a9-%d7%90%d7%9c-%d7%94%d7%9e/",
+        "author": "רבני בית הדין",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "up-din-201707072961898",
+        "title": "רחיצה בתשעת הימים / יולדת / תינוק",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "שלום לרבנים רציתי לדעת מה דין תינוק בשבוע שחל בו אם מותר לקלחו במים חמים וכן מה הדין אצל יולדת {כמה זמן מהלידה ניקראת יולדת?} 2ובכלל אצל אישה שלא מסוגלת לסבול להיתקלח במים קרים אלא במים חמים? תודה רבה",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201707072961898",
+        "source_url": "https://din.org.il/2017/07/07/%d7%a8%d7%97%d7%99%d7%a6%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%99%d7%95%d7%9c%d7%93%d7%aa-%d7%aa%d7%99%d7%a0%d7%95%d7%a7/",
+        "author": "Din Online",
+        "author_url": null,
+        "license": "",
+        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+      },
+      {
+        "id": "up-din-201605012941883",
+        "title": "מצות מכונה – לשמה",
+        "titles": {
+          "en": "",
+          "he": ""
+        },
+        "language": "he",
+        "question": "בסד שלום רב מצות שכתוב על האריזה \"מצות שנאפו לשם מצת מצווה \" הכוונה שניתן להשתמש במצות בליל הסדר , בשביעי של פסח ובשבת ? המצות שהשתמשתי בהם בליל הסדר הוצאתי מקופסת 1 קג שכתוב מצות שמורות עבודת יד , נא",
+        "answer": "",
+        "answer_count": 1,
+        "provider": "din",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=up-din-201605012941883",
+        "source_url": "https://din.org.il/2016/05/01/%d7%9e%d7%a6%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%a0%d7%94-%d7%9c%d7%a9%d7%9e%d7%94/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
