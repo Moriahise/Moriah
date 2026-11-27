@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-27T08:22:37Z",
+  "checked_at": "2026-11-27T21:13:27Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "music": {
+    "daf": {
       "state": "ok",
-      "checked_at": "2026-11-27T08:22:37Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-27T08:22:37Z"
+      "checked_at": "2026-11-27T21:13:27Z"
     },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-27T08:22:37Z"
+      "checked_at": "2026-11-27T21:13:27Z"
     },
-    "daf": {
+    "shiurim": {
       "state": "ok",
-      "checked_at": "2026-11-27T08:22:37Z"
+      "checked_at": "2026-11-27T21:13:27Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-27T21:13:27Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-27T08:22:37Z"
+      "checked_at": "2026-11-27T21:13:27Z"
     }
   },
   "music": [
@@ -44106,6 +44106,1238 @@
         "target_shabbat": "2032-11-20",
         "category": "talmud",
         "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-shevuot-49/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-2",
+        "title": {
+          "en": "Avodah Zarah 2 — Before Their Festivals: Commerce, Testimony, and the Nations Before the Throne",
+          "he": "לפני אידיהן: משא ומתן, עדות, והאומות לפני כיסא הדין"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 2",
+          "he": "עבודה זרה דף 2"
+        },
+        "target_shabbat": "2032-11-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-2/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-3",
+        "title": {
+          "en": "Avodah Zarah 3 — Witnesses for Israel, a Sukkah for the Nations, and the Hours of the Divine Day",
+          "he": "עדים לישראל, סוכה לאומות, ושעות היום של מעלה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 3",
+          "he": "עבודה זרה דף 3"
+        },
+        "target_shabbat": "2032-11-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-3/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-4",
+        "title": {
+          "en": "Avodah Zarah 4 — Measured Punishment, a Moment of Anger, and the Opening for Repentance",
+          "he": "פורענות במידה, רגע של זעם, ופתח לבעלי תשובה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 4",
+          "he": "עבודה זרה דף 4"
+        },
+        "target_shabbat": "2032-11-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-4/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-5",
+        "title": {
+          "en": "Avodah Zarah 5 — The Yoke of Repentance, the Gratitude of a Nation, and Three Days of Preparation",
+          "he": "עולה של תשובה, הכרת הטוב של אומה, ושלושה ימי הכנה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 5",
+          "he": "עבודה זרה דף 5"
+        },
+        "target_shabbat": "2032-11-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-5/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-6",
+        "title": {
+          "en": "Avodah Zarah 6 — Three Days, a Stumbling Block, and a Coin on the Festival",
+          "he": "שלושה ימים, מכשול לפני עיוור, ודינר ביום אידו"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 6",
+          "he": "עבודה זרה דף 6"
+        },
+        "target_shabbat": "2032-11-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-6/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-7",
+        "title": {
+          "en": "Avodah Zarah 7 — Rulings, Retractions, and the Order of Prayer",
+          "he": "פסקי הלכה, חזרה בתשובה, וסדר התפילה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 7",
+          "he": "עבודה זרה דף 7"
+        },
+        "target_shabbat": "2032-11-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-7/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-8",
+        "title": {
+          "en": "Avodah Zarah 8 — Festivals of the Solstice, a Wedding Feast, and the Fall of Judicial Authority",
+          "he": "חגי התקופה, משתה חתונה, ושקיעת סמכות הדין"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 8",
+          "he": "עבודה זרה דף 8"
+        },
+        "target_shabbat": "2032-11-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-8/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-9",
+        "title": {
+          "en": "Avodah Zarah 9 — Counting the Years: Empires, Documents, and the Six Millennia",
+          "he": "מניין השנים: מלכויות, שטרות וששת האלפים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 9",
+          "he": "עבודה זרה דף 9"
+        },
+        "target_shabbat": "2032-11-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-9/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-10",
+        "title": {
+          "en": "Avodah Zarah 10 — Dating Documents, Crowning Kings, and the Friendship of Rabbi and Antoninus",
+          "he": "תאריך שטרות, המלכת מלכים, וידידות רבי ואנטונינוס"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 10",
+          "he": "עבודה זרה דף 10"
+        },
+        "target_shabbat": "2032-11-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-10/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-11",
+        "title": {
+          "en": "Avodah Zarah 11 — Onkelos the Convert, Royal Burnings, and Temples That Never Close",
+          "he": "אונקלוס הגר, שריפה על המלכים ובתי עבודה זרה קבועים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 11",
+          "he": "עבודה זרה דף 11"
+        },
+        "target_shabbat": "2032-11-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-11/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-12",
+        "title": {
+          "en": "Avodah Zarah 12 — Shared Stoves, Bowing for a Thorn, and Decorated Shops",
+          "he": "כירה משותפת, שחייה לקוץ, וחנויות מעוטרות"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 12",
+          "he": "עבודה זרה דף 12"
+        },
+        "target_shabbat": "2032-12-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-12/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-13",
+        "title": {
+          "en": "Avodah Zarah 13 — Benefit and Giving Benefit, the Pagan Fair, and Hamstringing",
+          "he": "נהנה ומהנה, יריד של גוים, ועיקור"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 13",
+          "he": "עבודה זרה דף 13"
+        },
+        "target_shabbat": "2032-12-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-13/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-14",
+        "title": {
+          "en": "Avodah Zarah 14 — Pine Cones, a White Rooster, and Four Hundred Chapters of Abraham",
+          "he": "אצטרובלין, תרנגול לבן, וארבע מאות פרקים של אברהם"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 14",
+          "he": "עבודה זרה דף 14"
+        },
+        "target_shabbat": "2032-12-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-14/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-15",
+        "title": {
+          "en": "Avodah Zarah 15 — Large Livestock, Testing a Donkey, and Weapons That Must Not Be Sold",
+          "he": "בהמה גסה, ניסוי חמור, וכלי זיין שאסור למכור"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 15",
+          "he": "עבודה זרה דף 15"
+        },
+        "target_shabbat": "2032-12-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-15/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-16",
+        "title": {
+          "en": "Avodah Zarah 16 — Shields, Horses, Lions, and Rabbi Eliezer on Trial",
+          "he": "תריסין, סוסים, אריות, ורבי אליעזר לפני הדין"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 16",
+          "he": "עבודה זרה דף 16"
+        },
+        "target_shabbat": "2032-12-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-16/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-17",
+        "title": {
+          "en": "Avodah Zarah 17 — Distance from Heresy, Return Without Delay, and Two Sages Arrested",
+          "he": "הרחקה מן המינות, תשובה שאין לה דחייה, ושני חכמים שנתפסו"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 17",
+          "he": "עבודה זרה דף 17"
+        },
+        "target_shabbat": "2032-12-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-17/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-18",
+        "title": {
+          "en": "Avodah Zarah 18 — The Burning of Rabbi Ḥanina ben Teradyon and the Seat of Scoffers",
+          "he": "שריפת רבי חנינא בן תרדיון ומושב לצים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 18",
+          "he": "עבודה זרה דף 18"
+        },
+        "target_shabbat": "2032-12-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-18/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-19",
+        "title": {
+          "en": "Avodah Zarah 19 — Learning Where the Heart Desires, the Tree by the Streams, and Wages for an Idol’s Shrine",
+          "he": "ללמוד במקום שלבו חפץ, עץ שתול על פלגי מים, ושכר בניין לעבודה זרה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 19",
+          "he": "עבודה זרה דף 19"
+        },
+        "target_shabbat": "2032-12-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-19/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-20",
+        "title": {
+          "en": "Avodah Zarah 20 — Lo Teḥanem, Guarding the Eyes, and Rabbi Pinḥas ben Yair’s Ladder",
+          "he": "לא תחנם, שמירת העיניים, וסולמו של רבי פנחס בן יאיר"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 20",
+          "he": "עבודה זרה דף 20"
+        },
+        "target_shabbat": "2032-12-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-20/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-21",
+        "title": {
+          "en": "Avodah Zarah 21 — Houses and Fields, Syria and the Diaspora, and a Bathhouse Called by Its Owner’s Name",
+          "he": "בתים ושדות, סוריא וחוץ לארץ, ומרחץ הנקרא על שם בעליו"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 21",
+          "he": "עבודה זרה דף 21"
+        },
+        "target_shabbat": "2032-12-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-21/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-22",
+        "title": {
+          "en": "Avodah Zarah 22 — Shabbat Partnerships, the End of the First Chapter, and Suspicion as Law",
+          "he": "שותפות בשבת, סיום הפרק הראשון, וחשד כדין"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 22",
+          "he": "עבודה זרה דף 22"
+        },
+        "target_shabbat": "2032-12-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-22/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-23",
+        "title": {
+          "en": "Avodah Zarah 23 — Before and After the Fact, the Red Heifer, and “the Children of Israel Shall Take”",
+          "he": "לכתחילה ובדיעבד, פרה אדומה, ו״בני ישראל יקחו״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 23",
+          "he": "עבודה זרה דף 23"
+        },
+        "target_shabbat": "2032-12-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-23/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-24",
+        "title": {
+          "en": "Avodah Zarah 24 — Dama ben Netina, Offerings from the Nations, and the Song of the Cows",
+          "he": "דמא בן נתינה, קרבנות מן האומות, ושירת הפרות"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 24",
+          "he": "עבודה זרה דף 24"
+        },
+        "target_shabbat": "2032-12-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-24/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-25",
+        "title": {
+          "en": "Avodah Zarah 25 — The Sun Stands Still, the Book of the Upright, and Walking with a Stranger",
+          "he": "השמש עומדת, ספר הישר, והליכה עם זר"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 25",
+          "he": "עבודה זרה דף 25"
+        },
+        "target_shabbat": "2032-12-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-25/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-26",
+        "title": {
+          "en": "Avodah Zarah 26 — Midwives and Nurses, Avoiding Enmity, and the Definition of a Meshumad",
+          "he": "מיילדת ומניקה, מניעת איבה, והגדרת המשומד"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 26",
+          "he": "עבודה זרה דף 26"
+        },
+        "target_shabbat": "2032-12-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-26/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-27",
+        "title": {
+          "en": "Avodah Zarah 27 — Circumcision for Its Own Sake, Healing from Idolaters, and Ben Dama’s Death",
+          "he": "מילה לשמה, רפואה מן הגויים, ומותו של בן דמא"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 27",
+          "he": "עבודה זרה דף 27"
+        },
+        "target_shabbat": "2032-12-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-27/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-28",
+        "title": {
+          "en": "Avodah Zarah 28 — Internal Wounds, the Matrona’s Remedy, and an Eye That Rebels",
+          "he": "מכה של חלל, תרופת המטרוניתא, ועין שמרדה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 28",
+          "he": "עבודה זרה דף 28"
+        },
+        "target_shabbat": "2032-12-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-28/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-29",
+        "title": {
+          "en": "Avodah Zarah 29 — Remedies, the Mirror at the Barber, and the Cheese of Idolaters",
+          "he": "תרופות, המראה אצל הספר, וגבינת הגויים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 29",
+          "he": "עבודה זרה דף 29"
+        },
+        "target_shabbat": "2032-12-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-29/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-30",
+        "title": {
+          "en": "Avodah Zarah 30 — Cooked Wine, Uncovered Liquids, and the Fear of Snakes",
+          "he": "יין מבושל, משקים מגולים, וחשש הנחש"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 30",
+          "he": "עבודה זרה דף 30"
+        },
+        "target_shabbat": "2032-12-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-30/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-31",
+        "title": {
+          "en": "Avodah Zarah 31 — Deposited Wine, a Seal Within a Seal, and the Beer of Gentiles",
+          "he": "יין מופקד, חותם בתוך חותם, ושכר של גויים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 31",
+          "he": "עבודה זרה דף 31"
+        },
+        "target_shabbat": "2032-12-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-31/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-32",
+        "title": {
+          "en": "Avodah Zarah 32 — Hadrianic Shards, Pierced Hides, and Pilgrims to the Fair",
+          "he": "חרס הדרייני, עורות לבובין, ועולי הרגל לתרפות"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 32",
+          "he": "עבודה זרה דף 32"
+        },
+        "target_shabbat": "2032-12-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-32/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-33",
+        "title": {
+          "en": "Avodah Zarah 33 — Returning from the Fair and Koshering Gentile Containers",
+          "he": "החוזר מן היריד והכשרת כלי הגויים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 33",
+          "he": "עבודה זרה דף 33"
+        },
+        "target_shabbat": "2032-12-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-33/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-34",
+        "title": {
+          "en": "Avodah Zarah 34 — Rabbi Akiva in Ginzak, Twelve Months, and the Cheese of Beit Unyaki",
+          "he": "רבי עקיבא בגינזק, שנים עשר חודש, וגבינת בית אונייקי"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 34",
+          "he": "עבודה זרה דף 34"
+        },
+        "target_shabbat": "2032-12-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-34/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-35",
+        "title": {
+          "en": "Avodah Zarah 35 — “Your Love Is Better Than Wine,” the Reasons for the Cheese Ban, and the Bread of Gentiles",
+          "he": "״כי טובים דודיך מיין״, טעמי איסור הגבינה, ופת של גויים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 35",
+          "he": "עבודה זרה דף 35"
+        },
+        "target_shabbat": "2032-12-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-35/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-36",
+        "title": {
+          "en": "Avodah Zarah 36 — Daniel’s Resolve, the Eighteen Decrees, and a Law the Public Cannot Bear",
+          "he": "החלטת דניאל, שמונה עשר דבר, וגזרה שאין הציבור יכול לעמוד בה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 36",
+          "he": "עבודה זרה דף 36"
+        },
+        "target_shabbat": "2032-12-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-36/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-37",
+        "title": {
+          "en": "Avodah Zarah 37 — A Court That Permits, Yosef the Permitter, and Food Changed by Fire",
+          "he": "בית דין המתיר, יוסף שריא, ומאכל שנשתנה על ידי האור"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 37",
+          "he": "עבודה זרה דף 37"
+        },
+        "target_shabbat": "2032-12-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-37/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-38",
+        "title": {
+          "en": "Avodah Zarah 38 — Food Fit for a King’s Table, a Gentile Who Turns the Meat, and Pickles with Wine",
+          "he": "מאכל העולה על שולחן מלכים, גוי שהפך בבשר, וכבשים שיש בהם יין"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 38",
+          "he": "עבודה זרה דף 38"
+        },
+        "target_shabbat": "2032-12-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-38/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-39",
+        "title": {
+          "en": "Avodah Zarah 39 — Fish Signs, the Wife of a Ḥaver, and What One Seal Protects",
+          "he": "סימני דגים, אשת חבר, ומה שומר חותם אחד"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 39",
+          "he": "עבודה זרה דף 39"
+        },
+        "target_shabbat": "2032-12-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-39/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-40",
+        "title": {
+          "en": "Avodah Zarah 40 — Head and Spine, Apple Wine, and the Statues of the Third Chapter",
+          "he": "ראש ושדרה, יין תפוחים, וצלמי הפרק השלישי"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 40",
+          "he": "עבודה זרה דף 40"
+        },
+        "target_shabbat": "2032-12-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-40/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-41",
+        "title": {
+          "en": "Avodah Zarah 41 — Symbols of Dominion, Broken Idols, and Doubt Against Certainty",
+          "he": "סמלי שלטון, עבודה זרה שנשתברה, וספק מול ודאי"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 41",
+          "he": "עבודה זרה דף 41"
+        },
+        "target_shabbat": "2032-12-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-41/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-42",
+        "title": {
+          "en": "Avodah Zarah 42 — Annulment by a Gentile, the Asherah’s Nest, and Images of Sun and Moon",
+          "he": "ביטול בידי גוי, קן בראש האשרה, וצורות חמה ולבנה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 42",
+          "he": "עבודה זרה דף 42"
+        },
+        "target_shabbat": "2032-12-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-42/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-43",
+        "title": {
+          "en": "Avodah Zarah 43 — The Dragon Image, Rabban Gamliel’s Moon Charts, and “Do Not Make with Me”",
+          "he": "צורת דרקון, צורות לבנה של רבן גמליאל, ו״לא תעשון אתי״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 43",
+          "he": "עבודה זרה דף 43"
+        },
+        "target_shabbat": "2033-01-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-43/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-44",
+        "title": {
+          "en": "Avodah Zarah 44 — Destroying Idols, David’s Crown, and Rabban Gamliel in Aphrodite’s Bathhouse",
+          "he": "השמדת עבודה זרה, עטרת דוד, ורבן גמליאל במרחץ של אפרודיטי"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 44",
+          "he": "עבודה זרה דף 44"
+        },
+        "target_shabbat": "2033-01-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-44/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-45",
+        "title": {
+          "en": "Avodah Zarah 45 — Worshipped Mountains, the Asherah, and the Tree Planted and Then Worshipped",
+          "he": "הרים נעבדים, האשרה, ואילן שנטעו ולבסוף עבדו"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 45",
+          "he": "עבודה זרה דף 45"
+        },
+        "target_shabbat": "2033-01-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-45/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-46",
+        "title": {
+          "en": "Avodah Zarah 46 — Derogatory Names, Dislodged Stones, and Worshipped Things for the Altar",
+          "he": "כינויי גנאי, אבני הר שנדלדלו, ונעבד לגבי מזבח"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 46",
+          "he": "עבודה זרה דף 46"
+        },
+        "target_shabbat": "2033-01-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-46/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-47",
+        "title": {
+          "en": "Avodah Zarah 47 — Worshipped Things for a Mitzvah, the Wall Beside a Temple, and the Three Houses and Stones",
+          "he": "נעבד לגבי מצוה, הכותל הסמוך לבית עבודה זרה, ושלושה בתים ושלוש אבנים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 47",
+          "he": "עבודה זרה דף 47"
+        },
+        "target_shabbat": "2033-01-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-47/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-48",
+        "title": {
+          "en": "Avodah Zarah 48 — Three Asherot, Shade and Passage, and Vegetables Beneath the Tree",
+          "he": "שלוש אשרות, צל ומעבר, וירקות תחת האילן"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 48",
+          "he": "עבודה זרה דף 48"
+        },
+        "target_shabbat": "2033-01-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-48/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-49",
+        "title": {
+          "en": "Avodah Zarah 49 — “Two Causes,” Bread Baked with Asherah Wood, and Stones Beside Merkulis",
+          "he": "״זה וזה גורם״, פת שנאפתה בעצי אשרה, ואבנים בצד מרקוליס"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 49",
+          "he": "עבודה זרה דף 49"
+        },
+        "target_shabbat": "2033-01-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-49/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-50",
+        "title": {
+          "en": "Avodah Zarah 50 — Stones of Merkulis, the “Son of the Holy Ones,” and No Carpenter to Resolve It",
+          "he": "אבני מרקוליס, ״בנן של קדושים״, ו״לית נגר ולא בר נגר דיפרקינה״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 50",
+          "he": "עבודה זרה דף 50"
+        },
+        "target_shabbat": "2033-01-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-50/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-51",
+        "title": {
+          "en": "Avodah Zarah 51 — Worship Like the Temple Service, the Blemished Offering, and What Lies on an Idol",
+          "he": "עבודה כעין פנים, זבח בעל מום, ומה שנמצא בראש עבודה זרה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 51",
+          "he": "עבודה זרה דף 51"
+        },
+        "target_shabbat": "2033-01-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-51/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-52",
+        "title": {
+          "en": "Avodah Zarah 52 — When an Idol Becomes Forbidden, the Vessels of Onias’s Temple, and Rebbi’s Changed Teaching",
+          "he": "מתי נאסרת עבודה זרה, כלי בית חוניו, ומשנת רבי שנשתנתה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 52",
+          "he": "עבודה זרה דף 52"
+        },
+        "target_shabbat": "2033-01-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-52/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-53",
+        "title": {
+          "en": "Avodah Zarah 53 — How an Idol Is Annulled, Joshua’s War, and the Kings’ Pedestals",
+          "he": "כיצד מבטלים עבודה זרה, מלחמת יהושע, ובימוסיאות של מלכים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 53",
+          "he": "עבודה זרה דף 53"
+        },
+        "target_shabbat": "2033-01-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-53/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-54",
+        "title": {
+          "en": "Avodah Zarah 54 — Worship Under Duress, Exchanges of an Idol, and “Why Does God Not Destroy It?”",
+          "he": "עבודה בכפייה, חליפי עבודה זרה, ו״מפני מה אינו מבטלה?״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 54",
+          "he": "עבודה זרה דף 54"
+        },
+        "target_shabbat": "2033-01-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-54/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-55",
+        "title": {
+          "en": "Avodah Zarah 55 — “A Jealous God,” Afflictions Bound by Oath, and Wine in the Winepress",
+          "he": "״אל קנא״, ייסורים המושבעים, ויין בגת"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 55",
+          "he": "עבודה זרה דף 55"
+        },
+        "target_shabbat": "2033-01-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-55/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-56",
+        "title": {
+          "en": "Avodah Zarah 56 — When Juice Becomes Wine, the Strainer, and the Child Who Learned Avodah Zarah at Six",
+          "he": "מתי נעשה התירוש יין, הגרגותני, והתינוק שלמד עבודה זרה בן שש"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 56",
+          "he": "עבודה זרה דף 56"
+        },
+        "target_shabbat": "2033-01-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-56/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-57",
+        "title": {
+          "en": "Avodah Zarah 57 — Wine Touched Unintentionally, the Infant and the Slave, and the Angry Gentile in Maḥoza",
+          "he": "יין שנגע בו שלא בכוונה, התינוק והעבד, והנכרי הכועס במחוזא"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 57",
+          "he": "עבודה זרה דף 57"
+        },
+        "target_shabbat": "2033-01-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-57/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-58",
+        "title": {
+          "en": "Avodah Zarah 58 — Rava’s Retraction, the Two Sages and the Stranger, and “Go Around, Nazirite”",
+          "he": "חזרת רבא, שני החכמים והאורח, ו״סחור סחור לכרמא לא תקרב״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 58",
+          "he": "עבודה זרה דף 58"
+        },
+        "target_shabbat": "2033-01-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-58/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-59",
+        "title": {
+          "en": "Avodah Zarah 59 — Rabbi Ḥiyya bar Abba in Gevala, Grapes Carried to the Press, and the Etrog in the Barrel",
+          "he": "רבי חייא בר אבא בגבלא, ענבים המובאים לגת, והאתרוג שבחבית"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 59",
+          "he": "עבודה זרה דף 59"
+        },
+        "target_shabbat": "2033-01-17",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-59/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-60",
+        "title": {
+          "en": "Avodah Zarah 60 — Indirect Force, the Gentile Creditor, and Rabbi Shimon’s Blessing",
+          "he": "כוחו וכח כחו, הנכרי המלווה, וברכות על ראש רבי שמעון"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 60",
+          "he": "עבודה זרה דף 60"
+        },
+        "target_shabbat": "2033-01-18",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-60/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-61",
+        "title": {
+          "en": "Avodah Zarah 61 — Kosher Wine in a Gentile’s Domain, the Unannounced Inspector, and Fear That Protects",
+          "he": "יין כשר ברשות נכרי, הממונה שאינו בא לקיצין, ויראה המגינה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 61",
+          "he": "עבודה זרה דף 61"
+        },
+        "target_shabbat": "2033-01-19",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-61/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-62",
+        "title": {
+          "en": "Avodah Zarah 62 — Wages from Libation Wine, the Donkey Drivers, and Repaying Shevi’it Produce",
+          "he": "שכר יין נסך, החמרים, ופרעון פירות שביעית"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 62",
+          "he": "עבודה זרה דף 62"
+        },
+        "target_shabbat": "2033-01-20",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-62/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-63",
+        "title": {
+          "en": "Avodah Zarah 63 — When a Payment Becomes Forbidden, the Shopkeeper’s Credit, and “Let Him Break It and Be Blessed”",
+          "he": "מתי נעשה תשלום אסור, הקפת החנוני, ו״ישבור ותבוא עליו ברכה״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 63",
+          "he": "עבודה זרה דף 63"
+        },
+        "target_shabbat": "2033-01-21",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-63/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-64",
+        "title": {
+          "en": "Avodah Zarah 64 — Reducing Idolatry, the Price of an Idol, and the Resident Alien",
+          "he": "מיעוט תיפלה, דמי עבודה זרה, וגר תושב"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 64",
+          "he": "עבודה זרה דף 64"
+        },
+        "target_shabbat": "2033-01-22",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-64/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-65",
+        "title": {
+          "en": "Avodah Zarah 65 — A Gift on Their Festival, Rava and Bar Sheshakh, and Libation Wine Spilled on Produce",
+          "he": "מתנה ביום אידם, רבא ובר ששך, ויין נסך שנפל על פירות"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 65",
+          "he": "עבודה זרה דף 65"
+        },
+        "target_shabbat": "2033-01-23",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-65/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-66",
+        "title": {
+          "en": "Avodah Zarah 66 — Following the Taste or the Name, and Is Smell Significant?",
+          "he": "בתר טעמא או בתר שמא, וריחא מילתא היא?"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 66",
+          "he": "עבודה זרה דף 66"
+        },
+        "target_shabbat": "2033-01-24",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-66/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-67",
+        "title": {
+          "en": "Avodah Zarah 67 — Flavor That Spoils: “Noten Ta’am Lifgam” and Its Limits",
+          "he": "טעם הפוגם: נותן טעם לפגם וגבולותיו"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 67",
+          "he": "עבודה זרה דף 67"
+        },
+        "target_shabbat": "2033-01-25",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-67/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-68",
+        "title": {
+          "en": "Avodah Zarah 68 — Spoiled from the Start, Leaven in Dough, and the Mouse in the Beer",
+          "he": "פוגם מעיקרא, שאור בעיסה, ועכבר בשכר"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 68",
+          "he": "עבודה זרה דף 68"
+        },
+        "target_shabbat": "2033-01-26",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-68/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-69",
+        "title": {
+          "en": "Avodah Zarah 69 — Nullification in Sixty, Wine Left with a Gentile, and the Sealed Barrel",
+          "he": "ביטול בשישים, יין שהושאר אצל נכרי, והחבית הסתומה"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 69",
+          "he": "עבודה זרה דף 69"
+        },
+        "target_shabbat": "2033-01-27",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-69/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-70",
+        "title": {
+          "en": "Avodah Zarah 70 — Rava’s Cases of Wine Left Unattended, the Lion in the Press, and the Troops in the City",
+          "he": "מקרי רבא ביין שנשאר ללא השגחה, האריה בגת, והבולשת בעיר"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 70",
+          "he": "עבודה זרה דף 70"
+        },
+        "target_shabbat": "2033-01-28",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-70/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-71",
+        "title": {
+          "en": "Avodah Zarah 71 — Selling Wine to a Gentile, the King’s Tax, and Does Pulling Acquire for a Gentile?",
+          "he": "מכירת יין לנכרי, מנת המלך, והאם משיכה בגוי קונה?"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 71",
+          "he": "עבודה זרה דף 71"
+        },
+        "target_shabbat": "2033-01-29",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-71/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-72",
+        "title": {
+          "en": "Avodah Zarah 72 — Acquisition by Pulling, Setting a Price, and Is a Stream a Connection?",
+          "he": "קניין במשיכה, פסיקת מחיר, ונצוק חיבור?"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 72",
+          "he": "עבודה זרה דף 72"
+        },
+        "target_shabbat": "2033-01-30",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-72/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-73",
+        "title": {
+          "en": "Avodah Zarah 73 — Libation Wine Forbids in Any Amount, the Jug of Water, and “We View the Permitted as Absent”",
+          "he": "יין נסך אוסר בכל שהוא, קיתון של מים, ו״רואין את ההיתר כאילו אינו״"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 73",
+          "he": "עבודה זרה דף 73"
+        },
+        "target_shabbat": "2033-01-31",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-73/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-74",
+        "title": {
+          "en": "Avodah Zarah 74 — Items That Forbid in Any Amount, Wine in the Pit, and Kashering the Winepress",
+          "he": "דברים האוסרים בכל שהוא, יין בבור, והכשרת הגת"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 74",
+          "he": "עבודה זרה דף 74"
+        },
+        "target_shabbat": "2033-02-01",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-74/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-75",
+        "title": {
+          "en": "Avodah Zarah 75 — Rinsing Presses, the “Ona” of Water, and Immersing Vessels Bought from Gentiles",
+          "he": "הדחת כלי הגת, עונה במים, וטבילת כלים הנלקחים מן הגוים"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 75",
+          "he": "עבודה זרה דף 75"
+        },
+        "target_shabbat": "2033-02-02",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-75/"
+      },
+      {
+        "id": "cycle-15-avodah-zarah-76",
+        "title": {
+          "en": "Avodah Zarah 76 — Heating and Purging Vessels, Rav Akiva’s Cauldron, and the Etrog Before King Shapur",
+          "he": "ליבון והגעלת כלים, היורה של רב עקיבא, והאתרוג לפני שבור מלכא"
+        },
+        "parashah": {
+          "en": "Avodah Zarah 76",
+          "he": "עבודה זרה דף 76"
+        },
+        "target_shabbat": "2033-02-03",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-avodah-zarah-76/"
+      },
+      {
+        "id": "cycle-15-horayot-2",
+        "title": {
+          "en": "Horayot 2 — Who Carries the Error? The Court, the Individual, and the Shape of a Ruling",
+          "he": "הוריות ב׳ — מי נושא בטעות? בית הדין, היחיד וצורתה של הוראה"
+        },
+        "parashah": {
+          "en": "Horayot 2",
+          "he": "הוריות דף 2"
+        },
+        "target_shabbat": "2033-02-04",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-2/"
+      },
+      {
+        "id": "cycle-15-horayot-3",
+        "title": {
+          "en": "Horayot 3 — Majorities, Unanimity, and Shared Responsibility",
+          "he": "הוריות ג׳ — רוב, הסכמת כולם ואחריות משותפת"
+        },
+        "parashah": {
+          "en": "Horayot 3",
+          "he": "הוריות דף 3"
+        },
+        "target_shabbat": "2033-02-05",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-3/"
+      },
+      {
+        "id": "cycle-15-horayot-4",
+        "title": {
+          "en": "Horayot 4 — Whole or Part? The Limits of an Erroneous Ruling",
+          "he": "הוריות ד׳ — כולו או מקצתו? גבולותיה של הוראה מוטעית"
+        },
+        "parashah": {
+          "en": "Horayot 4",
+          "he": "הוריות דף 4"
+        },
+        "target_shabbat": "2033-02-06",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-4/"
+      },
+      {
+        "id": "cycle-15-horayot-5",
+        "title": {
+          "en": "Horayot 5 — Tribes, Population, and the Meaning of “Congregation”",
+          "he": "הוריות ה׳ — שבטים, מניין העם ומשמעות \"קהל\""
+        },
+        "parashah": {
+          "en": "Horayot 5",
+          "he": "הוריות דף 5"
+        },
+        "target_shabbat": "2033-02-07",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-5/"
+      },
+      {
+        "id": "cycle-15-horayot-6",
+        "title": {
+          "en": "Horayot 6 — A Congregation That Does Not Die",
+          "he": "הוריות ו׳ — צבור שאינו מת"
+        },
+        "parashah": {
+          "en": "Horayot 6",
+          "he": "הוריות דף 6"
+        },
+        "target_shabbat": "2033-02-08",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-6/"
+      },
+      {
+        "id": "cycle-15-horayot-7",
+        "title": {
+          "en": "Horayot 7 — The High Priest: An Individual or a Community?",
+          "he": "הוריות ז׳ — כהן משיח: יחיד או צבור?"
+        },
+        "parashah": {
+          "en": "Horayot 7",
+          "he": "הוריות דף 7"
+        },
+        "target_shabbat": "2033-02-09",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-7/"
+      },
+      {
+        "id": "cycle-15-horayot-8",
+        "title": {
+          "en": "Horayot 8 — Karet, Idolatry, and the Offerings No Court Can Owe",
+          "he": "הוריות ח׳ — כרת, עבודה זרה והקרבנות שאין בית דין חייב בהם"
+        },
+        "parashah": {
+          "en": "Horayot 8",
+          "he": "הוריות דף 8"
+        },
+        "target_shabbat": "2033-02-10",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-8/"
+      },
+      {
+        "id": "cycle-15-horayot-9",
+        "title": {
+          "en": "Horayot 9 — Wealth, Poverty, and the Sliding-Scale Offering",
+          "he": "הוריות ט׳ — עשירות, עניות וקרבן עולה ויורד"
+        },
+        "parashah": {
+          "en": "Horayot 9",
+          "he": "הוריות דף 9"
+        },
+        "target_shabbat": "2033-02-11",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-9/"
+      },
+      {
+        "id": "cycle-15-horayot-10",
+        "title": {
+          "en": "Horayot 10 — The Sinning Ruler: Status, Humility, and Intention",
+          "he": "הוריות י׳ — הנשיא החוטא: מעמד, ענווה וכוונה"
+        },
+        "parashah": {
+          "en": "Horayot 10",
+          "he": "הוריות דף 10"
+        },
+        "target_shabbat": "2033-02-12",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-10/"
+      },
+      {
+        "id": "cycle-15-horayot-11",
+        "title": {
+          "en": "Horayot 11 — Who Is Excluded, Who Is Sovereign, Who Is Anointed",
+          "he": "הוריות י״א — מי מוצא, מי ריבון, מי נמשח"
+        },
+        "parashah": {
+          "en": "Horayot 11",
+          "he": "הוריות דף 11"
+        },
+        "target_shabbat": "2033-02-13",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-11/"
+      },
+      {
+        "id": "cycle-15-horayot-12",
+        "title": {
+          "en": "Horayot 12 — Oil, Omens, and the Hierarchy of Holiness",
+          "he": "הוריות י״ב — שמן, סימנים וסולם הקדושה"
+        },
+        "parashah": {
+          "en": "Horayot 12",
+          "he": "הוריות דף 12"
+        },
+        "target_shabbat": "2033-02-14",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-12/"
+      },
+      {
+        "id": "cycle-15-horayot-13",
+        "title": {
+          "en": "Horayot 13 — The Order of Precedence and the Honor of Torah",
+          "he": "הוריות י״ג — סדר הקדימה וכבוד התורה"
+        },
+        "parashah": {
+          "en": "Horayot 13",
+          "he": "הוריות דף 13"
+        },
+        "target_shabbat": "2033-02-15",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-13/"
+      },
+      {
+        "id": "cycle-15-horayot-14",
+        "title": {
+          "en": "Horayot 14 — Sinai or Uprooter of Mountains? Who Should Lead",
+          "he": "הוריות י״ד — סיני או עוקר הרים? מי ראוי להנהיג"
+        },
+        "parashah": {
+          "en": "Horayot 14",
+          "he": "הוריות דף 14"
+        },
+        "target_shabbat": "2033-02-16",
+        "category": "talmud",
+        "url": "https://moriahise.github.io/Daf-Yomi/shiur/cycle-15-horayot-14/"
       }
     ],
     "calendar": {
@@ -49042,197 +50274,197 @@
     ]
   },
   "qa": {
-    "release": "v1-ff19f08c730db34bc7aa8889",
-    "total": 71030,
+    "release": "v1-a60b674c83c7e5145247d47d",
+    "total": 71033,
     "cards": [
       {
-        "id": "ye-65821",
-        "title": "Do communal and individual prayers correspond to different sacrifices?",
+        "id": "ye-69007",
+        "title": "When and how was the Shulchan Aruch accepted",
         "titles": {
-          "en": "Do communal and individual prayers correspond to different sacrifices?",
+          "en": "When and how was the Shulchan Aruch accepted",
           "he": ""
         },
         "language": "en",
-        "question": "Prayer, in general, is compared to the sacrifices that were offered in the Temple, as alluded to in Hoshea 14:3 . But, halacha distinguishes between the prayers of an individual (תפלה ביחיד) and the p",
-        "answer": "Rav Yosef Dov Ber Soloveitchik mentions this topic in the essay פסוקי דזמרה in volume 2 of שעורים לזכר אבא מרי ז״ל ( pages 36-38 ). He asks: Since we say that required prayer (תפילת חובה) corresponds to bringing the tamid offering (קרבן תמיד), and th",
-        "answer_count": 2,
+        "question": "After the Shulchan Aruch was put together by the Beis Yosef and then following that with the glosses of the Rema, when did this sefer became \"accepted\" as the basis for deciding halachic matters in al",
+        "answer": "Sometimes it's not really possible to give an exact answer as to why certain books become the standard. For example, i don't think anyone would have predicted that nearly a thousand years after the Rambam that the only community that still followed h",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-65821",
-        "source_url": "https://judaism.stackexchange.com/questions/65821/do-communal-and-individual-prayers-correspond-to-different-sacrifices",
-        "author": "magicker72",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-69007",
+        "source_url": "https://judaism.stackexchange.com/questions/69007/when-and-how-was-the-shulchan-aruch-accepted",
+        "author": "Aaron",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-47936",
-        "title": "What is the Orthodox Jewish view of the afterlife?",
+        "id": "ye-52652",
+        "title": "Rav Hirsch and zachor",
         "titles": {
-          "en": "What is the Orthodox Jewish view of the afterlife?",
+          "en": "Rav Hirsch and zachor",
           "he": ""
         },
         "language": "en",
-        "question": "What is the nature of life after death, according to Orthodox Judaism as it exists today? I have tried to read up on this, but I often hear very conflicted views... I mean I once read that Sheol is ak",
-        "answer": "Orthodox Judaism believes in Heaven (Gan Eden or Olam HaBa) and Purgatory (Gehenna or Gehinom). Hell isn't the right word, because Gehenna (Purgatory) isn't permanent. Kaddish is only said for less than a year for the dead because we presume they won",
-        "answer_count": 5,
-        "provider": "miyodeya",
-        "category": "history",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-47936",
-        "source_url": "https://judaism.stackexchange.com/questions/47936/what-is-the-orthodox-jewish-view-of-the-afterlife",
-        "author": "user7332",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
-      },
-      {
-        "id": "ye-29693",
-        "title": "How did Avraham discover that God exists?",
-        "titles": {
-          "en": "How did Avraham discover that God exists?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "How did Avraham discover that God exists? Was because of logic or tradition since Adam? If was by logic, why do we call him Ivri (from Ever, his grandfather). Please bring sources.",
-        "answer": "There is a midrash in Bereshit Rabbah 39 where Avraham deduces the existence of God who created the world, and only then did God call out to Avraham lech l'cha . A summary of the midrash from my notes after a class : Mashal: One day a man was traveli",
-        "answer_count": 3,
+        "question": "Rav Shimshon Raphael Hirsch says that the word zachor (in Exodus 20:7 ), meaning remember, is the statement telling us \"to keep the Shabbos in our minds and hearts, and give verbal expression to its h",
+        "answer": "To paraphrase R' Hirsch's comments on Sh'mos 20:7: The Talmud ( Sh'vu'os 20b ) remarks that the words zachor (remember) and shamor (guard/observe) were said at the same time. This indicates that these two aspects of Shabbos are intertwined. The Jewis",
+        "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-29693",
-        "source_url": "https://judaism.stackexchange.com/questions/29693/how-did-avraham-discover-that-god-exists",
-        "author": "Monica Cellio",
+        "url": "https://shekhina.org/qa.html?id=ye-52652",
+        "source_url": "https://judaism.stackexchange.com/questions/52652/rav-hirsch-and-zachor",
+        "author": "Fred",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-13278",
-        "title": "Why was the Mishna written in Hebrew while the Gemara wasn't?",
+        "id": "ye-33303",
+        "title": "Masheches Yuma or Yoma?",
         "titles": {
-          "en": "Why was the Mishna written in Hebrew while the Gemara wasn't?",
+          "en": "Masheches Yuma or Yoma?",
           "he": ""
         },
         "language": "en",
-        "question": "By the time of the Mishna, people speaking in Aramaic on a day-to-day basis. Nonetheless, R' Yehuda Hanasi wrote the Mishna in Hebrew. So were the Toseftas and the Braisos. Why? On the other hand, the",
-        "answer": "Aside from the excellent points that SethJ made in the comments here and to the other related question, we do find R. Yehudah Hanassi himself disparaging the use of Aramaic: \"Rebbi says: in the Land of Israel, why use Syriac [= Aramaic, see Rashi and",
-        "answer_count": 1,
+        "question": "I remember hearing Rabbeim call the mashechta \"Yuma\", but shouldn't it be called \"Yoma\", which I have also heard? I know mashechta Beitzah is sometimes called \"Beiah\" based off the Magen Avraham or be",
+        "answer": "Yoma. (However, the Jastrow’s vocalization is not all-authoritative, neither is תרגום אונקלוס for Babylonian Aramaic vowels). As far as I know, the vowel חולם in Hebrew often becomes a קמץ in Aramaic, and when it doesn’t, it remains a חולם, unless it",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-13278",
-        "source_url": "https://judaism.stackexchange.com/questions/13278/why-was-the-mishna-written-in-hebrew-while-the-gemara-wasnt",
-        "author": "Alex",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-33303",
+        "source_url": "https://judaism.stackexchange.com/questions/33303/masheches-yuma-or-yoma",
+        "author": "SabbathEngineer",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-chabad-623280",
-        "title": "Coping with the Loss of a Grandchild",
+        "id": "ye-16145",
+        "title": "Beracha on Intravenous",
+        "titles": {
+          "en": "Beracha on Intravenous",
+          "he": ""
+        },
+        "language": "en",
+        "question": "There Gemara Berachot 35 says \"anyone who enjoys from this world without a Beracha is stealing.\" Does one make a Beracha on intravenous feeding?",
+        "answer": "The Tzitz Eliezer 13:35:3 brings down not to, the reason being that the throat and taste buds don't get pleasure ( Minchas Yitzchak uses the same reasoning.)",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-16145",
+        "source_url": "https://judaism.stackexchange.com/questions/16145/beracha-on-intravenous",
+        "author": "sam",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "up-aish-91049",
+        "title": "The Complaint Syndrome",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "Question: My beautiful adolescent grandchild was recently killed in a terrible accident. This is actually the second grandchild I've lost. Please tell me how I'm supposed to be happy?",
+        "question": "I have a problem with complaining. I always seem to be “looking sideways,” checking out what other people have and wondering why I can’t have it, too. This distracts me from moving ahead with my own u",
         "answer": "",
         "answer_count": 1,
-        "provider": "chabad",
+        "provider": "aish",
         "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-chabad-623280",
-        "source_url": "https://www.chabad.org/library/article_cdo/aid/623280/jewish/Coping-with-the-Loss-of-a-Grandchild.htm",
-        "author": "Chana Weisberg",
+        "url": "https://shekhina.org/qa.html?id=up-aish-91049",
+        "source_url": "https://aish.com/the-complaint-syndrome/",
+        "author": "Aish.com Staff",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-136108",
-        "title": "Maps/blueprints of the interior of the Temple Mount",
+        "id": "ye-139346",
+        "title": "How did Moshe risk staying with Jethro",
         "titles": {
-          "en": "Maps/blueprints of the interior of the Temple Mount",
+          "en": "How did Moshe risk staying with Jethro",
           "he": ""
         },
         "language": "en",
-        "question": "I am looking for resources that have maps and/or blueprints of the interior of the Temple Mount. For example, showing the various tunnel systems, stairs, gates, chambers, etc. I would even appreciate ",
-        "answer": "You might want to consider looking at the works of Leen Ritmeyer who is a leading expert on the subject matter. His book The Quest is a good overview on the topic, and he created a detailed map of the Temple Mount here that was featured in National G",
-        "answer_count": 2,
+        "question": "It is known that Jethro was one of Pharaoh's advisors. Moses was wanted by Pharaoh. How did Jethro take the risk in offering his residence and daughter to Moshe? Moreover, how did Moshe risk living in",
+        "answer": "So firstly, to contextualise Yisro's position in Pharoah's court. Whilst he was indeed an advisor, he fled. If he were to revert to Pharoah, it probably would not have gone down too well... Refer to Sotah 11a : בִּלְעָם שֶׁיָּעַץ — נֶהֱרַג, אִיּוֹב ש",
+        "answer_count": 1,
         "provider": "miyodeya",
-        "category": "history",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-136108",
-        "source_url": "https://judaism.stackexchange.com/questions/136108/maps-blueprints-of-the-interior-of-the-temple-mount",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-139346",
+        "source_url": "https://judaism.stackexchange.com/questions/139346/how-did-moshe-risk-staying-with-jethro",
         "author": "Dov",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-117926",
-        "title": "What is the original source for Yahrtzeit customs?",
+        "id": "ye-121433",
+        "title": "Per the claim that Abraham kept the whole Torah, why didn't he circumcise Ishmael and all his slaves earlier?",
         "titles": {
-          "en": "What is the original source for Yahrtzeit customs?",
+          "en": "Per the claim that Abraham kept the whole Torah, why didn't he circumcise Ishmael and all his slaves earlier?",
           "he": ""
         },
         "language": "en",
-        "question": "There are various customs and even halachot associated with yahrtzeits, such as saying kaddish, getting called to Torah, lighting candles, fasting, serving as a prayer leader, giving charity, arrangin",
-        "answer": "Nitei Gavriel Aveilus2 75:1:1 brings the following sources for Yarzheit candles. Minhagei Vermaisha Volume 2, Page 112 Maharshal Chapter 46 Magen Avraham 261:6 Nachalas Shiva Chapter 73 Kitzur Shulchan Aruch 221:1 Mishmeres Shalom Note 10:10 Gesher H",
+        "question": "\" Abraham was ninety-nine years old when he circumcised the flesh of his foreskin, and his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin. Thus Abraham and his",
+        "answer": "Aside from any Kabbalistic answers to why Avraham waited to circumcise himself, there are many famous non-Kabbalistic ( nigleh ) answers, which appear on this very site . It would strengthen the question to state the kabbalistic answers, and why they",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-117926",
-        "source_url": "https://judaism.stackexchange.com/questions/117926/what-is-the-original-source-for-yahrtzeit-customs",
-        "author": "Gershon Gold",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-121433",
+        "source_url": "https://judaism.stackexchange.com/questions/121433/per-the-claim-that-abraham-kept-the-whole-torah-why-didnt-he-circumcise-ishmae",
+        "author": "josh waxman",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-98369",
-        "title": "English version of Me'am Lo'ez on the internet",
+        "id": "ye-101673",
+        "title": "Why is making salt water prohibited on Shabbat?",
         "titles": {
-          "en": "English version of Me'am Lo'ez on the internet",
+          "en": "Why is making salt water prohibited on Shabbat?",
           "he": ""
         },
         "language": "en",
-        "question": "Rabbi Yehoshua Zitron suggested that I study Me'am Lo'ez as a beginner. Is there a version of Midrash Me'am Lo'ez on the internet in English?",
-        "answer": "You can listen to it in English - mp3 format - here .",
+        "question": "I have read in a few hagadot, and I think in the OU Pesach guide that the salt water to be used for the seder must be prepared before Shabbat begins. That implied that there is some prohibition for do",
+        "answer": "Shabbat 108 forbids making a large amount of salt water on shabbat . Rashi ad loc. explains that the prohibition is because it looks like one is going to be tanning hides, one of the avot melachot . This explanation is echoed by Shulchan Aruch Orach ",
         "answer_count": 1,
         "provider": "miyodeya",
-        "category": "tanach",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-98369",
-        "source_url": "https://judaism.stackexchange.com/questions/98369/english-version-of-meam-loez-on-the-internet",
-        "author": "Danny Schoemann",
+        "url": "https://shekhina.org/qa.html?id=ye-101673",
+        "source_url": "https://judaism.stackexchange.com/questions/101673/why-is-making-salt-water-prohibited-on-shabbat",
+        "author": "Joel K",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-82937",
-        "title": "Why did the R' Akiva marry the wife of Tyrannus Rufus?",
+        "id": "ye-86124",
+        "title": "Sitting on a wet chair on Shabbat",
         "titles": {
-          "en": "Why did the R' Akiva marry the wife of Tyrannus Rufus?",
+          "en": "Sitting on a wet chair on Shabbat",
           "he": ""
         },
         "language": "en",
-        "question": "The gemara in Avodah zara 20a brings a Baraisa that says, ואף רבי עקיבא ראה אשת טורנוסרופוס הרשע רק שחק ובכה רק שהיתה באה מטיפה סרוחה שחק דעתידה דמגיירא ונסיב לה בכה דהאי שופרא בלי עפרא We know that T",
-        "answer": "R' Yonasan Eibeschutz ( Yaaros Devash ) cites the Arizal as saying that R. Akiva was a gilgul of Zimri, and Mrs. Rufus of Kozbi. So he married her after she converted, thereby correcting the mistake made by that earlier pair (where Zimri consorted wi",
-        "answer_count": 4,
+        "question": "Would one be allowed to sit on a soaking wet metal or wood or plastic chair on Shabbos, or would this be forbidden because he would thus be \"laundering\" his pants or because he might come to squeeze o",
+        "answer": "See MB 302:46 (מו) לתת עליו מים - דשריה לא הוי כיבוס אלא כשיש עליו לכלוך ומ\"מ אסור במרובים משום חשש דשמא יסחוט. ודע דאם מכוין בנתינת המים לכבסו אפילו במים מועטין אסור [כן מוכח בהדיא בספר התרומה וכן משמע ג\"כ בסמ\"ג אח\"כ מצאתי שכ\"כ בא\"ר בסימן ש\"א ס\"ק ע\"",
+        "answer_count": 2,
         "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-82937",
-        "source_url": "https://judaism.stackexchange.com/questions/82937/why-did-the-r-akiva-marry-the-wife-of-tyrannus-rufus",
-        "author": "Meir",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-86124",
+        "source_url": "https://judaism.stackexchange.com/questions/86124/sitting-on-a-wet-chair-on-shabbat",
+        "author": "moselli",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "ye-202010211014346",
@@ -49253,7 +50485,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "ye-201809185787488",
@@ -49274,7 +50506,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "ye-144115",
@@ -49295,7 +50527,7 @@
         "author": "הרה\"ג יעקב אריאל",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "ye-136116",
@@ -49316,7 +50548,7 @@
         "author": "Yeshivish 101",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "din-url-95281d54e19cd837a015179a",
@@ -49337,7 +50569,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "up-din-494126",
@@ -49358,7 +50590,7 @@
         "author": "הרב ירוחם ארלנגר‎",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "up-din-96375",
@@ -49379,7 +50611,7 @@
         "author": "רבני בית הדין",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "up-din-201707072961898",
@@ -49400,7 +50632,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
         "id": "up-din-201605012941883",
@@ -49421,7 +50653,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-ff19f08c730db34bc7aa8889"
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
       }
     ]
   }
