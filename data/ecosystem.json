@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-28T07:42:39Z",
+  "checked_at": "2026-11-28T16:51:28Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -15,23 +15,23 @@
   "status": {
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-28T07:42:39Z"
-    },
-    "music": {
-      "state": "ok",
-      "checked_at": "2026-11-28T07:42:39Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-28T07:42:39Z"
+      "checked_at": "2026-11-28T16:51:28Z"
     },
     "daf": {
       "state": "ok",
-      "checked_at": "2026-11-28T07:42:39Z"
+      "checked_at": "2026-11-28T16:51:28Z"
+    },
+    "music": {
+      "state": "ok",
+      "checked_at": "2026-11-28T16:51:28Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-28T16:51:28Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-28T07:42:39Z"
+      "checked_at": "2026-11-28T16:51:28Z"
     }
   },
   "music": [
@@ -50274,197 +50274,197 @@
     ]
   },
   "qa": {
-    "release": "v1-a60b674c83c7e5145247d47d",
+    "release": "v1-f22c70a0ef40b0a2f7f49fa2",
     "total": 71033,
     "cards": [
       {
-        "id": "ye-68974",
-        "title": "Give money to defendants to pay their claims? Won't that increase theft?",
+        "id": "ye-69734",
+        "title": "How to maintain devotion to Hashem in a low period in one's life?",
         "titles": {
-          "en": "Give money to defendants to pay their claims? Won't that increase theft?",
+          "en": "How to maintain devotion to Hashem in a low period in one's life?",
           "he": ""
         },
         "language": "en",
-        "question": "Avos d'R' Nasan , 33:1: … Not only that, but our father Abraham did tz'daka (≈social justice) first and thereafter mishpat (≈justice), as is said [Gen. 18:19] \"for I know him, for he will command his ",
-        "answer": "A similar passage about David (but not the one about Abraham) appears in the Bavli ( Sanhedrin 6 amud 2). On it, Maharsha comments: They say about this that David said [Ps. 119:121] \"I did mishpat and tz'daka ; do not leave me to my oppressors\": he p",
-        "answer_count": 1,
+        "question": "It seems that when things in a person's life are going well, it's easy to pray with concentration and be devoted to the service of the creator. However, when things turn sour these items are more diff",
+        "answer": "You ask this question on the Friday of parasha Tzav. In a dvar Torah on that parasha, the Lubavitcher Rebbe ( Likkutei Sichot vol I, pp. 217-219 , cited in R Sachs' Torah studies p. 159 ) comments on the verse Vayikra 6:6 אֵ֗שׁ תָּמִ֛יד תּוּקַ֥ד עַל־",
+        "answer_count": 5,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-68974",
-        "source_url": "https://judaism.stackexchange.com/questions/68974/give-money-to-defendants-to-pay-their-claims-wont-that-increase-theft",
-        "author": "msh210",
+        "url": "https://shekhina.org/qa.html?id=ye-69734",
+        "source_url": "https://judaism.stackexchange.com/questions/69734/how-to-maintain-devotion-to-hashem-in-a-low-period-in-ones-life",
+        "author": "mbloch",
         "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
-        "id": "ye-52620",
-        "title": "Biblical Prohibition of Breaking Shabbos/Shabbat because one didn't learn the laws",
+        "id": "ye-53302",
+        "title": "Was the noise from the Temple really that loud?",
         "titles": {
-          "en": "Biblical Prohibition of Breaking Shabbos/Shabbat because one didn't learn the laws",
+          "en": "Was the noise from the Temple really that loud?",
           "he": ""
         },
         "language": "en",
-        "question": "Somebody does not think that something is breaking Shabbos but suspects it may be an issue, yet they don't want to delve into the law because they don't want to stop doing what they are doing and they",
-        "answer": "Ralbag writes as follows in his commentary to Parshat Nitzavim : התועלת השני הוא להודיע שמי שירצה להסיר מעליו עול התורה בשלא יכוון לדעת עניניה כדי שיהיה שוגג בכל מה שיעבור עליו מדברי התורה ולא יענש על זה הנה לא תועילוהו המחשבה הנפסדת הזאת [להצילו] מן",
+        "question": "Mishnah Tamid 3:8 lists a bunch of things in the Temple that could be heard all the way in Yericho. Some of the things: the gate opening, the Levi'im singing, the Kohein Gadol on Yom Kippur, smelling ",
+        "answer": "Your question is discussed in אהלי שם - המקדש - משניות תמיד, מידות He points out that according to Harav Noeh the distance is 38.4 km. The Meleches Shlomo says that hearing the sound of the great gate opening and the ability to smell the ketores were",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "history",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-53302",
+        "source_url": "https://judaism.stackexchange.com/questions/53302/was-the-noise-from-the-temple-really-that-loud",
+        "author": "Avrohom Yitzchok",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
+      },
+      {
+        "id": "ye-33983",
+        "title": "best time to ask god for personal requests",
+        "titles": {
+          "en": "best time to ask god for personal requests",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Since the sages established three daily services filled with general prayers, I am a bit confused as to when exactly one should ask for personal requests? Are you supposed to simply have the request i",
+        "answer": "Gemora Avoda Zarah Daf 8a Said Rab Judah the son of Samuel b. Shilath in the name of Rab: Even though it was said that one should pray for his private needs only at ‘Who heareth prayer,’ nevertheless, if he is disposed to supplement any of the Benedi",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "general",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-33983",
+        "source_url": "https://judaism.stackexchange.com/questions/33983/best-time-to-ask-god-for-personal-requests",
+        "author": "eramm",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
+      },
+      {
+        "id": "ye-16828",
+        "title": "Why don't we say Hagomel after driving through a desert?",
+        "titles": {
+          "en": "Why don't we say Hagomel after driving through a desert?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "The Gemara says that four have to say Hagomel: One who went overseas One who went into a desert. One who was [deathly] ill. One who was in prison [on a capital crime]. Everyone (to the best of my know",
+        "answer": "In Halichos Mordechai, The Traveler's Companion, by Rabbi Eliezer Wanger , he says , quoting R' Avraham Chaim Na'ah ( K'zot HaShulchan 65 and Badei HaShulchan 2 ): One does not say Birkas Gomeil if he traveled through a desert by train (footnote -- b",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-52620",
-        "source_url": "https://judaism.stackexchange.com/questions/52620/biblical-prohibition-of-breaking-shabbos-shabbat-because-one-didnt-learn-the-la",
-        "author": "Alex",
+        "url": "https://shekhina.org/qa.html?id=ye-16828",
+        "source_url": "https://judaism.stackexchange.com/questions/16828/why-dont-we-say-hagomel-after-driving-through-a-desert",
+        "author": "Menachem",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
-        "id": "ye-33266",
-        "title": "When the Gemoro quotes a possuk, why does it sometimes not quote the part which is the reason for the quote?",
-        "titles": {
-          "en": "When the Gemoro quotes a possuk, why does it sometimes not quote the part which is the reason for the quote?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "(possibly related to Why does the Mishna misquote the Tanakh? ) When the Gemoro quotes a possuk, why does it not always quote the part which is the reason for the quote in the first place. For example",
-        "answer": "Possibly over time the manuscript writers, before the time of printing, would just quote the beginning and write \"etc.\" to save themselves the writing effort (with the expectation that you knew what it was referring to). When the printers came to pri",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "talmud",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-33266",
-        "source_url": "https://judaism.stackexchange.com/questions/33266/when-the-gemoro-quotes-a-possuk-why-does-it-sometimes-not-quote-the-part-which",
-        "author": "Yishai",
-        "author_url": null,
-        "license": "CC BY-SA 3.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-16118",
-        "title": "Where did the Jews send the goat \"for Azazel\" while in the desert?",
-        "titles": {
-          "en": "Where did the Jews send the goat \"for Azazel\" while in the desert?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Rashi (Vayikra 16:8) says: Azazel: This is a strong and hard mountain, [with] a high cliff, as the Scripture says [in describing Azazel] (verse 22 below),“a precipitous land (אֶרֶץ גְּזֵרָה),” meaning",
-        "answer": "Rabbi Prof. Yoel Elitzur wrote in his book \"Makom Ba'Parasha\", pg. 425 (my translation): \"First of all, we must remember that Yerushalayim was only chosen in the time of David and Shlomo. Prior to that, the Tabernacle was in different places, but the",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-16118",
-        "source_url": "https://judaism.stackexchange.com/questions/16118/where-did-the-jews-send-the-goat-for-azazel-while-in-the-desert",
-        "author": "Harel13",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "up-aish-91035",
-        "title": "Praying for Smaller Needs",
+        "id": "aish-url-464f94654db2aa7bcf79d41c",
+        "title": "Tefillin on Top of Bandage",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "We had a discussion in our class in religious school if it's right to ask God to help us with everyday activities, like getting to school safely, doing well on a test, getting a summer job, or getting",
+        "question": "I need to have a minor operation on my left arm next week. It will be bandaged for at least a week afterwards. This is the arm I place my Tefillin on. Am I allowed to place my Tefillin on top of the b",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
-        "category": "general",
+        "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-aish-91035",
-        "source_url": "https://aish.com/praying-for-smaller-needs/",
-        "author": "Yerachmiel Fried",
+        "url": "https://shekhina.org/qa.html?id=aish-url-464f94654db2aa7bcf79d41c",
+        "source_url": "https://aish.com/tefillin-on-top-of-bandage/",
+        "author": "Rabbi Dovid Rosenfeld",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
-        "id": "ye-139301",
-        "title": "Why was Benjamin included with Judah?",
+        "id": "ye-140100",
+        "title": "Minimum size for door to be obligated in mezuzah",
         "titles": {
-          "en": "Why was Benjamin included with Judah?",
+          "en": "Minimum size for door to be obligated in mezuzah",
           "he": ""
         },
         "language": "en",
-        "question": "When Israel was divided during the reign of Rehoboam, (2 Chronicles 10-11) why was Benjamin included with Judah instead of with the rest of the tribes?",
-        "answer": "Simple answer: Judah managed to retain control over Binyamin and the prophecy of the torn garment was written after. Practical answer: The bait hamikdsah was in Benjamin. God didn't want to prevent the king of Judah from performing hakel. Also, Judah",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139301",
-        "source_url": "https://judaism.stackexchange.com/questions/139301/why-was-benjamin-included-with-judah",
-        "author": "Clint Eastwood",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-121403",
-        "title": "Making Chameitz Hefker on Shabbat",
-        "titles": {
-          "en": "Making Chameitz Hefker on Shabbat",
-          "he": ""
-        },
-        "language": "en",
-        "question": "This year, because Erev Pesach is on Shabbat, the completion of the burning (done on Friday, after a search on Thursday night), is the second (slightly expanded) recitation of the Kol Chamira on Shabb",
-        "answer": "This question assumes that bittul Chametz is a form of hefker . This is indeed the position of some Rishonim (see Tosfos Pesachim 4). This very question is one of seven questions posed by the Ramban (Pesachim 4b) on the position of Tosfos that bittul",
+        "question": "According to Halacha, what is the minimum width and/or height for a door to obligated in a mezuzah? Is it any door, or does it have to be a specific size? And if it has to be a minimum size, what is i",
+        "answer": "The minimum height is 10 handbreaths. (Rambam Mezuza 6:1) The Talmud in a number of places (eg. Eruvin 11b) sounds like the minimum width is 4 handbreaths, but Rambam doesn't record that requirement. There's lots of discussion about why (see, eg. Aru",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-121403",
-        "source_url": "https://judaism.stackexchange.com/questions/121403/making-chameitz-hefker-on-shabbat",
-        "author": "chortkov2",
+        "url": "https://shekhina.org/qa.html?id=ye-140100",
+        "source_url": "https://judaism.stackexchange.com/questions/140100/minimum-size-for-door-to-be-obligated-in-mezuzah",
+        "author": "Double AA",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
-        "id": "ye-101632",
-        "title": "Do i make bracha on smelling vapor from herbs?",
+        "id": "ye-122273",
+        "title": "We already had the Torah?",
         "titles": {
-          "en": "Do i make bracha on smelling vapor from herbs?",
+          "en": "We already had the Torah?",
           "he": ""
         },
         "language": "en",
-        "question": "There some vapors in electronic cigarettes made with natural herbs like chamomile (and other). So do i do brachot when smelling them? Is there a common practice to smell natural things, is this kind o",
-        "answer": "Yes, it is like any other thing that you smell. Smelling is the beginning (the most spiritual aspect) of eating. So it is important to identify the source of the smell, whether from trees (עץ), or herbs (עשב), or spices (בסם) or a mixture of any of t",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-101632",
-        "source_url": "https://judaism.stackexchange.com/questions/101632/do-i-make-bracha-on-smelling-vapor-from-herbs",
-        "author": "Yaacov Deane",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-86076",
-        "title": "How is Rosh Hashanah a remembrance of leaving Mitzraim?",
-        "titles": {
-          "en": "How is Rosh Hashanah a remembrance of leaving Mitzraim?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "On all Yamim Tovim, we (this is the Ashkenazic formulation) say the following formulation in the middle Bracha of Shemoneh Esrei: ותתן לנו ה׳ אלקינו באהבה את יום ... הזה ... מקרא קדש זכר ליציאת מצרים ",
-        "answer": "The Shibbolei HaLeket (286) quotes his brother R. Binyamin as asking this question about Rosh HaShana and Yom HaKippurim. He quotes his brother's answer that the Talmud ( Rosh Hashanah 11a ) states that on Rosh HaShana the slave labour of the Jews en",
-        "answer_count": 2,
+        "question": "According to the Gemoro in Yuma ( 28B ) the forefathers already observed the Torah in it's entirety (according to the understanding of Ramban and the Shaloh in Toldot Adam, Beit HaBechira 4), addition",
+        "answer": "I think there are three points that each bring us a long way in answering this question. Just because the Avos, and other great people knew and kept the Torah does not mean that the ordinary people did as well or even knew what it was. There is a gre",
+        "answer_count": 3,
         "provider": "miyodeya",
         "category": "tanach",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-86076",
-        "source_url": "https://judaism.stackexchange.com/questions/86076/how-is-rosh-hashanah-a-remembrance-of-leaving-mitzraim",
-        "author": "mevaqesh",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-122273",
+        "source_url": "https://judaism.stackexchange.com/questions/122273/we-already-had-the-torah",
+        "author": "conceptualinertia",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
+      },
+      {
+        "id": "ye-103365",
+        "title": "Can kiddush be made in the shul?",
+        "titles": {
+          "en": "Can kiddush be made in the shul?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "I've been to a few shuls on Shabbat morning where the rabbi recites Kiddush in the shul from the bimah. After that, the congregation proceeds to the Kiddush room to eat. Is this halachically permissib",
+        "answer": "The Beur Halacha says that beshaas hadechak , in pressing circumstances, when you make kiddush you can have in mind to eat in another room in the same building. He concludes that if you can see the other room, then in all circumstances it's fine, so ",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-103365",
+        "source_url": "https://judaism.stackexchange.com/questions/103365/can-kiddush-be-made-in-the-shul",
+        "author": "robev",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
+      },
+      {
+        "id": "ye-86883",
+        "title": "3 major sins versus suicide",
+        "titles": {
+          "en": "3 major sins versus suicide",
+          "he": ""
+        },
+        "language": "en",
+        "question": "According to the rambam that unlike all other prohibitory mitzvos there are 3 that one must give up one's life for rather than be forced to commit. Does the requirement to give up one's life rather th",
+        "answer": "While as far as I know he never addresses this explicitly [i], In all of Rambam's discussion of cardinal sins, he always writes that one allows oneself to be killed (Sefer Hamitsvot Lo Taaseh 63, Hilkhot Yesodei HaTorah 5:2, and Iggeret HaShmad); nev",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-86883",
+        "source_url": "https://judaism.stackexchange.com/questions/86883/3-major-sins-versus-suicide",
+        "author": "mevaqesh",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "ye-2020100911059235",
@@ -50485,7 +50485,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "ye-201809179536955",
@@ -50506,7 +50506,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "ye-143996",
@@ -50527,7 +50527,7 @@
         "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "ye-135123",
@@ -50548,7 +50548,7 @@
         "author": "Deuteronomy",
         "author_url": null,
         "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "din-url-945630ddcf13b24d1e49b1b8",
@@ -50569,7 +50569,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "up-din-492101",
@@ -50590,7 +50590,7 @@
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "up-din-95666",
@@ -50611,7 +50611,7 @@
         "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "up-din-201705074439696",
@@ -50632,7 +50632,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       },
       {
         "id": "up-din-201604285049898",
@@ -50653,7 +50653,7 @@
         "author": "Din Online",
         "author_url": null,
         "license": "",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
+        "snapshot": "v1-f22c70a0ef40b0a2f7f49fa2"
       }
     ]
   }
