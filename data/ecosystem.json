@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_at": "2026-11-27T21:13:27Z",
+  "checked_at": "2026-11-28T07:42:39Z",
   "links": {
     "schema": 1,
     "shiurim": "https://moriahise.github.io/Shiurim/",
@@ -13,25 +13,25 @@
     "qa_per_language": 9
   },
   "status": {
-    "daf": {
-      "state": "ok",
-      "checked_at": "2026-11-27T21:13:27Z"
-    },
     "zohar": {
       "state": "ok",
-      "checked_at": "2026-11-27T21:13:27Z"
-    },
-    "shiurim": {
-      "state": "ok",
-      "checked_at": "2026-11-27T21:13:27Z"
+      "checked_at": "2026-11-28T07:42:39Z"
     },
     "music": {
       "state": "ok",
-      "checked_at": "2026-11-27T21:13:27Z"
+      "checked_at": "2026-11-28T07:42:39Z"
+    },
+    "shiurim": {
+      "state": "ok",
+      "checked_at": "2026-11-28T07:42:39Z"
+    },
+    "daf": {
+      "state": "ok",
+      "checked_at": "2026-11-28T07:42:39Z"
     },
     "qa": {
       "state": "ok",
-      "checked_at": "2026-11-27T21:13:27Z"
+      "checked_at": "2026-11-28T07:42:39Z"
     }
   },
   "music": [
@@ -12555,12 +12555,12 @@
       }
     ],
     "preview": {
-      "id": "5787-2026-11-21",
+      "id": "5787-2026-11-28",
       "text": {
         "en": "Four anchored studies across the complete Zohar parashah, with a continuous original-text reading route",
         "he": "ארבעה עיונים מעוגנים במקור מחברים את הפתיחה, שני אזורי אמצע והסיום. קראו כסדרן את כל פסקאות המקור שביניהם; המקור המלא מובא בהמשך."
       },
-      "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-21/"
+      "url": "https://moriahise.github.io/Zohar/shiur/5787-2026-11-28/"
     }
   },
   "daf": {
@@ -50278,378 +50278,378 @@
     "total": 71033,
     "cards": [
       {
-        "id": "ye-69007",
-        "title": "When and how was the Shulchan Aruch accepted",
+        "id": "ye-68974",
+        "title": "Give money to defendants to pay their claims? Won't that increase theft?",
         "titles": {
-          "en": "When and how was the Shulchan Aruch accepted",
+          "en": "Give money to defendants to pay their claims? Won't that increase theft?",
           "he": ""
         },
         "language": "en",
-        "question": "After the Shulchan Aruch was put together by the Beis Yosef and then following that with the glosses of the Rema, when did this sefer became \"accepted\" as the basis for deciding halachic matters in al",
-        "answer": "Sometimes it's not really possible to give an exact answer as to why certain books become the standard. For example, i don't think anyone would have predicted that nearly a thousand years after the Rambam that the only community that still followed h",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-69007",
-        "source_url": "https://judaism.stackexchange.com/questions/69007/when-and-how-was-the-shulchan-aruch-accepted",
-        "author": "Aaron",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-52652",
-        "title": "Rav Hirsch and zachor",
-        "titles": {
-          "en": "Rav Hirsch and zachor",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Rav Shimshon Raphael Hirsch says that the word zachor (in Exodus 20:7 ), meaning remember, is the statement telling us \"to keep the Shabbos in our minds and hearts, and give verbal expression to its h",
-        "answer": "To paraphrase R' Hirsch's comments on Sh'mos 20:7: The Talmud ( Sh'vu'os 20b ) remarks that the words zachor (remember) and shamor (guard/observe) were said at the same time. This indicates that these two aspects of Shabbos are intertwined. The Jewis",
+        "question": "Avos d'R' Nasan , 33:1: … Not only that, but our father Abraham did tz'daka (≈social justice) first and thereafter mishpat (≈justice), as is said [Gen. 18:19] \"for I know him, for he will command his ",
+        "answer": "A similar passage about David (but not the one about Abraham) appears in the Bavli ( Sanhedrin 6 amud 2). On it, Maharsha comments: They say about this that David said [Ps. 119:121] \"I did mishpat and tz'daka ; do not leave me to my oppressors\": he p",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-52652",
-        "source_url": "https://judaism.stackexchange.com/questions/52652/rav-hirsch-and-zachor",
-        "author": "Fred",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-33303",
-        "title": "Masheches Yuma or Yoma?",
-        "titles": {
-          "en": "Masheches Yuma or Yoma?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I remember hearing Rabbeim call the mashechta \"Yuma\", but shouldn't it be called \"Yoma\", which I have also heard? I know mashechta Beitzah is sometimes called \"Beiah\" based off the Magen Avraham or be",
-        "answer": "Yoma. (However, the Jastrow’s vocalization is not all-authoritative, neither is תרגום אונקלוס for Babylonian Aramaic vowels). As far as I know, the vowel חולם in Hebrew often becomes a קמץ in Aramaic, and when it doesn’t, it remains a חולם, unless it",
-        "answer_count": 2,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-33303",
-        "source_url": "https://judaism.stackexchange.com/questions/33303/masheches-yuma-or-yoma",
-        "author": "SabbathEngineer",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-16145",
-        "title": "Beracha on Intravenous",
-        "titles": {
-          "en": "Beracha on Intravenous",
-          "he": ""
-        },
-        "language": "en",
-        "question": "There Gemara Berachot 35 says \"anyone who enjoys from this world without a Beracha is stealing.\" Does one make a Beracha on intravenous feeding?",
-        "answer": "The Tzitz Eliezer 13:35:3 brings down not to, the reason being that the throat and taste buds don't get pleasure ( Minchas Yitzchak uses the same reasoning.)",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "halacha",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-16145",
-        "source_url": "https://judaism.stackexchange.com/questions/16145/beracha-on-intravenous",
-        "author": "sam",
+        "url": "https://shekhina.org/qa.html?id=ye-68974",
+        "source_url": "https://judaism.stackexchange.com/questions/68974/give-money-to-defendants-to-pay-their-claims-wont-that-increase-theft",
+        "author": "msh210",
         "author_url": null,
         "license": "CC BY-SA 3.0",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-aish-91049",
-        "title": "The Complaint Syndrome",
+        "id": "ye-52620",
+        "title": "Biblical Prohibition of Breaking Shabbos/Shabbat because one didn't learn the laws",
+        "titles": {
+          "en": "Biblical Prohibition of Breaking Shabbos/Shabbat because one didn't learn the laws",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Somebody does not think that something is breaking Shabbos but suspects it may be an issue, yet they don't want to delve into the law because they don't want to stop doing what they are doing and they",
+        "answer": "Ralbag writes as follows in his commentary to Parshat Nitzavim : התועלת השני הוא להודיע שמי שירצה להסיר מעליו עול התורה בשלא יכוון לדעת עניניה כדי שיהיה שוגג בכל מה שיעבור עליו מדברי התורה ולא יענש על זה הנה לא תועילוהו המחשבה הנפסדת הזאת [להצילו] מן",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-52620",
+        "source_url": "https://judaism.stackexchange.com/questions/52620/biblical-prohibition-of-breaking-shabbos-shabbat-because-one-didnt-learn-the-la",
+        "author": "Alex",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "ye-33266",
+        "title": "When the Gemoro quotes a possuk, why does it sometimes not quote the part which is the reason for the quote?",
+        "titles": {
+          "en": "When the Gemoro quotes a possuk, why does it sometimes not quote the part which is the reason for the quote?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "(possibly related to Why does the Mishna misquote the Tanakh? ) When the Gemoro quotes a possuk, why does it not always quote the part which is the reason for the quote in the first place. For example",
+        "answer": "Possibly over time the manuscript writers, before the time of printing, would just quote the beginning and write \"etc.\" to save themselves the writing effort (with the expectation that you knew what it was referring to). When the printers came to pri",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "talmud",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-33266",
+        "source_url": "https://judaism.stackexchange.com/questions/33266/when-the-gemoro-quotes-a-possuk-why-does-it-sometimes-not-quote-the-part-which",
+        "author": "Yishai",
+        "author_url": null,
+        "license": "CC BY-SA 3.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "ye-16118",
+        "title": "Where did the Jews send the goat \"for Azazel\" while in the desert?",
+        "titles": {
+          "en": "Where did the Jews send the goat \"for Azazel\" while in the desert?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "Rashi (Vayikra 16:8) says: Azazel: This is a strong and hard mountain, [with] a high cliff, as the Scripture says [in describing Azazel] (verse 22 below),“a precipitous land (אֶרֶץ גְּזֵרָה),” meaning",
+        "answer": "Rabbi Prof. Yoel Elitzur wrote in his book \"Makom Ba'Parasha\", pg. 425 (my translation): \"First of all, we must remember that Yerushalayim was only chosen in the time of David and Shlomo. Prior to that, the Tabernacle was in different places, but the",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-16118",
+        "source_url": "https://judaism.stackexchange.com/questions/16118/where-did-the-jews-send-the-goat-for-azazel-while-in-the-desert",
+        "author": "Harel13",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "up-aish-91035",
+        "title": "Praying for Smaller Needs",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "en",
-        "question": "I have a problem with complaining. I always seem to be “looking sideways,” checking out what other people have and wondering why I can’t have it, too. This distracts me from moving ahead with my own u",
+        "question": "We had a discussion in our class in religious school if it's right to ask God to help us with everyday activities, like getting to school safely, doing well on a test, getting a summer job, or getting",
         "answer": "",
         "answer_count": 1,
         "provider": "aish",
         "category": "general",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-aish-91049",
-        "source_url": "https://aish.com/the-complaint-syndrome/",
-        "author": "Aish.com Staff",
+        "url": "https://shekhina.org/qa.html?id=up-aish-91035",
+        "source_url": "https://aish.com/praying-for-smaller-needs/",
+        "author": "Yerachmiel Fried",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-139346",
-        "title": "How did Moshe risk staying with Jethro",
+        "id": "ye-139301",
+        "title": "Why was Benjamin included with Judah?",
         "titles": {
-          "en": "How did Moshe risk staying with Jethro",
+          "en": "Why was Benjamin included with Judah?",
           "he": ""
         },
         "language": "en",
-        "question": "It is known that Jethro was one of Pharaoh's advisors. Moses was wanted by Pharaoh. How did Jethro take the risk in offering his residence and daughter to Moshe? Moreover, how did Moshe risk living in",
-        "answer": "So firstly, to contextualise Yisro's position in Pharoah's court. Whilst he was indeed an advisor, he fled. If he were to revert to Pharoah, it probably would not have gone down too well... Refer to Sotah 11a : בִּלְעָם שֶׁיָּעַץ — נֶהֱרַג, אִיּוֹב ש",
+        "question": "When Israel was divided during the reign of Rehoboam, (2 Chronicles 10-11) why was Benjamin included with Judah instead of with the rest of the tribes?",
+        "answer": "Simple answer: Judah managed to retain control over Binyamin and the prophecy of the torn garment was written after. Practical answer: The bait hamikdsah was in Benjamin. God didn't want to prevent the king of Judah from performing hakel. Also, Judah",
         "answer_count": 1,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-139346",
-        "source_url": "https://judaism.stackexchange.com/questions/139346/how-did-moshe-risk-staying-with-jethro",
-        "author": "Dov",
+        "url": "https://shekhina.org/qa.html?id=ye-139301",
+        "source_url": "https://judaism.stackexchange.com/questions/139301/why-was-benjamin-included-with-judah",
+        "author": "Clint Eastwood",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-121433",
-        "title": "Per the claim that Abraham kept the whole Torah, why didn't he circumcise Ishmael and all his slaves earlier?",
+        "id": "ye-121403",
+        "title": "Making Chameitz Hefker on Shabbat",
         "titles": {
-          "en": "Per the claim that Abraham kept the whole Torah, why didn't he circumcise Ishmael and all his slaves earlier?",
+          "en": "Making Chameitz Hefker on Shabbat",
           "he": ""
         },
         "language": "en",
-        "question": "\" Abraham was ninety-nine years old when he circumcised the flesh of his foreskin, and his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin. Thus Abraham and his",
-        "answer": "Aside from any Kabbalistic answers to why Avraham waited to circumcise himself, there are many famous non-Kabbalistic ( nigleh ) answers, which appear on this very site . It would strengthen the question to state the kabbalistic answers, and why they",
+        "question": "This year, because Erev Pesach is on Shabbat, the completion of the burning (done on Friday, after a search on Thursday night), is the second (slightly expanded) recitation of the Kol Chamira on Shabb",
+        "answer": "This question assumes that bittul Chametz is a form of hefker . This is indeed the position of some Rishonim (see Tosfos Pesachim 4). This very question is one of seven questions posed by the Ramban (Pesachim 4b) on the position of Tosfos that bittul",
         "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "tanach",
-        "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-121433",
-        "source_url": "https://judaism.stackexchange.com/questions/121433/per-the-claim-that-abraham-kept-the-whole-torah-why-didnt-he-circumcise-ishmae",
-        "author": "josh waxman",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-101673",
-        "title": "Why is making salt water prohibited on Shabbat?",
-        "titles": {
-          "en": "Why is making salt water prohibited on Shabbat?",
-          "he": ""
-        },
-        "language": "en",
-        "question": "I have read in a few hagadot, and I think in the OU Pesach guide that the salt water to be used for the seder must be prepared before Shabbat begins. That implied that there is some prohibition for do",
-        "answer": "Shabbat 108 forbids making a large amount of salt water on shabbat . Rashi ad loc. explains that the prohibition is because it looks like one is going to be tanning hides, one of the avot melachot . This explanation is echoed by Shulchan Aruch Orach ",
-        "answer_count": 1,
-        "provider": "miyodeya",
-        "category": "general",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-101673",
-        "source_url": "https://judaism.stackexchange.com/questions/101673/why-is-making-salt-water-prohibited-on-shabbat",
-        "author": "Joel K",
-        "author_url": null,
-        "license": "CC BY-SA 4.0",
-        "snapshot": "v1-a60b674c83c7e5145247d47d"
-      },
-      {
-        "id": "ye-86124",
-        "title": "Sitting on a wet chair on Shabbat",
-        "titles": {
-          "en": "Sitting on a wet chair on Shabbat",
-          "he": ""
-        },
-        "language": "en",
-        "question": "Would one be allowed to sit on a soaking wet metal or wood or plastic chair on Shabbos, or would this be forbidden because he would thus be \"laundering\" his pants or because he might come to squeeze o",
-        "answer": "See MB 302:46 (מו) לתת עליו מים - דשריה לא הוי כיבוס אלא כשיש עליו לכלוך ומ\"מ אסור במרובים משום חשש דשמא יסחוט. ודע דאם מכוין בנתינת המים לכבסו אפילו במים מועטין אסור [כן מוכח בהדיא בספר התרומה וכן משמע ג\"כ בסמ\"ג אח\"כ מצאתי שכ\"כ בא\"ר בסימן ש\"א ס\"ק ע\"",
-        "answer_count": 2,
         "provider": "miyodeya",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=ye-86124",
-        "source_url": "https://judaism.stackexchange.com/questions/86124/sitting-on-a-wet-chair-on-shabbat",
-        "author": "moselli",
+        "url": "https://shekhina.org/qa.html?id=ye-121403",
+        "source_url": "https://judaism.stackexchange.com/questions/121403/making-chameitz-hefker-on-shabbat",
+        "author": "chortkov2",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-202010211014346",
-        "title": "ארבעת המינים אחרי החג",
+        "id": "ye-101632",
+        "title": "Do i make bracha on smelling vapor from herbs?",
+        "titles": {
+          "en": "Do i make bracha on smelling vapor from herbs?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "There some vapors in electronic cigarettes made with natural herbs like chamomile (and other). So do i do brachot when smelling them? Is there a common practice to smell natural things, is this kind o",
+        "answer": "Yes, it is like any other thing that you smell. Smelling is the beginning (the most spiritual aspect) of eating. So it is important to identify the source of the smell, whether from trees (עץ), or herbs (עשב), or spices (בסם) or a mixture of any of t",
+        "answer_count": 1,
+        "provider": "miyodeya",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-101632",
+        "source_url": "https://judaism.stackexchange.com/questions/101632/do-i-make-bracha-on-smelling-vapor-from-herbs",
+        "author": "Yaacov Deane",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "ye-86076",
+        "title": "How is Rosh Hashanah a remembrance of leaving Mitzraim?",
+        "titles": {
+          "en": "How is Rosh Hashanah a remembrance of leaving Mitzraim?",
+          "he": ""
+        },
+        "language": "en",
+        "question": "On all Yamim Tovim, we (this is the Ashkenazic formulation) say the following formulation in the middle Bracha of Shemoneh Esrei: ותתן לנו ה׳ אלקינו באהבה את יום ... הזה ... מקרא קדש זכר ליציאת מצרים ",
+        "answer": "The Shibbolei HaLeket (286) quotes his brother R. Binyamin as asking this question about Rosh HaShana and Yom HaKippurim. He quotes his brother's answer that the Talmud ( Rosh Hashanah 11a ) states that on Rosh HaShana the slave labour of the Jews en",
+        "answer_count": 2,
+        "provider": "miyodeya",
+        "category": "tanach",
+        "needs_review": true,
+        "url": "https://shekhina.org/qa.html?id=ye-86076",
+        "source_url": "https://judaism.stackexchange.com/questions/86076/how-is-rosh-hashanah-a-remembrance-of-leaving-mitzraim",
+        "author": "mevaqesh",
+        "author_url": null,
+        "license": "CC BY-SA 4.0",
+        "snapshot": "v1-a60b674c83c7e5145247d47d"
+      },
+      {
+        "id": "ye-2020100911059235",
+        "title": "סעודה בהושענא רבה",
         "titles": {
           "en": "",
-          "he": "ארבעת המינים אחרי החג"
+          "he": "סעודה בהושענא רבה"
         },
         "language": "he",
-        "question": "שלום וברכה.מה הכדאי לעשות עם ארבעת המינים והערבות החבוטות? זה אצלי מסוף החג ואני מתלבט מה עושים עם זה ומה נהוג. תודה! את הלולב עם ההדסים והערבות נהגו לשמור עד שריפת חמץ, ולשורפם יחד עם החמץ. זו גם סגו",
+        "question": "שלום וברכה האם סעודה בהושענא רבה זה מנהג? הלכה?מי נוהג בזה? (אשכנזים? ספרדים? חסידים?)מה המקור לכך?והאם יש עניין בלחם משנה בסעודה זו? תודה שלום וברכה המנהג הוא שעושים סעודה בהושענא רבה כעין סעודת יום ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "talmud",
-        "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-202010211014346",
-        "source_url": "https://din.org.il/2020/10/21/%d7%90%d7%a8%d7%91%d7%a2%d7%aa-%d7%94%d7%9e%d7%99%d7%a0%d7%99%d7%9d-%d7%90%d7%97%d7%a8%d7%99-%d7%94%d7%97%d7%92-2/",
+        "category": "halacha",
+        "needs_review": false,
+        "url": "https://shekhina.org/qa.html?id=ye-2020100911059235",
+        "source_url": "https://din.org.il/2020/10/09/%d7%a1%d7%a2%d7%95%d7%93%d7%94-%d7%91%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-201809185787488",
-        "title": "לקיחת תרופה בכיפור עם מעט מים",
+        "id": "ye-201809179536955",
+        "title": "צום יום כיפור לאשה מעוברת",
         "titles": {
           "en": "",
-          "he": "לקיחת תרופה בכיפור עם מעט מים"
+          "he": "צום יום כיפור לאשה מעוברת"
         },
         "language": "he",
-        "question": "אשה בת שישים הסובלת מכאבים דלקתים קשים בשן, קיבלה מהרופא מרשם לאנטיביוטיקה חריפה לשבוע. צום כיפור יוצא ביום השלישי לטיפול.. שאלתה היא: א. האם מותר לה ליקח את הכדור כמות שהוא ביום הקדוש…? ב. בהנחה ומות",
+        "question": "לגבי צום יום כיפור אשתי בהריון שבוע 6 (מספר שש) לא היה הפלות, הבדיקות דם תקינות, בהריון הראשון אשתי כמעט ילדה כחודש וחצי לפני הזמן עקב זה שהיא כנראה לא שתתה מספיק האם זה מתיר לשתות שיעורים ביום כיפור ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
-        "category": "halacha",
+        "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-201809185787488",
-        "source_url": "https://din.org.il/2018/09/18/%d7%9c%d7%a7%d7%99%d7%97%d7%aa-%d7%aa%d7%a8%d7%95%d7%a4%d7%94-%d7%91%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%a2%d7%9d-%d7%9e%d7%a2%d7%98-%d7%9e%d7%99%d7%9d/",
+        "url": "https://shekhina.org/qa.html?id=ye-201809179536955",
+        "source_url": "https://din.org.il/2018/09/17/%d7%a6%d7%95%d7%9d-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%9c%d7%90%d7%a9%d7%94-%d7%9e%d7%a2%d7%95%d7%91%d7%a8%d7%aa/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-144115",
-        "title": "צום לאירועי 7.10",
+        "id": "ye-143996",
+        "title": "כהן הנושא אקדח האם יכול לשאת כפיים",
         "titles": {
           "en": "",
-          "he": "צום לאירועי 7.10"
+          "he": "כהן הנושא אקדח האם יכול לשאת כפיים"
         },
         "language": "he",
-        "question": "כבוד הרב שלום, האם ניתן לקבוע תענית יחיד/רבים על אירועי 7.10? מה הסימוכין לכך במקורות? במידה וכן, מתי עדיף לקבוע אותה? התאריך המדובר הוא שמיני עצרת שהוא חג שמחת תורה אין להעלות על הדעת שיום זה יקבע כת",
+        "question": "שבוע טוב הרב , השבוע התעורר מחלוקת בעקבות המצב אנשים נושאים נשק וגם בשבת , התעורר ויכוח האם כהן רשאי לעלות לנשיאת כפיים כאשר הוא נושא אקדח , ואם יש חילוק בן שבת ליום חול. תודה רבה ושבוע טוב מותר לשאת ",
         "answer": "",
         "answer_count": 1,
         "provider": "yeshiva",
-        "category": "talmud",
+        "category": "tanach",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-144115",
-        "source_url": "https://www.yeshiva.org.il/ask/144115",
-        "author": "הרה\"ג יעקב אריאל",
+        "url": "https://shekhina.org/qa.html?id=ye-143996",
+        "source_url": "https://www.yeshiva.org.il/ask/143996",
+        "author": "הרב יצחק בן יוסף",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "ye-136116",
-        "title": "Does כבוד המת apply to gentiles? What about during war?",
+        "id": "ye-135123",
+        "title": "Why is the Tanna - בן בג בג called בן בג בג?",
         "titles": {
           "en": "",
-          "he": "Does כבוד המת apply to gentiles? What about during war?"
+          "he": "Why is the Tanna - בן בג בג called בן בג בג?"
         },
         "language": "he",
-        "question": "Kavod HaMet is a halachic rubric which includes sensitive and dignified treatment of a corpse. I would like to know if this principle includes the prohibition for Jews to treat the corpses of gentiles",
-        "answer": "A subsection of kavod would be getting benefit from a dead person's body. In Shulchan Aruch Yoreah Deah Siman 349:1, the Ritav in Ketuvot 60a ד\"ה יכול יהא- they all hold that one can not get benefit from a non-Jewish corpse mederabbanan. Mishneh Lame",
+        "question": "In Pirkei Avos, it mentions a תנא called בן בג בג. Why is the תנא - בן בג בג called בן בג בג?",
+        "answer": "I don't recall the source right now (it might have been the 'Arukh), but it is said to be an acronym (ב.ג.ב.ג.) for בן גר בן גיורת (son of male convert son of a female convert). The name was intended to protect his/his family's identity at a time und",
         "answer_count": 2,
         "provider": "miyodeya",
         "category": "general",
         "needs_review": true,
-        "url": "https://shekhina.org/qa.html?id=ye-136116",
-        "source_url": "https://judaism.stackexchange.com/questions/136116/does-%d7%9b%d7%91%d7%95%d7%93-%d7%94%d7%9e%d7%aa-apply-to-gentiles-what-about-during-war",
-        "author": "Yeshivish 101",
+        "url": "https://shekhina.org/qa.html?id=ye-135123",
+        "source_url": "https://judaism.stackexchange.com/questions/135123/why-is-the-tanna-%d7%91%d7%9f-%d7%91%d7%92-%d7%91%d7%92-called-%d7%91%d7%9f-%d7%91%d7%92-%d7%91%d7%92",
+        "author": "Deuteronomy",
         "author_url": null,
         "license": "CC BY-SA 4.0",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "din-url-95281d54e19cd837a015179a",
-        "title": "האכלת ציפורים בשבת שירה",
+        "id": "din-url-945630ddcf13b24d1e49b1b8",
+        "title": "צידת יתושים בשבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "ידוע המנהג בשבת שירה שנותנים לילדים לזרק פירורי מאכל לציפורים , אך כיצד זה מתישב עם ההלכה שאסור להאכיל בעלי חיים שאין מזונותיו על האדם ,וכך נותנים לילדים (בגיל חינוך) לעשות כן אף שאין איסור מהתורה ואו",
+        "question": "שלום רב לכבוד הרב! יש לי שאלה אם ביום שבת נכנס לחדר שלי יתוש עוקץ או למשל בשבת האחרונה נכנס לי כמו מין חרק שחור לגמרי, יחסית לא כזה קטן עם כנפיים וחששתי שהוא עוקץ. במצבים כאלה אני לוקח כוס מפלסטיק ומב",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=din-url-95281d54e19cd837a015179a",
-        "source_url": "https://din.org.il/2022/01/10/%d7%94%d7%90%d7%9b%d7%9c%d7%aa-%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa-%d7%a9%d7%99%d7%a8%d7%94/",
+        "url": "https://shekhina.org/qa.html?id=din-url-945630ddcf13b24d1e49b1b8",
+        "source_url": "https://din.org.il/2022/09/05/%d7%a6%d7%99%d7%93%d7%aa-%d7%99%d7%aa%d7%95%d7%a9%d7%99%d7%9d-%d7%91%d7%a9%d7%91%d7%aa-2/",
         "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-din-494126",
-        "title": "טלטול אקדח בשבת",
+        "id": "up-din-492101",
+        "title": "הנאה של בן בית ממעשה שבת",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום כבוד הרב.כלי נשק עיקרו ורובו להרתעה ולכן הפוסקים דנים אותו ככלי שמלאכתו להיתר אבל בשעת מלחמה הוא יהפך ככלי שמלאכתו לאיסור כי עכשיו הוא משמש גם לירי. יוצא אם כן שבשעה ש\"לא צריכים אותו\" מותר אבל שצ",
+        "question": "שלום לכבוד הרב,לפני מספר שבועות שאלתי את זה:https://din.org.il/2025/05/13/%d7%a0%d7%99%d7%aa%d7%95%d7%a7-%d7%95%d7%97%d7%99%d7%91%d7%95%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c-%d7%91%d7%a9%d7%91%d7%aa/ ואתמול ",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-494126",
-        "source_url": "https://din.org.il/2025/07/02/%d7%98%d7%9c%d7%98%d7%95%d7%9c-%d7%90%d7%a7%d7%93%d7%97-%d7%91%d7%a9%d7%91%d7%aa/",
-        "author": "הרב ירוחם ארלנגר‎",
+        "url": "https://shekhina.org/qa.html?id=up-din-492101",
+        "source_url": "https://din.org.il/2025/06/06/%d7%94%d7%a0%d7%90%d7%94-%d7%a9%d7%9c-%d7%91%d7%9f-%d7%91%d7%99%d7%aa-%d7%9e%d7%9e%d7%a2%d7%a9%d7%94-%d7%a9%d7%91%d7%aa/",
+        "author": "רבני בית הוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-din-96375",
-        "title": "גודל מעלת העלייה לקבר הרשב\"י / דורש אל המתים בתפילה לצדיק",
+        "id": "up-din-95666",
+        "title": "קנית ספרים בספירת העומר",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "האם יש עניין בעלייה לקבר הרשב\"י? האם דרך התפילה היא בקשה מהצדיק שימליץ טוב בעדי או שמא התפילה לקב\"ה שיעזרני בזכות הצדיק?או גם וגם?",
+        "question": "מותר לקנות ספרים [ספרי קודש] בסיפרת העומר?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-96375",
-        "source_url": "https://din.org.il/2015/05/06/%d7%92%d7%95%d7%93%d7%9c-%d7%9e%d7%a2%d7%9c%d7%aa-%d7%94%d7%a2%d7%9c%d7%99%d7%99%d7%94-%d7%9c%d7%a7%d7%91%d7%a8-%d7%94%d7%a8%d7%a9%d7%91%d7%99-%d7%93%d7%95%d7%a8%d7%a9-%d7%90%d7%9c-%d7%94%d7%9e/",
-        "author": "רבני בית הדין",
+        "url": "https://shekhina.org/qa.html?id=up-din-95666",
+        "source_url": "https://din.org.il/2015/04/26/%d7%a7%d7%a0%d7%99%d7%aa-%d7%a1%d7%a4%d7%a8%d7%99%d7%9d-%d7%91%d7%a1%d7%a4%d7%99%d7%a8%d7%aa-%d7%94%d7%a2%d7%95%d7%9e%d7%a8/",
+        "author": "רבני בית ההוראה",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-din-201707072961898",
-        "title": "רחיצה בתשעת הימים / יולדת / תינוק",
+        "id": "up-din-201705074439696",
+        "title": "מתי חל תשעה באב 2017?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "שלום לרבנים רציתי לדעת מה דין תינוק בשבוע שחל בו אם מותר לקלחו במים חמים וכן מה הדין אצל יולדת {כמה זמן מהלידה ניקראת יולדת?} 2ובכלל אצל אישה שלא מסוגלת לסבול להיתקלח במים קרים אלא במים חמים? תודה רבה",
+        "question": "ברצוני לתכנן נסיעה לחו\"ל בחודש יולי מתי חל השבוע של תשעה באב?באילו תאריכים?",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201707072961898",
-        "source_url": "https://din.org.il/2017/07/07/%d7%a8%d7%97%d7%99%d7%a6%d7%94-%d7%91%d7%aa%d7%a9%d7%a2%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%99%d7%95%d7%9c%d7%93%d7%aa-%d7%aa%d7%99%d7%a0%d7%95%d7%a7/",
+        "url": "https://shekhina.org/qa.html?id=up-din-201705074439696",
+        "source_url": "https://din.org.il/2017/05/07/%d7%9e%d7%aa%d7%99-%d7%97%d7%9c-%d7%aa%d7%a9%d7%a2%d7%94-%d7%91%d7%90%d7%91-2017/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
         "snapshot": "v1-a60b674c83c7e5145247d47d"
       },
       {
-        "id": "up-din-201605012941883",
-        "title": "מצות מכונה – לשמה",
+        "id": "up-din-201604285049898",
+        "title": "מולטי ויטמין כשר לפסח?",
         "titles": {
           "en": "",
           "he": ""
         },
         "language": "he",
-        "question": "בסד שלום רב מצות שכתוב על האריזה \"מצות שנאפו לשם מצת מצווה \" הכוונה שניתן להשתמש במצות בליל הסדר , בשביעי של פסח ובשבת ? המצות שהשתמשתי בהם בליל הסדר הוצאתי מקופסת 1 קג שכתוב מצות שמורות עבודת יד , נא",
+        "question": "שלום, יש לי בעיה. נטלתי מולטי ויטמין מינרל של סולגר בפסח. נטלתי כי אמרו לי שזה בסדר בפסח. ואחר כך בדקתי ברשימת המרכיבים ואני חושבת שזה חמץ. האם זה חמץ גמור? (כמובן שלא אטול שוב אני מבררת כדי לדעת אם א",
         "answer": "",
         "answer_count": 1,
         "provider": "din",
         "category": "halacha",
         "needs_review": false,
-        "url": "https://shekhina.org/qa.html?id=up-din-201605012941883",
-        "source_url": "https://din.org.il/2016/05/01/%d7%9e%d7%a6%d7%95%d7%aa-%d7%9e%d7%9b%d7%95%d7%a0%d7%94-%d7%9c%d7%a9%d7%9e%d7%94/",
+        "url": "https://shekhina.org/qa.html?id=up-din-201604285049898",
+        "source_url": "https://din.org.il/2016/04/28/%d7%9e%d7%95%d7%9c%d7%98%d7%99-%d7%95%d7%99%d7%98%d7%9e%d7%99%d7%9f-%d7%9b%d7%a9%d7%a8-%d7%9c%d7%a4%d7%a1%d7%97/",
         "author": "Din Online",
         "author_url": null,
         "license": "",
